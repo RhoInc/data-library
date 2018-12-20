@@ -4,7 +4,9 @@
   "description": "public-use datasets for clinical trial data visualizations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-index-html": "node ./src/scripts/build-index-html.js",
+    "build-index-js": "node ./src/scripts/build-index-js.js",
+    "build-metadata-json": "node ./src/scripts/build-metadata-json.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +27,8 @@
     "d3": "^3.5.17",
     "webcharts": "^1.11.2",
     "webcodebook": "^1.6.1"
+  },
+  "devDependencies": {
+    "csvtojson": "^2.0.8"
   }
 }

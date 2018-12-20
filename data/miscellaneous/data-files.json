@@ -1,0 +1,38 @@
+[
+    {
+        "path": "./data/miscellaneous/cars.csv",
+        "name": "cars",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/miscellaneous/chick-weight.csv",
+        "name": "chick-weight",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/miscellaneous/climate-data.csv",
+        "name": "climate-data",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/miscellaneous/discrete-scores.csv",
+        "name": "discrete-scores",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/miscellaneous/elements.csv",
+        "name": "elements",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/miscellaneous/iris.csv",
+        "name": "iris",
+        "rows": 0,
+        "cols": 0
+    }
+]

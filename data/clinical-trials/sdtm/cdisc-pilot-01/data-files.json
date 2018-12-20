@@ -1,0 +1,146 @@
+[
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ae.csv",
+        "name": "ae",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/cm.csv",
+        "name": "cm",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/dm.csv",
+        "name": "dm",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ds.csv",
+        "name": "ds",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ex.csv",
+        "name": "ex",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/lb.csv",
+        "name": "lb",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv",
+        "name": "meta_study",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
+        "name": "meta_var",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/mh.csv",
+        "name": "mh",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/qs.csv",
+        "name": "qs",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/relrec.csv",
+        "name": "relrec",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/sc.csv",
+        "name": "sc",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/se.csv",
+        "name": "se",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppae.csv",
+        "name": "suppae",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppdm.csv",
+        "name": "suppdm",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppds.csv",
+        "name": "suppds",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/supplb.csv",
+        "name": "supplb",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv",
+        "name": "sv",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ta.csv",
+        "name": "ta",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/te.csv",
+        "name": "te",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ti.csv",
+        "name": "ti",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ts.csv",
+        "name": "ts",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/tv.csv",
+        "name": "tv",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/vs.csv",
+        "name": "vs",
+        "rows": 0,
+        "cols": 0
+    }
+]

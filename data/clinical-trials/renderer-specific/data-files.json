@@ -1,0 +1,14 @@
+[
+    {
+        "path": "./data/clinical-trials/renderer-specific/adbds.csv",
+        "name": "adbds",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/renderer-specific/adtimelines.csv",
+        "name": "adtimelines",
+        "rows": 0,
+        "cols": 0
+    }
+]

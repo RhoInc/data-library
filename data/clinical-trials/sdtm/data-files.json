@@ -1,0 +1,38 @@
+[
+    {
+        "path": "./data/clinical-trials/sdtm/ae.csv",
+        "name": "ae",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/cm.csv",
+        "name": "cm",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/dm.csv",
+        "name": "dm",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/lb.csv",
+        "name": "lb",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/sv.csv",
+        "name": "sv",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/sdtm/vs.csv",
+        "name": "vs",
+        "rows": 0,
+        "cols": 0
+    }
+]

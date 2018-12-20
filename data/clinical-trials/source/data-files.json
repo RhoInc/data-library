@@ -1,0 +1,44 @@
+[
+    {
+        "path": "./data/clinical-trials/source/adverse-events.csv",
+        "name": "adverse-events",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/source/fields.csv",
+        "name": "fields",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/source/forms.csv",
+        "name": "forms",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/source/labs.csv",
+        "name": "labs",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/source/medications.csv",
+        "name": "medications",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/source/schedule-of-events.csv",
+        "name": "schedule-of-events",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/source/vital-signs.csv",
+        "name": "vital-signs",
+        "rows": 0,
+        "cols": 0
+    }
+]

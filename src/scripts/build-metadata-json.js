@@ -1,116 +1,59 @@
 var fs = require('fs');
 var path = require('path');
+var csv = require('csvtojson');
 var saveData = require('./saveData.js').default;
 var dir = './data';
 
 var descend = function(dir) {
-    var files = fs.readdirSync(dir);
-    fs.writeFileSync(
-        dir + '/' + 'contents.json',
-        JSON.stringify(files, null, 4)
-    );
-    files.forEach(file => {
-        var filePath = dir + '/' + file;
-        var fileInfo = fs.statSync(filePath);
-        if (fileInfo.isDirectory())
-            descend(filePath);
-    });
+    //Read files in directory.
+    var files = fs.readdirSync(dir)
+        .map(file => dir + '/' + file);
+
+    //Filter out files with .csv extension.
+    var dataFiles = files
+        .filter(file => file.split('.').pop() === 'csv');
+
+    if (dataFiles.length) {
+        //Capture .csv metadata.
+        var metadata = dataFiles
+            .map(dataFile => {
+                var metadata = {
+                    path: dataFile, // relative file path
+                    name: dataFile.split('/').pop().split('.')[0], // file name
+                    //json: await csv().fromFile(dataFile),
+                };
+                const test = await csv().fromFile(dataFile);
+                console.log(test);
+                metadata.rows = test.length;
+                metadata.cols = Object.keys(test).length;
+                //metadata.json
+                //    .subscribe(d => {
+                //        console.log(d);
+                //        metadata.rows += 1; // count rows
+                //        if (!file.cols) file.cols = Object.keys(d).length; // count columns
+                //    });
+
+                return metadata;
+            });
+
+        //Write .csv meatadata to current directory.
+        fs.writeFileSync(
+            dir + '/' + 'data-files.json',
+            JSON.stringify(metadata, null, 4)
+        );
+    }
+
+    //Filter out files that are folders.
+    var directories = files
+        .filter(file => fs.statSync(file).isDirectory());
+
+    if (directories.length) {
+        directories.forEach(directory => {
+            descend(directory);
+        });
+    }
+
     return files;
 }
 
 descend(dir);
-
-////Fucntion to iteratively 'walk' through the ./data directory from:
-//// http://stackoverflow.com/questions/5827612/node-js-fs-readdir-recursive-directory-search
-//var walk = function(dir, done) {
-//    var results = [];
-//    fs.readdir(dir, function(err, list) {
-//        if (err) return done(err);
-//        var pending = list.length;
-//        if (!pending) return done(null, results);
-//        list.forEach(function(file) {
-//            file = path.resolve(dir, file);
-//            fs.stat(file, function(err, stat) {
-//                if (stat && stat.isDirectory()) {
-//                    walk(file, function(err, res) {
-//                        results = results.concat(res);
-//                        if (!--pending) done(null, results);
-//                    });
-//                } else {
-//                    results.push(file);
-//                    if (!--pending) done(null, results);
-//                }
-//            });
-//        });
-//    });
-//};
-//
-//const csvFilePath = '<path to csv file>';
-//const csv = require('csvtojson');
-//
-//walk(dataRoot, function(err, allFiles) {
-//    if (err) throw err;
-//    var dataFiles = allFiles
-//        .map(function(local_path,i) {
-//            //Replace backslashes (Windows) with forward slashes (every other OS).
-//            local_path = local_path.replace(/\\/g, '/');
-//
-//            //filename
-//            var filename = local_path.replace(/^.*[\\\/]/, '');
-//
-//            //extension
-//            var ext_re = /(?:\.([^.]+))?$/;
-//            var ext = ext_re.exec(filename)[1];
-//
-//            //root
-//            var rel_path_re = /\/data\/(.*$)/;
-//            var test = rel_path_re.exec(local_path);
-//            var rel_path = './data/' + rel_path_re.exec(local_path)[1];
-//
-//            return {
-//                local_path: local_path,
-//                filename: filename,
-//                ext: ext,
-//                rel_path: rel_path
-//            };
-//        })
-//        //just keep csvs
-//        .filter(function(file) {
-//            return file.ext == 'csv';
-//        });
-//
-//    //get dimensions
-//    console.log('Found ' + dataFiles.length + ' files - counting rows and columns ...');
-//
-//    var processed = 0;
-//    dataFiles.forEach(function(file, i) {
-//        file.rows = 0;
-//        file.cols = 0;
-//        csv()
-//            .fromFile(file.local_path)
-//            .subscribe(jsonObj => {
-//                file.rows += 1;
-//                if (!file.cols) {
-//                    file.cols = Object.keys(jsonObj).length;
-//                }
-//            })
-//            .on('done', error => {
-//                processed += 1;
-//                console.log(
-//                    processed +
-//                        ' of ' +
-//                        dataFiles.length +
-//                        ' complete: ' +
-//                        file.rel_path +
-//                        ' has ' +
-//                        file.rows +
-//                        ' rows and ' +
-//                        file.cols +
-//                        ' columns.'
-//                );
-//
-//                if (processed === dataFiles.length)
-//                    saveData('./dataFiles', dataFiles);
-//           });
-//    });
-//});

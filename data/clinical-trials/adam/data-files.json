@@ -1,0 +1,32 @@
+[
+    {
+        "path": "./data/clinical-trials/adam/adae.csv",
+        "name": "adae",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/adam/adcm.csv",
+        "name": "adcm",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/adam/adlb.csv",
+        "name": "adlb",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/adam/adsl.csv",
+        "name": "adsl",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/adam/advs.csv",
+        "name": "advs",
+        "rows": 0,
+        "cols": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "path": "./data/clinical-trials/data-cleaning/forms.csv",
+        "name": "forms",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/data-cleaning/queries.csv",
+        "name": "queries",
+        "rows": 0,
+        "cols": 0
+    },
+    {
+        "path": "./data/clinical-trials/data-cleaning/visits.csv",
+        "name": "visits",
+        "rows": 0,
+        "cols": 0
+    }
+]

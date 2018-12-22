@@ -1,0 +1,100 @@
+[
+    {
+        "relPath": "./data/miscellaneous/cars.csv",
+        "path": "cars.csv",
+        "name": "cars",
+        "nRows": 32,
+        "cols": [
+            "field1",
+            "mpg",
+            "cyl",
+            "disp",
+            "hp",
+            "drat",
+            "wt",
+            "qsec",
+            "vs",
+            "am",
+            "gear",
+            "carb"
+        ],
+        "nCols": 12
+    },
+    {
+        "relPath": "./data/miscellaneous/chick-weight.csv",
+        "path": "chick-weight.csv",
+        "name": "chick-weight",
+        "nRows": 578,
+        "cols": [
+            "field1",
+            "weight",
+            "Time",
+            "Chick",
+            "Diet"
+        ],
+        "nCols": 5
+    },
+    {
+        "relPath": "./data/miscellaneous/climate-data.csv",
+        "path": "climate-data.csv",
+        "name": "climate-data",
+        "nRows": 95,
+        "cols": [
+            "STATION",
+            "STATION_NAME",
+            "DATE",
+            "TPCP",
+            "TSNW",
+            "EMXT",
+            "EMNT",
+            "Monthly Mean Max",
+            "Monthly Mean Min",
+            "Monthly Mean"
+        ],
+        "nCols": 10
+    },
+    {
+        "relPath": "./data/miscellaneous/discrete-scores.csv",
+        "path": "discrete-scores.csv",
+        "name": "discrete-scores",
+        "nRows": 78,
+        "cols": [
+            "score",
+            "category"
+        ],
+        "nCols": 2
+    },
+    {
+        "relPath": "./data/miscellaneous/elements.csv",
+        "path": "elements.csv",
+        "name": "elements",
+        "nRows": 103,
+        "cols": [
+            "Element",
+            "Number",
+            "Symbol",
+            "Weight",
+            "Boil",
+            "Melt",
+            "Density Vapour",
+            "Fusion",
+            "Group",
+            "Period"
+        ],
+        "nCols": 10
+    },
+    {
+        "relPath": "./data/miscellaneous/iris.csv",
+        "path": "iris.csv",
+        "name": "iris",
+        "nRows": 150,
+        "cols": [
+            "sepal length",
+            "sepal width",
+            "petal length",
+            "petal width",
+            "species"
+        ],
+        "nCols": 5
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "relPath": "./data/clinical-trials/source/adverse-events.csv",
+        "path": "adverse-events.csv",
+        "name": "adverse-events",
+        "nRows": 765,
+        "cols": [
+            "AEBODSYS",
+            "AEPTCD",
+            "AEDECOD",
+            "AETERM"
+        ],
+        "nCols": 4
+    },
+    {
+        "relPath": "./data/clinical-trials/source/fields.csv",
+        "path": "fields.csv",
+        "name": "fields",
+        "nRows": 55,
+        "cols": [
+            "formoid",
+            "fieldname"
+        ],
+        "nCols": 2
+    },
+    {
+        "relPath": "./data/clinical-trials/source/forms.csv",
+        "path": "forms.csv",
+        "name": "forms",
+        "nRows": 11,
+        "cols": [
+            "formoid",
+            "ecrfpagename"
+        ],
+        "nCols": 2
+    },
+    {
+        "relPath": "./data/clinical-trials/source/labs.csv",
+        "path": "labs.csv",
+        "name": "labs",
+        "nRows": 16,
+        "cols": [
+            "LBCAT",
+            "LBTEST",
+            "SEX",
+            "LBSTNRLO",
+            "LBSTNRHI",
+            "LBSTRESU"
+        ],
+        "nCols": 6
+    },
+    {
+        "relPath": "./data/clinical-trials/source/medications.csv",
+        "path": "medications.csv",
+        "name": "medications",
+        "nRows": 654,
+        "cols": [
+            "CMTRT",
+            "PREFTERM",
+            "ATCTEXT2"
+        ],
+        "nCols": 3
+    },
+    {
+        "relPath": "./data/clinical-trials/source/schedule-of-events.csv",
+        "path": "schedule-of-events.csv",
+        "name": "schedule-of-events",
+        "nRows": 8,
+        "cols": [
+            "VISITNUM",
+            "VISIT",
+            "STDY",
+            "ENDY"
+        ],
+        "nCols": 4
+    },
+    {
+        "relPath": "./data/clinical-trials/source/vital-signs.csv",
+        "path": "vital-signs.csv",
+        "name": "vital-signs",
+        "nRows": 27,
+        "cols": [
+            "VSCAT",
+            "VSTEST",
+            "VSAGELO",
+            "VSAGEHI",
+            "VSSTNRLO",
+            "VSSTNRHI",
+            "VSSTRESU"
+        ],
+        "nCols": 7
+    }
+]

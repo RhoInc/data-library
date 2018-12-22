@@ -1,0 +1,35 @@
+{
+  "name": "data-library",
+  "version": "0.1.0",
+  "description": "public-use datasets for clinical trial data visualizations",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build-metadata-json && npm run build-index-html && npm run build-index-js",
+    "build-index-html": "node ./src/scripts/build-index-html.js",
+    "build-index-js": "node ./src/scripts/build-index-js.js",
+    "build-metadata-json": "node ./src/scripts/build-metadata-json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhoInc/data-library.git"
+  },
+  "keywords": [
+    "clinical",
+    "trial",
+    "data"
+  ],
+  "author": "Rho, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhoInc/data-library/issues"
+  },
+  "homepage": "https://github.com/RhoInc/data-library#readme",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "webcharts": "^1.11.2",
+    "webcodebook": "^1.6.1"
+  },
+  "devDependencies": {
+    "csvtojson": "^2.0.8"
+  }
+}

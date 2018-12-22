@@ -1,0 +1,83 @@
+[
+    {
+        "relPath": "./data/clinical-trials/data-cleaning/forms.csv",
+        "path": "forms.csv",
+        "name": "forms",
+        "nRows": 23125,
+        "cols": [
+            "subjectnameoridentifier",
+            "status",
+            "subjfreezeflg",
+            "sitename",
+            "folderinstancename",
+            "ecrfpagename",
+            "is_partial_entry",
+            "answer_query_ct",
+            "open_query_ct",
+            "needs_verification",
+            "is_verified",
+            "needs_signature",
+            "is_signed",
+            "ready_for_freeze",
+            "is_frozen",
+            "is_locked",
+            "subset1",
+            "subset2",
+            "subset3",
+            "verified"
+        ],
+        "nCols": 20
+    },
+    {
+        "relPath": "./data/clinical-trials/data-cleaning/queries.csv",
+        "path": "queries.csv",
+        "name": "queries",
+        "nRows": 5000,
+        "cols": [
+            "sitename",
+            "subjectnameoridentifier",
+            "folderoid",
+            "formoid",
+            "fieldname",
+            "markinggroup",
+            "queryopendt",
+            "queryresponsedt",
+            "queryresolveddt",
+            "querystatus",
+            "odays",
+            "queryrecency",
+            "qdays",
+            "queryage",
+            "querytext",
+            "ecrfpagename",
+            "open_time"
+        ],
+        "nCols": 17
+    },
+    {
+        "relPath": "./data/clinical-trials/data-cleaning/visits.csv",
+        "path": "visits.csv",
+        "name": "visits",
+        "nRows": 1202,
+        "cols": [
+            "site_name",
+            "subjectnameoridentifier",
+            "subject_status",
+            "visit_name",
+            "visit_number",
+            "visit_date",
+            "visit_day",
+            "visit_status",
+            "visit_status_order",
+            "visit_status_color",
+            "visit_status_description",
+            "visit_text",
+            "subset1",
+            "subset2",
+            "subset3",
+            "overdue2",
+            "plot_exclude"
+        ],
+        "nCols": 17
+    }
+]

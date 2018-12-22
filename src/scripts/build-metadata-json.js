@@ -14,6 +14,8 @@ function getMetadata(dataFile) {
     });
 }
 
+var dataFolders = [];
+
 var descend = async function(dir) {
     //Read files in directory.
     var files = fs.readdirSync(dir)
@@ -24,6 +26,7 @@ var descend = async function(dir) {
         .filter(file => file.split('.').pop() === 'csv');
 
     if (dataFiles.length) {
+        dataFolders.push(dir);
         //Capture .csv metadata.
         var promises = dataFiles
             .map(dataFile => {
@@ -31,8 +34,8 @@ var descend = async function(dir) {
                     .then(data => {
                         //console.log(`Processing ${dataFile}.`);
                         var metadata = {
-                            path: dataFile, // relative file path
-                            file: dataFile.split('/').pop(), // file name with extension
+                            relPath: dataFile, // relative file path
+                            path: dataFile.split('/').pop(), // file name with extension
                             name: dataFile.split('/').pop().split('.')[0], // file name
                             //json: data,
                             nRows: data.length,
@@ -70,3 +73,9 @@ var descend = async function(dir) {
 }
 
 descend(dir);
+
+//Export list of data folders.
+fs.writeFileSync(
+    './src/data-folders.json',
+    JSON.stringify(dataFolders, null, 4)
+);

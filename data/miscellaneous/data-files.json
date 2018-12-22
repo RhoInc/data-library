@@ -1,7 +1,7 @@
 [
     {
-        "path": "./data/miscellaneous/cars.csv",
-        "file": "cars.csv",
+        "relPath": "./data/miscellaneous/cars.csv",
+        "path": "cars.csv",
         "name": "cars",
         "nRows": 32,
         "cols": [
@@ -21,8 +21,8 @@
         "nCols": 12
     },
     {
-        "path": "./data/miscellaneous/chick-weight.csv",
-        "file": "chick-weight.csv",
+        "relPath": "./data/miscellaneous/chick-weight.csv",
+        "path": "chick-weight.csv",
         "name": "chick-weight",
         "nRows": 578,
         "cols": [
@@ -35,8 +35,8 @@
         "nCols": 5
     },
     {
-        "path": "./data/miscellaneous/climate-data.csv",
-        "file": "climate-data.csv",
+        "relPath": "./data/miscellaneous/climate-data.csv",
+        "path": "climate-data.csv",
         "name": "climate-data",
         "nRows": 95,
         "cols": [
@@ -54,8 +54,8 @@
         "nCols": 10
     },
     {
-        "path": "./data/miscellaneous/discrete-scores.csv",
-        "file": "discrete-scores.csv",
+        "relPath": "./data/miscellaneous/discrete-scores.csv",
+        "path": "discrete-scores.csv",
         "name": "discrete-scores",
         "nRows": 78,
         "cols": [
@@ -65,8 +65,8 @@
         "nCols": 2
     },
     {
-        "path": "./data/miscellaneous/elements.csv",
-        "file": "elements.csv",
+        "relPath": "./data/miscellaneous/elements.csv",
+        "path": "elements.csv",
         "name": "elements",
         "nRows": 103,
         "cols": [
@@ -84,8 +84,8 @@
         "nCols": 10
     },
     {
-        "path": "./data/miscellaneous/iris.csv",
-        "file": "iris.csv",
+        "relPath": "./data/miscellaneous/iris.csv",
+        "path": "iris.csv",
         "name": "iris",
         "nRows": 150,
         "cols": [

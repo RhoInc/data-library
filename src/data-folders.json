@@ -1,0 +1,9 @@
+[
+    "./data/clinical-trials/adam",
+    "./data/clinical-trials/data-cleaning",
+    "./data/clinical-trials/renderer-specific",
+    "./data/clinical-trials/sdtm",
+    "./data/clinical-trials/sdtm/cdisc-pilot-01",
+    "./data/clinical-trials/source",
+    "./data/miscellaneous"
+]

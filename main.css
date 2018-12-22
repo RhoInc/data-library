@@ -1,50 +1,45 @@
-body{
+body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  font-size:14px
+    font-size: 14px
 }
-
-h1{
+h1, h2 {
+    margin-top: 0.3em;
+    margin-bottom: 0;
+}
+h1 {
 	font-size: 2.5rem;
 	font-weight: lighter;
 }
-
-h2{
+h2 {
 	font-size: 1.5rem;
 }
-
-h1, h2{
-  margin-top:0.3em;
-  margin-bottom:0;
+.frontpage-header {
+    text-align: center;
 }
-
-.frontpage-header{
-  text-align:center;
+.frontpage-header p {
+    margin-top: 0;
 }
-
-.frontpage-header p{
-  margin-top:0;
+.main {
+    max-width: 1306px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-.main{
-  max-width: 1306px;
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
+.links {
+    max-width: 1306px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-.links{
-  max-width: 1306px;
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
+.footer {
+    font-size: 0.8em;
 }
-
-.footer{
-  font-size: 0.8em;
-}
-
 .web-codebook-container .web-codebook {
     width: 100%;
+    padding: 12px 0;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    margin: 12px 0;
 }
 .web-codebook-container .web-codebook .title.section {
     display: flex;
@@ -70,6 +65,14 @@ h1, h2{
     width: 50%;
     margin: 0 auto;
 }
+.web-codebook-container .web-codebook .fileListing.section .wc-table table {
+    font-size: 20px;
+    font-family: 'courier new';
+}
+.web-codebook-container .web-codebook .fileListing.section .wc-table table .nRows,
+.web-codebook-container .web-codebook .fileListing.section .wc-table table .nCols {
+    text-align: right;
+}
 .web-codebook-container .web-codebook .dataListing.section .wc-table {
     overflow: auto;
 }
@@ -80,6 +83,10 @@ h1, h2{
 .web-codebook-container .web-codebook .chartMaker.section .wc-svg {
     margin: 0 auto;
     display: block;
+}
+.web-codebook-container .web-codebook .chartMaker.section .legend {
+    display: flex !important;
+    justify-content: center;
 }
 .web-codebook-container .web-codebook .settings.section .column-table {
     margin: 0 auto;

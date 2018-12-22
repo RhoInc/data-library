@@ -30,8 +30,8 @@ var walk = function(dir, done) {
     });
 };
 
-const csvFilePath = '<path to csv file>';
-const csv = require('csvtojson');
+var csvFilePath = '<path to csv file>';
+var csv = require('csvtojson');
 
 walk(dataRoot, function(err, allFiles) {
     if (err) throw err;

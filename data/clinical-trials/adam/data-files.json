@@ -1,7 +1,7 @@
 [
     {
-        "path": "./data/clinical-trials/adam/adae.csv",
-        "file": "adae.csv",
+        "relPath": "./data/clinical-trials/adam/adae.csv",
+        "path": "adae.csv",
         "name": "adae",
         "nRows": 393,
         "cols": [
@@ -37,8 +37,8 @@
         "nCols": 28
     },
     {
-        "path": "./data/clinical-trials/adam/adcm.csv",
-        "file": "adcm.csv",
+        "relPath": "./data/clinical-trials/adam/adcm.csv",
+        "path": "adcm.csv",
         "name": "adcm",
         "nRows": 353,
         "cols": [
@@ -73,8 +73,8 @@
         "nCols": 27
     },
     {
-        "path": "./data/clinical-trials/adam/adlb.csv",
-        "file": "adlb.csv",
+        "relPath": "./data/clinical-trials/adam/adlb.csv",
+        "path": "adlb.csv",
         "name": "adlb",
         "nRows": 10096,
         "cols": [
@@ -111,8 +111,8 @@
         "nCols": 29
     },
     {
-        "path": "./data/clinical-trials/adam/adsl.csv",
-        "file": "adsl.csv",
+        "relPath": "./data/clinical-trials/adam/adsl.csv",
+        "path": "adsl.csv",
         "name": "adsl",
         "nRows": 150,
         "cols": [
@@ -140,8 +140,8 @@
         "nCols": 20
     },
     {
-        "path": "./data/clinical-trials/adam/advs.csv",
-        "file": "advs.csv",
+        "relPath": "./data/clinical-trials/adam/advs.csv",
+        "path": "advs.csv",
         "name": "advs",
         "nRows": 3155,
         "cols": [

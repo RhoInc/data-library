@@ -1,7 +1,7 @@
 [
     {
-        "path": "./data/clinical-trials/renderer-specific/adbds.csv",
-        "file": "adbds.csv",
+        "relPath": "./data/clinical-trials/renderer-specific/adbds.csv",
+        "path": "adbds.csv",
         "name": "adbds",
         "nRows": 13273,
         "cols": [
@@ -34,8 +34,8 @@
         "nCols": 25
     },
     {
-        "path": "./data/clinical-trials/renderer-specific/adtimelines.csv",
-        "file": "adtimelines.csv",
+        "relPath": "./data/clinical-trials/renderer-specific/adtimelines.csv",
+        "path": "adtimelines.csv",
         "name": "adtimelines",
         "nRows": 1073,
         "cols": [

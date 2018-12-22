@@ -1,7 +1,7 @@
 [
     {
-        "path": "./data/clinical-trials/data-cleaning/forms.csv",
-        "file": "forms.csv",
+        "relPath": "./data/clinical-trials/data-cleaning/forms.csv",
+        "path": "forms.csv",
         "name": "forms",
         "nRows": 23125,
         "cols": [
@@ -29,8 +29,8 @@
         "nCols": 20
     },
     {
-        "path": "./data/clinical-trials/data-cleaning/queries.csv",
-        "file": "queries.csv",
+        "relPath": "./data/clinical-trials/data-cleaning/queries.csv",
+        "path": "queries.csv",
         "name": "queries",
         "nRows": 5000,
         "cols": [
@@ -55,8 +55,8 @@
         "nCols": 17
     },
     {
-        "path": "./data/clinical-trials/data-cleaning/visits.csv",
-        "file": "visits.csv",
+        "relPath": "./data/clinical-trials/data-cleaning/visits.csv",
+        "path": "visits.csv",
         "name": "visits",
         "nRows": 1202,
         "cols": [

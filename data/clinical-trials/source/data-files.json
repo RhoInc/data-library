@@ -1,7 +1,7 @@
 [
     {
-        "path": "./data/clinical-trials/source/adverse-events.csv",
-        "file": "adverse-events.csv",
+        "relPath": "./data/clinical-trials/source/adverse-events.csv",
+        "path": "adverse-events.csv",
         "name": "adverse-events",
         "nRows": 765,
         "cols": [
@@ -13,8 +13,8 @@
         "nCols": 4
     },
     {
-        "path": "./data/clinical-trials/source/fields.csv",
-        "file": "fields.csv",
+        "relPath": "./data/clinical-trials/source/fields.csv",
+        "path": "fields.csv",
         "name": "fields",
         "nRows": 55,
         "cols": [
@@ -24,8 +24,8 @@
         "nCols": 2
     },
     {
-        "path": "./data/clinical-trials/source/forms.csv",
-        "file": "forms.csv",
+        "relPath": "./data/clinical-trials/source/forms.csv",
+        "path": "forms.csv",
         "name": "forms",
         "nRows": 11,
         "cols": [
@@ -35,8 +35,8 @@
         "nCols": 2
     },
     {
-        "path": "./data/clinical-trials/source/labs.csv",
-        "file": "labs.csv",
+        "relPath": "./data/clinical-trials/source/labs.csv",
+        "path": "labs.csv",
         "name": "labs",
         "nRows": 16,
         "cols": [
@@ -50,8 +50,8 @@
         "nCols": 6
     },
     {
-        "path": "./data/clinical-trials/source/medications.csv",
-        "file": "medications.csv",
+        "relPath": "./data/clinical-trials/source/medications.csv",
+        "path": "medications.csv",
         "name": "medications",
         "nRows": 654,
         "cols": [
@@ -62,8 +62,8 @@
         "nCols": 3
     },
     {
-        "path": "./data/clinical-trials/source/schedule-of-events.csv",
-        "file": "schedule-of-events.csv",
+        "relPath": "./data/clinical-trials/source/schedule-of-events.csv",
+        "path": "schedule-of-events.csv",
         "name": "schedule-of-events",
         "nRows": 8,
         "cols": [
@@ -75,8 +75,8 @@
         "nCols": 4
     },
     {
-        "path": "./data/clinical-trials/source/vital-signs.csv",
-        "file": "vital-signs.csv",
+        "relPath": "./data/clinical-trials/source/vital-signs.csv",
+        "path": "vital-signs.csv",
         "name": "vital-signs",
         "nRows": 27,
         "cols": [

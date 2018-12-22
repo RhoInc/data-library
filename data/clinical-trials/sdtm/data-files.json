@@ -1,7 +1,7 @@
 [
     {
-        "path": "./data/clinical-trials/sdtm/ae.csv",
-        "file": "ae.csv",
+        "relPath": "./data/clinical-trials/sdtm/ae.csv",
+        "path": "ae.csv",
         "name": "ae",
         "nRows": 357,
         "cols": [
@@ -23,8 +23,8 @@
         "nCols": 14
     },
     {
-        "path": "./data/clinical-trials/sdtm/cm.csv",
-        "file": "cm.csv",
+        "relPath": "./data/clinical-trials/sdtm/cm.csv",
+        "path": "cm.csv",
         "name": "cm",
         "nRows": 307,
         "cols": [
@@ -45,8 +45,8 @@
         "nCols": 13
     },
     {
-        "path": "./data/clinical-trials/sdtm/dm.csv",
-        "file": "dm.csv",
+        "relPath": "./data/clinical-trials/sdtm/dm.csv",
+        "path": "dm.csv",
         "name": "dm",
         "nRows": 150,
         "cols": [
@@ -68,8 +68,8 @@
         "nCols": 14
     },
     {
-        "path": "./data/clinical-trials/sdtm/lb.csv",
-        "file": "lb.csv",
+        "relPath": "./data/clinical-trials/sdtm/lb.csv",
+        "path": "lb.csv",
         "name": "lb",
         "nRows": 10096,
         "cols": [
@@ -88,8 +88,8 @@
         "nCols": 11
     },
     {
-        "path": "./data/clinical-trials/sdtm/sv.csv",
-        "file": "sv.csv",
+        "relPath": "./data/clinical-trials/sdtm/sv.csv",
+        "path": "sv.csv",
         "name": "sv",
         "nRows": 1202,
         "cols": [
@@ -103,8 +103,8 @@
         "nCols": 6
     },
     {
-        "path": "./data/clinical-trials/sdtm/vs.csv",
-        "file": "vs.csv",
+        "relPath": "./data/clinical-trials/sdtm/vs.csv",
+        "path": "vs.csv",
         "name": "vs",
         "nRows": 3155,
         "cols": [

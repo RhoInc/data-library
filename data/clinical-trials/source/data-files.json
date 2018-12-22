@@ -1,44 +1,93 @@
 [
     {
         "path": "./data/clinical-trials/source/adverse-events.csv",
+        "file": "adverse-events.csv",
         "name": "adverse-events",
-        "rows": 0,
-        "cols": 0
+        "nRows": 765,
+        "cols": [
+            "AEBODSYS",
+            "AEPTCD",
+            "AEDECOD",
+            "AETERM"
+        ],
+        "nCols": 4
     },
     {
         "path": "./data/clinical-trials/source/fields.csv",
+        "file": "fields.csv",
         "name": "fields",
-        "rows": 0,
-        "cols": 0
+        "nRows": 55,
+        "cols": [
+            "formoid",
+            "fieldname"
+        ],
+        "nCols": 2
     },
     {
         "path": "./data/clinical-trials/source/forms.csv",
+        "file": "forms.csv",
         "name": "forms",
-        "rows": 0,
-        "cols": 0
+        "nRows": 11,
+        "cols": [
+            "formoid",
+            "ecrfpagename"
+        ],
+        "nCols": 2
     },
     {
         "path": "./data/clinical-trials/source/labs.csv",
+        "file": "labs.csv",
         "name": "labs",
-        "rows": 0,
-        "cols": 0
+        "nRows": 16,
+        "cols": [
+            "LBCAT",
+            "LBTEST",
+            "SEX",
+            "LBSTNRLO",
+            "LBSTNRHI",
+            "LBSTRESU"
+        ],
+        "nCols": 6
     },
     {
         "path": "./data/clinical-trials/source/medications.csv",
+        "file": "medications.csv",
         "name": "medications",
-        "rows": 0,
-        "cols": 0
+        "nRows": 654,
+        "cols": [
+            "CMTRT",
+            "PREFTERM",
+            "ATCTEXT2"
+        ],
+        "nCols": 3
     },
     {
         "path": "./data/clinical-trials/source/schedule-of-events.csv",
+        "file": "schedule-of-events.csv",
         "name": "schedule-of-events",
-        "rows": 0,
-        "cols": 0
+        "nRows": 8,
+        "cols": [
+            "VISITNUM",
+            "VISIT",
+            "STDY",
+            "ENDY"
+        ],
+        "nCols": 4
     },
     {
         "path": "./data/clinical-trials/source/vital-signs.csv",
+        "file": "vital-signs.csv",
         "name": "vital-signs",
-        "rows": 0,
-        "cols": 0
+        "nRows": 27,
+        "cols": [
+            "VSCAT",
+            "VSTEST",
+            "VSAGELO",
+            "VSAGEHI",
+            "VSSTNRLO",
+            "VSSTNRHI",
+            "VSSTRESU"
+        ],
+        "nCols": 7
     }
 ]

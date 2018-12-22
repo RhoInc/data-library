@@ -4,7 +4,17 @@ var csv = require('csvtojson');
 var saveData = require('./saveData.js').default;
 var dir = './data';
 
-var descend = function(dir) {
+function getMetadata(dataFile) {
+    return new Promise((resolve,reject) => {
+        csv()
+            .fromFile(dataFile)
+            .then(data => {
+                resolve(data);
+            });
+    });
+}
+
+var descend = async function(dir) {
     //Read files in directory.
     var files = fs.readdirSync(dir)
         .map(file => dir + '/' + file);
@@ -15,32 +25,35 @@ var descend = function(dir) {
 
     if (dataFiles.length) {
         //Capture .csv metadata.
-        var metadata = dataFiles
+        var promises = dataFiles
             .map(dataFile => {
-                var metadata = {
-                    path: dataFile, // relative file path
-                    name: dataFile.split('/').pop().split('.')[0], // file name
-                    //json: await csv().fromFile(dataFile),
-                };
-                const test = await csv().fromFile(dataFile);
-                console.log(test);
-                metadata.rows = test.length;
-                metadata.cols = Object.keys(test).length;
-                //metadata.json
-                //    .subscribe(d => {
-                //        console.log(d);
-                //        metadata.rows += 1; // count rows
-                //        if (!file.cols) file.cols = Object.keys(d).length; // count columns
-                //    });
+                return getMetadata(dataFile)
+                    .then(data => {
+                        //console.log(`Processing ${dataFile}.`);
+                        var metadata = {
+                            path: dataFile, // relative file path
+                            file: dataFile.split('/').pop(), // file name with extension
+                            name: dataFile.split('/').pop().split('.')[0], // file name
+                            //json: data,
+                            nRows: data.length,
+                            cols: Object.keys(data[0]),
+                            nCols: Object.keys(data[0]).length,
+                        };
 
-                return metadata;
+                        return metadata;
+                    });
             });
 
-        //Write .csv meatadata to current directory.
-        fs.writeFileSync(
-            dir + '/' + 'data-files.json',
-            JSON.stringify(metadata, null, 4)
-        );
+        //Wait for all Promises to complete.
+        Promise.all(promises)
+            .then(metadata => {
+                console.log(`Outputting the contents of ${dir}.`);
+                fs.writeFileSync(
+                    dir + '/' + 'data-files.json',
+                    JSON.stringify(metadata, null, 4)
+                );
+            })
+            .catch(e => console.error(e));
     }
 
     //Filter out files that are folders.

@@ -42,3 +42,45 @@ h1, h2{
 .footer{
   font-size: 0.8em;
 }
+
+.web-codebook-container .web-codebook {
+    width: 100%;
+}
+.web-codebook-container .web-codebook .title.section {
+    display: flex;
+    justify-content: center;
+}
+.web-codebook-container .web-codebook .title.section .countSummary {
+    padding-top: 9px;
+}
+.web-codebook-container .web-codebook .wcb-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 24px;
+}
+.web-codebook-container .web-codebook .instructions {
+    text-align: center;
+}
+.web-codebook-container .web-codebook .wc-table table {
+    display: table;
+    width: 100%;
+}
+.web-codebook-container .web-codebook .fileListing.section .wc-table {
+    width: 50%;
+    margin: 0 auto;
+}
+.web-codebook-container .web-codebook .dataListing.section .wc-table {
+    overflow: auto;
+}
+.web-codebook-container .web-codebook .chartMaker.section .cm-controls {
+    display: flex;
+    justify-content: center;
+}
+.web-codebook-container .web-codebook .chartMaker.section .wc-svg {
+    margin: 0 auto;
+    display: block;
+}
+.web-codebook-container .web-codebook .settings.section .column-table {
+    margin: 0 auto;
+}

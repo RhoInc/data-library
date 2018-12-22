@@ -4,6 +4,7 @@
   "description": "public-use datasets for clinical trial data visualizations",
   "main": "index.js",
   "scripts": {
+    "build": "npm run build-metadata-json && npm run build-index-html && npm run build-index-js",
     "build-index-html": "node ./src/scripts/build-index-html.js",
     "build-index-js": "node ./src/scripts/build-index-js.js",
     "build-metadata-json": "node ./src/scripts/build-metadata-json.js"

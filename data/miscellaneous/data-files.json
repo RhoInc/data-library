@@ -1,38 +1,100 @@
 [
     {
         "path": "./data/miscellaneous/cars.csv",
+        "file": "cars.csv",
         "name": "cars",
-        "rows": 0,
-        "cols": 0
+        "nRows": 32,
+        "cols": [
+            "field1",
+            "mpg",
+            "cyl",
+            "disp",
+            "hp",
+            "drat",
+            "wt",
+            "qsec",
+            "vs",
+            "am",
+            "gear",
+            "carb"
+        ],
+        "nCols": 12
     },
     {
         "path": "./data/miscellaneous/chick-weight.csv",
+        "file": "chick-weight.csv",
         "name": "chick-weight",
-        "rows": 0,
-        "cols": 0
+        "nRows": 578,
+        "cols": [
+            "field1",
+            "weight",
+            "Time",
+            "Chick",
+            "Diet"
+        ],
+        "nCols": 5
     },
     {
         "path": "./data/miscellaneous/climate-data.csv",
+        "file": "climate-data.csv",
         "name": "climate-data",
-        "rows": 0,
-        "cols": 0
+        "nRows": 95,
+        "cols": [
+            "STATION",
+            "STATION_NAME",
+            "DATE",
+            "TPCP",
+            "TSNW",
+            "EMXT",
+            "EMNT",
+            "Monthly Mean Max",
+            "Monthly Mean Min",
+            "Monthly Mean"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/miscellaneous/discrete-scores.csv",
+        "file": "discrete-scores.csv",
         "name": "discrete-scores",
-        "rows": 0,
-        "cols": 0
+        "nRows": 78,
+        "cols": [
+            "score",
+            "category"
+        ],
+        "nCols": 2
     },
     {
         "path": "./data/miscellaneous/elements.csv",
+        "file": "elements.csv",
         "name": "elements",
-        "rows": 0,
-        "cols": 0
+        "nRows": 103,
+        "cols": [
+            "Element",
+            "Number",
+            "Symbol",
+            "Weight",
+            "Boil",
+            "Melt",
+            "Density Vapour",
+            "Fusion",
+            "Group",
+            "Period"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/miscellaneous/iris.csv",
+        "file": "iris.csv",
         "name": "iris",
-        "rows": 0,
-        "cols": 0
+        "nRows": 150,
+        "cols": [
+            "sepal length",
+            "sepal width",
+            "petal length",
+            "petal width",
+            "species"
+        ],
+        "nCols": 5
     }
 ]

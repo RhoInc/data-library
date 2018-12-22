@@ -1,146 +1,548 @@
 [
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ae.csv",
+        "file": "ae.csv",
         "name": "ae",
-        "rows": 0,
-        "cols": 0
+        "nRows": 1191,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "AESEQ",
+            "AESPID",
+            "AETERM",
+            "AELLT",
+            "AELLTCD",
+            "AEDECOD",
+            "AEPTCD",
+            "AEHLT",
+            "AEHLTCD",
+            "AEHLGT",
+            "AEHLGTCD",
+            "AEBODSYS",
+            "AEBDSYCD",
+            "AESOC",
+            "AESOCCD",
+            "AESEV",
+            "AESER",
+            "AEACN",
+            "AEREL",
+            "AEOUT",
+            "AESCAN",
+            "AESCONG",
+            "AESDISAB",
+            "AESDTH",
+            "AESHOSP",
+            "AESLIFE",
+            "AESOD",
+            "AEDTC",
+            "AESTDTC",
+            "AEENDTC",
+            "AESTDY",
+            "AEENDY"
+        ],
+        "nCols": 35
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/cm.csv",
+        "file": "cm.csv",
         "name": "cm",
-        "rows": 0,
-        "cols": 0
+        "nRows": 7510,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "CMSEQ",
+            "CMSPID",
+            "CMTRT",
+            "CMDECOD",
+            "CMINDC",
+            "CMCLAS",
+            "CMDOSE",
+            "CMDOSU",
+            "CMDOSFRQ",
+            "CMROUTE",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "CMDTC",
+            "CMSTDTC",
+            "CMENDTC",
+            "CMSTDY",
+            "CMENDY"
+        ],
+        "nCols": 21
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/dm.csv",
+        "file": "dm.csv",
         "name": "dm",
-        "rows": 0,
-        "cols": 0
+        "nRows": 306,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "SUBJID",
+            "RFSTDTC",
+            "RFENDTC",
+            "RFXSTDTC",
+            "RFXENDTC",
+            "RFICDTC",
+            "RFPENDTC",
+            "DTHDTC",
+            "DTHFL",
+            "SITEID",
+            "AGE",
+            "AGEU",
+            "SEX",
+            "RACE",
+            "ETHNIC",
+            "ARMCD",
+            "ARM",
+            "ACTARMCD",
+            "ACTARM",
+            "COUNTRY",
+            "DMDTC",
+            "DMDY"
+        ],
+        "nCols": 25
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ds.csv",
+        "file": "ds.csv",
         "name": "ds",
-        "rows": 0,
-        "cols": 0
+        "nRows": 596,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "DSSEQ",
+            "DSSPID",
+            "DSTERM",
+            "DSDECOD",
+            "DSCAT",
+            "VISITNUM",
+            "VISIT",
+            "DSDTC",
+            "DSSTDTC",
+            "DSSTDY"
+        ],
+        "nCols": 13
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ex.csv",
+        "file": "ex.csv",
         "name": "ex",
-        "rows": 0,
-        "cols": 0
+        "nRows": 591,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "EXSEQ",
+            "EXTRT",
+            "EXDOSE",
+            "EXDOSU",
+            "EXDOSFRM",
+            "EXDOSFRQ",
+            "EXROUTE",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "EXSTDTC",
+            "EXENDTC",
+            "EXSTDY",
+            "EXENDY"
+        ],
+        "nCols": 17
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/lb.csv",
+        "file": "lb.csv",
         "name": "lb",
-        "rows": 0,
-        "cols": 0
+        "nRows": 59580,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "LBSEQ",
+            "LBTESTCD",
+            "LBTEST",
+            "LBCAT",
+            "LBORRES",
+            "LBORRESU",
+            "LBORNRLO",
+            "LBORNRHI",
+            "LBSTRESC",
+            "LBSTRESN",
+            "LBSTRESU",
+            "LBSTNRLO",
+            "LBSTNRHI",
+            "LBNRIND",
+            "LBBLFL",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "LBDTC",
+            "LBDY"
+        ],
+        "nCols": 23
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv",
+        "file": "meta_study.csv",
         "name": "meta_study",
-        "rows": 0,
-        "cols": 0
+        "nRows": 23,
+        "cols": [
+            "Dataset",
+            "Description",
+            "Class",
+            "Structure",
+            "Purpose",
+            "Keys",
+            "Location"
+        ],
+        "nCols": 7
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
+        "file": "meta_var.csv",
         "name": "meta_var",
-        "rows": 0,
-        "cols": 0
+        "nRows": 313,
+        "cols": [
+            "Form",
+            "Variable",
+            "Label",
+            "Key",
+            "Type",
+            "Length",
+            "Code List / Controlled Terms",
+            "Origin",
+            "Role",
+            "Source/Derivation/Comments"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/mh.csv",
+        "file": "mh.csv",
         "name": "mh",
-        "rows": 0,
-        "cols": 0
+        "nRows": 1818,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "MHSEQ",
+            "MHSPID",
+            "MHTERM",
+            "MHLLT",
+            "MHDECOD",
+            "MHHLT",
+            "MHHLGT",
+            "MHCAT",
+            "MHBODSYS",
+            "MHSEV",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "MHDTC",
+            "MHSTDTC",
+            "MHDY"
+        ],
+        "nCols": 19
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/qs.csv",
+        "file": "qs.csv",
         "name": "qs",
-        "rows": 0,
-        "cols": 0
+        "nRows": 121749,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "QSSEQ",
+            "QSTESTCD",
+            "QSTEST",
+            "QSCAT",
+            "QSSCAT",
+            "QSORRES",
+            "QSORRESU",
+            "QSSTRESC",
+            "QSSTRESN",
+            "QSSTRESU",
+            "QSBLFL",
+            "QSDRVFL",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "QSDTC",
+            "QSDY"
+        ],
+        "nCols": 20
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/relrec.csv",
+        "file": "relrec.csv",
         "name": "relrec",
-        "rows": 0,
-        "cols": 0
+        "nRows": 234,
+        "cols": [
+            "STUDYID",
+            "RDOMAIN",
+            "USUBJID",
+            "IDVAR",
+            "IDVARVAL",
+            "RELTYPE",
+            "RELID"
+        ],
+        "nCols": 7
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/sc.csv",
+        "file": "sc.csv",
         "name": "sc",
-        "rows": 0,
-        "cols": 0
+        "nRows": 254,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "SCSEQ",
+            "SCTESTCD",
+            "SCTEST",
+            "SCCAT",
+            "SCORRES",
+            "SCORRESU",
+            "SCSTRESC",
+            "SCSTRESN",
+            "SCSTRESU",
+            "SCDTC",
+            "SCDY"
+        ],
+        "nCols": 14
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/se.csv",
+        "file": "se.csv",
         "name": "se",
-        "rows": 0,
-        "cols": 0
+        "nRows": 752,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "SESEQ",
+            "ETCD",
+            "ELEMENT",
+            "SESTDTC",
+            "SEENDTC",
+            "SEUPDES"
+        ],
+        "nCols": 9
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppae.csv",
+        "file": "suppae.csv",
         "name": "suppae",
-        "rows": 0,
-        "cols": 0
+        "nRows": 1191,
+        "cols": [
+            "STUDYID",
+            "RDOMAIN",
+            "USUBJID",
+            "IDVAR",
+            "IDVARVAL",
+            "QNAM",
+            "QLABEL",
+            "QVAL",
+            "QORIG",
+            "QEVAL"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppdm.csv",
+        "file": "suppdm.csv",
         "name": "suppdm",
-        "rows": 0,
-        "cols": 0
+        "nRows": 1197,
+        "cols": [
+            "STUDYID",
+            "RDOMAIN",
+            "USUBJID",
+            "IDVAR",
+            "IDVARVAL",
+            "QNAM",
+            "QLABEL",
+            "QVAL",
+            "QORIG",
+            "QEVAL"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppds.csv",
+        "file": "suppds.csv",
         "name": "suppds",
-        "rows": 0,
-        "cols": 0
+        "nRows": 3,
+        "cols": [
+            "STUDYID",
+            "RDOMAIN",
+            "USUBJID",
+            "IDVAR",
+            "IDVARVAL",
+            "QNAM",
+            "QLABEL",
+            "QVAL",
+            "QORIG",
+            "QEVAL"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/supplb.csv",
+        "file": "supplb.csv",
         "name": "supplb",
-        "rows": 0,
-        "cols": 0
+        "nRows": 64403,
+        "cols": [
+            "STUDYID",
+            "RDOMAIN",
+            "USUBJID",
+            "IDVAR",
+            "IDVARVAL",
+            "QNAM",
+            "QLABEL",
+            "QVAL",
+            "QORIG",
+            "QEVAL"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv",
+        "file": "sv.csv",
         "name": "sv",
-        "rows": 0,
-        "cols": 0
+        "nRows": 3559,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "SVSTDTC",
+            "SVENDTC"
+        ],
+        "nCols": 8
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ta.csv",
+        "file": "ta.csv",
         "name": "ta",
-        "rows": 0,
-        "cols": 0
+        "nRows": 8,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "ARMCD",
+            "ARM",
+            "TAETORD",
+            "ETCD",
+            "ELEMENT",
+            "TABRANCH",
+            "TATRANS",
+            "EPOCH"
+        ],
+        "nCols": 10
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/te.csv",
+        "file": "te.csv",
         "name": "te",
-        "rows": 0,
-        "cols": 0
+        "nRows": 7,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "ETCD",
+            "ELEMENT",
+            "TESTRL",
+            "TEENRL",
+            "TEDUR"
+        ],
+        "nCols": 7
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ti.csv",
+        "file": "ti.csv",
         "name": "ti",
-        "rows": 0,
-        "cols": 0
+        "nRows": 31,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "IETESTCD",
+            "IETEST",
+            "IECAT",
+            "TIRL"
+        ],
+        "nCols": 6
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/ts.csv",
+        "file": "ts.csv",
         "name": "ts",
-        "rows": 0,
-        "cols": 0
+        "nRows": 33,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "TSSEQ",
+            "TSPARMCD",
+            "TSPARM",
+            "TSVAL"
+        ],
+        "nCols": 6
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/tv.csv",
+        "file": "tv.csv",
         "name": "tv",
-        "rows": 0,
-        "cols": 0
+        "nRows": 21,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "ARMCD",
+            "ARM",
+            "TVSTRL",
+            "TVENRL"
+        ],
+        "nCols": 9
     },
     {
         "path": "./data/clinical-trials/sdtm/cdisc-pilot-01/vs.csv",
+        "file": "vs.csv",
         "name": "vs",
-        "rows": 0,
-        "cols": 0
+        "nRows": 29643,
+        "cols": [
+            "STUDYID",
+            "DOMAIN",
+            "USUBJID",
+            "VSSEQ",
+            "VSTESTCD",
+            "VSTEST",
+            "VSPOS",
+            "VSORRES",
+            "VSORRESU",
+            "VSSTRESC",
+            "VSSTRESN",
+            "VSSTRESU",
+            "VSSTAT",
+            "VSLOC",
+            "VSBLFL",
+            "VISITNUM",
+            "VISIT",
+            "VISITDY",
+            "VSDTC",
+            "VSDY",
+            "VSTPT",
+            "VSTPTNUM",
+            "VSELTM",
+            "VSTPTREF"
+        ],
+        "nCols": 24
     }
 ]

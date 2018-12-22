@@ -4,18 +4,6 @@ var head = fs.readFileSync('./src/templates/head.html', 'utf8').split('\r\n');
 var body = fs.readFileSync('./src/templates/body.html', 'utf8').split('\r\n');
 
 function buildIndexHTML(dataFolder) {
-    var split = dataFolder.split('/');
-    var nFolders = split.length - 1;
-    var folder = split.slice().pop();
-    var type = `${
-        folder
-            .split('-')
-            .map(str => str.substring(0,1).toUpperCase() + str.substring(1).toLowerCase())
-            .join(' ')
-            .replace('Cdisc', 'CDISC')
-            .replace('Sdtm', 'SDTM')
-            .replace('Adam', 'ADaM')
-    } Datasets`;
     var index = [
         '<!DOCTYPE HTML>',
         `<html lang = 'en'>`
@@ -26,9 +14,8 @@ function buildIndexHTML(dataFolder) {
         head.forEach((line,i) => {
             if (i < head.length - 1)
                 index.push(`        ${
-                    line.replace('[nFolders]/', '../'.repeat(nFolders))
-                        .replace('[type]', type)
-                        .replace('[folder]', folder)
+                    line.replace('[nFolders]/', '../'.repeat(dataFolder.nFolders))
+                        .replace('[header]', dataFolder.header)
                 }`);
         });
     index.push('    </head>\r\n');
@@ -38,9 +25,8 @@ function buildIndexHTML(dataFolder) {
         body.forEach((line,i) => {
             if (i < body.length - 1)
                 index.push(`        ${
-                    line.replace('[nFolders]/', '../'.repeat(nFolders))
-                        .replace('[type]', type)
-                        .replace('[folder]', folder)
+                    line.replace('[nFolders]/', '../'.repeat(dataFolder.nFolders))
+                        .replace('[header]', dataFolder.header)
             }`);
         });
     index.push('    </body>\r\n');
@@ -52,12 +38,12 @@ function buildIndexHTML(dataFolder) {
 
     //Output index.html.
     fs.writeFile(
-        `${dataFolder}/index.html`,
+        `${dataFolder.relPath}/index.html`,
         index.join('\r\n'),
         err => {
             if (err)
                 console.log(err);
-                console.log(`index.html was successfully built in ${dataFolder}!`);
+                console.log(`index.html was successfully built in ${dataFolder.folder}!`);
         }
     );
 }

@@ -1,9 +1,99 @@
 [
-    "./data/clinical-trials/adam",
-    "./data/clinical-trials/data-cleaning",
-    "./data/clinical-trials/renderer-specific",
-    "./data/clinical-trials/sdtm",
-    "./data/clinical-trials/sdtm/cdisc-pilot-01",
-    "./data/clinical-trials/source",
-    "./data/miscellaneous"
+    {
+        "relPath": "./data/clinical-trials/sdtm",
+        "split": [
+            ".",
+            "data",
+            "clinical-trials",
+            "sdtm"
+        ],
+        "nFolders": 3,
+        "folder": "sdtm",
+        "type": "clinical-trials",
+        "subtype": "sdtm",
+        "header": "SDTM Datasets"
+    },
+    {
+        "relPath": "./data/clinical-trials/sdtm/cdisc-pilot-01",
+        "split": [
+            ".",
+            "data",
+            "clinical-trials",
+            "sdtm",
+            "cdisc-pilot-01"
+        ],
+        "nFolders": 4,
+        "folder": "cdisc-pilot-01",
+        "type": "clinical-trials",
+        "subtype": "sdtm",
+        "header": "CDISC Pilot 01 Datasets"
+    },
+    {
+        "relPath": "./data/clinical-trials/adam",
+        "split": [
+            ".",
+            "data",
+            "clinical-trials",
+            "adam"
+        ],
+        "nFolders": 3,
+        "folder": "adam",
+        "type": "clinical-trials",
+        "subtype": "adam",
+        "header": "ADaM Datasets"
+    },
+    {
+        "relPath": "./data/clinical-trials/data-cleaning",
+        "split": [
+            ".",
+            "data",
+            "clinical-trials",
+            "data-cleaning"
+        ],
+        "nFolders": 3,
+        "folder": "data-cleaning",
+        "type": "clinical-trials",
+        "subtype": "data-cleaning",
+        "header": "Data Cleaning Datasets"
+    },
+    {
+        "relPath": "./data/clinical-trials/renderer-specific",
+        "split": [
+            ".",
+            "data",
+            "clinical-trials",
+            "renderer-specific"
+        ],
+        "nFolders": 3,
+        "folder": "renderer-specific",
+        "type": "clinical-trials",
+        "subtype": "renderer-specific",
+        "header": "Renderer-Specific Datasets"
+    },
+    {
+        "relPath": "./data/clinical-trials/source",
+        "split": [
+            ".",
+            "data",
+            "clinical-trials",
+            "source"
+        ],
+        "nFolders": 3,
+        "folder": "source",
+        "type": "clinical-trials",
+        "subtype": "source",
+        "header": "Source Datasets"
+    },
+    {
+        "relPath": "./data/miscellaneous",
+        "split": [
+            ".",
+            "data",
+            "miscellaneous"
+        ],
+        "nFolders": 2,
+        "folder": "miscellaneous",
+        "type": "miscellaneous",
+        "header": "Miscellaneous Datasets"
+    }
 ]

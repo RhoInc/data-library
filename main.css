@@ -5,10 +5,10 @@ body {
 h1, h2 {
     margin-top: 0.3em;
     margin-bottom: 0;
+	font-weight: lighter;
 }
 h1 {
 	font-size: 2.5rem;
-	font-weight: lighter;
 }
 h2 {
 	font-size: 1.5rem;
@@ -24,6 +24,19 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    position: relative;
+}
+.data-grouping {
+    margin-left: 50px;
+}
+.data-header {
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.return-home {
+    position: absolute;
+    top: -20px;
 }
 .links {
     max-width: 1306px;

@@ -75,6 +75,41 @@ var descend = async function(dir) {
 descend(dir);
 
 //Export list of data folders.
+dataFolders = dataFolders
+    .map(dataFolder => {
+        const obj = {
+            relPath: dataFolder,
+            split: dataFolder.split('/'),
+        };
+        obj.nFolders = obj.split.length - 1;
+        obj.folder = obj.split[obj.nFolders];
+        obj.type = obj.split[2];
+        obj.subtype = obj.split[3];
+        obj.header = `${
+            obj.folder
+                .split('-')
+                .map(str => str.substring(0,1).toUpperCase() + str.substring(1).toLowerCase())
+                .join(' ')
+                .replace('Cdisc', 'CDISC')
+                .replace('Sdtm', 'SDTM')
+                .replace('Adam', 'ADaM')
+                .replace(' Specific', '-Specific')
+        } Datasets`;
+
+        return obj;
+    })
+    .sort((a,b) => {
+        return (
+            a.folder === 'sdtm' ? -1 : b.folder === 'sdtm' ? 1 :
+                a.relPath.indexOf('sdtm') > -1 ? -1 : b.relPath.indexOf('sdtm') > -1 ? 1 :
+            a.folder === 'adam' ? -1 : b.folder === 'adam' ? 1 :
+                a.relPath.indexOf('adam') > -1 ? -1 : b.relPath.indexOf('adam') > -1 ? 1 :
+            a.folder === 'data-cleaning' ? -1 : b.folder === 'data-cleaning' ? 1 :
+            a.folder === 'renderer-specific' ? -1 : b.folder === 'renderer-specific' ? 1 :
+            a.folder === 'miscellaneous' ? 1 : b.folder === 'miscellaneous' ? -1 :
+            a.folder < b.folder ? -1 : 1
+        );
+    });
 fs.writeFileSync(
     './src/data-folders.json',
     JSON.stringify(dataFolders, null, 4)

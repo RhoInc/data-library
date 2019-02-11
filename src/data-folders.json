@@ -1,6 +1,7 @@
 [
     {
         "relPath": "./data/clinical-trials/sdtm",
+        "nDataFiles": 6,
         "split": [
             ".",
             "data",
@@ -15,6 +16,7 @@
     },
     {
         "relPath": "./data/clinical-trials/sdtm/cdisc-pilot-01",
+        "nDataFiles": 24,
         "split": [
             ".",
             "data",
@@ -26,10 +28,11 @@
         "folder": "cdisc-pilot-01",
         "type": "clinical-trials",
         "subtype": "sdtm",
-        "header": "CDISC Pilot 01 Datasets"
+        "header": "SDTM - CDISC Pilot 01 Datasets"
     },
     {
         "relPath": "./data/clinical-trials/adam",
+        "nDataFiles": 5,
         "split": [
             ".",
             "data",
@@ -44,6 +47,7 @@
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning",
+        "nDataFiles": 3,
         "split": [
             ".",
             "data",
@@ -58,6 +62,7 @@
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific",
+        "nDataFiles": 2,
         "split": [
             ".",
             "data",
@@ -72,6 +77,7 @@
     },
     {
         "relPath": "./data/clinical-trials/source",
+        "nDataFiles": 7,
         "split": [
             ".",
             "data",
@@ -86,6 +92,7 @@
     },
     {
         "relPath": "./data/miscellaneous",
+        "nDataFiles": 6,
         "split": [
             ".",
             "data",

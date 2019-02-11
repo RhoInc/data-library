@@ -26,13 +26,49 @@ h2 {
     margin-right: auto;
     position: relative;
 }
+.data-group {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 .data-grouping {
-    margin-left: 50px;
+    padding: 12px;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+    width: 30%;
+    margin: 12px 0;
+}
+.header {
+}
+.n-data-files {
+    font-size: 16px;
 }
 .data-header {
-    border-bottom: 1px solid #aaa;
     padding-bottom: 5px;
     margin-bottom: 10px;
+}
+.details {
+}
+.details-header {
+    position: relative;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 6px;
+}
+.details-header:hover {
+    background: #eee;
+}
+.details-toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.details-content {
+    margin-top: 6px;
+}
+.details-content.hidden {
+    display: none;
 }
 .return-home {
     position: absolute;

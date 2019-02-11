@@ -26,7 +26,11 @@ var descend = async function(dir) {
         .filter(file => file.split('.').pop() === 'csv');
 
     if (dataFiles.length) {
-        dataFolders.push(dir);
+        dataFolders.push({
+            relPath: dir,
+            nDataFiles: dataFiles.length,
+            split: dir.split('/'),
+        });
         //Capture .csv metadata.
         var promises = dataFiles
             .map(dataFile => {
@@ -77,10 +81,7 @@ descend(dir);
 //Export list of data folders.
 dataFolders = dataFolders
     .map(dataFolder => {
-        const obj = {
-            relPath: dataFolder,
-            split: dataFolder.split('/'),
-        };
+        const obj = Object.assign({}, dataFolder);
         obj.nFolders = obj.split.length - 1;
         obj.folder = obj.split[obj.nFolders];
         obj.type = obj.split[2];
@@ -95,6 +96,10 @@ dataFolders = dataFolders
                 .replace('Adam', 'ADaM')
                 .replace(' Specific', '-Specific')
         } Datasets`;
+
+        if (obj.subtype && obj.subtype !== obj.folder)
+            obj.header = `${obj.subtype.replace('sdtm', 'SDTM').replace('adam', 'ADaM')} - ${obj.header}`;
+        console.log(obj.header);
 
         return obj;
     })

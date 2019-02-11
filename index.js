@@ -24,30 +24,54 @@ d3.json('./src/data-folders.json', function(data) {
         .classed('data-grouping', true)
         .each(function(d) {
             const container = d3.select(this);
+            container.classed(d.subtype, true)
+            const header = container.append('h2').classed('header', true);
+            const link = header
+                .append('a')
+                .attr('href', d.relPath)
+                .text(d.header.replace(' Datasets', ''));
+            const nDataFiles = header.append('span').classed('n-data-files', true).text(` (${d.nDataFiles} datasets)`);
 
-            if (['sdtm', 'adam'].indexOf(d.subtype) > -1 && d.folder !== d.subtype) {
-                const header = container.append('small')
-                    .append('a')
-                    .attr('href', d.relPath)
-                    .style('margin-left', '50px')
-                    .text(d.header.replace(' Datasets', ''));
-            } else {
-                const header = container.append('h2')
-                    .classed('data-header', true)
-                    .append('a')
-                    .attr('href', d.relPath)
-                    .text(d.header.replace(' Datasets', ''));
-                const dataStandard = container.append('div');
-                readTextFile(d.relPath + '/data-standard.html', dataStandard);
+            if (!(['sdtm', 'adam'].indexOf(d.subtype) > -1 && d.folder !== d.subtype)) {
+                const details = container
+                    .append('div')
+                    .classed('details', true);
+                const detailsHeader = details
+                    .append('div')
+                    .classed('details-header', true)
+                    .html('<span class = "view-hide">View</span> details')
+                    .on('click', function() {
+                        const detailsHeader = d3.select(this);
+                        const detailsToggle = detailsHeader.select('.details-toggle');
+                        const detailsContent = d3.select(this.parentNode).select('.details-content');
+                        const hidden = detailsContent.classed('hidden');
+                        if (hidden) {
+                            detailsHeader.select('.view-hide').text('Hide');
+                            detailsToggle.text('-');
+                            detailsContent.classed('hidden', false);
+                        } else {
+                            detailsHeader.select('.view-hide').text('View');
+                            detailsToggle.text('+');
+                            detailsContent.classed('hidden', true);
+                        }
+                    });
+                const detailsToggle = detailsHeader
+                    .append('span')
+                    .classed('details-toggle', true)
+                    .text('+');
+                const detailsContent = details
+                    .append('div')
+                    .classed('details-content hidden', true);
+                readTextFile(d.relPath + '/data-standard.html', detailsContent);
             }
 
-            if (['sdtm', 'adam'].indexOf(d.subtype) > -1 && d.folder === d.subtype && data.filter(di => di.subtype === d.subtype).length > 1) {
-                container.append('h3')
-                    .style({
-                        'margin-bottom': '5px',
-                        'margin-left': '25px',
-                    })
-                    .text('Additional Examples:');
-            }
+            //if (['sdtm', 'adam'].indexOf(d.subtype) > -1 && d.folder === d.subtype && data.filter(di => di.subtype === d.subtype).length > 1) {
+            //    container.append('h3')
+            //        .style({
+            //            'margin-bottom': '5px',
+            //            'margin-left': '25px',
+            //        })
+            //        .text('Additional Examples:');
+            //}
         });
 });

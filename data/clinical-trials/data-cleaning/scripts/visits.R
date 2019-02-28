@@ -1,9 +1,10 @@
+rm(list = ls())
 library(tidyverse)
 set.seed(2357)
 
 ### Input data
-    DM <- read.csv('../../safetyData/SDTM/DM.csv', colClasses = 'character')
-    SV <- read.csv('../../safetyData/SDTM/SV.csv', colClasses = 'character')
+    dm <- read.csv('../../sdtm/dm.csv', colClasses = 'character')
+    sv <- read.csv('../../sdtm/sv.csv', colClasses = 'character')
 
 ### Encodings
     visit_metadata <- list(
@@ -46,9 +47,9 @@ set.seed(2357)
     )
 
 ### Data manipulation
-    dmv_Visits <- SV %>%
+    visits <- sv %>%
         left_join(
-            select(DM, USUBJID, SITE, SBJTSTAT, SAFFL),
+            select(dm, USUBJID, SITE, SBJTSTAT, SAFFL),
             by = 'USUBJID'
         ) %>%
         rename(
@@ -63,18 +64,18 @@ set.seed(2357)
         )
 
     # Attach visit metadata as columns in data frame.
-    for (i in 1:nrow(dmv_Visits)) {
+    for (i in 1:nrow(visits)) {
         visit_metadatum <- visit_metadata[
-            which(sapply(visit_metadata, '[[', 1) == dmv_Visits[i,'visit_status'])
+            which(sapply(visit_metadata, '[[', 1) == visits[i,'visit_status'])
         ][[1]]
 
-        dmv_Visits[i,'visit_status_order'] = visit_metadatum$order
-        dmv_Visits[i,'visit_status_color'] = visit_metadatum$status_color
-        dmv_Visits[i,'visit_status_description'] = visit_metadatum$description
+        visits[i,'visit_status_order'] = visit_metadatum$order
+        visits[i,'visit_status_color'] = visit_metadatum$status_color
+        visits[i,'visit_status_description'] = visit_metadatum$description
     }
 
     # Derive additional variables.
-    overdueVisits <- dmv_Visits %>%
+    overdueVisits <- visits %>%
         filter(visit_status == 'Overdue') %>%
         group_by(subjectnameoridentifier) %>%
         mutate(
@@ -82,7 +83,7 @@ set.seed(2357)
         ) %>%
         ungroup()
     overdue2 <- unique(pull(filter(overdueVisits, nOverdue > 1), subjectnameoridentifier))
-    dmv_Visits1 <- dmv_Visits %>%
+    visits1 <- visits %>%
         mutate(
             visit_text = case_when(
                 visit_status %in% c('Expected', 'Overdue') ~ visit_date,
@@ -115,9 +116,9 @@ set.seed(2357)
         )
 
 ### Output data
-    dmv_Visits1 %>%
+    visits1 %>%
         write.csv(
-            'dmv_Visits.csv',
+            '../visits.csv',
             na = '',
             row.names = FALSE
         )

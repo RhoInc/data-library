@@ -1,8 +1,9 @@
+rm(list = ls())
 library(tidyverse)
 set.seed(2357)
 
 ### Input data
-    SV <- read.csv('../SDTM/SV.csv', colClasses = 'character') %>%
+    sv <- read.csv('../sv.csv', colClasses = 'character') %>%
         rename(
             LBDT = SVDT,
             LBDY = SVDY
@@ -10,16 +11,16 @@ set.seed(2357)
         filter(
             SVSTATUS == 'Completed'
         )
-    labs <- read.csv('../raw/labs.csv', colClasses = 'character') %>% select(-SEX)
-    visits <- read.csv('../raw/scheduleOfEvents.csv', colClasses = 'character')
+    labs <- read.csv('../../source/labs.csv', colClasses = 'character') %>% select(-SEX)
+    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
 
 ### Output data
-    LB <- NULL
-    
-    for (i in 1:nrow(SV)) {
-        visit <- SV[i,]
+    lb <- NULL
+
+    for (i in 1:nrow(sv)) {
+        visit <- sv[i,]
         lb_vis <- merge(labs, visit, all = TRUE)
-        
+
         for (j in 1:nrow(lb_vis)) {
             LBSTNRLO <- as.numeric(lb_vis[j,'LBSTNRLO'])
             LBSTNRHI <- as.numeric(lb_vis[j,'LBSTNRHI'])
@@ -28,17 +29,17 @@ set.seed(2357)
             lb_vis[j,'LBSTRESN'] <- ifelse(runif(1) > .02, max(rnorm(1, mean, std), 0), NA)
         }
 
-        LB <- plyr::rbind.fill(LB, lb_vis)
+        lb <- plyr::rbind.fill(lb, lb_vis)
     }
 
-    visits_labs <- merge(visits, labs, all = TRUE) %>%
-        sample_n(nrow(visits)*nrow(labs)/10) %>%
+    scheduleOfEvents_labs <- merge(scheduleOfEvents, labs, all = TRUE) %>%
+        sample_n(nrow(scheduleOfEvents)*nrow(labs)/10) %>%
         mutate(VISIT_LBTEST = paste(VISIT, LBTEST, sep = '_'))
 
-    LB <- LB %>%
+    lb <- lb %>%
         mutate(
             LBSTRESN = ifelse(
-                !paste(VISIT, LBTEST, sep = '_') %in% visits_labs$VISIT_LBTEST,
+                !paste(VISIT, LBTEST, sep = '_') %in% scheduleOfEvents_labs$VISIT_LBTEST,
                     LBSTRESN,
                     NA
             )
@@ -46,9 +47,10 @@ set.seed(2357)
         arrange(USUBJID, VISITNUM, LBTEST) %>%
         select(USUBJID, VISIT, VISITNUM, LBDT, LBDY, LBCAT, LBTEST, LBSTRESU, LBSTRESN, LBSTNRLO, LBSTNRHI)
 
+### Output data
     write.csv(
-        LB,
-        '../SDTM/LB.csv',
+        lb,
+        '../lb.csv',
         row.names = FALSE,
         na = ''
     )

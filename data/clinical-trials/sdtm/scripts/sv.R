@@ -1,25 +1,26 @@
+rm(list = ls())
 library(tidyverse)
 set.seed(2357)
 
 ### Input data
-    DM <- read.csv('../SDTM/DM.csv', colClasses = 'character') %>%
+    dm <- read.csv('../dm.csv', colClasses = 'character') %>%
         select(USUBJID, SBJTSTAT, RFSTDTC, RFENDTC, RFENDY, SAFFL)
-    visits <- read.csv('../raw/scheduleOfEvents.csv', colClasses = 'character')
+    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
 
-### Output data
-    SV <- NULL
+### Derive data
+    sv <- NULL
 
-    for (i in 1:nrow(DM)) {
-        id <- DM[i,]
-        sampledDays <- visits
+    for (i in 1:nrow(dm)) {
+        id <- dm[i,]
+        sampledDays <- scheduleOfEvents
 
-        for (j in 1:nrow(visits)) {
-            STDY <- visits[j,'STDY']
-            ENDY <- visits[j,'ENDY']
+        for (j in 1:nrow(scheduleOfEvents)) {
+            STDY <- scheduleOfEvents[j,'STDY']
+            ENDY <- scheduleOfEvents[j,'ENDY']
             sampledDays[j,'SVDY'] <- sample(STDY:ENDY, 1)
         }
 
-        SV <- SV %>%
+        sv <- sv %>%
             plyr::rbind.fill(
                 merge(
                     id,
@@ -33,7 +34,7 @@ set.seed(2357)
     }
 
   # Sample data and change to unscheduled visits.
-    unscheduledVisitSample <- filter(SV, VISITNUM != '7')
+    unscheduledVisitSample <- filter(sv, VISITNUM != '7')
     unscheduledVisits = sample_n(unscheduledVisitSample, nrow(unscheduledVisitSample)/10, T) %>%
         arrange(USUBJID, VISITNUM) %>%
         group_by(USUBJID, VISITNUM) %>%
@@ -47,7 +48,7 @@ set.seed(2357)
         select(-n)
     
   # Sample end of study visits and change to early termination visits.
-    earlyTerminators <- SV %>%
+    earlyTerminators <- sv %>%
         filter(SBJTSTAT == 'Early Termination' & VISITNUM == '7') %>%
         mutate(
             VISITNUM = '6.9',
@@ -55,16 +56,16 @@ set.seed(2357)
             SVDY = as.Date(RFENDTC) - as.Date(RFSTDTC) + 1
         )
 
-    SV1 <- SV %>%
+    sv1 <- sv %>%
         rbind(unscheduledVisits) %>%
         rbind(earlyTerminators) %>%
         arrange(USUBJID, VISITNUM) %>%
         mutate(
             SVDT = as.Date(RFSTDTC) + SVDY - 1
         )
-    SV2 <- SV1 %>%
+    sv2 <- sv1 %>%
         mutate(
-            deviate = runif(nrow(SV1)),
+            deviate = runif(nrow(sv1)),
             SVSTATUS = case_when(
                 SBJTSTAT == 'Screen Failure' ~ 'Failed',
                 SBJTSTAT == 'Early Termination' & as.numeric(SVDY) > as.numeric(RFENDY) ~ 'Terminated',
@@ -76,9 +77,10 @@ set.seed(2357)
         ) %>%
         select(USUBJID, VISIT, VISITNUM, SVDT, SVDY, SVSTATUS)
 
+### Output data
     write.csv(
-        SV2,
-        '../SDTM/SV.csv',
+        sv2,
+        '../sv.csv',
         row.names = FALSE,
         na = ''
     )

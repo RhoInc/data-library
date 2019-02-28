@@ -1,10 +1,11 @@
+rm(list = ls())
 library(tidyverse)
 set.seed(2357)
 
 ### Input data
-    SV <- read.csv('../raw/scheduleOfEvents.csv', colClasses = 'character')
-    endOfStudy <- SV[SV$VISIT == 'End of Study',]
-    EOSbounds <- c(
+    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
+    endOfStudy <- scheduleOfEvents[scheduleOfEvents$VISIT == 'End of Study',]
+    EOSBounds <- c(
         as.numeric(endOfStudy[1,'STDY']),
         as.numeric(endOfStudy[1,'ENDY'])
     )
@@ -23,8 +24,8 @@ set.seed(2357)
             sample_n(size = n/length(arms)) %>%
             ungroup()
 
-### Data manipulation
-    DM <- possibilities %>%
+### Derive data
+    dm <- possibilities %>%
         bind_cols(
             crossing(
                 siteid = sprintf('%02d', seq(1,5,1)),
@@ -57,9 +58,9 @@ set.seed(2357)
         )
 
     for (i in 1:n) {
-        row <- DM[i,]
+        row <- dm[i,]
         rfstdtc <- row$rfstdtc
-        rfendy <- sample(seq(EOSbounds[1],EOSbounds[2]), 1)
+        rfendy <- sample(seq(EOSBounds[1],EOSBounds[2]), 1)
         sbjtstat <- row$sbjtstat
 
         if (sbjtstat == 'Screen Failure') {
@@ -72,21 +73,21 @@ set.seed(2357)
             rfendtc <- sample(seq(rfstdtc, rfstdtc + (rfendy - 1), 1), 1)
         }
 
-        DM[i,'rfendtc'] <- rfendtc
+        dm[i,'rfendtc'] <- rfendtc
     }
 
-    DM1 <- DM %>%
+    dm1 <- dm %>%
         mutate(
             rfendtc = as.Date(rfendtc, '1970-01-01'),
             rfendy = rfendtc - rfstdtc + 1
         ) %>%
         select(usubjid, site, siteid, age, sex, race, arm, armcd, sbjtstat, rfstdtc, rfendtc, rfendy, saffl, saffn) %>%
         arrange(usubjid)
-    names(DM1) <- toupper(names(DM1))
+    names(dm1) <- toupper(names(dm1))
 
 ### Output data
     write.csv(
-        DM1,
-        '../SDTM/DM.csv',
+        dm1,
+        '../dm.csv',
         row.names = F
     )

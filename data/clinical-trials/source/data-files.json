@@ -8,9 +8,10 @@
             "AEBODSYS",
             "AEPTCD",
             "AEDECOD",
-            "AETERM"
+            "AETERM",
+            "field5"
         ],
-        "nCols": 4
+        "nCols": 5
     },
     {
         "relPath": "./data/clinical-trials/source/fields.csv",

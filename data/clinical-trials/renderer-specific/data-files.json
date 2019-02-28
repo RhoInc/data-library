@@ -3,7 +3,7 @@
         "relPath": "./data/clinical-trials/renderer-specific/adbds.csv",
         "path": "adbds.csv",
         "name": "adbds",
-        "nRows": 13273,
+        "nRows": 13336,
         "cols": [
             "USUBJID",
             "SITE",
@@ -37,7 +37,7 @@
         "relPath": "./data/clinical-trials/renderer-specific/adtimelines.csv",
         "path": "adtimelines.csv",
         "name": "adtimelines",
-        "nRows": 1073,
+        "nRows": 1084,
         "cols": [
             "USUBJID",
             "SITE",

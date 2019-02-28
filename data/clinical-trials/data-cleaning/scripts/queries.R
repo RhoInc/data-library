@@ -1,3 +1,4 @@
+rm(list = ls())
 library(tidyverse)
 set.seed(2357)
 nQueries <- 5000
@@ -6,8 +7,8 @@ nQueries <- 5000
 # Input data
 #-------------------------------------------------------------------------------------------------#
 
-    forms <- read.csv('forms.csv', colClasses = 'character', check.names = FALSE)
-    fields <- read.csv('fields.csv', colClasses = 'character', check.names = FALSE)
+    forms <- read.csv('../../source/forms.csv', colClasses = 'character', check.names = FALSE)
+    fields <- read.csv('../../source/fields.csv', colClasses = 'character', check.names = FALSE)
     statuses <- c('Closed', 'Cancelled') # Open and Answered defined by query answered/resolved dates or lack thereof
     statusProbs <- c(.75, .25)
     markingGroups <- c('Site from System', 'Site from DM', 'Site from CRA')
@@ -113,13 +114,9 @@ nQueries <- 5000
             open_time = queryrecency
         )
 
+### Output data
     write.csv(
         queries1,
-        'queries.csv',
-        row.names = FALSE
-    )
-    write.csv(
-        queries1,
-        'dmq_Queries.csv',
+        '../queries.csv',
         row.names = FALSE
     )

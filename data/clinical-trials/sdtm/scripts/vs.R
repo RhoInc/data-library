@@ -1,8 +1,9 @@
+rm(list = ls())
 library(tidyverse)
 set.seed(2357)
 
 ### Input data
-    SV <- read.csv('../SDTM/SV.csv', colClasses = 'character') %>%
+    sv <- read.csv('../sv.csv', colClasses = 'character') %>%
         rename(
             VSDT = SVDT,
             VSDY = SVDY
@@ -10,7 +11,7 @@ set.seed(2357)
         filter(
             SVSTATUS == 'Completed'
         )
-    vitals <- read.csv('../raw/vitalSigns.csv', colClasses = 'character') %>%
+    vitals <- read.csv('../../source/vital-signs.csv', colClasses = 'character') %>%
         select(-VSAGELO, -VSAGEHI) %>%
         mutate(one = 1) %>%
         group_by(VSTEST) %>%
@@ -18,13 +19,13 @@ set.seed(2357)
         filter(row_number() == n()) %>%
         select(-one, -seq) %>%
         ungroup()
-    visits <- read.csv('../raw/scheduleOfEvents.csv', colClasses = 'character')
+    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
 
-### Output data
-    VS <- NULL
+### Derive data
+    vs <- NULL
 
-    for (i in 1:nrow(SV)) {
-        visit <- SV[i,]
+    for (i in 1:nrow(sv)) {
+        visit <- sv[i,]
         vs_vis <- merge(vitals, visit, all = TRUE)
 
         for (j in 1:nrow(vs_vis)) {
@@ -35,17 +36,17 @@ set.seed(2357)
             vs_vis[j,'VSSTRESN'] <- ifelse(runif(1) > .02, max(rnorm(1, mean, std), 0), NA)
         }
 
-        VS <- plyr::rbind.fill(VS, vs_vis)
+        vs <- plyr::rbind.fill(vs, vs_vis)
     }
 
-    visits_vitals <- merge(visits, vitals, all = TRUE) %>%
-        sample_n(nrow(visits)*nrow(vitals)/10) %>%
+    scheduleOfEvents_vitals <- merge(scheduleOfEvents, vitals, all = TRUE) %>%
+        sample_n(nrow(scheduleOfEvents)*nrow(vitals)/10) %>%
         mutate(VISIT_VSTEST = paste(VISIT, VSTEST, sep = '_'))
 
-    VS <- VS %>%
+    vs <- vs %>%
         mutate(
             VSSTRESN = ifelse(
-                !paste(VISIT, VSTEST, sep = '_') %in% visits_vitals$VISIT_VSTEST,
+                !paste(VISIT, VSTEST, sep = '_') %in% scheduleOfEvents_vitals$VISIT_VSTEST,
                     VSSTRESN,
                     NA
             )
@@ -53,9 +54,10 @@ set.seed(2357)
         arrange(USUBJID, VISITNUM, VSTEST) %>%
         select(USUBJID, VISIT, VISITNUM, VSDT, VSDY, VSCAT, VSTEST, VSSTRESU, VSSTRESN, VSSTNRLO, VSSTNRHI)
 
+### Output data
     write.csv(
-        VS,
-        '../SDTM/VS.csv',
+        vs,
+        '../vs.csv',
         row.names = FALSE,
         na = ''
     )

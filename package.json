@@ -1,6 +1,6 @@
 {
   "name": "data-library",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "public-use datasets for clinical trial data visualizations",
   "main": "index.js",
   "scripts": {

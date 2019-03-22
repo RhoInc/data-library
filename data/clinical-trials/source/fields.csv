@@ -1,56 +1,56 @@
-formoid,fieldname
-SCRN,SCRNDT
-SCRN,INFCYN
-SCRN,PROTOCOL
-SCRN,SFYN
-SCRN,SFRSN
-DM,BIRTHDT
-DM,SEX
-DM,ETHNIC
-DM,RACE
-MH,MHSTDT
-MH,MHENDT
-MH,MHBODSYS
-MH,MHTERM
-VS,VSDT
-VS,SYSBP
-VS,DIABP
-VS,TEMP
-VS,PULSE
-VS,RESP
-VS,WEIGHT
-VS,HEIGHT
-HEMA,HEMADT
-HEMA,HEMATEST
-HEMA,HEMAORRES
-HEMA,HEMAORRESU
-CHEM,CHEMDT
-CHEM,CHEMTEST
-CHEM,CHEMORRES
-CHEM,CHEMORRESU
-CM,CMSTDT
-CM,CMENDT
-CM,CMTRT
-CM,CMIND
-CM,CMDOSE
-CM,CMUNIT
-CM,CMFREQ
-CM,CMROUTE
-AE,AESTDT
-AE,AEENDT
-AE,AETERM
-AE,ONGOING
-AE,AEOUT
-AE,AETRT
-AE,AETOXGR
-SAE,AESTDT
-SAE,AEENDT
-SAE,AETERM
-SAE,SAEDT
-SAE,ONGOING
-PREG,PREGDT
-PREG,AMNIO
-PREG,ULTRA
-DV,DVDT
-DV,DVTYPE
-DV,DVCONT
+formoid,fieldname,fieldlabel
+SCRN,SCRNDT,Screening Date
+SCRN,INFCYN,Informed Consent Flag
+SCRN,PROTOCOL,Protocol Version
+SCRN,SFYN,Screen Failure Flag
+SCRN,SFRSN,Screen Failure Reason
+DM,BIRTHDT,Birth Date
+DM,SEX,Sex
+DM,ETHNIC,Ethnicity
+DM,RACE,Race
+MH,MHSTDT,Medical History Start Date
+MH,MHENDT,Medical History End Date
+MH,MHBODSYS,Body System
+MH,MHTERM,Verbatim Term
+VS,VSDT,Vital Signs Date
+VS,SYSBP,Systolic Blood Pressure
+VS,DIABP,Diastolic Blood Pressure
+VS,TEMP,Temperature
+VS,PULSE,Pulse
+VS,RESP,Respiratory Rate
+VS,WEIGHT,Weight
+VS,HEIGHT,Height
+HEMA,HEMADT,Hematology Date
+HEMA,HEMATEST,Hematology Test
+HEMA,HEMAORRES,Original Results
+HEMA,HEMAORRESU,Original Units
+CHEM,CHEMDT,Chemistry Date
+CHEM,CHEMTEST,Chemistry Test
+CHEM,CHEMORRES,Original Results
+CHEM,CHEMORRESU,Original Units
+CM,CMSTDT,Medication Start Date
+CM,CMENDT,Medication End Date
+CM,CMTRT,Verbatim Term
+CM,CMIND,Indication
+CM,CMDOSE,Dose
+CM,CMUNIT,Units
+CM,CMFREQ,Frequency
+CM,CMROUTE,Route
+AE,AESTDT,Adverse Event Start Date
+AE,AEENDT,Adverse Event End Date
+AE,AETERM,Verbatim Term
+AE,ONGOING,Ongoing?
+AE,AEOUT,Outcome
+AE,AETRT,Required treatment?
+AE,AETOXGR,Toxicity Grade
+SAE,AESTDT,Serious Adverse Event Start Date
+SAE,AEENDT,Serious Adverse Events End Date
+SAE,AETERM,Verbatim Term
+SAE,SAEDT,Serious Adverse Event Date
+SAE,ONGOING,Ongoing?
+PREG,PREGDT,Pregnancy Date
+PREG,AMNIO,Amniocentesis performed?
+PREG,ULTRA,Ultrasound performed?
+DV,DVDT,Deviation Date
+DV,DVTYPE,Deviation Type
+DV,DVCONT,Did participant continue?

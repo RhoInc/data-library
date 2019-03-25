@@ -20,9 +20,10 @@
         "nRows": 55,
         "cols": [
             "formoid",
-            "fieldname"
+            "fieldname",
+            "fieldlabel"
         ],
-        "nCols": 2
+        "nCols": 3
     },
     {
         "relPath": "./data/clinical-trials/source/forms.csv",
@@ -69,11 +70,12 @@
         "nRows": 8,
         "cols": [
             "VISITNUM",
+            "VISITOID",
             "VISIT",
             "STDY",
             "ENDY"
         ],
-        "nCols": 4
+        "nCols": 5
     },
     {
         "relPath": "./data/clinical-trials/source/vital-signs.csv",

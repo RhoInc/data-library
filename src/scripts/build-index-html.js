@@ -1,7 +1,7 @@
 var fs = require('fs');
 var dataFolders = JSON.parse(fs.readFileSync('./src/data-folders.json', 'utf8'))
-var head = fs.readFileSync('./src/templates/head.html', 'utf8').split('\r\n');
-var body = fs.readFileSync('./src/templates/body.html', 'utf8').split('\r\n');
+var head = fs.readFileSync('./src/templates/head.html', 'utf8').split(/\r?\n/);
+var body = fs.readFileSync('./src/templates/body.html', 'utf8').split(/\r?\n/);
 
 function buildIndexHTML(dataFolder) {
     var index = [

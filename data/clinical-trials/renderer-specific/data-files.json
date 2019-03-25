@@ -1,5 +1,39 @@
 [
     {
+        "relPath": "./data/clinical-trials/renderer-specific/adae_queries.csv",
+        "path": "adae_queries.csv",
+        "name": "adae_queries",
+        "nRows": 392,
+        "cols": [
+            "USUBJID",
+            "SITEID",
+            "SITE",
+            "AGE",
+            "SEX",
+            "RACE",
+            "ARM",
+            "RFSTDTC",
+            "SAFFL",
+            "ASEQ",
+            "ASTDT",
+            "ASTDY",
+            "AENDT",
+            "AENDY",
+            "AETERM",
+            "AEDECOD",
+            "AEBODSYS",
+            "AESER",
+            "AEONGO",
+            "AESEV",
+            "AEREL",
+            "AEOUT",
+            "AESEQ",
+            "QUERYFL",
+            "QUERYDETAILS"
+        ],
+        "nCols": 25
+    },
+    {
         "relPath": "./data/clinical-trials/renderer-specific/adbds.csv",
         "path": "adbds.csv",
         "name": "adbds",
@@ -34,6 +68,37 @@
         "nCols": 25
     },
     {
+        "relPath": "./data/clinical-trials/renderer-specific/adbds_queries.csv",
+        "path": "adbds_queries.csv",
+        "name": "adbds_queries",
+        "nRows": 22695,
+        "cols": [
+            "USUBJID",
+            "SITEID",
+            "SITE",
+            "AGE",
+            "SEX",
+            "RACE",
+            "ARM",
+            "RFSTDTC",
+            "SAFFL",
+            "VISIT",
+            "VISITNUM",
+            "DT",
+            "DY",
+            "CAT",
+            "TEST",
+            "STRESU",
+            "STRESN",
+            "STNRLO",
+            "STNRHI",
+            "VISITN",
+            "QUERYFL",
+            "QUERYDETAILS"
+        ],
+        "nCols": 22
+    },
+    {
         "relPath": "./data/clinical-trials/renderer-specific/adtimelines.csv",
         "path": "adtimelines.csv",
         "name": "adtimelines",
@@ -64,6 +129,33 @@
             "TOOLTIP"
         ],
         "nCols": 23
+    },
+    {
+        "relPath": "./data/clinical-trials/renderer-specific/hy.csv",
+        "path": "hy.csv",
+        "name": "hy",
+        "nRows": 320,
+        "cols": [
+            "USUBJID",
+            "SITEID",
+            "AGE",
+            "SEX",
+            "RACE",
+            "ARM",
+            "RFSTDTC",
+            "SAFFL",
+            "CAT",
+            "TEST",
+            "STNRLO",
+            "STNRHI",
+            "STRESU",
+            "VISITN",
+            "VISIT",
+            "DY",
+            "STRESN",
+            "DT"
+        ],
+        "nCols": 18
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific/leap_primary_outcome_determination.csv",

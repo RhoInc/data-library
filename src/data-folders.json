@@ -62,7 +62,7 @@
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific",
-        "nDataFiles": 2,
+        "nDataFiles": 3,
         "split": [
             ".",
             "data",

@@ -8,20 +8,20 @@ var dataFiles = [
         "cols": 12
     },
     {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/miscellaneous/climate-data.csv",
-        "filename": "climate-data.csv",
-        "ext": "csv",
-        "rel_path": "./data/miscellaneous/climate-data.csv",
-        "rows": 95,
-        "cols": 10
-    },
-    {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/miscellaneous/chick-weight.csv",
         "filename": "chick-weight.csv",
         "ext": "csv",
         "rel_path": "./data/miscellaneous/chick-weight.csv",
         "rows": 578,
         "cols": 5
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/miscellaneous/climate-data.csv",
+        "filename": "climate-data.csv",
+        "ext": "csv",
+        "rel_path": "./data/miscellaneous/climate-data.csv",
+        "rows": 95,
+        "cols": 10
     },
     {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/miscellaneous/discrete-scores.csv",
@@ -46,30 +46,6 @@ var dataFiles = [
         "rel_path": "./data/miscellaneous/iris.csv",
         "rows": 150,
         "cols": 5
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/forms.csv",
-        "filename": "forms.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/forms.csv",
-        "rows": 23125,
-        "cols": 20
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/queries.csv",
-        "filename": "queries.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/queries.csv",
-        "rows": 5000,
-        "cols": 18
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/visits.csv",
-        "filename": "visits.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/visits.csv",
-        "rows": 1202,
-        "cols": 17
     },
     {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/adam/adae.csv",
@@ -112,19 +88,19 @@ var dataFiles = [
         "cols": 29
     },
     {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adae_queries.csv",
-        "filename": "adae_queries.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/adae_queries.csv",
-        "rows": 392,
-        "cols": 25
-    },
-    {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adbds.csv",
         "filename": "adbds.csv",
         "ext": "csv",
         "rel_path": "./data/clinical-trials/renderer-specific/adbds.csv",
         "rows": 13336,
+        "cols": 25
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adae_queries.csv",
+        "filename": "adae_queries.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/adae_queries.csv",
+        "rows": 392,
         "cols": 25
     },
     {
@@ -158,6 +134,38 @@ var dataFiles = [
         "rel_path": "./data/clinical-trials/renderer-specific/leap_primary_outcome_determination.csv",
         "rows": 1836,
         "cols": 40
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/dmc_datapage.csv",
+        "filename": "dmc_datapage.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/dmc_datapage.csv",
+        "rows": 23125,
+        "cols": 21
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/forms.csv",
+        "filename": "forms.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/forms.csv",
+        "rows": 23125,
+        "cols": 20
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/queries.csv",
+        "filename": "queries.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/queries.csv",
+        "rows": 5000,
+        "cols": 18
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/visits.csv",
+        "filename": "visits.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/visits.csv",
+        "rows": 1202,
+        "cols": 17
     },
     {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/ae.csv",

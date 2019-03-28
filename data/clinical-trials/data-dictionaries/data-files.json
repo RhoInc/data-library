@@ -1,6 +1,6 @@
 [
     {
-        "relPath": "./data/clinical-trials/source/adverse-events.csv",
+        "relPath": "./data/clinical-trials/data-dictionaries/adverse-events.csv",
         "path": "adverse-events.csv",
         "name": "adverse-events",
         "nRows": 765,
@@ -14,7 +14,7 @@
         "nCols": 5
     },
     {
-        "relPath": "./data/clinical-trials/source/fields.csv",
+        "relPath": "./data/clinical-trials/data-dictionaries/fields.csv",
         "path": "fields.csv",
         "name": "fields",
         "nRows": 55,
@@ -26,7 +26,7 @@
         "nCols": 3
     },
     {
-        "relPath": "./data/clinical-trials/source/forms.csv",
+        "relPath": "./data/clinical-trials/data-dictionaries/forms.csv",
         "path": "forms.csv",
         "name": "forms",
         "nRows": 11,
@@ -37,7 +37,7 @@
         "nCols": 2
     },
     {
-        "relPath": "./data/clinical-trials/source/labs.csv",
+        "relPath": "./data/clinical-trials/data-dictionaries/labs.csv",
         "path": "labs.csv",
         "name": "labs",
         "nRows": 16,
@@ -52,7 +52,7 @@
         "nCols": 6
     },
     {
-        "relPath": "./data/clinical-trials/source/medications.csv",
+        "relPath": "./data/clinical-trials/data-dictionaries/medications.csv",
         "path": "medications.csv",
         "name": "medications",
         "nRows": 654,
@@ -64,7 +64,7 @@
         "nCols": 3
     },
     {
-        "relPath": "./data/clinical-trials/source/schedule-of-events.csv",
+        "relPath": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv",
         "path": "schedule-of-events.csv",
         "name": "schedule-of-events",
         "nRows": 8,
@@ -78,7 +78,7 @@
         "nCols": 5
     },
     {
-        "relPath": "./data/clinical-trials/source/vital-signs.csv",
+        "relPath": "./data/clinical-trials/data-dictionaries/vital-signs.csv",
         "path": "vital-signs.csv",
         "name": "vital-signs",
         "nRows": 27,

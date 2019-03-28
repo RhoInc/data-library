@@ -76,19 +76,19 @@
         "header": "Renderer-Specific Datasets"
     },
     {
-        "relPath": "./data/clinical-trials/source",
+        "relPath": "./data/clinical-trials/data-dictionaries",
         "nDataFiles": 7,
         "split": [
             ".",
             "data",
             "clinical-trials",
-            "source"
+            "data-dictionaries"
         ],
         "nFolders": 3,
-        "folder": "source",
+        "folder": "data-dictionaries",
         "type": "clinical-trials",
-        "subtype": "source",
-        "header": "Source Datasets"
+        "subtype": "data-dictionaries",
+        "header": "Data Dictionaries Datasets"
     },
     {
         "relPath": "./data/miscellaneous",

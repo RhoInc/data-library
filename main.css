@@ -1,24 +1,38 @@
-body {
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    font-size: 14px
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Lato", sans-serif
 }
-h1, h2 {
-    margin-top: 0.3em;
-    margin-bottom: 0;
-	font-weight: lighter;
+.w3-bar,h1,button {
+    font-family: "Montserrat", sans-serif
 }
-h1 {
-	font-size: 2.5rem;
+
+.w3-twothird{
+  text-align:justify;
 }
-h2 {
-	font-size: 1.5rem;
+
+.fa-anchor,.fa-coffee {
+    font-size:200px
 }
-.frontpage-header {
-    text-align: center;
+.rho-blue {
+    background: #326195;
+    color: white;
 }
-.frontpage-header p {
-    margin-top: 0;
+.rho-green {
+    background: #6ebe4b;
+    color: black;
 }
+.rho-logo {
+    margin-top: 84px;
+    margin-left: 48px;
+}
+
+header{
+  margin-top:50px;
+  padding-top:1em;
+  padding-bottom:1em;
+  color: #326195; /* Rho Blue */
+
+}
+
 .main {
     max-width: 1306px;
     display: block;
@@ -26,6 +40,7 @@ h2 {
     margin-right: auto;
     position: relative;
 }
+
 .data-group {
     width: 100%;
     display: flex;
@@ -39,8 +54,7 @@ h2 {
     width: 30%;
     margin: 12px 0;
 }
-.header {
-}
+
 .n-data-files {
     font-size: 16px;
 }
@@ -48,38 +62,39 @@ h2 {
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
-.details {
-}
+
 .details-header {
     position: relative;
     cursor: pointer;
     font-size: 18px;
     margin-top: 6px;
 }
+
 .details-header:hover {
     background: #eee;
 }
+
 .details-toggle {
     position: absolute;
     top: 0;
     right: 0;
 }
+
 .details-content {
     margin-top: 6px;
 }
+
 .details-content.hidden {
     display: none;
 }
-.return-home {
-    position: absolute;
-    top: -20px;
-}
+
 .links {
     max-width: 1306px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 .footer {
     font-size: 0.8em;
 }

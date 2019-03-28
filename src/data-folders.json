@@ -47,7 +47,7 @@
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning",
-        "nDataFiles": 4,
+        "nDataFiles": 9,
         "split": [
             ".",
             "data",

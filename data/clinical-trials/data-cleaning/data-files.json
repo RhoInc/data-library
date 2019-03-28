@@ -1,5 +1,75 @@
 [
     {
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
+        "path": "dashboard-enrollment.csv",
+        "name": "dashboard-enrollment",
+        "nRows": 69,
+        "cols": [
+            "site",
+            "population",
+            "population_order",
+            "population_color",
+            "population_superset"
+        ],
+        "nCols": 5
+    },
+    {
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-enrollmentovertime.csv",
+        "path": "dashboard-enrollmentovertime.csv",
+        "name": "dashboard-enrollmentovertime",
+        "nRows": 1206,
+        "cols": [
+            "site",
+            "date",
+            "population",
+            "population_order",
+            "population_color",
+            "participant_count"
+        ],
+        "nCols": 6
+    },
+    {
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-forms.csv",
+        "path": "dashboard-forms.csv",
+        "name": "dashboard-forms",
+        "nRows": 3367,
+        "cols": [
+            "site",
+            "status",
+            "status_order",
+            "status_color"
+        ],
+        "nCols": 4
+    },
+    {
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-queries.csv",
+        "path": "dashboard-queries.csv",
+        "name": "dashboard-queries",
+        "nRows": 809,
+        "cols": [
+            "site",
+            "status",
+            "status_order",
+            "status_color"
+        ],
+        "nCols": 4
+    },
+    {
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-visitcompletion.csv",
+        "path": "dashboard-visitcompletion.csv",
+        "name": "dashboard-visitcompletion",
+        "nRows": 501,
+        "cols": [
+            "site",
+            "visit",
+            "visit_order",
+            "status",
+            "status_order",
+            "status_color"
+        ],
+        "nCols": 6
+    },
+    {
         "relPath": "./data/clinical-trials/data-cleaning/dmc_datapage.csv",
         "path": "dmc_datapage.csv",
         "name": "dmc_datapage",

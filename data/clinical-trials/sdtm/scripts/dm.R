@@ -3,7 +3,7 @@ library(tidyverse)
 set.seed(2357)
 
 ### Input data
-    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
+    scheduleOfEvents <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character')
     endOfStudy <- scheduleOfEvents[scheduleOfEvents$VISIT == 'End of Study',]
     EOSBounds <- c(
         as.numeric(endOfStudy[1,'STDY']),

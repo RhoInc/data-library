@@ -4,9 +4,10 @@
   "description": "public-use datasets for clinical trial data visualizations",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build-data-files-json && npm run build-metadata-json && npm run build-index-html && npm run build-index-js",
+    "build": "npm run build-data-files-json && npm run build-metadata-json && npm run build-main-index-html && npm run build-index-html && npm run build-index-js",
     "build-data-files-json": "node ./src/scripts/build-data-files-json.js",
     "build-index-html": "node ./src/scripts/build-index-html.js",
+    "build-main-index-html": "node ./src/scripts/build-main-index-html.js",
     "build-index-js": "node ./src/scripts/build-index-js.js",
     "build-metadata-json": "node ./src/scripts/build-metadata-json.js"
   },

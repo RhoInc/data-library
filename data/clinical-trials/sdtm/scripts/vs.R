@@ -11,7 +11,7 @@ set.seed(2357)
         filter(
             SVSTATUS == 'Completed'
         )
-    vitals <- read.csv('../../source/vital-signs.csv', colClasses = 'character') %>%
+    vitals <- read.csv('../../data-dictionaries/vital-signs.csv', colClasses = 'character') %>%
         select(-VSAGELO, -VSAGEHI) %>%
         mutate(one = 1) %>%
         group_by(VSTEST) %>%
@@ -19,7 +19,7 @@ set.seed(2357)
         filter(row_number() == n()) %>%
         select(-one, -seq) %>%
         ungroup()
-    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
+    scheduleOfEvents <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character')
 
 ### Derive data
     vs <- NULL

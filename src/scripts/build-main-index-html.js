@@ -1,8 +1,7 @@
 var fs = require('fs');
-var dataFolders = JSON.parse(fs.readFileSync('./src/data-folders.json', 'utf8'))
 var head = fs.readFileSync('./src/templates/head.html', 'utf8').split(/\r?\n/);
 var bodyHeader = fs.readFileSync('./src/templates/body-header.html', 'utf8').split(/\r?\n/);
-var bodyContent = fs.readFileSync('./src/templates/body-content.html', 'utf8').split(/\r?\n/);
+var bodyContent = fs.readFileSync('./src/templates/body-content-main.html', 'utf8').split(/\r?\n/);
 var bodyFooter = fs.readFileSync('./src/templates/body-footer.html', 'utf8').split(/\r?\n/);
 
 function buildIndexHTML(dataFolder) {
@@ -16,8 +15,8 @@ function buildIndexHTML(dataFolder) {
         head.forEach((line,i) => {
             if (i < head.length - 1)
                 index.push(`        ${
-                    line.replace('[nFolders]/', '../'.repeat(dataFolder.nFolders))
-                        .replace('[header]', dataFolder.header)
+                    line.replace('[nFolders]/', './')
+                        .replace('[header]', 'Data Library')
                 }`);
         });
     index.push('    </head>\r\n');
@@ -27,22 +26,22 @@ function buildIndexHTML(dataFolder) {
         bodyHeader.forEach((line,i) => {
             if (i < bodyHeader.length - 1)
                 index.push(`        ${
-                    line.replace('[nFolders]/', '../'.repeat(dataFolder.nFolders))
-                        .replace('[header]', dataFolder.header)
+                    line.replace('[nFolders]/', './')
+                        .replace('[header]', 'Data Library')
             }`);
         });
         bodyContent.forEach((line,i) => {
             if (i < bodyContent.length - 1)
                 index.push(`        ${
-                    line.replace('[nFolders]/', '../'.repeat(dataFolder.nFolders))
-                        .replace('[header]', dataFolder.header)
+                    line.replace('[nFolders]/', './')
+                        .replace('[header]', 'Data Library')
             }`);
         });
         bodyFooter.forEach((line,i) => {
             if (i < bodyFooter.length - 1)
                 index.push(`        ${
-                    line.replace('[nFolders]/', '../'.repeat(dataFolder.nFolders))
-                        .replace('[header]', dataFolder.header)
+                    line.replace('[nFolders]/', './')
+                        .replace('[header]', 'Data Library')
             }`);
         });
     index.push('    </body>\r\n');
@@ -54,16 +53,14 @@ function buildIndexHTML(dataFolder) {
 
     //Output index.html.
     fs.writeFile(
-        `${dataFolder.relPath}/index.html`,
+        `./index.html`,
         index.join('\r\n'),
         err => {
             if (err)
                 console.log(err);
-                console.log(`index.html was successfully built in ${dataFolder.folder}!`);
+                console.log(`Main index.html was successfully built!`);
         }
     );
 }
 
-dataFolders.forEach(dataFolder => {
-    buildIndexHTML(dataFolder);
-});
+buildIndexHTML('.');

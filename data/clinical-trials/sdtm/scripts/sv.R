@@ -5,7 +5,7 @@ set.seed(2357)
 ### Input data
     dm <- read.csv('../dm.csv', colClasses = 'character') %>%
         select(USUBJID, SBJTSTAT, RFSTDTC, RFENDTC, RFENDY, SAFFL)
-    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
+    scheduleOfEvents <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character')
 
 ### Derive data
     sv <- NULL

@@ -1,8 +1,8 @@
 body,h1,h2,h3,h4,h5,h6 {
-    font-family: "Lato", sans-serif
+    font-family: "Lato", sans-serif;
 }
 .w3-bar,h1,button {
-    font-family: "Montserrat", sans-serif
+    font-family: "Montserrat", sans-serif;
 }
 
 .w3-twothird{
@@ -10,7 +10,7 @@ body,h1,h2,h3,h4,h5,h6 {
 }
 
 .fa-anchor,.fa-coffee {
-    font-size:200px
+    font-size:200px;
 }
 .rho-blue {
     background: #326195;
@@ -41,6 +41,10 @@ header{
     position: relative;
 }
 
+h2.header {
+    font-size: 24px;
+}
+
 .data-group {
     width: 100%;
     display: flex;
@@ -51,7 +55,7 @@ header{
     padding: 12px;
     border: 1px solid #aaa;
     border-radius: 10px;
-    width: 30%;
+    width: 32%;
     margin: 12px 0;
 }
 
@@ -107,7 +111,7 @@ header{
 }
 
 
-.files-content ul li a i.fa-file-download{
+.files-content ul li a i.fa-download{
 	margin-right:1.5em;
 }
 

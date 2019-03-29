@@ -8,9 +8,9 @@ nQueries <- 5000
 #-------------------------------------------------------------------------------------------------#
 
     sites <- 1:5
-    visits <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character', check.names = FALSE)
-    forms <- read.csv('../../source/forms.csv', colClasses = 'character', check.names = FALSE)
-    fields <- read.csv('../../source/fields.csv', colClasses = 'character', check.names = FALSE)
+    visits <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character', check.names = FALSE)
+    forms <- read.csv('../../data-dictionaries/forms.csv', colClasses = 'character', check.names = FALSE)
+    fields <- read.csv('../../data-dictionaries/fields.csv', colClasses = 'character', check.names = FALSE)
     statuses <- c('Closed', 'Cancelled') # Open and Answered defined by query answered/resolved dates or lack thereof
     statusProbs <- c(.75, .25)
     markingGroups <- c('Site from System', 'Site from DM', 'Site from CRA')

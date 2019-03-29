@@ -99,7 +99,7 @@ d3.json('./src/data-folders.json', function(data) {
 
                 files_lis
                 .append("a")
-                .html("<i class='fas fa-file-download'></i>")
+                .html("<i class='fa fa-download'></i>")
                 .attr("title",d=>"Download "+d.fileName)
                 .attr("href",d=>d.rel_url)
                 .attr("download",d=>d.fileName)
@@ -116,13 +116,13 @@ d3.json('./src/data-folders.json', function(data) {
                 files_lis
                 .append("a")
                 .attr("title",d=>"Copy URL for "+d.fileName+" to clipboard")
-                .html("<i class='fas fa-clipboard'></i>")
+                .html("<i class='fa fa-clipboard'></i>")
                 .on("click",function(d){
                     var icon = d3.select(this)
                     copyToClipboard(d.download_url)
-                    icon.html("<i style='color:green;' class='fas fa-check'></i>")
+                    icon.html("<i style='color:green;' class='fa fa-check'></i>")
                     setTimeout(function () {
-                      icon.html("<i class='fas fa-clipboard'></i>")
+                      icon.html("<i class='fa fa-clipboard'></i>")
                     }, 1000);
                 })
 

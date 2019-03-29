@@ -63,30 +63,54 @@ header{
     margin-bottom: 10px;
 }
 
-.details-header {
+.details-header, .files-header {
     position: relative;
     cursor: pointer;
     font-size: 18px;
     margin-top: 6px;
 }
 
-.details-header:hover {
+.details-header:hover, .files-header:hover {
     background: #eee;
 }
 
-.details-toggle {
+.details-toggle, .files-toggle {
     position: absolute;
     top: 0;
     right: 0;
 }
 
-.details-content {
+.details-content, .files-content {
     margin-top: 6px;
 }
 
-.details-content.hidden {
+.details-content.hidden, .files-content.hidden {
     display: none;
 }
+
+.files-content ul{
+ list-style: none;
+ margin:0;
+ padding:0;
+}
+
+.files-content ul li{
+	position:relative;
+}
+
+.files-content ul li a i{
+  color:#326195;
+  cursor:pointer;
+	position: absolute;
+	top: 0;
+	right:0;
+}
+
+
+.files-content ul li a i.fa-file-download{
+	margin-right:1.5em;
+}
+
 
 .links {
     max-width: 1306px;

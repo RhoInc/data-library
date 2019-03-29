@@ -26,9 +26,17 @@ var descend = async function(dir) {
         .filter(file => file.split('.').pop() === 'csv');
 
     if (dataFiles.length) {
+      var parsedFiles = dataFiles.map(function(m){
+        return {
+          fileName: m.substring(m.lastIndexOf('/')+1),
+          download_url: "https://raw.githubusercontent.com/RhoInc/data-library/master/"+m.slice(2),
+          rel_url:m
+        }
+      })
         dataFolders.push({
             relPath: dir,
             nDataFiles: dataFiles.length,
+            dataFiles:parsedFiles,
             split: dir.split('/'),
         });
         //Capture .csv metadata.

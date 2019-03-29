@@ -4,7 +4,7 @@ set.seed(2357)
 
 ### Input data
     dm <- read.csv('../dm.csv', colClasses = 'character') %>% select(USUBJID, SAFFL, RFSTDTC)
-    adverseEvents <- read.csv('../../source/adverse-events.csv', colClasses = 'character')
+    adverseEvents <- read.csv('../../data-dictionaries/adverse-events.csv', colClasses = 'character')
 
 ### Derive data
     ae <- NULL

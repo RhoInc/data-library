@@ -11,8 +11,8 @@ set.seed(2357)
         filter(
             SVSTATUS == 'Completed'
         )
-    labs <- read.csv('../../source/labs.csv', colClasses = 'character') %>% select(-SEX)
-    scheduleOfEvents <- read.csv('../../source/schedule-of-events.csv', colClasses = 'character')
+    labs <- read.csv('../../data-dictionaries/labs.csv', colClasses = 'character') %>% select(-SEX)
+    scheduleOfEvents <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character')
 
 ### Output data
     lb <- NULL

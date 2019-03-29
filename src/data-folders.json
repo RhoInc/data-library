@@ -2,6 +2,38 @@
     {
         "relPath": "./data/clinical-trials/sdtm",
         "nDataFiles": 6,
+        "dataFiles": [
+            {
+                "fileName": "ae.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/ae.csv",
+                "rel_url": "./data/clinical-trials/sdtm/ae.csv"
+            },
+            {
+                "fileName": "cm.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cm.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cm.csv"
+            },
+            {
+                "fileName": "dm.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/dm.csv",
+                "rel_url": "./data/clinical-trials/sdtm/dm.csv"
+            },
+            {
+                "fileName": "lb.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/lb.csv",
+                "rel_url": "./data/clinical-trials/sdtm/lb.csv"
+            },
+            {
+                "fileName": "sv.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/sv.csv",
+                "rel_url": "./data/clinical-trials/sdtm/sv.csv"
+            },
+            {
+                "fileName": "vs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/vs.csv",
+                "rel_url": "./data/clinical-trials/sdtm/vs.csv"
+            }
+        ],
         "split": [
             ".",
             "data",
@@ -17,6 +49,128 @@
     {
         "relPath": "./data/clinical-trials/sdtm/cdisc-pilot-01",
         "nDataFiles": 24,
+        "dataFiles": [
+            {
+                "fileName": "ae.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/ae.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/ae.csv"
+            },
+            {
+                "fileName": "cm.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/cm.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/cm.csv"
+            },
+            {
+                "fileName": "dm.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/dm.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/dm.csv"
+            },
+            {
+                "fileName": "ds.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/ds.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/ds.csv"
+            },
+            {
+                "fileName": "ex.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/ex.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/ex.csv"
+            },
+            {
+                "fileName": "lb.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/lb.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/lb.csv"
+            },
+            {
+                "fileName": "meta_study.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv"
+            },
+            {
+                "fileName": "meta_var.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv"
+            },
+            {
+                "fileName": "mh.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/mh.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/mh.csv"
+            },
+            {
+                "fileName": "qs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/qs.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/qs.csv"
+            },
+            {
+                "fileName": "relrec.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/relrec.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/relrec.csv"
+            },
+            {
+                "fileName": "sc.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/sc.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/sc.csv"
+            },
+            {
+                "fileName": "se.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/se.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/se.csv"
+            },
+            {
+                "fileName": "suppae.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/suppae.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppae.csv"
+            },
+            {
+                "fileName": "suppdm.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/suppdm.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppdm.csv"
+            },
+            {
+                "fileName": "suppds.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/suppds.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/suppds.csv"
+            },
+            {
+                "fileName": "supplb.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/supplb.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/supplb.csv"
+            },
+            {
+                "fileName": "sv.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv"
+            },
+            {
+                "fileName": "ta.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/ta.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/ta.csv"
+            },
+            {
+                "fileName": "te.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/te.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/te.csv"
+            },
+            {
+                "fileName": "ti.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/ti.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/ti.csv"
+            },
+            {
+                "fileName": "ts.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/ts.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/ts.csv"
+            },
+            {
+                "fileName": "tv.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/tv.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/tv.csv"
+            },
+            {
+                "fileName": "vs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/vs.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/vs.csv"
+            }
+        ],
         "split": [
             ".",
             "data",
@@ -33,6 +187,33 @@
     {
         "relPath": "./data/clinical-trials/adam",
         "nDataFiles": 5,
+        "dataFiles": [
+            {
+                "fileName": "adae.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/adae.csv",
+                "rel_url": "./data/clinical-trials/adam/adae.csv"
+            },
+            {
+                "fileName": "adcm.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/adcm.csv",
+                "rel_url": "./data/clinical-trials/adam/adcm.csv"
+            },
+            {
+                "fileName": "adlb.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/adlb.csv",
+                "rel_url": "./data/clinical-trials/adam/adlb.csv"
+            },
+            {
+                "fileName": "adsl.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/adsl.csv",
+                "rel_url": "./data/clinical-trials/adam/adsl.csv"
+            },
+            {
+                "fileName": "advs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/advs.csv",
+                "rel_url": "./data/clinical-trials/adam/advs.csv"
+            }
+        ],
         "split": [
             ".",
             "data",
@@ -48,6 +229,53 @@
     {
         "relPath": "./data/clinical-trials/data-cleaning",
         "nDataFiles": 9,
+        "dataFiles": [
+            {
+                "fileName": "dashboard-enrollment.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-enrollment.csv"
+            },
+            {
+                "fileName": "dashboard-enrollmentovertime.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-enrollmentovertime.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-enrollmentovertime.csv"
+            },
+            {
+                "fileName": "dashboard-forms.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-forms.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-forms.csv"
+            },
+            {
+                "fileName": "dashboard-queries.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-queries.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-queries.csv"
+            },
+            {
+                "fileName": "dashboard-visitcompletion.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-visitcompletion.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-visitcompletion.csv"
+            },
+            {
+                "fileName": "dmc_datapage.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dmc_datapage.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dmc_datapage.csv"
+            },
+            {
+                "fileName": "forms.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/forms.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/forms.csv"
+            },
+            {
+                "fileName": "queries.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/queries.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/queries.csv"
+            },
+            {
+                "fileName": "visits.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/visits.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/visits.csv"
+            }
+        ],
         "split": [
             ".",
             "data",
@@ -63,6 +291,43 @@
     {
         "relPath": "./data/clinical-trials/renderer-specific",
         "nDataFiles": 7,
+        "dataFiles": [
+            {
+                "fileName": "adae_queries.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adae_queries.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adae_queries.csv"
+            },
+            {
+                "fileName": "adbds.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adbds.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adbds.csv"
+            },
+            {
+                "fileName": "adbds_queries.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adbds_queries.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adbds_queries.csv"
+            },
+            {
+                "fileName": "adtimelines.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adtimelines.csv"
+            },
+            {
+                "fileName": "ADTIMELINES_partialMissing.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/ADTIMELINES_partialMissing.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/ADTIMELINES_partialMissing.csv"
+            },
+            {
+                "fileName": "hy.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/hy.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/hy.csv"
+            },
+            {
+                "fileName": "leap_primary_outcome_determination.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/leap_primary_outcome_determination.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/leap_primary_outcome_determination.csv"
+            }
+        ],
         "split": [
             ".",
             "data",
@@ -76,23 +341,92 @@
         "header": "Renderer-Specific Datasets"
     },
     {
-        "relPath": "./data/clinical-trials/source",
+        "relPath": "./data/clinical-trials/data-dictionaries",
         "nDataFiles": 7,
+        "dataFiles": [
+            {
+                "fileName": "adverse-events.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/adverse-events.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/adverse-events.csv"
+            },
+            {
+                "fileName": "fields.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/fields.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/fields.csv"
+            },
+            {
+                "fileName": "forms.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/forms.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/forms.csv"
+            },
+            {
+                "fileName": "labs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/labs.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/labs.csv"
+            },
+            {
+                "fileName": "medications.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/medications.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/medications.csv"
+            },
+            {
+                "fileName": "schedule-of-events.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/schedule-of-events.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv"
+            },
+            {
+                "fileName": "vital-signs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/vital-signs.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/vital-signs.csv"
+            }
+        ],
         "split": [
             ".",
             "data",
             "clinical-trials",
-            "source"
+            "data-dictionaries"
         ],
         "nFolders": 3,
-        "folder": "source",
+        "folder": "data-dictionaries",
         "type": "clinical-trials",
-        "subtype": "source",
-        "header": "Source Datasets"
+        "subtype": "data-dictionaries",
+        "header": "Data Dictionaries Datasets"
     },
     {
         "relPath": "./data/miscellaneous",
         "nDataFiles": 6,
+        "dataFiles": [
+            {
+                "fileName": "cars.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/miscellaneous/cars.csv",
+                "rel_url": "./data/miscellaneous/cars.csv"
+            },
+            {
+                "fileName": "chick-weight.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/miscellaneous/chick-weight.csv",
+                "rel_url": "./data/miscellaneous/chick-weight.csv"
+            },
+            {
+                "fileName": "climate-data.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/miscellaneous/climate-data.csv",
+                "rel_url": "./data/miscellaneous/climate-data.csv"
+            },
+            {
+                "fileName": "discrete-scores.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/miscellaneous/discrete-scores.csv",
+                "rel_url": "./data/miscellaneous/discrete-scores.csv"
+            },
+            {
+                "fileName": "elements.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/miscellaneous/elements.csv",
+                "rel_url": "./data/miscellaneous/elements.csv"
+            },
+            {
+                "fileName": "iris.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/miscellaneous/iris.csv",
+                "rel_url": "./data/miscellaneous/iris.csv"
+            }
+        ],
         "split": [
             ".",
             "data",

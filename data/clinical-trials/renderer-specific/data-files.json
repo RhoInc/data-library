@@ -131,9 +131,9 @@
         "nCols": 23
     },
     {
-        "relPath": "./data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv",
-        "path": "adtimelines_partialmissing.csv",
-        "name": "adtimelines_partialmissing",
+        "relPath": "./data/clinical-trials/renderer-specific/ADTIMELINES_partialMissing.csv",
+        "path": "ADTIMELINES_partialMissing.csv",
+        "name": "ADTIMELINES_partialMissing",
         "nRows": 1067,
         "cols": [
             "USUBJID",

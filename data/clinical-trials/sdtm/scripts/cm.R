@@ -4,7 +4,7 @@ set.seed(2357)
 
 ### Input data
     dm <- read.csv('../dm.csv', colClasses = 'character') %>% select(USUBJID, SAFFL, RFSTDTC)
-    medications <- read.csv('../../source/medications.csv', colClasses = 'character')
+    medications <- read.csv('../../data-dictionaries/medications.csv', colClasses = 'character')
 
 ### Derive data
     cm <- NULL

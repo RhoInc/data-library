@@ -1,24 +1,38 @@
-body {
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    font-size: 14px
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Lato", sans-serif;
 }
-h1, h2 {
-    margin-top: 0.3em;
-    margin-bottom: 0;
-	font-weight: lighter;
+.w3-bar,h1,button {
+    font-family: "Montserrat", sans-serif;
 }
-h1 {
-	font-size: 2.5rem;
+
+.w3-twothird{
+  text-align:justify;
 }
-h2 {
-	font-size: 1.5rem;
+
+.fa-anchor,.fa-coffee {
+    font-size:200px;
 }
-.frontpage-header {
-    text-align: center;
+.rho-blue {
+    background: #326195;
+    color: white;
 }
-.frontpage-header p {
-    margin-top: 0;
+.rho-green {
+    background: #6ebe4b;
+    color: black;
 }
+.rho-logo {
+    margin-top: 84px;
+    margin-left: 48px;
+}
+
+header{
+  margin-top:50px;
+  padding-top:1em;
+  padding-bottom:1em;
+  color: #326195; /* Rho Blue */
+
+}
+
 .main {
     max-width: 1306px;
     display: block;
@@ -26,6 +40,11 @@ h2 {
     margin-right: auto;
     position: relative;
 }
+
+h2.header {
+    font-size: 24px;
+}
+
 .data-group {
     width: 100%;
     display: flex;
@@ -36,11 +55,10 @@ h2 {
     padding: 12px;
     border: 1px solid #aaa;
     border-radius: 10px;
-    width: 30%;
+    width: 32%;
     margin: 12px 0;
 }
-.header {
-}
+
 .n-data-files {
     font-size: 16px;
 }
@@ -48,38 +66,63 @@ h2 {
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
-.details {
-}
-.details-header {
+
+.details-header, .files-header {
     position: relative;
     cursor: pointer;
     font-size: 18px;
     margin-top: 6px;
 }
-.details-header:hover {
+
+.details-header:hover, .files-header:hover {
     background: #eee;
 }
-.details-toggle {
+
+.details-toggle, .files-toggle {
     position: absolute;
     top: 0;
     right: 0;
 }
-.details-content {
+
+.details-content, .files-content {
     margin-top: 6px;
 }
-.details-content.hidden {
+
+.details-content.hidden, .files-content.hidden {
     display: none;
 }
-.return-home {
-    position: absolute;
-    top: -20px;
+
+.files-content ul{
+ list-style: none;
+ margin:0;
+ padding:0;
 }
+
+.files-content ul li{
+	position:relative;
+}
+
+.files-content ul li a i{
+  color:#326195;
+  cursor:pointer;
+	position: absolute;
+	top: 0;
+	right:0;
+}
+
+
+.files-content ul li a i.fa-download{
+	margin-right:1.5em;
+}
+
+
 .links {
     max-width: 1306px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 .footer {
     font-size: 0.8em;
 }
@@ -89,6 +132,7 @@ h2 {
     border-top: 1px solid #aaa;
     border-bottom: 1px solid #aaa;
     margin: 12px 0;
+    z-index: auto;
 }
 .web-codebook-container .web-codebook .title.section {
     display: flex;
@@ -111,8 +155,9 @@ h2 {
     width: 100%;
 }
 .web-codebook-container .web-codebook .fileListing.section .wc-table {
-    width: 50%;
+    width: 75%;
     margin: 0 auto;
+    display: block !important;
 }
 .web-codebook-container .web-codebook .fileListing.section .wc-table table {
     font-size: 20px;

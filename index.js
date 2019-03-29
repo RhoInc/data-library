@@ -120,9 +120,9 @@ d3.json('./src/data-folders.json', function(data) {
                 .on("click",function(d){
                     var icon = d3.select(this)
                     copyToClipboard(d.download_url)
-                    icon.html("<i style='color:green; class='fas fa-check'></i>")
+                    icon.html("<i style='color:green;' class='fas fa-check'></i>")
                     setTimeout(function () {
-                      icon.html("<i 'class='fas fa-clipboard'></i>")
+                      icon.html("<i class='fas fa-clipboard'></i>")
                     }, 1000);
                 })
 

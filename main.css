@@ -128,6 +128,7 @@ header{
     border-top: 1px solid #aaa;
     border-bottom: 1px solid #aaa;
     margin: 12px 0;
+    z-index: auto;
 }
 .web-codebook-container .web-codebook .title.section {
     display: flex;
@@ -150,8 +151,9 @@ header{
     width: 100%;
 }
 .web-codebook-container .web-codebook .fileListing.section .wc-table {
-    width: 50%;
+    width: 75%;
     margin: 0 auto;
+    display: block !important;
 }
 .web-codebook-container .web-codebook .fileListing.section .wc-table table {
     font-size: 20px;

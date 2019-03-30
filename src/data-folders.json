@@ -313,9 +313,9 @@
                 "rel_url": "./data/clinical-trials/renderer-specific/adtimelines.csv"
             },
             {
-                "fileName": "ADTIMELINES_partialMissing.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/ADTIMELINES_partialMissing.csv",
-                "rel_url": "./data/clinical-trials/renderer-specific/ADTIMELINES_partialMissing.csv"
+                "fileName": "adtimelines_partialmissing.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv"
             },
             {
                 "fileName": "hy.csv",
@@ -342,7 +342,7 @@
     },
     {
         "relPath": "./data/clinical-trials/data-dictionaries",
-        "nDataFiles": 7,
+        "nDataFiles": 8,
         "dataFiles": [
             {
                 "fileName": "adverse-events.csv",
@@ -373,6 +373,11 @@
                 "fileName": "schedule-of-events.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/schedule-of-events.csv",
                 "rel_url": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv"
+            },
+            {
+                "fileName": "variable-metadata.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/variable-metadata.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/variable-metadata.csv"
             },
             {
                 "fileName": "vital-signs.csv",

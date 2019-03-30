@@ -78,6 +78,25 @@
         "nCols": 5
     },
     {
+        "relPath": "./data/clinical-trials/data-dictionaries/variable-metadata.csv",
+        "path": "variable-metadata.csv",
+        "name": "variable-metadata",
+        "nRows": 103,
+        "cols": [
+            "Form",
+            "Variable",
+            "Label",
+            "Key",
+            "Type",
+            "Length",
+            "Code List / Controlled Terms",
+            "Origin",
+            "Role",
+            "Source/Derivation/Comments"
+        ],
+        "nCols": 10
+    },
+    {
         "relPath": "./data/clinical-trials/data-dictionaries/vital-signs.csv",
         "path": "vital-signs.csv",
         "name": "vital-signs",

@@ -99,6 +99,32 @@
         "nCols": 22
     },
     {
+        "relPath": "./data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
+        "path": "adtimelines-partial-missing.csv",
+        "name": "adtimelines-partial-missing",
+        "nRows": 1067,
+        "cols": [
+            "USUBJID",
+            "SITEID",
+            "SITE",
+            "AGE",
+            "SEX",
+            "RACE",
+            "ARM",
+            "RFSTDTC",
+            "SAFFL",
+            "DOMAIN",
+            "STDT",
+            "STDY",
+            "ENDT",
+            "ENDY",
+            "SEQ",
+            "ONGO",
+            "TOOLTIP"
+        ],
+        "nCols": 17
+    },
+    {
         "relPath": "./data/clinical-trials/renderer-specific/adtimelines.csv",
         "path": "adtimelines.csv",
         "name": "adtimelines",
@@ -129,32 +155,6 @@
             "TOOLTIP"
         ],
         "nCols": 23
-    },
-    {
-        "relPath": "./data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv",
-        "path": "adtimelines_partialmissing.csv",
-        "name": "adtimelines_partialmissing",
-        "nRows": 1067,
-        "cols": [
-            "USUBJID",
-            "SITEID",
-            "SITE",
-            "AGE",
-            "SEX",
-            "RACE",
-            "ARM",
-            "RFSTDTC",
-            "SAFFL",
-            "DOMAIN",
-            "STDT",
-            "STDY",
-            "ENDT",
-            "ENDY",
-            "SEQ",
-            "ONGO",
-            "TOOLTIP"
-        ],
-        "nCols": 17
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific/hy.csv",

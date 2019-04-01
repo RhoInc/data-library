@@ -308,14 +308,14 @@
                 "rel_url": "./data/clinical-trials/renderer-specific/adbds_queries.csv"
             },
             {
+                "fileName": "adtimelines-partial-missing.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv"
+            },
+            {
                 "fileName": "adtimelines.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines.csv",
                 "rel_url": "./data/clinical-trials/renderer-specific/adtimelines.csv"
-            },
-            {
-                "fileName": "adtimelines_partialmissing.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv",
-                "rel_url": "./data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv"
             },
             {
                 "fileName": "hy.csv",

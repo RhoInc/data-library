@@ -81,14 +81,14 @@
                 "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/lb.csv"
             },
             {
-                "fileName": "meta-study.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/meta-study.csv",
-                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta-study.csv"
+                "fileName": "meta_study.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv"
             },
             {
-                "fileName": "meta-var.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/meta-var.csv",
-                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta-var.csv"
+                "fileName": "meta_var.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
+                "rel_url": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv"
             },
             {
                 "fileName": "mh.csv",
@@ -228,7 +228,7 @@
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning",
-        "nDataFiles": 9,
+        "nDataFiles": 8,
         "dataFiles": [
             {
                 "fileName": "dashboard-enrollment-over-time.csv",
@@ -254,11 +254,6 @@
                 "fileName": "dashboard-visit-completion.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-visit-completion.csv",
                 "rel_url": "./data/clinical-trials/data-cleaning/dashboard-visit-completion.csv"
-            },
-            {
-                "fileName": "dmc-datapage.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dmc-datapage.csv",
-                "rel_url": "./data/clinical-trials/data-cleaning/dmc-datapage.csv"
             },
             {
                 "fileName": "forms.csv",

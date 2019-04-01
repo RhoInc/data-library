@@ -70,36 +70,6 @@
         "nCols": 6
     },
     {
-        "relPath": "./data/clinical-trials/data-cleaning/dmc-datapage.csv",
-        "path": "dmc-datapage.csv",
-        "name": "dmc-datapage",
-        "nRows": 23125,
-        "cols": [
-            "subjectnameoridentifier",
-            "status",
-            "subjfreezeflg",
-            "sitename",
-            "folderinstancename",
-            "ecrfpagename",
-            "is_partial_entry",
-            "answer_query_ct",
-            "open_query_ct",
-            "needs_verification",
-            "is_verified",
-            "needs_signature",
-            "is_signed",
-            "ready_for_freeze",
-            "is_frozen",
-            "is_locked",
-            "subset1",
-            "subset2",
-            "subset3",
-            "verified",
-            "folder_ordinal"
-        ],
-        "nCols": 21
-    },
-    {
         "relPath": "./data/clinical-trials/data-cleaning/forms.csv",
         "path": "forms.csv",
         "name": "forms",

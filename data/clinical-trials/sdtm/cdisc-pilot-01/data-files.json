@@ -188,9 +188,9 @@
         "nCols": 23
     },
     {
-        "relPath": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta-study.csv",
-        "path": "meta-study.csv",
-        "name": "meta-study",
+        "relPath": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv",
+        "path": "meta_study.csv",
+        "name": "meta_study",
         "nRows": 23,
         "cols": [
             "Dataset",
@@ -204,9 +204,9 @@
         "nCols": 7
     },
     {
-        "relPath": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta-var.csv",
-        "path": "meta-var.csv",
-        "name": "meta-var",
+        "relPath": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
+        "path": "meta_var.csv",
+        "name": "meta_var",
         "nRows": 313,
         "cols": [
             "Form",

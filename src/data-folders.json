@@ -228,17 +228,17 @@
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning",
-        "nDataFiles": 9,
+        "nDataFiles": 8,
         "dataFiles": [
+            {
+                "fileName": "dashboard-enrollment-over-time.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv"
+            },
             {
                 "fileName": "dashboard-enrollment.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
                 "rel_url": "./data/clinical-trials/data-cleaning/dashboard-enrollment.csv"
-            },
-            {
-                "fileName": "dashboard-enrollmentovertime.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-enrollmentovertime.csv",
-                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-enrollmentovertime.csv"
             },
             {
                 "fileName": "dashboard-forms.csv",
@@ -251,14 +251,9 @@
                 "rel_url": "./data/clinical-trials/data-cleaning/dashboard-queries.csv"
             },
             {
-                "fileName": "dashboard-visitcompletion.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-visitcompletion.csv",
-                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-visitcompletion.csv"
-            },
-            {
-                "fileName": "dmc_datapage.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dmc_datapage.csv",
-                "rel_url": "./data/clinical-trials/data-cleaning/dmc_datapage.csv"
+                "fileName": "dashboard-visit-completion.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-visit-completion.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-visit-completion.csv"
             },
             {
                 "fileName": "forms.csv",
@@ -293,9 +288,14 @@
         "nDataFiles": 7,
         "dataFiles": [
             {
-                "fileName": "adae_queries.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adae_queries.csv",
-                "rel_url": "./data/clinical-trials/renderer-specific/adae_queries.csv"
+                "fileName": "adae-queries.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adae-queries.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adae-queries.csv"
+            },
+            {
+                "fileName": "adbds-queries.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adbds-queries.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adbds-queries.csv"
             },
             {
                 "fileName": "adbds.csv",
@@ -303,9 +303,9 @@
                 "rel_url": "./data/clinical-trials/renderer-specific/adbds.csv"
             },
             {
-                "fileName": "adbds_queries.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adbds_queries.csv",
-                "rel_url": "./data/clinical-trials/renderer-specific/adbds_queries.csv"
+                "fileName": "adtimelines-partial-missing.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv"
             },
             {
                 "fileName": "adtimelines.csv",
@@ -313,19 +313,14 @@
                 "rel_url": "./data/clinical-trials/renderer-specific/adtimelines.csv"
             },
             {
-                "fileName": "adtimelines_partialmissing.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv",
-                "rel_url": "./data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv"
-            },
-            {
                 "fileName": "hy.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/hy.csv",
                 "rel_url": "./data/clinical-trials/renderer-specific/hy.csv"
             },
             {
-                "fileName": "leap_primary_outcome_determination.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/leap_primary_outcome_determination.csv",
-                "rel_url": "./data/clinical-trials/renderer-specific/leap_primary_outcome_determination.csv"
+                "fileName": "leap-primary-outcome-determination.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv"
             }
         ],
         "split": [

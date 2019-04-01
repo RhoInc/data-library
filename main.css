@@ -30,7 +30,23 @@ header{
   padding-top:1em;
   padding-bottom:1em;
   color: #326195; /* Rho Blue */
+}
 
+header .pre-head {
+  margin-top:16px;
+  font-size:24px;
+  vertical-align:text-bottom;
+}
+
+header .pre-head img {
+  margin-right:.1em;
+  margin-bottom:.2em;
+}
+
+header h1 {
+  margin-top:0;
+  line-height: 1;
+  margin-bottom:16px;
 }
 
 .main {

@@ -1,5 +1,20 @@
 [
     {
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv",
+        "path": "dashboard-enrollment-over-time.csv",
+        "name": "dashboard-enrollment-over-time",
+        "nRows": 1206,
+        "cols": [
+            "site",
+            "date",
+            "population",
+            "population_order",
+            "population_color",
+            "participant_count"
+        ],
+        "nCols": 6
+    },
+    {
         "relPath": "./data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
         "path": "dashboard-enrollment.csv",
         "name": "dashboard-enrollment",
@@ -12,21 +27,6 @@
             "population_superset"
         ],
         "nCols": 5
-    },
-    {
-        "relPath": "./data/clinical-trials/data-cleaning/dashboard-enrollmentovertime.csv",
-        "path": "dashboard-enrollmentovertime.csv",
-        "name": "dashboard-enrollmentovertime",
-        "nRows": 1206,
-        "cols": [
-            "site",
-            "date",
-            "population",
-            "population_order",
-            "population_color",
-            "participant_count"
-        ],
-        "nCols": 6
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning/dashboard-forms.csv",
@@ -55,9 +55,9 @@
         "nCols": 4
     },
     {
-        "relPath": "./data/clinical-trials/data-cleaning/dashboard-visitcompletion.csv",
-        "path": "dashboard-visitcompletion.csv",
-        "name": "dashboard-visitcompletion",
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-visit-completion.csv",
+        "path": "dashboard-visit-completion.csv",
+        "name": "dashboard-visit-completion",
         "nRows": 501,
         "cols": [
             "site",
@@ -68,36 +68,6 @@
             "status_color"
         ],
         "nCols": 6
-    },
-    {
-        "relPath": "./data/clinical-trials/data-cleaning/dmc_datapage.csv",
-        "path": "dmc_datapage.csv",
-        "name": "dmc_datapage",
-        "nRows": 23125,
-        "cols": [
-            "subjectnameoridentifier",
-            "status",
-            "subjfreezeflg",
-            "sitename",
-            "folderinstancename",
-            "ecrfpagename",
-            "is_partial_entry",
-            "answer_query_ct",
-            "open_query_ct",
-            "needs_verification",
-            "is_verified",
-            "needs_signature",
-            "is_signed",
-            "ready_for_freeze",
-            "is_frozen",
-            "is_locked",
-            "subset1",
-            "subset2",
-            "subset3",
-            "verified",
-            "folder_ordinal"
-        ],
-        "nCols": 21
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning/forms.csv",

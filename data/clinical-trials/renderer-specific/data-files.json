@@ -1,8 +1,8 @@
 [
     {
-        "relPath": "./data/clinical-trials/renderer-specific/adae_queries.csv",
-        "path": "adae_queries.csv",
-        "name": "adae_queries",
+        "relPath": "./data/clinical-trials/renderer-specific/adae-queries.csv",
+        "path": "adae-queries.csv",
+        "name": "adae-queries",
         "nRows": 392,
         "cols": [
             "USUBJID",
@@ -32,6 +32,37 @@
             "QUERYDETAILS"
         ],
         "nCols": 25
+    },
+    {
+        "relPath": "./data/clinical-trials/renderer-specific/adbds-queries.csv",
+        "path": "adbds-queries.csv",
+        "name": "adbds-queries",
+        "nRows": 22695,
+        "cols": [
+            "USUBJID",
+            "SITEID",
+            "SITE",
+            "AGE",
+            "SEX",
+            "RACE",
+            "ARM",
+            "RFSTDTC",
+            "SAFFL",
+            "VISIT",
+            "VISITNUM",
+            "DT",
+            "DY",
+            "CAT",
+            "TEST",
+            "STRESU",
+            "STRESN",
+            "STNRLO",
+            "STNRHI",
+            "VISITN",
+            "QUERYFL",
+            "QUERYDETAILS"
+        ],
+        "nCols": 22
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific/adbds.csv",
@@ -68,10 +99,10 @@
         "nCols": 25
     },
     {
-        "relPath": "./data/clinical-trials/renderer-specific/adbds_queries.csv",
-        "path": "adbds_queries.csv",
-        "name": "adbds_queries",
-        "nRows": 22695,
+        "relPath": "./data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
+        "path": "adtimelines-partial-missing.csv",
+        "name": "adtimelines-partial-missing",
+        "nRows": 1067,
         "cols": [
             "USUBJID",
             "SITEID",
@@ -82,21 +113,16 @@
             "ARM",
             "RFSTDTC",
             "SAFFL",
-            "VISIT",
-            "VISITNUM",
-            "DT",
-            "DY",
-            "CAT",
-            "TEST",
-            "STRESU",
-            "STRESN",
-            "STNRLO",
-            "STNRHI",
-            "VISITN",
-            "QUERYFL",
-            "QUERYDETAILS"
+            "DOMAIN",
+            "STDT",
+            "STDY",
+            "ENDT",
+            "ENDY",
+            "SEQ",
+            "ONGO",
+            "TOOLTIP"
         ],
-        "nCols": 22
+        "nCols": 17
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific/adtimelines.csv",
@@ -131,32 +157,6 @@
         "nCols": 23
     },
     {
-        "relPath": "./data/clinical-trials/renderer-specific/adtimelines_partialmissing.csv",
-        "path": "adtimelines_partialmissing.csv",
-        "name": "adtimelines_partialmissing",
-        "nRows": 1067,
-        "cols": [
-            "USUBJID",
-            "SITEID",
-            "SITE",
-            "AGE",
-            "SEX",
-            "RACE",
-            "ARM",
-            "RFSTDTC",
-            "SAFFL",
-            "DOMAIN",
-            "STDT",
-            "STDY",
-            "ENDT",
-            "ENDY",
-            "SEQ",
-            "ONGO",
-            "TOOLTIP"
-        ],
-        "nCols": 17
-    },
-    {
         "relPath": "./data/clinical-trials/renderer-specific/hy.csv",
         "path": "hy.csv",
         "name": "hy",
@@ -184,9 +184,9 @@
         "nCols": 18
     },
     {
-        "relPath": "./data/clinical-trials/renderer-specific/leap_primary_outcome_determination.csv",
-        "path": "leap_primary_outcome_determination.csv",
-        "name": "leap_primary_outcome_determination",
+        "relPath": "./data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv",
+        "path": "leap-primary-outcome-determination.csv",
+        "name": "leap-primary-outcome-determination",
         "nRows": 1836,
         "cols": [
             "Subject ID",

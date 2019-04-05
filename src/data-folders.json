@@ -285,7 +285,7 @@
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific",
-        "nDataFiles": 7,
+        "nDataFiles": 8,
         "dataFiles": [
             {
                 "fileName": "adae-queries.csv",
@@ -316,6 +316,11 @@
                 "fileName": "hy.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/hy.csv",
                 "rel_url": "./data/clinical-trials/renderer-specific/hy.csv"
+            },
+            {
+                "fileName": "leap-adae1.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/leap-adae1.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/leap-adae1.csv"
             },
             {
                 "fileName": "leap-primary-outcome-determination.csv",

@@ -184,6 +184,28 @@
         "nCols": 18
     },
     {
+        "relPath": "./data/clinical-trials/renderer-specific/leap-adae1.csv",
+        "path": "leap-adae1.csv",
+        "name": "leap-adae1",
+        "nRows": 8817,
+        "cols": [
+            "A_ID",
+            "STRATUMC",
+            "TRTC",
+            "SEQNO",
+            "AESTDY",
+            "AEDUR",
+            "Outcome",
+            "Treatment Required",
+            "Severity",
+            "Related?",
+            "Serious?",
+            "AESOC",
+            "AEPT"
+        ],
+        "nCols": 13
+    },
+    {
         "relPath": "./data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv",
         "path": "leap-primary-outcome-determination.csv",
         "name": "leap-primary-outcome-determination",

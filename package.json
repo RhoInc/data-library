@@ -2,14 +2,19 @@
   "name": "data-library",
   "version": "1.1.0",
   "description": "public-use datasets for clinical trial data visualizations",
+  "module": "./src/index.js",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build-data-files-json && npm run build-metadata-json && npm run build-main-index-html && npm run build-index-html && npm run build-index-js",
-    "build-data-files-json": "node ./src/scripts/build-data-files-json.js",
-    "build-index-html": "node ./src/scripts/build-index-html.js",
-    "build-main-index-html": "node ./src/scripts/build-main-index-html.js",
-    "build-index-js": "node ./src/scripts/build-index-js.js",
-    "build-metadata-json": "node ./src/scripts/build-metadata-json.js"
+    "build": "npm audit fix && npm run make-all && npm run bundle && npm run format",
+    "bundle": "rollup -c",
+    "format": "npm run format-js && npm run format-bundle",
+    "format-js": "prettier --print-width=100 --tab-width=4 --single-quote --write \"./src/**/*.js\"",
+    "format-bundle": "prettier --print-width=100 --tab-width=4 --single-quote --write ./index.js",
+    "make-all": "npm run make-data-files-json && npm run make-metadata-json && npm run make-main-index-html && npm run make-index-html",
+    "make-data-files-json": "node ./src/scripts/build-data-files-json.js",
+    "make-index-html": "node ./src/scripts/build-index-html.js",
+    "make-main-index-html": "node ./src/scripts/build-main-index-html.js",
+    "make-metadata-json": "node ./src/scripts/build-metadata-json.js"
   },
   "repository": {
     "type": "git",
@@ -28,10 +33,16 @@
   "homepage": "https://github.com/RhoInc/data-library#readme",
   "dependencies": {
     "d3": "^3.5.17",
-    "webcharts": "^1.11.2",
+    "webcharts": "^1.11.5",
     "webcodebook": "^1.6.1"
   },
   "devDependencies": {
-    "csvtojson": "^2.0.8"
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "csvtojson": "^2.0.8",
+    "prettier": "^1.16.4",
+    "rollup": "^1.10.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-node-resolve": "^4.2.3"
   }
 }

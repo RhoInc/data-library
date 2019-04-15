@@ -36,7 +36,7 @@ var csv = require('csvtojson');
 walk(dataRoot, function(err, allFiles) {
     if (err) throw err;
     var dataFiles = allFiles
-        .map(function(local_path,i) {
+        .map(function(local_path, i) {
             //Replace backslashes (Windows) with forward slashes (every other OS).
             local_path = local_path.replace(/\\/g, '/');
 
@@ -94,8 +94,7 @@ walk(dataRoot, function(err, allFiles) {
                         ' columns.'
                 );
 
-                if (processed === dataFiles.length)
-                    saveData('./dataFiles', dataFiles);
-           });
+                if (processed === dataFiles.length) saveData('./dataFiles', dataFiles);
+            });
     });
 });

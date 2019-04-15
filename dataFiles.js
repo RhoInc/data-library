@@ -48,6 +48,70 @@ var dataFiles = [
         "cols": 5
     },
     {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/adverse-events.csv",
+        "filename": "adverse-events.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/adverse-events.csv",
+        "rows": 765,
+        "cols": 5
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/fields.csv",
+        "filename": "fields.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/fields.csv",
+        "rows": 55,
+        "cols": 3
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/forms.csv",
+        "filename": "forms.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/forms.csv",
+        "rows": 11,
+        "cols": 2
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/labs.csv",
+        "filename": "labs.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/labs.csv",
+        "rows": 16,
+        "cols": 6
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/medications.csv",
+        "filename": "medications.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/medications.csv",
+        "rows": 654,
+        "cols": 3
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/schedule-of-events.csv",
+        "filename": "schedule-of-events.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv",
+        "rows": 8,
+        "cols": 5
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/variable-metadata.csv",
+        "filename": "variable-metadata.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/variable-metadata.csv",
+        "rows": 103,
+        "cols": 10
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/vital-signs.csv",
+        "filename": "vital-signs.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/vital-signs.csv",
+        "rows": 27,
+        "cols": 7
+    },
+    {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/adam/adae.csv",
         "filename": "adae.csv",
         "ext": "csv",
@@ -88,70 +152,6 @@ var dataFiles = [
         "cols": 29
     },
     {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/adverse-events.csv",
-        "filename": "adverse-events.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/adverse-events.csv",
-        "rows": 765,
-        "cols": 5
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/fields.csv",
-        "filename": "fields.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/fields.csv",
-        "rows": 55,
-        "cols": 3
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/labs.csv",
-        "filename": "labs.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/labs.csv",
-        "rows": 16,
-        "cols": 6
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/medications.csv",
-        "filename": "medications.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/medications.csv",
-        "rows": 654,
-        "cols": 3
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/forms.csv",
-        "filename": "forms.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/forms.csv",
-        "rows": 11,
-        "cols": 2
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/schedule-of-events.csv",
-        "filename": "schedule-of-events.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv",
-        "rows": 8,
-        "cols": 5
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/variable-metadata.csv",
-        "filename": "variable-metadata.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/variable-metadata.csv",
-        "rows": 103,
-        "cols": 10
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-dictionaries/vital-signs.csv",
-        "filename": "vital-signs.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/vital-signs.csv",
-        "rows": 27,
-        "cols": 7
-    },
-    {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv",
         "filename": "dashboard-enrollment-over-time.csv",
         "ext": "csv",
@@ -168,19 +168,19 @@ var dataFiles = [
         "cols": 5
     },
     {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/dashboard-queries.csv",
-        "filename": "dashboard-queries.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-queries.csv",
-        "rows": 809,
-        "cols": 4
-    },
-    {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/dashboard-forms.csv",
         "filename": "dashboard-forms.csv",
         "ext": "csv",
         "rel_path": "./data/clinical-trials/data-cleaning/dashboard-forms.csv",
         "rows": 3367,
+        "cols": 4
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/data-cleaning/dashboard-queries.csv",
+        "filename": "dashboard-queries.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-queries.csv",
+        "rows": 809,
         "cols": 4
     },
     {
@@ -214,6 +214,78 @@ var dataFiles = [
         "rel_path": "./data/clinical-trials/data-cleaning/visits.csv",
         "rows": 1202,
         "cols": 17
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adbds-queries.csv",
+        "filename": "adbds-queries.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/adbds-queries.csv",
+        "rows": 22695,
+        "cols": 22
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adae-queries.csv",
+        "filename": "adae-queries.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/adae-queries.csv",
+        "rows": 392,
+        "cols": 25
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adbds.csv",
+        "filename": "adbds.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/adbds.csv",
+        "rows": 13336,
+        "cols": 25
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
+        "filename": "adtimelines-partial-missing.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
+        "rows": 1067,
+        "cols": 17
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adtimelines.csv",
+        "filename": "adtimelines.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/adtimelines.csv",
+        "rows": 1084,
+        "cols": 23
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/hy.csv",
+        "filename": "hy.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/hy.csv",
+        "rows": 320,
+        "cols": 18
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/icata-aes.csv",
+        "filename": "icata-aes.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/icata-aes.csv",
+        "rows": 783,
+        "cols": 8
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/leap-adae1.csv",
+        "filename": "leap-adae1.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/leap-adae1.csv",
+        "rows": 8817,
+        "cols": 13
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv",
+        "filename": "leap-primary-outcome-determination.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv",
+        "rows": 1836,
+        "cols": 40
     },
     {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/ae.csv",
@@ -312,20 +384,20 @@ var dataFiles = [
         "cols": 23
     },
     {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
-        "filename": "meta_var.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
-        "rows": 313,
-        "cols": 10
-    },
-    {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv",
         "filename": "meta_study.csv",
         "ext": "csv",
         "rel_path": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_study.csv",
         "rows": 23,
         "cols": 7
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
+        "filename": "meta_var.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/sdtm/cdisc-pilot-01/meta_var.csv",
+        "rows": 313,
+        "cols": 10
     },
     {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/mh.csv",
@@ -392,20 +464,20 @@ var dataFiles = [
         "cols": 10
     },
     {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv",
-        "filename": "sv.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv",
-        "rows": 3559,
-        "cols": 8
-    },
-    {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/supplb.csv",
         "filename": "supplb.csv",
         "ext": "csv",
         "rel_path": "./data/clinical-trials/sdtm/cdisc-pilot-01/supplb.csv",
         "rows": 64403,
         "cols": 10
+    },
+    {
+        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv",
+        "filename": "sv.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/sdtm/cdisc-pilot-01/sv.csv",
+        "rows": 3559,
+        "cols": 8
     },
     {
         "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/sdtm/cdisc-pilot-01/ta.csv",
@@ -454,77 +526,5 @@ var dataFiles = [
         "rel_path": "./data/clinical-trials/sdtm/cdisc-pilot-01/vs.csv",
         "rows": 29643,
         "cols": 24
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adae-queries.csv",
-        "filename": "adae-queries.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/adae-queries.csv",
-        "rows": 392,
-        "cols": 25
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adbds-queries.csv",
-        "filename": "adbds-queries.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/adbds-queries.csv",
-        "rows": 22695,
-        "cols": 22
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adbds.csv",
-        "filename": "adbds.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/adbds.csv",
-        "rows": 13336,
-        "cols": 25
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
-        "filename": "adtimelines-partial-missing.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/adtimelines-partial-missing.csv",
-        "rows": 1067,
-        "cols": 17
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/adtimelines.csv",
-        "filename": "adtimelines.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/adtimelines.csv",
-        "rows": 1084,
-        "cols": 23
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/hy.csv",
-        "filename": "hy.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/hy.csv",
-        "rows": 320,
-        "cols": 18
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/icata-aes.csv",
-        "filename": "icata-aes.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/icata-aes.csv",
-        "rows": 783,
-        "cols": 8
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/leap-adae1.csv",
-        "filename": "leap-adae1.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/leap-adae1.csv",
-        "rows": 8817,
-        "cols": 13
-    },
-    {
-        "local_path": "/Users/jeremy/Sites/github/data-library/data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv",
-        "filename": "leap-primary-outcome-determination.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/renderer-specific/leap-primary-outcome-determination.csv",
-        "rows": 1836,
-        "cols": 40
     }
 ]

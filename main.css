@@ -75,6 +75,9 @@ h2.header {
     margin: 12px 0;
 }
 
+.data-grouping .header {
+    margin-top: 0;
+}
 .n-data-files {
     font-size: 16px;
 }

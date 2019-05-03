@@ -12,7 +12,6 @@
                 if (rawFile.readyState === 4) {
                     if (rawFile.status === 200 || rawFile.status == 0) {
                         var allText = rawFile.responseText;
-                        console.log(allText);
                         element.html(allText);
                     }
                 }

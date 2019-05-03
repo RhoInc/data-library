@@ -94,9 +94,11 @@
             "subset1",
             "subset2",
             "subset3",
-            "verified"
+            "verified",
+            "folder_ordinal",
+            "form_ordinal"
         ],
-        "nCols": 20
+        "nCols": 22
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning/queries.csv",

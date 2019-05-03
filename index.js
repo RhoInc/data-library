@@ -103,10 +103,16 @@
                             return d.dataFiles;
                         })
                         .enter()
-                        .append('li')
-                        .text(function(d) {
+                        .append('li');
+                    files_lis
+                        .append('div')
+                        .attr('title', function(d) {
                             return d.fileName;
-                        });
+                        })
+                        .text(function(d) {
+                            return d.fileName.replace(/\.(csv|json)$/, '');
+                        }); //.text(d => d.fileName.length < 25 ? d.fileName : d.fileName.substring(0,25) + '...');
+
                     files_lis
                         .append('a')
                         .html("<i class='fa fa-download'></i>")

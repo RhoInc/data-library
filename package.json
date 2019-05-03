@@ -14,7 +14,8 @@
     "make-data-files-json": "node ./src/scripts/build-data-files-json.js",
     "make-index-html": "node ./src/scripts/build-index-html.js",
     "make-main-index-html": "node ./src/scripts/build-main-index-html.js",
-    "make-metadata-json": "node ./src/scripts/build-metadata-json.js"
+    "make-metadata-json": "node ./src/scripts/build-metadata-json.js",
+    "watch": "rollup -c -w"
   },
   "repository": {
     "type": "git",

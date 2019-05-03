@@ -93,8 +93,13 @@ export default function makeMainDataList() {
                     .selectAll('li')
                     .data(d => d.dataFiles)
                     .enter()
-                    .append('li')
-                    .text(d => d.fileName);
+                    .append('li');
+
+                files_lis
+                    .append('div')
+                    .attr('title', d => d.fileName)
+                    .text(d => d.fileName.replace(/\.(csv|json)$/, ''))
+                    //.text(d => d.fileName.length < 25 ? d.fileName : d.fileName.substring(0,25) + '...');
 
                 files_lis
                     .append('a')

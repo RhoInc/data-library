@@ -109,15 +109,22 @@ h2.header {
 }
 
 .files-content ul{
- list-style: none;
- margin:0;
- padding:0;
+  list-style: none;
+  margin:0;
+  padding:0;
+  display: inline-block;
+  width: 100%;
 }
 
 .files-content ul li{
 	position:relative;
+  display: inline-block;
+  width: 100%;
 }
 
+.files-content ul li div{
+    width: 85%;
+}
 .files-content ul li a i{
   color:#326195;
   cursor:pointer;

@@ -70,9 +70,13 @@
           var filesContent = files.append('div').classed('files-content content hidden', true).append('ul');
           var files_lis = filesContent.selectAll('li').data(function (d) {
             return d.dataFiles;
-          }).enter().append('li').text(function (d) {
+          }).enter().append('li');
+          files_lis.append('div').attr('title', function (d) {
             return d.fileName;
-          });
+          }).text(function (d) {
+            return d.fileName.replace(/\.(csv|json)$/, '');
+          }); //.text(d => d.fileName.length < 25 ? d.fileName : d.fileName.substring(0,25) + '...');
+
           files_lis.append('a').html("<i class='fa fa-download'></i>").attr('title', function (d) {
             return 'Download ' + d.fileName;
           }).attr('href', function (d) {

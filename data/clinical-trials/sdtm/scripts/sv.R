@@ -70,8 +70,8 @@ set.seed(2357)
                 SBJTSTAT == 'Screen Failure' ~ 'Failed',
                 SBJTSTAT == 'Early Termination' & as.numeric(SVDY) > as.numeric(RFENDY) ~ 'Terminated',
                 SBJTSTAT == 'Ongoing' & as.numeric(SVDY) > as.numeric(RFENDY) ~ 'Expected',
-                SBJTSTAT == 'Ongoing' & as.numeric(RFENDY) - as.numeric(SVDY) < 28 ~ 'Overdue',
-                !grepl('screening|unscheduled', VISIT, T) & deviate < .05 ~ 'Missed',
+                !grepl('screening|unscheduled', VISIT, T) & SBJTSTAT == 'Ongoing' & as.numeric(RFENDY) - as.numeric(SVDY) < 60 ~ 'Overdue',
+                !grepl('screening|unscheduled', VISIT, T) & deviate < .1 ~ 'Missed',
                 TRUE ~ 'Completed'
             )
         ) %>%

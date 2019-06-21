@@ -91,6 +91,12 @@ set.seed(2357)
     overdue2 <- unique(pull(filter(overdueVisits, nOverdue > 1), subjectnameoridentifier))
     visits1 <- visits %>%
         mutate(
+            visit_abbreviation = case_when(
+                visit_abbreviation != '' ~ visit_abbreviation,
+                grepl('^Unscheduled', visit_name) ~ paste0('UNS', word(visit_name, 2)),
+                visit_name == 'Early Termination' ~ 'ET',
+                TRUE ~ '???'
+            ),
             visit_text = case_when(
                 visit_status %in% c('Expected', 'Overdue') ~ visit_date,
                 TRUE ~ visit_status

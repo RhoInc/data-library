@@ -77,7 +77,9 @@ set.seed(2357)
             )
         ) %>%
         select(USUBJID, VISIT, VISITNUM, SVDT, SVDY, SVSTATUS)
-
+print(table(sv2$SVSTATUS))
+overdue <- table(filter(sv2, SVSTATUS == 'Overdue')$USUBJID)
+print(overdue)
 ### Output data
     write.csv(
         sv2,

@@ -5,6 +5,7 @@ set.seed(2357)
 ### Input data
     dm <- read.csv('../dm.csv', colClasses = 'character') %>%
         select(USUBJID, SBJTSTAT, RFSTDTC, RFENDTC, RFENDY, SAFFL)
+    dm$participant_deviate <- runif(nrow(dm))
     scheduleOfEvents <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character')
 
 ### Derive data
@@ -65,13 +66,13 @@ set.seed(2357)
         )
     sv2 <- sv1 %>%
         mutate(
-            deviate = runif(nrow(sv1)),
+            visit_deviate = runif(nrow(sv1)),
             SVSTATUS = case_when(
                 SBJTSTAT == 'Screen Failure' ~ 'Failed',
                 SBJTSTAT == 'Early Termination' & as.numeric(SVDY) > as.numeric(RFENDY) ~ 'Terminated',
                 SBJTSTAT == 'Ongoing' & as.numeric(SVDY) > as.numeric(RFENDY) ~ 'Expected',
-                !grepl('screening|unscheduled', VISIT, T) & SBJTSTAT == 'Ongoing' & as.numeric(RFENDY) - as.numeric(SVDY) < 60 ~ 'Overdue',
-                !grepl('screening|unscheduled', VISIT, T) & deviate < .1 ~ 'Missed',
+                !grepl('screening|unscheduled', VISIT, T) & SBJTSTAT == 'Ongoing' & as.numeric(RFENDY) - as.numeric(SVDY) < 60 & participant_deviate < .5 ~ 'Overdue',
+                !grepl('screening|unscheduled', VISIT, T) & visit_deviate < .1 ~ 'Missed',
                 TRUE ~ 'Completed'
             )
         ) %>%

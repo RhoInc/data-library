@@ -137,6 +137,7 @@
             "subjectnameoridentifier",
             "subject_status",
             "visit_name",
+            "visit_abbreviation",
             "visit_number",
             "visit_date",
             "visit_day",
@@ -151,6 +152,6 @@
             "overdue2",
             "plot_exclude"
         ],
-        "nCols": 17
+        "nCols": 18
     }
 ]

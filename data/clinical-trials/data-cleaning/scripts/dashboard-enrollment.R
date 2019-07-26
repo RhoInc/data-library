@@ -42,3 +42,5 @@ data[duplicated(data$subjid),"population_superset"] <- "Screened"
 data <- data %>%
   mutate(population_order = ifelse(population == "Screened", 1, 2) ) %>%
   mutate(population_color = ifelse(population == "Screened", "#a6bddb", "#3690c0") )
+
+write.csv(data, '../dashboard-enrollment.csv')

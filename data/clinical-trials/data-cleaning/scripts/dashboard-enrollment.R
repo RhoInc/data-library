@@ -15,19 +15,28 @@ for (i in 1:nlevels(data$site)) {
   site_level <- levels(data$site)[i]
   subj_count = 0
   for(j in 1:nrow(data[data$site == site_level,])){
-    print (j)
-     
+
+    
     if (j %% 2 == 0)  {
+      trt <- sample(c("TRTA","TRTB"), 1, replace=TRUE, prob=c(.5, .5)) 
+      
+      cohort <- sample(c("Cohort 1","Cohort 2"), 1, replace=TRUE, prob=c(.6, .4)) 
       
       subj_count = subj_count + 1
+      
     } else if (rbinom(n=1, size=1, prob=0.8) == c(1)) {
+      trt <- sample(c("TRTA","TRTB"), 1, replace=TRUE, prob=c(.5, .5)) 
+      
+      cohort <- sample(c("Cohort 1","Cohort 2"), 1, replace=TRUE, prob=c(.6, .4)) 
+      
       subj_count = subj_count + 1
     }
-      print(subj_count)
       data[data$site == site_level,"subjid"][j] <- paste0("0",i,"-00",subj_count)
+      data[data$site == site_level,"filter:Treatment Group"][j] <- trt
+      data[data$site == site_level,"filter:Cohort"][j] <- cohort
     }
       
-      }
+  }
 
 data$population <- "Screened"
 

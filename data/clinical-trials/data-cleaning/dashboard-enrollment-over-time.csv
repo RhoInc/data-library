@@ -1,1207 +1,1408 @@
-site,date,population,population_order,population_color,participant_count
-Site 1,2017-07-28,Screened,1,#a6bddb,0
-Site 1,2017-07-29,Screened,1,#a6bddb,0
-Site 1,2017-07-30,Screened,1,#a6bddb,0
-Site 1,2017-07-31,Screened,1,#a6bddb,0
-Site 1,2017-08-01,Screened,1,#a6bddb,0
-Site 1,2017-08-02,Screened,1,#a6bddb,0
-Site 1,2017-08-03,Screened,1,#a6bddb,0
-Site 1,2017-08-04,Screened,1,#a6bddb,0
-Site 1,2017-08-05,Screened,1,#a6bddb,0
-Site 1,2017-08-06,Screened,1,#a6bddb,0
-Site 1,2017-08-07,Screened,1,#a6bddb,0
-Site 1,2017-08-08,Screened,1,#a6bddb,0
-Site 1,2017-08-09,Screened,1,#a6bddb,0
-Site 1,2017-08-10,Screened,1,#a6bddb,0
-Site 1,2017-08-11,Screened,1,#a6bddb,0
-Site 1,2017-08-12,Screened,1,#a6bddb,0
-Site 1,2017-08-13,Screened,1,#a6bddb,0
-Site 1,2017-08-14,Screened,1,#a6bddb,0
-Site 1,2017-08-15,Screened,1,#a6bddb,0
-Site 1,2017-08-16,Screened,1,#a6bddb,0
-Site 1,2017-08-17,Screened,1,#a6bddb,0
-Site 1,2017-08-18,Screened,1,#a6bddb,0
-Site 1,2017-08-19,Screened,1,#a6bddb,0
-Site 1,2017-08-20,Screened,1,#a6bddb,0
-Site 1,2017-08-21,Screened,1,#a6bddb,0
-Site 1,2017-08-22,Screened,1,#a6bddb,0
-Site 1,2017-08-23,Screened,1,#a6bddb,0
-Site 1,2017-08-24,Screened,1,#a6bddb,0
-Site 1,2017-08-25,Screened,1,#a6bddb,0
-Site 1,2017-08-26,Screened,1,#a6bddb,0
-Site 1,2017-08-27,Screened,1,#a6bddb,0
-Site 1,2017-08-28,Screened,1,#a6bddb,0
-Site 1,2017-08-29,Screened,1,#a6bddb,0
-Site 1,2017-08-30,Screened,1,#a6bddb,0
-Site 1,2017-08-31,Screened,1,#a6bddb,0
-Site 1,2017-09-01,Screened,1,#a6bddb,0
-Site 1,2017-09-02,Screened,1,#a6bddb,0
-Site 1,2017-09-03,Screened,1,#a6bddb,0
-Site 1,2017-09-04,Screened,1,#a6bddb,0
-Site 1,2017-09-05,Screened,1,#a6bddb,0
-Site 1,2017-09-06,Screened,1,#a6bddb,0
-Site 1,2017-09-07,Screened,1,#a6bddb,0
-Site 1,2017-09-08,Screened,1,#a6bddb,0
-Site 1,2017-09-09,Screened,1,#a6bddb,0
-Site 1,2017-09-10,Screened,1,#a6bddb,0
-Site 1,2017-09-11,Screened,1,#a6bddb,0
-Site 1,2017-09-12,Screened,1,#a6bddb,0
-Site 1,2017-09-13,Screened,1,#a6bddb,0
-Site 1,2017-09-14,Screened,1,#a6bddb,0
-Site 1,2017-09-15,Screened,1,#a6bddb,0
-Site 1,2017-09-16,Screened,1,#a6bddb,0
-Site 1,2017-09-17,Screened,1,#a6bddb,0
-Site 1,2017-09-18,Screened,1,#a6bddb,0
-Site 1,2017-09-19,Screened,1,#a6bddb,0
-Site 1,2017-09-20,Screened,1,#a6bddb,0
-Site 1,2017-09-21,Screened,1,#a6bddb,0
-Site 1,2017-09-22,Screened,1,#a6bddb,0
-Site 1,2017-09-23,Screened,1,#a6bddb,0
-Site 1,2017-09-24,Screened,1,#a6bddb,0
-Site 1,2017-09-25,Screened,1,#a6bddb,0
-Site 1,2017-09-26,Screened,1,#a6bddb,0
-Site 1,2017-09-27,Screened,1,#a6bddb,0
-Site 1,2017-09-28,Screened,1,#a6bddb,4
-Site 1,2017-09-29,Screened,1,#a6bddb,4
-Site 1,2017-09-30,Screened,1,#a6bddb,4
-Site 1,2017-10-01,Screened,1,#a6bddb,4
-Site 1,2017-10-02,Screened,1,#a6bddb,4
-Site 1,2017-10-03,Screened,1,#a6bddb,4
-Site 1,2017-10-04,Screened,1,#a6bddb,4
-Site 1,2017-10-05,Screened,1,#a6bddb,4
-Site 1,2017-10-06,Screened,1,#a6bddb,4
-Site 1,2017-10-07,Screened,1,#a6bddb,4
-Site 1,2017-10-08,Screened,1,#a6bddb,4
-Site 1,2017-10-09,Screened,1,#a6bddb,4
-Site 1,2017-10-10,Screened,1,#a6bddb,4
-Site 1,2017-10-11,Screened,1,#a6bddb,4
-Site 1,2017-10-12,Screened,1,#a6bddb,4
-Site 1,2017-10-13,Screened,1,#a6bddb,4
-Site 1,2017-10-14,Screened,1,#a6bddb,4
-Site 1,2017-10-15,Screened,1,#a6bddb,4
-Site 1,2017-10-16,Screened,1,#a6bddb,4
-Site 1,2017-10-17,Screened,1,#a6bddb,4
-Site 1,2017-10-18,Screened,1,#a6bddb,4
-Site 1,2017-10-19,Screened,1,#a6bddb,4
-Site 1,2017-10-20,Screened,1,#a6bddb,4
-Site 1,2017-10-21,Screened,1,#a6bddb,4
-Site 1,2017-10-22,Screened,1,#a6bddb,4
-Site 1,2017-10-23,Screened,1,#a6bddb,8
-Site 1,2017-10-24,Screened,1,#a6bddb,8
-Site 1,2017-10-25,Screened,1,#a6bddb,8
-Site 1,2017-10-26,Screened,1,#a6bddb,8
-Site 1,2017-10-27,Screened,1,#a6bddb,8
-Site 1,2017-10-28,Screened,1,#a6bddb,8
-Site 1,2017-10-29,Screened,1,#a6bddb,8
-Site 1,2017-10-30,Screened,1,#a6bddb,8
-Site 1,2017-10-31,Screened,1,#a6bddb,8
-Site 1,2017-11-01,Screened,1,#a6bddb,8
-Site 1,2017-11-02,Screened,1,#a6bddb,8
-Site 1,2017-11-03,Screened,1,#a6bddb,8
-Site 1,2017-11-04,Screened,1,#a6bddb,8
-Site 1,2017-11-05,Screened,1,#a6bddb,8
-Site 1,2017-11-06,Screened,1,#a6bddb,8
-Site 1,2017-11-07,Screened,1,#a6bddb,8
-Site 1,2017-11-08,Screened,1,#a6bddb,8
-Site 1,2017-11-09,Screened,1,#a6bddb,8
-Site 1,2017-11-10,Screened,1,#a6bddb,8
-Site 1,2017-11-11,Screened,1,#a6bddb,8
-Site 1,2017-11-12,Screened,1,#a6bddb,8
-Site 1,2017-11-13,Screened,1,#a6bddb,8
-Site 1,2017-11-14,Screened,1,#a6bddb,8
-Site 1,2017-11-15,Screened,1,#a6bddb,8
-Site 1,2017-11-16,Screened,1,#a6bddb,8
-Site 1,2017-11-17,Screened,1,#a6bddb,8
-Site 1,2017-11-18,Screened,1,#a6bddb,8
-Site 1,2017-11-19,Screened,1,#a6bddb,8
-Site 1,2017-11-20,Screened,1,#a6bddb,8
-Site 1,2017-11-21,Screened,1,#a6bddb,8
-Site 1,2017-11-22,Screened,1,#a6bddb,8
-Site 1,2017-11-23,Screened,1,#a6bddb,8
-Site 1,2017-11-24,Screened,1,#a6bddb,8
-Site 1,2017-11-25,Screened,1,#a6bddb,8
-Site 1,2017-11-26,Screened,1,#a6bddb,8
-Site 1,2017-11-27,Screened,1,#a6bddb,8
-Site 1,2017-11-28,Screened,1,#a6bddb,8
-Site 1,2017-11-29,Screened,1,#a6bddb,8
-Site 1,2017-11-30,Screened,1,#a6bddb,8
-Site 1,2017-12-01,Screened,1,#a6bddb,8
-Site 1,2017-12-02,Screened,1,#a6bddb,8
-Site 1,2017-12-03,Screened,1,#a6bddb,8
-Site 1,2017-12-04,Screened,1,#a6bddb,8
-Site 1,2017-12-05,Screened,1,#a6bddb,8
-Site 1,2017-12-06,Screened,1,#a6bddb,8
-Site 1,2017-12-07,Screened,1,#a6bddb,8
-Site 1,2017-12-08,Screened,1,#a6bddb,8
-Site 1,2017-12-09,Screened,1,#a6bddb,8
-Site 1,2017-12-10,Screened,1,#a6bddb,8
-Site 1,2017-12-11,Screened,1,#a6bddb,8
-Site 1,2017-12-12,Screened,1,#a6bddb,8
-Site 1,2017-12-13,Screened,1,#a6bddb,8
-Site 1,2017-12-14,Screened,1,#a6bddb,8
-Site 1,2017-12-15,Screened,1,#a6bddb,8
-Site 1,2017-12-16,Screened,1,#a6bddb,8
-Site 1,2017-12-17,Screened,1,#a6bddb,8
-Site 1,2017-12-18,Screened,1,#a6bddb,8
-Site 1,2017-12-19,Screened,1,#a6bddb,8
-Site 1,2017-12-20,Screened,1,#a6bddb,8
-Site 1,2017-12-21,Screened,1,#a6bddb,8
-Site 1,2017-12-22,Screened,1,#a6bddb,8
-Site 1,2017-12-23,Screened,1,#a6bddb,8
-Site 1,2017-12-24,Screened,1,#a6bddb,8
-Site 1,2017-12-25,Screened,1,#a6bddb,8
-Site 1,2017-12-26,Screened,1,#a6bddb,8
-Site 1,2017-12-27,Screened,1,#a6bddb,8
-Site 1,2017-12-28,Screened,1,#a6bddb,8
-Site 1,2017-12-29,Screened,1,#a6bddb,8
-Site 1,2017-12-30,Screened,1,#a6bddb,8
-Site 1,2017-12-31,Screened,1,#a6bddb,8
-Site 1,2018-01-01,Screened,1,#a6bddb,8
-Site 1,2018-01-02,Screened,1,#a6bddb,8
-Site 1,2018-01-03,Screened,1,#a6bddb,8
-Site 1,2018-01-04,Screened,1,#a6bddb,8
-Site 1,2018-01-05,Screened,1,#a6bddb,8
-Site 1,2018-01-06,Screened,1,#a6bddb,8
-Site 1,2018-01-07,Screened,1,#a6bddb,8
-Site 1,2018-01-08,Screened,1,#a6bddb,8
-Site 1,2018-01-09,Screened,1,#a6bddb,8
-Site 1,2018-01-10,Screened,1,#a6bddb,8
-Site 1,2018-01-11,Screened,1,#a6bddb,11
-Site 1,2018-01-12,Screened,1,#a6bddb,11
-Site 1,2018-01-13,Screened,1,#a6bddb,11
-Site 1,2018-01-14,Screened,1,#a6bddb,11
-Site 1,2018-01-15,Screened,1,#a6bddb,11
-Site 1,2018-01-16,Screened,1,#a6bddb,11
-Site 1,2018-01-17,Screened,1,#a6bddb,11
-Site 1,2018-01-18,Screened,1,#a6bddb,11
-Site 1,2018-01-19,Screened,1,#a6bddb,11
-Site 1,2018-01-20,Screened,1,#a6bddb,11
-Site 1,2018-01-21,Screened,1,#a6bddb,11
-Site 1,2018-01-22,Screened,1,#a6bddb,11
-Site 1,2018-01-23,Screened,1,#a6bddb,11
-Site 1,2018-01-24,Screened,1,#a6bddb,11
-Site 1,2018-01-25,Screened,1,#a6bddb,11
-Site 1,2018-01-26,Screened,1,#a6bddb,11
-Site 1,2018-01-27,Screened,1,#a6bddb,11
-Site 1,2018-01-28,Screened,1,#a6bddb,11
-Site 1,2018-01-29,Screened,1,#a6bddb,11
-Site 1,2018-01-30,Screened,1,#a6bddb,11
-Site 1,2018-01-31,Screened,1,#a6bddb,11
-Site 1,2018-02-01,Screened,1,#a6bddb,11
-Site 1,2018-02-02,Screened,1,#a6bddb,11
-Site 1,2018-02-03,Screened,1,#a6bddb,11
-Site 1,2018-02-04,Screened,1,#a6bddb,11
-Site 1,2018-02-05,Screened,1,#a6bddb,11
-Site 1,2018-02-06,Screened,1,#a6bddb,15
-Site 1,2018-02-07,Screened,1,#a6bddb,15
-Site 1,2018-02-08,Screened,1,#a6bddb,15
-Site 1,2018-02-09,Screened,1,#a6bddb,15
-Site 1,2018-02-10,Screened,1,#a6bddb,15
-Site 1,2018-02-11,Screened,1,#a6bddb,15
-Site 1,2018-02-12,Screened,1,#a6bddb,15
-Site 1,2018-02-13,Screened,1,#a6bddb,15
-Site 1,2017-07-28,Target,3,#034e7b,0.0887671236
-Site 1,2017-07-29,Target,3,#034e7b,0.1775342472
-Site 1,2017-07-30,Target,3,#034e7b,0.2663013696
-Site 1,2017-07-31,Target,3,#034e7b,0.3550684932
-Site 1,2017-08-01,Target,3,#034e7b,0.4438356168
-Site 1,2017-08-02,Target,3,#034e7b,0.5326027392
-Site 1,2017-08-03,Target,3,#034e7b,0.6213698628
-Site 1,2017-08-04,Target,3,#034e7b,0.7101369864
-Site 1,2017-08-05,Target,3,#034e7b,0.79890411
-Site 1,2017-08-06,Target,3,#034e7b,0.8876712324
-Site 1,2017-08-07,Target,3,#034e7b,0.976438356
-Site 1,2017-08-08,Target,3,#034e7b,1.0652054796
-Site 1,2017-08-09,Target,3,#034e7b,1.1539726032
-Site 1,2017-08-10,Target,3,#034e7b,1.2427397256
-Site 1,2017-08-11,Target,3,#034e7b,1.3315068492
-Site 1,2017-08-12,Target,3,#034e7b,1.4202739728
-Site 1,2017-08-13,Target,3,#034e7b,1.5090410963999998
-Site 1,2017-08-14,Target,3,#034e7b,1.5978082187999998
-Site 1,2017-08-15,Target,3,#034e7b,1.6865753424
-Site 1,2017-08-16,Target,3,#034e7b,1.7753424660000001
-Site 1,2017-08-17,Target,3,#034e7b,1.8641095896
-Site 1,2017-08-18,Target,3,#034e7b,1.952876712
-Site 1,2017-08-19,Target,3,#034e7b,2.0416438356
-Site 1,2017-08-20,Target,3,#034e7b,2.1304109592
-Site 1,2017-08-21,Target,3,#034e7b,2.2191780828
-Site 1,2017-08-22,Target,3,#034e7b,2.3079452052
-Site 1,2017-08-23,Target,3,#034e7b,2.3967123288
-Site 1,2017-08-24,Target,3,#034e7b,2.4854794524
-Site 1,2017-08-25,Target,3,#034e7b,2.5742465759999997
-Site 1,2017-08-26,Target,3,#034e7b,2.6630136984
-Site 1,2017-08-27,Target,3,#034e7b,2.751780822
-Site 1,2017-08-28,Target,3,#034e7b,2.8405479456
-Site 1,2017-08-29,Target,3,#034e7b,2.929315068
-Site 1,2017-08-30,Target,3,#034e7b,3.0180821915999996
-Site 1,2017-08-31,Target,3,#034e7b,3.1068493152
-Site 1,2017-09-01,Target,3,#034e7b,3.1956164387999997
-Site 1,2017-09-02,Target,3,#034e7b,3.2843835612
-Site 1,2017-09-03,Target,3,#034e7b,3.3731506848
-Site 1,2017-09-04,Target,3,#034e7b,3.4619178084
-Site 1,2017-09-05,Target,3,#034e7b,3.5506849320000002
-Site 1,2017-09-06,Target,3,#034e7b,3.6394520544
-Site 1,2017-09-07,Target,3,#034e7b,3.728219178
-Site 1,2017-09-08,Target,3,#034e7b,3.8169863015999996
-Site 1,2017-09-09,Target,3,#034e7b,3.9057534252
-Site 1,2017-09-10,Target,3,#034e7b,3.9945205475999996
-Site 1,2017-09-11,Target,3,#034e7b,4.0832876712
-Site 1,2017-09-12,Target,3,#034e7b,4.1720547948
-Site 1,2017-09-13,Target,3,#034e7b,4.2608219184
-Site 1,2017-09-14,Target,3,#034e7b,4.3495890408
-Site 1,2017-09-15,Target,3,#034e7b,4.4383561644
-Site 1,2017-09-16,Target,3,#034e7b,4.527123287999999
-Site 1,2017-09-17,Target,3,#034e7b,4.6158904116
-Site 1,2017-09-18,Target,3,#034e7b,4.704657534
-Site 1,2017-09-19,Target,3,#034e7b,4.7934246576
-Site 1,2017-09-20,Target,3,#034e7b,4.8821917812
-Site 1,2017-09-21,Target,3,#034e7b,4.9709589036
-Site 1,2017-09-22,Target,3,#034e7b,5.0597260272
-Site 1,2017-09-23,Target,3,#034e7b,5.148493150799999
-Site 1,2017-09-24,Target,3,#034e7b,5.2372602744000005
-Site 1,2017-09-25,Target,3,#034e7b,5.3260273968
-Site 1,2017-09-26,Target,3,#034e7b,5.414794520399999
-Site 1,2017-09-27,Target,3,#034e7b,5.503561644
-Site 1,2017-09-28,Target,3,#034e7b,5.5923287676
-Site 1,2017-09-29,Target,3,#034e7b,5.68109589
-Site 1,2017-09-30,Target,3,#034e7b,5.769863013599999
-Site 1,2017-10-01,Target,3,#034e7b,5.8586301372000005
-Site 1,2017-10-02,Target,3,#034e7b,5.9473972608
-Site 1,2017-10-03,Target,3,#034e7b,6.036164383199999
-Site 1,2017-10-04,Target,3,#034e7b,6.1249315068
-Site 1,2017-10-05,Target,3,#034e7b,6.2136986304
-Site 1,2017-10-06,Target,3,#034e7b,6.302465754
-Site 1,2017-10-07,Target,3,#034e7b,6.391232876399999
-Site 1,2017-10-08,Target,3,#034e7b,6.48
-Site 1,2017-10-09,Target,3,#034e7b,6.5687671236
-Site 1,2017-10-10,Target,3,#034e7b,6.657534247199999
-Site 1,2017-10-11,Target,3,#034e7b,6.7463013696
-Site 1,2017-10-12,Target,3,#034e7b,6.8350684932
-Site 1,2017-10-13,Target,3,#034e7b,6.9238356168
-Site 1,2017-10-14,Target,3,#034e7b,7.012602739199999
-Site 1,2017-10-15,Target,3,#034e7b,7.1013698628
-Site 1,2017-10-16,Target,3,#034e7b,7.1901369864
-Site 1,2017-10-17,Target,3,#034e7b,7.278904109999999
-Site 1,2017-10-18,Target,3,#034e7b,7.367671232399999
-Site 1,2017-10-19,Target,3,#034e7b,7.456438356
-Site 1,2017-10-20,Target,3,#034e7b,7.5452054796
-Site 1,2017-10-21,Target,3,#034e7b,7.633972603199999
-Site 1,2017-10-22,Target,3,#034e7b,7.7227397256
-Site 1,2017-10-23,Target,3,#034e7b,7.8115068492
-Site 1,2017-10-24,Target,3,#034e7b,7.9002739728
-Site 1,2017-10-25,Target,3,#034e7b,7.989041096399999
-Site 1,2017-10-26,Target,3,#034e7b,8.0778082188
-Site 1,2017-10-27,Target,3,#034e7b,8.1665753424
-Site 1,2017-10-28,Target,3,#034e7b,8.255342466
-Site 1,2017-10-29,Target,3,#034e7b,8.3441095896
-Site 1,2017-10-30,Target,3,#034e7b,8.432876711999999
-Site 1,2017-10-31,Target,3,#034e7b,8.5216438356
-Site 1,2017-11-01,Target,3,#034e7b,8.6104109592
-Site 1,2017-11-02,Target,3,#034e7b,8.6991780828
-Site 1,2017-11-03,Target,3,#034e7b,8.7879452052
-Site 1,2017-11-04,Target,3,#034e7b,8.8767123288
-Site 1,2017-11-05,Target,3,#034e7b,8.9654794524
-Site 1,2017-11-06,Target,3,#034e7b,9.054246575999999
-Site 1,2017-11-07,Target,3,#034e7b,9.1430136984
-Site 1,2017-11-08,Target,3,#034e7b,9.231780822
-Site 1,2017-11-09,Target,3,#034e7b,9.3205479456
-Site 1,2017-11-10,Target,3,#034e7b,9.409315068
-Site 1,2017-11-11,Target,3,#034e7b,9.4980821916
-Site 1,2017-11-12,Target,3,#034e7b,9.5868493152
-Site 1,2017-11-13,Target,3,#034e7b,9.6756164388
-Site 1,2017-11-14,Target,3,#034e7b,9.7643835612
-Site 1,2017-11-15,Target,3,#034e7b,9.8531506848
-Site 1,2017-11-16,Target,3,#034e7b,9.9419178084
-Site 1,2017-11-17,Target,3,#034e7b,10.030684931999998
-Site 1,2017-11-18,Target,3,#034e7b,10.1194520544
-Site 1,2017-11-19,Target,3,#034e7b,10.208219178
-Site 1,2017-11-20,Target,3,#034e7b,10.296986301599999
-Site 1,2017-11-21,Target,3,#034e7b,10.385753425199999
-Site 1,2017-11-22,Target,3,#034e7b,10.474520547600001
-Site 1,2017-11-23,Target,3,#034e7b,10.5632876712
-Site 1,2017-11-24,Target,3,#034e7b,10.6520547948
-Site 1,2017-11-25,Target,3,#034e7b,10.7408219184
-Site 1,2017-11-26,Target,3,#034e7b,10.829589040799998
-Site 1,2017-11-27,Target,3,#034e7b,10.9183561644
-Site 1,2017-11-28,Target,3,#034e7b,11.007123288
-Site 1,2017-11-29,Target,3,#034e7b,11.0958904116
-Site 1,2017-11-30,Target,3,#034e7b,11.184657534
-Site 1,2017-12-01,Target,3,#034e7b,11.273424657599998
-Site 1,2017-12-02,Target,3,#034e7b,11.3621917812
-Site 1,2017-12-03,Target,3,#034e7b,11.4509589036
-Site 1,2017-12-04,Target,3,#034e7b,11.539726027199999
-Site 1,2017-12-05,Target,3,#034e7b,11.628493150799999
-Site 1,2017-12-06,Target,3,#034e7b,11.717260274400001
-Site 1,2017-12-07,Target,3,#034e7b,11.8060273968
-Site 1,2017-12-08,Target,3,#034e7b,11.8947945204
-Site 1,2017-12-09,Target,3,#034e7b,11.983561644
-Site 1,2017-12-10,Target,3,#034e7b,12.072328764
-Site 1,2017-12-11,Target,3,#034e7b,12.161095895999999
-Site 1,2017-12-12,Target,3,#034e7b,12.249863016
-Site 1,2017-12-13,Target,3,#034e7b,12.338630135999999
-Site 1,2017-12-14,Target,3,#034e7b,12.427397255999999
-Site 1,2017-12-15,Target,3,#034e7b,12.516164387999998
-Site 1,2017-12-16,Target,3,#034e7b,12.604931508
-Site 1,2017-12-17,Target,3,#034e7b,12.693698628
-Site 1,2017-12-18,Target,3,#034e7b,12.78246576
-Site 1,2017-12-19,Target,3,#034e7b,12.871232879999999
-Site 1,2017-12-20,Target,3,#034e7b,12.96
-Site 1,2017-12-21,Target,3,#034e7b,13.048767119999999
-Site 1,2017-12-22,Target,3,#034e7b,13.137534252
-Site 1,2017-12-23,Target,3,#034e7b,13.226301372
-Site 1,2017-12-24,Target,3,#034e7b,13.315068492
-Site 1,2017-12-25,Target,3,#034e7b,13.403835612
-Site 1,2017-12-26,Target,3,#034e7b,13.492602744000001
-Site 1,2017-12-27,Target,3,#034e7b,13.581369864
-Site 1,2017-12-28,Target,3,#034e7b,13.670136983999999
-Site 1,2017-12-29,Target,3,#034e7b,13.758904115999998
-Site 1,2017-12-30,Target,3,#034e7b,13.847671236
-Site 1,2017-12-31,Target,3,#034e7b,13.936438356
-Site 1,2018-01-01,Target,3,#034e7b,14.025205475999998
-Site 1,2018-01-02,Target,3,#034e7b,14.113972608
-Site 1,2018-01-03,Target,3,#034e7b,14.202739728000001
-Site 1,2018-01-04,Target,3,#034e7b,14.291506848
-Site 1,2018-01-05,Target,3,#034e7b,14.380273968
-Site 1,2018-01-06,Target,3,#034e7b,14.469041099999998
-Site 1,2018-01-07,Target,3,#034e7b,14.557808219999998
-Site 1,2018-01-08,Target,3,#034e7b,14.64657534
-Site 1,2018-01-09,Target,3,#034e7b,14.735342472
-Site 1,2018-01-10,Target,3,#034e7b,14.824109592
-Site 1,2018-01-11,Target,3,#034e7b,14.912876712
-Site 1,2018-01-12,Target,3,#034e7b,15.001643832
-Site 1,2018-01-13,Target,3,#034e7b,15.090410964
-Site 1,2018-01-14,Target,3,#034e7b,15.179178084
-Site 1,2018-01-15,Target,3,#034e7b,15.267945203999998
-Site 1,2018-01-16,Target,3,#034e7b,15.356712324
-Site 1,2018-01-17,Target,3,#034e7b,15.445479456000001
-Site 1,2018-01-18,Target,3,#034e7b,15.534246576
-Site 1,2018-01-19,Target,3,#034e7b,15.623013696
-Site 1,2018-01-20,Target,3,#034e7b,15.711780827999998
-Site 1,2018-01-21,Target,3,#034e7b,15.800547947999998
-Site 1,2018-01-22,Target,3,#034e7b,15.889315068
-Site 1,2018-01-23,Target,3,#034e7b,15.978082187999998
-Site 1,2018-01-24,Target,3,#034e7b,16.06684932
-Site 1,2018-01-25,Target,3,#034e7b,16.15561644
-Site 1,2018-01-26,Target,3,#034e7b,16.24438356
-Site 1,2018-01-27,Target,3,#034e7b,16.33315068
-Site 1,2018-01-28,Target,3,#034e7b,16.421917812
-Site 1,2018-01-29,Target,3,#034e7b,16.510684932
-Site 1,2018-01-30,Target,3,#034e7b,16.599452052
-Site 1,2018-01-31,Target,3,#034e7b,16.688219183999998
-Site 1,2018-02-01,Target,3,#034e7b,16.776986304
-Site 1,2018-02-02,Target,3,#034e7b,16.865753423999998
-Site 1,2018-02-03,Target,3,#034e7b,16.954520543999998
-Site 1,2018-02-04,Target,3,#034e7b,17.043287676
-Site 1,2018-02-05,Target,3,#034e7b,17.132054796
-Site 1,2018-02-06,Target,3,#034e7b,17.220821916
-Site 1,2018-02-07,Target,3,#034e7b,17.309589036
-Site 1,2018-02-08,Target,3,#034e7b,17.398356168
-Site 1,2018-02-09,Target,3,#034e7b,17.487123288
-Site 1,2018-02-10,Target,3,#034e7b,17.575890408
-Site 1,2018-02-11,Target,3,#034e7b,17.66465754
-Site 1,2018-02-12,Target,3,#034e7b,17.75342466
-Site 1,2018-02-13,Target,3,#034e7b,17.84219178
-Site 2,2017-07-28,Screened,1,#a6bddb,0
-Site 2,2017-07-29,Screened,1,#a6bddb,0
-Site 2,2017-07-30,Screened,1,#a6bddb,0
-Site 2,2017-07-31,Screened,1,#a6bddb,0
-Site 2,2017-08-01,Screened,1,#a6bddb,0
-Site 2,2017-08-02,Screened,1,#a6bddb,0
-Site 2,2017-08-03,Screened,1,#a6bddb,0
-Site 2,2017-08-04,Screened,1,#a6bddb,0
-Site 2,2017-08-05,Screened,1,#a6bddb,0
-Site 2,2017-08-06,Screened,1,#a6bddb,0
-Site 2,2017-08-07,Screened,1,#a6bddb,0
-Site 2,2017-08-08,Screened,1,#a6bddb,0
-Site 2,2017-08-09,Screened,1,#a6bddb,0
-Site 2,2017-08-10,Screened,1,#a6bddb,0
-Site 2,2017-08-11,Screened,1,#a6bddb,0
-Site 2,2017-08-12,Screened,1,#a6bddb,0
-Site 2,2017-08-13,Screened,1,#a6bddb,0
-Site 2,2017-08-14,Screened,1,#a6bddb,0
-Site 2,2017-08-15,Screened,1,#a6bddb,0
-Site 2,2017-08-16,Screened,1,#a6bddb,0
-Site 2,2017-08-17,Screened,1,#a6bddb,0
-Site 2,2017-08-18,Screened,1,#a6bddb,0
-Site 2,2017-08-19,Screened,1,#a6bddb,0
-Site 2,2017-08-20,Screened,1,#a6bddb,0
-Site 2,2017-08-21,Screened,1,#a6bddb,0
-Site 2,2017-08-22,Screened,1,#a6bddb,0
-Site 2,2017-08-23,Screened,1,#a6bddb,0
-Site 2,2017-08-24,Screened,1,#a6bddb,0
-Site 2,2017-08-25,Screened,1,#a6bddb,0
-Site 2,2017-08-26,Screened,1,#a6bddb,0
-Site 2,2017-08-27,Screened,1,#a6bddb,0
-Site 2,2017-08-28,Screened,1,#a6bddb,0
-Site 2,2017-08-29,Screened,1,#a6bddb,0
-Site 2,2017-08-30,Screened,1,#a6bddb,0
-Site 2,2017-08-31,Screened,1,#a6bddb,0
-Site 2,2017-09-01,Screened,1,#a6bddb,0
-Site 2,2017-09-02,Screened,1,#a6bddb,0
-Site 2,2017-09-03,Screened,1,#a6bddb,0
-Site 2,2017-09-04,Screened,1,#a6bddb,0
-Site 2,2017-09-05,Screened,1,#a6bddb,0
-Site 2,2017-09-06,Screened,1,#a6bddb,0
-Site 2,2017-09-07,Screened,1,#a6bddb,0
-Site 2,2017-09-08,Screened,1,#a6bddb,0
-Site 2,2017-09-09,Screened,1,#a6bddb,0
-Site 2,2017-09-10,Screened,1,#a6bddb,0
-Site 2,2017-09-11,Screened,1,#a6bddb,0
-Site 2,2017-09-12,Screened,1,#a6bddb,0
-Site 2,2017-09-13,Screened,1,#a6bddb,0
-Site 2,2017-09-14,Screened,1,#a6bddb,0
-Site 2,2017-09-15,Screened,1,#a6bddb,0
-Site 2,2017-09-16,Screened,1,#a6bddb,0
-Site 2,2017-09-17,Screened,1,#a6bddb,0
-Site 2,2017-09-18,Screened,1,#a6bddb,0
-Site 2,2017-09-19,Screened,1,#a6bddb,0
-Site 2,2017-09-20,Screened,1,#a6bddb,0
-Site 2,2017-09-21,Screened,1,#a6bddb,0
-Site 2,2017-09-22,Screened,1,#a6bddb,0
-Site 2,2017-09-23,Screened,1,#a6bddb,0
-Site 2,2017-09-24,Screened,1,#a6bddb,0
-Site 2,2017-09-25,Screened,1,#a6bddb,0
-Site 2,2017-09-26,Screened,1,#a6bddb,0
-Site 2,2017-09-27,Screened,1,#a6bddb,0
-Site 2,2017-09-28,Screened,1,#a6bddb,0
-Site 2,2017-09-29,Screened,1,#a6bddb,0
-Site 2,2017-09-30,Screened,1,#a6bddb,0
-Site 2,2017-10-01,Screened,1,#a6bddb,0
-Site 2,2017-10-02,Screened,1,#a6bddb,0
-Site 2,2017-10-03,Screened,1,#a6bddb,0
-Site 2,2017-10-04,Screened,1,#a6bddb,4
-Site 2,2017-10-05,Screened,1,#a6bddb,8
-Site 2,2017-10-06,Screened,1,#a6bddb,8
-Site 2,2017-10-07,Screened,1,#a6bddb,8
-Site 2,2017-10-08,Screened,1,#a6bddb,8
-Site 2,2017-10-09,Screened,1,#a6bddb,8
-Site 2,2017-10-10,Screened,1,#a6bddb,11
-Site 2,2017-10-11,Screened,1,#a6bddb,11
-Site 2,2017-10-12,Screened,1,#a6bddb,11
-Site 2,2017-10-13,Screened,1,#a6bddb,11
-Site 2,2017-10-14,Screened,1,#a6bddb,11
-Site 2,2017-10-15,Screened,1,#a6bddb,11
-Site 2,2017-10-16,Screened,1,#a6bddb,11
-Site 2,2017-10-17,Screened,1,#a6bddb,11
-Site 2,2017-10-18,Screened,1,#a6bddb,11
-Site 2,2017-10-19,Screened,1,#a6bddb,11
-Site 2,2017-10-20,Screened,1,#a6bddb,11
-Site 2,2017-10-21,Screened,1,#a6bddb,11
-Site 2,2017-10-22,Screened,1,#a6bddb,11
-Site 2,2017-10-23,Screened,1,#a6bddb,11
-Site 2,2017-10-24,Screened,1,#a6bddb,11
-Site 2,2017-10-25,Screened,1,#a6bddb,11
-Site 2,2017-10-26,Screened,1,#a6bddb,11
-Site 2,2017-10-27,Screened,1,#a6bddb,11
-Site 2,2017-10-28,Screened,1,#a6bddb,11
-Site 2,2017-10-29,Screened,1,#a6bddb,11
-Site 2,2017-10-30,Screened,1,#a6bddb,11
-Site 2,2017-10-31,Screened,1,#a6bddb,11
-Site 2,2017-11-01,Screened,1,#a6bddb,11
-Site 2,2017-11-02,Screened,1,#a6bddb,11
-Site 2,2017-11-03,Screened,1,#a6bddb,11
-Site 2,2017-11-04,Screened,1,#a6bddb,11
-Site 2,2017-11-05,Screened,1,#a6bddb,11
-Site 2,2017-11-06,Screened,1,#a6bddb,15
-Site 2,2017-11-07,Screened,1,#a6bddb,15
-Site 2,2017-11-08,Screened,1,#a6bddb,15
-Site 2,2017-11-09,Screened,1,#a6bddb,15
-Site 2,2017-11-10,Screened,1,#a6bddb,15
-Site 2,2017-11-11,Screened,1,#a6bddb,15
-Site 2,2017-11-12,Screened,1,#a6bddb,15
-Site 2,2017-11-13,Screened,1,#a6bddb,15
-Site 2,2017-11-14,Screened,1,#a6bddb,15
-Site 2,2017-11-15,Screened,1,#a6bddb,15
-Site 2,2017-11-16,Screened,1,#a6bddb,15
-Site 2,2017-11-17,Screened,1,#a6bddb,15
-Site 2,2017-11-18,Screened,1,#a6bddb,15
-Site 2,2017-11-19,Screened,1,#a6bddb,15
-Site 2,2017-11-20,Screened,1,#a6bddb,15
-Site 2,2017-11-21,Screened,1,#a6bddb,15
-Site 2,2017-11-22,Screened,1,#a6bddb,15
-Site 2,2017-11-23,Screened,1,#a6bddb,15
-Site 2,2017-11-24,Screened,1,#a6bddb,15
-Site 2,2017-11-25,Screened,1,#a6bddb,15
-Site 2,2017-11-26,Screened,1,#a6bddb,15
-Site 2,2017-11-27,Screened,1,#a6bddb,15
-Site 2,2017-11-28,Screened,1,#a6bddb,15
-Site 2,2017-11-29,Screened,1,#a6bddb,15
-Site 2,2017-11-30,Screened,1,#a6bddb,15
-Site 2,2017-12-01,Screened,1,#a6bddb,15
-Site 2,2017-12-02,Screened,1,#a6bddb,15
-Site 2,2017-12-03,Screened,1,#a6bddb,15
-Site 2,2017-12-04,Screened,1,#a6bddb,15
-Site 2,2017-12-05,Screened,1,#a6bddb,15
-Site 2,2017-12-06,Screened,1,#a6bddb,15
-Site 2,2017-12-07,Screened,1,#a6bddb,15
-Site 2,2017-12-08,Screened,1,#a6bddb,15
-Site 2,2017-12-09,Screened,1,#a6bddb,15
-Site 2,2017-12-10,Screened,1,#a6bddb,15
-Site 2,2017-12-11,Screened,1,#a6bddb,15
-Site 2,2017-12-12,Screened,1,#a6bddb,15
-Site 2,2017-12-13,Screened,1,#a6bddb,15
-Site 2,2017-12-14,Screened,1,#a6bddb,15
-Site 2,2017-12-15,Screened,1,#a6bddb,15
-Site 2,2017-12-16,Screened,1,#a6bddb,15
-Site 2,2017-12-17,Screened,1,#a6bddb,15
-Site 2,2017-12-18,Screened,1,#a6bddb,15
-Site 2,2017-12-19,Screened,1,#a6bddb,15
-Site 2,2017-12-20,Screened,1,#a6bddb,15
-Site 2,2017-12-21,Screened,1,#a6bddb,15
-Site 2,2017-12-22,Screened,1,#a6bddb,15
-Site 2,2017-12-23,Screened,1,#a6bddb,15
-Site 2,2017-12-24,Screened,1,#a6bddb,15
-Site 2,2017-12-25,Screened,1,#a6bddb,15
-Site 2,2017-12-26,Screened,1,#a6bddb,15
-Site 2,2017-12-27,Screened,1,#a6bddb,15
-Site 2,2017-12-28,Screened,1,#a6bddb,15
-Site 2,2017-12-29,Screened,1,#a6bddb,15
-Site 2,2017-12-30,Screened,1,#a6bddb,15
-Site 2,2017-12-31,Screened,1,#a6bddb,15
-Site 2,2018-01-01,Screened,1,#a6bddb,15
-Site 2,2018-01-02,Screened,1,#a6bddb,15
-Site 2,2018-01-03,Screened,1,#a6bddb,15
-Site 2,2018-01-04,Screened,1,#a6bddb,15
-Site 2,2018-01-05,Screened,1,#a6bddb,15
-Site 2,2018-01-06,Screened,1,#a6bddb,15
-Site 2,2018-01-07,Screened,1,#a6bddb,15
-Site 2,2018-01-08,Screened,1,#a6bddb,15
-Site 2,2018-01-09,Screened,1,#a6bddb,15
-Site 2,2018-01-10,Screened,1,#a6bddb,15
-Site 2,2018-01-11,Screened,1,#a6bddb,15
-Site 2,2018-01-12,Screened,1,#a6bddb,15
-Site 2,2018-01-13,Screened,1,#a6bddb,15
-Site 2,2018-01-14,Screened,1,#a6bddb,15
-Site 2,2018-01-15,Screened,1,#a6bddb,15
-Site 2,2018-01-16,Screened,1,#a6bddb,15
-Site 2,2018-01-17,Screened,1,#a6bddb,15
-Site 2,2018-01-18,Screened,1,#a6bddb,15
-Site 2,2018-01-19,Screened,1,#a6bddb,15
-Site 2,2018-01-20,Screened,1,#a6bddb,15
-Site 2,2018-01-21,Screened,1,#a6bddb,15
-Site 2,2018-01-22,Screened,1,#a6bddb,15
-Site 2,2018-01-23,Screened,1,#a6bddb,15
-Site 2,2018-01-24,Screened,1,#a6bddb,15
-Site 2,2018-01-25,Screened,1,#a6bddb,15
-Site 2,2018-01-26,Screened,1,#a6bddb,15
-Site 2,2018-01-27,Screened,1,#a6bddb,15
-Site 2,2018-01-28,Screened,1,#a6bddb,15
-Site 2,2018-01-29,Screened,1,#a6bddb,15
-Site 2,2018-01-30,Screened,1,#a6bddb,18
-Site 2,2018-01-31,Screened,1,#a6bddb,18
-Site 2,2018-02-01,Screened,1,#a6bddb,18
-Site 2,2018-02-02,Screened,1,#a6bddb,18
-Site 2,2018-02-03,Screened,1,#a6bddb,18
-Site 2,2018-02-04,Screened,1,#a6bddb,18
-Site 2,2018-02-05,Screened,1,#a6bddb,22
-Site 2,2018-02-06,Screened,1,#a6bddb,22
-Site 2,2018-02-07,Screened,1,#a6bddb,22
-Site 2,2018-02-08,Screened,1,#a6bddb,22
-Site 2,2018-02-09,Screened,1,#a6bddb,22
-Site 2,2018-02-10,Screened,1,#a6bddb,22
-Site 2,2018-02-11,Screened,1,#a6bddb,22
-Site 2,2018-02-12,Screened,1,#a6bddb,22
-Site 2,2018-02-13,Screened,1,#a6bddb,22
-Site 2,2017-07-28,Target,3,#034e7b,0.0887671236
-Site 2,2017-07-29,Target,3,#034e7b,0.1775342472
-Site 2,2017-07-30,Target,3,#034e7b,0.2663013696
-Site 2,2017-07-31,Target,3,#034e7b,0.3550684932
-Site 2,2017-08-01,Target,3,#034e7b,0.4438356168
-Site 2,2017-08-02,Target,3,#034e7b,0.5326027392
-Site 2,2017-08-03,Target,3,#034e7b,0.6213698628
-Site 2,2017-08-04,Target,3,#034e7b,0.7101369864
-Site 2,2017-08-05,Target,3,#034e7b,0.79890411
-Site 2,2017-08-06,Target,3,#034e7b,0.8876712324
-Site 2,2017-08-07,Target,3,#034e7b,0.976438356
-Site 2,2017-08-08,Target,3,#034e7b,1.0652054796
-Site 2,2017-08-09,Target,3,#034e7b,1.1539726032
-Site 2,2017-08-10,Target,3,#034e7b,1.2427397256
-Site 2,2017-08-11,Target,3,#034e7b,1.3315068492
-Site 2,2017-08-12,Target,3,#034e7b,1.4202739728
-Site 2,2017-08-13,Target,3,#034e7b,1.5090410963999998
-Site 2,2017-08-14,Target,3,#034e7b,1.5978082187999998
-Site 2,2017-08-15,Target,3,#034e7b,1.6865753424
-Site 2,2017-08-16,Target,3,#034e7b,1.7753424660000001
-Site 2,2017-08-17,Target,3,#034e7b,1.8641095896
-Site 2,2017-08-18,Target,3,#034e7b,1.952876712
-Site 2,2017-08-19,Target,3,#034e7b,2.0416438356
-Site 2,2017-08-20,Target,3,#034e7b,2.1304109592
-Site 2,2017-08-21,Target,3,#034e7b,2.2191780828
-Site 2,2017-08-22,Target,3,#034e7b,2.3079452052
-Site 2,2017-08-23,Target,3,#034e7b,2.3967123288
-Site 2,2017-08-24,Target,3,#034e7b,2.4854794524
-Site 2,2017-08-25,Target,3,#034e7b,2.5742465759999997
-Site 2,2017-08-26,Target,3,#034e7b,2.6630136984
-Site 2,2017-08-27,Target,3,#034e7b,2.751780822
-Site 2,2017-08-28,Target,3,#034e7b,2.8405479456
-Site 2,2017-08-29,Target,3,#034e7b,2.929315068
-Site 2,2017-08-30,Target,3,#034e7b,3.0180821915999996
-Site 2,2017-08-31,Target,3,#034e7b,3.1068493152
-Site 2,2017-09-01,Target,3,#034e7b,3.1956164387999997
-Site 2,2017-09-02,Target,3,#034e7b,3.2843835612
-Site 2,2017-09-03,Target,3,#034e7b,3.3731506848
-Site 2,2017-09-04,Target,3,#034e7b,3.4619178084
-Site 2,2017-09-05,Target,3,#034e7b,3.5506849320000002
-Site 2,2017-09-06,Target,3,#034e7b,3.6394520544
-Site 2,2017-09-07,Target,3,#034e7b,3.728219178
-Site 2,2017-09-08,Target,3,#034e7b,3.8169863015999996
-Site 2,2017-09-09,Target,3,#034e7b,3.9057534252
-Site 2,2017-09-10,Target,3,#034e7b,3.9945205475999996
-Site 2,2017-09-11,Target,3,#034e7b,4.0832876712
-Site 2,2017-09-12,Target,3,#034e7b,4.1720547948
-Site 2,2017-09-13,Target,3,#034e7b,4.2608219184
-Site 2,2017-09-14,Target,3,#034e7b,4.3495890408
-Site 2,2017-09-15,Target,3,#034e7b,4.4383561644
-Site 2,2017-09-16,Target,3,#034e7b,4.527123287999999
-Site 2,2017-09-17,Target,3,#034e7b,4.6158904116
-Site 2,2017-09-18,Target,3,#034e7b,4.704657534
-Site 2,2017-09-19,Target,3,#034e7b,4.7934246576
-Site 2,2017-09-20,Target,3,#034e7b,4.8821917812
-Site 2,2017-09-21,Target,3,#034e7b,4.9709589036
-Site 2,2017-09-22,Target,3,#034e7b,5.0597260272
-Site 2,2017-09-23,Target,3,#034e7b,5.148493150799999
-Site 2,2017-09-24,Target,3,#034e7b,5.2372602744000005
-Site 2,2017-09-25,Target,3,#034e7b,5.3260273968
-Site 2,2017-09-26,Target,3,#034e7b,5.414794520399999
-Site 2,2017-09-27,Target,3,#034e7b,5.503561644
-Site 2,2017-09-28,Target,3,#034e7b,5.5923287676
-Site 2,2017-09-29,Target,3,#034e7b,5.68109589
-Site 2,2017-09-30,Target,3,#034e7b,5.769863013599999
-Site 2,2017-10-01,Target,3,#034e7b,5.8586301372000005
-Site 2,2017-10-02,Target,3,#034e7b,5.9473972608
-Site 2,2017-10-03,Target,3,#034e7b,6.036164383199999
-Site 2,2017-10-04,Target,3,#034e7b,6.1249315068
-Site 2,2017-10-05,Target,3,#034e7b,6.2136986304
-Site 2,2017-10-06,Target,3,#034e7b,6.302465754
-Site 2,2017-10-07,Target,3,#034e7b,6.391232876399999
-Site 2,2017-10-08,Target,3,#034e7b,6.48
-Site 2,2017-10-09,Target,3,#034e7b,6.5687671236
-Site 2,2017-10-10,Target,3,#034e7b,6.657534247199999
-Site 2,2017-10-11,Target,3,#034e7b,6.7463013696
-Site 2,2017-10-12,Target,3,#034e7b,6.8350684932
-Site 2,2017-10-13,Target,3,#034e7b,6.9238356168
-Site 2,2017-10-14,Target,3,#034e7b,7.012602739199999
-Site 2,2017-10-15,Target,3,#034e7b,7.1013698628
-Site 2,2017-10-16,Target,3,#034e7b,7.1901369864
-Site 2,2017-10-17,Target,3,#034e7b,7.278904109999999
-Site 2,2017-10-18,Target,3,#034e7b,7.367671232399999
-Site 2,2017-10-19,Target,3,#034e7b,7.456438356
-Site 2,2017-10-20,Target,3,#034e7b,7.5452054796
-Site 2,2017-10-21,Target,3,#034e7b,7.633972603199999
-Site 2,2017-10-22,Target,3,#034e7b,7.7227397256
-Site 2,2017-10-23,Target,3,#034e7b,7.8115068492
-Site 2,2017-10-24,Target,3,#034e7b,7.9002739728
-Site 2,2017-10-25,Target,3,#034e7b,7.989041096399999
-Site 2,2017-10-26,Target,3,#034e7b,8.0778082188
-Site 2,2017-10-27,Target,3,#034e7b,8.1665753424
-Site 2,2017-10-28,Target,3,#034e7b,8.255342466
-Site 2,2017-10-29,Target,3,#034e7b,8.3441095896
-Site 2,2017-10-30,Target,3,#034e7b,8.432876711999999
-Site 2,2017-10-31,Target,3,#034e7b,8.5216438356
-Site 2,2017-11-01,Target,3,#034e7b,8.6104109592
-Site 2,2017-11-02,Target,3,#034e7b,8.6991780828
-Site 2,2017-11-03,Target,3,#034e7b,8.7879452052
-Site 2,2017-11-04,Target,3,#034e7b,8.8767123288
-Site 2,2017-11-05,Target,3,#034e7b,8.9654794524
-Site 2,2017-11-06,Target,3,#034e7b,9.054246575999999
-Site 2,2017-11-07,Target,3,#034e7b,9.1430136984
-Site 2,2017-11-08,Target,3,#034e7b,9.231780822
-Site 2,2017-11-09,Target,3,#034e7b,9.3205479456
-Site 2,2017-11-10,Target,3,#034e7b,9.409315068
-Site 2,2017-11-11,Target,3,#034e7b,9.4980821916
-Site 2,2017-11-12,Target,3,#034e7b,9.5868493152
-Site 2,2017-11-13,Target,3,#034e7b,9.6756164388
-Site 2,2017-11-14,Target,3,#034e7b,9.7643835612
-Site 2,2017-11-15,Target,3,#034e7b,9.8531506848
-Site 2,2017-11-16,Target,3,#034e7b,9.9419178084
-Site 2,2017-11-17,Target,3,#034e7b,10.030684931999998
-Site 2,2017-11-18,Target,3,#034e7b,10.1194520544
-Site 2,2017-11-19,Target,3,#034e7b,10.208219178
-Site 2,2017-11-20,Target,3,#034e7b,10.296986301599999
-Site 2,2017-11-21,Target,3,#034e7b,10.385753425199999
-Site 2,2017-11-22,Target,3,#034e7b,10.474520547600001
-Site 2,2017-11-23,Target,3,#034e7b,10.5632876712
-Site 2,2017-11-24,Target,3,#034e7b,10.6520547948
-Site 2,2017-11-25,Target,3,#034e7b,10.7408219184
-Site 2,2017-11-26,Target,3,#034e7b,10.829589040799998
-Site 2,2017-11-27,Target,3,#034e7b,10.9183561644
-Site 2,2017-11-28,Target,3,#034e7b,11.007123288
-Site 2,2017-11-29,Target,3,#034e7b,11.0958904116
-Site 2,2017-11-30,Target,3,#034e7b,11.184657534
-Site 2,2017-12-01,Target,3,#034e7b,11.273424657599998
-Site 2,2017-12-02,Target,3,#034e7b,11.3621917812
-Site 2,2017-12-03,Target,3,#034e7b,11.4509589036
-Site 2,2017-12-04,Target,3,#034e7b,11.539726027199999
-Site 2,2017-12-05,Target,3,#034e7b,11.628493150799999
-Site 2,2017-12-06,Target,3,#034e7b,11.717260274400001
-Site 2,2017-12-07,Target,3,#034e7b,11.8060273968
-Site 2,2017-12-08,Target,3,#034e7b,11.8947945204
-Site 2,2017-12-09,Target,3,#034e7b,11.983561644
-Site 2,2017-12-10,Target,3,#034e7b,12.072328764
-Site 2,2017-12-11,Target,3,#034e7b,12.161095895999999
-Site 2,2017-12-12,Target,3,#034e7b,12.249863016
-Site 2,2017-12-13,Target,3,#034e7b,12.338630135999999
-Site 2,2017-12-14,Target,3,#034e7b,12.427397255999999
-Site 2,2017-12-15,Target,3,#034e7b,12.516164387999998
-Site 2,2017-12-16,Target,3,#034e7b,12.604931508
-Site 2,2017-12-17,Target,3,#034e7b,12.693698628
-Site 2,2017-12-18,Target,3,#034e7b,12.78246576
-Site 2,2017-12-19,Target,3,#034e7b,12.871232879999999
-Site 2,2017-12-20,Target,3,#034e7b,12.96
-Site 2,2017-12-21,Target,3,#034e7b,13.048767119999999
-Site 2,2017-12-22,Target,3,#034e7b,13.137534252
-Site 2,2017-12-23,Target,3,#034e7b,13.226301372
-Site 2,2017-12-24,Target,3,#034e7b,13.315068492
-Site 2,2017-12-25,Target,3,#034e7b,13.403835612
-Site 2,2017-12-26,Target,3,#034e7b,13.492602744000001
-Site 2,2017-12-27,Target,3,#034e7b,13.581369864
-Site 2,2017-12-28,Target,3,#034e7b,13.670136983999999
-Site 2,2017-12-29,Target,3,#034e7b,13.758904115999998
-Site 2,2017-12-30,Target,3,#034e7b,13.847671236
-Site 2,2017-12-31,Target,3,#034e7b,13.936438356
-Site 2,2018-01-01,Target,3,#034e7b,14.025205475999998
-Site 2,2018-01-02,Target,3,#034e7b,14.113972608
-Site 2,2018-01-03,Target,3,#034e7b,14.202739728000001
-Site 2,2018-01-04,Target,3,#034e7b,14.291506848
-Site 2,2018-01-05,Target,3,#034e7b,14.380273968
-Site 2,2018-01-06,Target,3,#034e7b,14.469041099999998
-Site 2,2018-01-07,Target,3,#034e7b,14.557808219999998
-Site 2,2018-01-08,Target,3,#034e7b,14.64657534
-Site 2,2018-01-09,Target,3,#034e7b,14.735342472
-Site 2,2018-01-10,Target,3,#034e7b,14.824109592
-Site 2,2018-01-11,Target,3,#034e7b,14.912876712
-Site 2,2018-01-12,Target,3,#034e7b,15.001643832
-Site 2,2018-01-13,Target,3,#034e7b,15.090410964
-Site 2,2018-01-14,Target,3,#034e7b,15.179178084
-Site 2,2018-01-15,Target,3,#034e7b,15.267945203999998
-Site 2,2018-01-16,Target,3,#034e7b,15.356712324
-Site 2,2018-01-17,Target,3,#034e7b,15.445479456000001
-Site 2,2018-01-18,Target,3,#034e7b,15.534246576
-Site 2,2018-01-19,Target,3,#034e7b,15.623013696
-Site 2,2018-01-20,Target,3,#034e7b,15.711780827999998
-Site 2,2018-01-21,Target,3,#034e7b,15.800547947999998
-Site 2,2018-01-22,Target,3,#034e7b,15.889315068
-Site 2,2018-01-23,Target,3,#034e7b,15.978082187999998
-Site 2,2018-01-24,Target,3,#034e7b,16.06684932
-Site 2,2018-01-25,Target,3,#034e7b,16.15561644
-Site 2,2018-01-26,Target,3,#034e7b,16.24438356
-Site 2,2018-01-27,Target,3,#034e7b,16.33315068
-Site 2,2018-01-28,Target,3,#034e7b,16.421917812
-Site 2,2018-01-29,Target,3,#034e7b,16.510684932
-Site 2,2018-01-30,Target,3,#034e7b,16.599452052
-Site 2,2018-01-31,Target,3,#034e7b,16.688219183999998
-Site 2,2018-02-01,Target,3,#034e7b,16.776986304
-Site 2,2018-02-02,Target,3,#034e7b,16.865753423999998
-Site 2,2018-02-03,Target,3,#034e7b,16.954520543999998
-Site 2,2018-02-04,Target,3,#034e7b,17.043287676
-Site 2,2018-02-05,Target,3,#034e7b,17.132054796
-Site 2,2018-02-06,Target,3,#034e7b,17.220821916
-Site 2,2018-02-07,Target,3,#034e7b,17.309589036
-Site 2,2018-02-08,Target,3,#034e7b,17.398356168
-Site 2,2018-02-09,Target,3,#034e7b,17.487123288
-Site 2,2018-02-10,Target,3,#034e7b,17.575890408
-Site 2,2018-02-11,Target,3,#034e7b,17.66465754
-Site 2,2018-02-12,Target,3,#034e7b,17.75342466
-Site 2,2018-02-13,Target,3,#034e7b,17.84219178
-Site 1,2017-07-28,Randomized,2,#3690c0,0
-Site 1,2017-07-29,Randomized,2,#3690c0,0
-Site 1,2017-07-30,Randomized,2,#3690c0,0
-Site 1,2017-07-31,Randomized,2,#3690c0,0
-Site 1,2017-08-01,Randomized,2,#3690c0,0
-Site 1,2017-08-02,Randomized,2,#3690c0,0
-Site 1,2017-08-03,Randomized,2,#3690c0,0
-Site 1,2017-08-04,Randomized,2,#3690c0,0
-Site 1,2017-08-05,Randomized,2,#3690c0,0
-Site 1,2017-08-06,Randomized,2,#3690c0,0
-Site 1,2017-08-07,Randomized,2,#3690c0,0
-Site 1,2017-08-08,Randomized,2,#3690c0,0
-Site 1,2017-08-09,Randomized,2,#3690c0,0
-Site 1,2017-08-10,Randomized,2,#3690c0,0
-Site 1,2017-08-11,Randomized,2,#3690c0,0
-Site 1,2017-08-12,Randomized,2,#3690c0,0
-Site 1,2017-08-13,Randomized,2,#3690c0,0
-Site 1,2017-08-14,Randomized,2,#3690c0,0
-Site 1,2017-08-15,Randomized,2,#3690c0,0
-Site 1,2017-08-16,Randomized,2,#3690c0,0
-Site 1,2017-08-17,Randomized,2,#3690c0,0
-Site 1,2017-08-18,Randomized,2,#3690c0,0
-Site 1,2017-08-19,Randomized,2,#3690c0,0
-Site 1,2017-08-20,Randomized,2,#3690c0,0
-Site 1,2017-08-21,Randomized,2,#3690c0,0
-Site 1,2017-08-22,Randomized,2,#3690c0,0
-Site 1,2017-08-23,Randomized,2,#3690c0,0
-Site 1,2017-08-24,Randomized,2,#3690c0,0
-Site 1,2017-08-25,Randomized,2,#3690c0,0
-Site 1,2017-08-26,Randomized,2,#3690c0,0
-Site 1,2017-08-27,Randomized,2,#3690c0,0
-Site 1,2017-08-28,Randomized,2,#3690c0,0
-Site 1,2017-08-29,Randomized,2,#3690c0,0
-Site 1,2017-08-30,Randomized,2,#3690c0,0
-Site 1,2017-08-31,Randomized,2,#3690c0,0
-Site 1,2017-09-01,Randomized,2,#3690c0,0
-Site 1,2017-09-02,Randomized,2,#3690c0,0
-Site 1,2017-09-03,Randomized,2,#3690c0,0
-Site 1,2017-09-04,Randomized,2,#3690c0,0
-Site 1,2017-09-05,Randomized,2,#3690c0,0
-Site 1,2017-09-06,Randomized,2,#3690c0,0
-Site 1,2017-09-07,Randomized,2,#3690c0,0
-Site 1,2017-09-08,Randomized,2,#3690c0,0
-Site 1,2017-09-09,Randomized,2,#3690c0,0
-Site 1,2017-09-10,Randomized,2,#3690c0,0
-Site 1,2017-09-11,Randomized,2,#3690c0,0
-Site 1,2017-09-12,Randomized,2,#3690c0,0
-Site 1,2017-09-13,Randomized,2,#3690c0,0
-Site 1,2017-09-14,Randomized,2,#3690c0,0
-Site 1,2017-09-15,Randomized,2,#3690c0,0
-Site 1,2017-09-16,Randomized,2,#3690c0,0
-Site 1,2017-09-17,Randomized,2,#3690c0,0
-Site 1,2017-09-18,Randomized,2,#3690c0,0
-Site 1,2017-09-19,Randomized,2,#3690c0,0
-Site 1,2017-09-20,Randomized,2,#3690c0,0
-Site 1,2017-09-21,Randomized,2,#3690c0,0
-Site 1,2017-09-22,Randomized,2,#3690c0,0
-Site 1,2017-09-23,Randomized,2,#3690c0,0
-Site 1,2017-09-24,Randomized,2,#3690c0,0
-Site 1,2017-09-25,Randomized,2,#3690c0,0
-Site 1,2017-09-26,Randomized,2,#3690c0,0
-Site 1,2017-09-27,Randomized,2,#3690c0,0
-Site 1,2017-09-28,Randomized,2,#3690c0,4
-Site 1,2017-09-29,Randomized,2,#3690c0,4
-Site 1,2017-09-30,Randomized,2,#3690c0,4
-Site 1,2017-10-01,Randomized,2,#3690c0,4
-Site 1,2017-10-02,Randomized,2,#3690c0,4
-Site 1,2017-10-03,Randomized,2,#3690c0,4
-Site 1,2017-10-04,Randomized,2,#3690c0,4
-Site 1,2017-10-05,Randomized,2,#3690c0,4
-Site 1,2017-10-06,Randomized,2,#3690c0,4
-Site 1,2017-10-07,Randomized,2,#3690c0,4
-Site 1,2017-10-08,Randomized,2,#3690c0,4
-Site 1,2017-10-09,Randomized,2,#3690c0,4
-Site 1,2017-10-10,Randomized,2,#3690c0,4
-Site 1,2017-10-11,Randomized,2,#3690c0,4
-Site 1,2017-10-12,Randomized,2,#3690c0,4
-Site 1,2017-10-13,Randomized,2,#3690c0,4
-Site 1,2017-10-14,Randomized,2,#3690c0,4
-Site 1,2017-10-15,Randomized,2,#3690c0,4
-Site 1,2017-10-16,Randomized,2,#3690c0,4
-Site 1,2017-10-17,Randomized,2,#3690c0,4
-Site 1,2017-10-18,Randomized,2,#3690c0,4
-Site 1,2017-10-19,Randomized,2,#3690c0,4
-Site 1,2017-10-20,Randomized,2,#3690c0,4
-Site 1,2017-10-21,Randomized,2,#3690c0,4
-Site 1,2017-10-22,Randomized,2,#3690c0,4
-Site 1,2017-10-23,Randomized,2,#3690c0,7
-Site 1,2017-10-24,Randomized,2,#3690c0,7
-Site 1,2017-10-25,Randomized,2,#3690c0,7
-Site 1,2017-10-26,Randomized,2,#3690c0,7
-Site 1,2017-10-27,Randomized,2,#3690c0,7
-Site 1,2017-10-28,Randomized,2,#3690c0,7
-Site 1,2017-10-29,Randomized,2,#3690c0,7
-Site 1,2017-10-30,Randomized,2,#3690c0,7
-Site 1,2017-10-31,Randomized,2,#3690c0,7
-Site 1,2017-11-01,Randomized,2,#3690c0,7
-Site 1,2017-11-02,Randomized,2,#3690c0,7
-Site 1,2017-11-03,Randomized,2,#3690c0,7
-Site 1,2017-11-04,Randomized,2,#3690c0,7
-Site 1,2017-11-05,Randomized,2,#3690c0,7
-Site 1,2017-11-06,Randomized,2,#3690c0,7
-Site 1,2017-11-07,Randomized,2,#3690c0,7
-Site 1,2017-11-08,Randomized,2,#3690c0,7
-Site 1,2017-11-09,Randomized,2,#3690c0,7
-Site 1,2017-11-10,Randomized,2,#3690c0,7
-Site 1,2017-11-11,Randomized,2,#3690c0,7
-Site 1,2017-11-12,Randomized,2,#3690c0,7
-Site 1,2017-11-13,Randomized,2,#3690c0,7
-Site 1,2017-11-14,Randomized,2,#3690c0,7
-Site 1,2017-11-15,Randomized,2,#3690c0,7
-Site 1,2017-11-16,Randomized,2,#3690c0,7
-Site 1,2017-11-17,Randomized,2,#3690c0,7
-Site 1,2017-11-18,Randomized,2,#3690c0,7
-Site 1,2017-11-19,Randomized,2,#3690c0,7
-Site 1,2017-11-20,Randomized,2,#3690c0,7
-Site 1,2017-11-21,Randomized,2,#3690c0,7
-Site 1,2017-11-22,Randomized,2,#3690c0,7
-Site 1,2017-11-23,Randomized,2,#3690c0,7
-Site 1,2017-11-24,Randomized,2,#3690c0,7
-Site 1,2017-11-25,Randomized,2,#3690c0,7
-Site 1,2017-11-26,Randomized,2,#3690c0,7
-Site 1,2017-11-27,Randomized,2,#3690c0,7
-Site 1,2017-11-28,Randomized,2,#3690c0,7
-Site 1,2017-11-29,Randomized,2,#3690c0,7
-Site 1,2017-11-30,Randomized,2,#3690c0,7
-Site 1,2017-12-01,Randomized,2,#3690c0,7
-Site 1,2017-12-02,Randomized,2,#3690c0,7
-Site 1,2017-12-03,Randomized,2,#3690c0,7
-Site 1,2017-12-04,Randomized,2,#3690c0,7
-Site 1,2017-12-05,Randomized,2,#3690c0,7
-Site 1,2017-12-06,Randomized,2,#3690c0,7
-Site 1,2017-12-07,Randomized,2,#3690c0,7
-Site 1,2017-12-08,Randomized,2,#3690c0,7
-Site 1,2017-12-09,Randomized,2,#3690c0,7
-Site 1,2017-12-10,Randomized,2,#3690c0,7
-Site 1,2017-12-11,Randomized,2,#3690c0,7
-Site 1,2017-12-12,Randomized,2,#3690c0,7
-Site 1,2017-12-13,Randomized,2,#3690c0,7
-Site 1,2017-12-14,Randomized,2,#3690c0,7
-Site 1,2017-12-15,Randomized,2,#3690c0,7
-Site 1,2017-12-16,Randomized,2,#3690c0,7
-Site 1,2017-12-17,Randomized,2,#3690c0,7
-Site 1,2017-12-18,Randomized,2,#3690c0,7
-Site 1,2017-12-19,Randomized,2,#3690c0,7
-Site 1,2017-12-20,Randomized,2,#3690c0,7
-Site 1,2017-12-21,Randomized,2,#3690c0,7
-Site 1,2017-12-22,Randomized,2,#3690c0,7
-Site 1,2017-12-23,Randomized,2,#3690c0,7
-Site 1,2017-12-24,Randomized,2,#3690c0,7
-Site 1,2017-12-25,Randomized,2,#3690c0,7
-Site 1,2017-12-26,Randomized,2,#3690c0,7
-Site 1,2017-12-27,Randomized,2,#3690c0,7
-Site 1,2017-12-28,Randomized,2,#3690c0,7
-Site 1,2017-12-29,Randomized,2,#3690c0,7
-Site 1,2017-12-30,Randomized,2,#3690c0,7
-Site 1,2017-12-31,Randomized,2,#3690c0,7
-Site 1,2018-01-01,Randomized,2,#3690c0,7
-Site 1,2018-01-02,Randomized,2,#3690c0,7
-Site 1,2018-01-03,Randomized,2,#3690c0,7
-Site 1,2018-01-04,Randomized,2,#3690c0,7
-Site 1,2018-01-05,Randomized,2,#3690c0,7
-Site 1,2018-01-06,Randomized,2,#3690c0,7
-Site 1,2018-01-07,Randomized,2,#3690c0,7
-Site 1,2018-01-08,Randomized,2,#3690c0,7
-Site 1,2018-01-09,Randomized,2,#3690c0,7
-Site 1,2018-01-10,Randomized,2,#3690c0,7
-Site 1,2018-01-11,Randomized,2,#3690c0,10
-Site 1,2018-01-12,Randomized,2,#3690c0,10
-Site 1,2018-01-13,Randomized,2,#3690c0,10
-Site 1,2018-01-14,Randomized,2,#3690c0,10
-Site 1,2018-01-15,Randomized,2,#3690c0,10
-Site 1,2018-01-16,Randomized,2,#3690c0,10
-Site 1,2018-01-17,Randomized,2,#3690c0,10
-Site 1,2018-01-18,Randomized,2,#3690c0,10
-Site 1,2018-01-19,Randomized,2,#3690c0,10
-Site 1,2018-01-20,Randomized,2,#3690c0,10
-Site 1,2018-01-21,Randomized,2,#3690c0,10
-Site 1,2018-01-22,Randomized,2,#3690c0,10
-Site 1,2018-01-23,Randomized,2,#3690c0,10
-Site 1,2018-01-24,Randomized,2,#3690c0,10
-Site 1,2018-01-25,Randomized,2,#3690c0,10
-Site 1,2018-01-26,Randomized,2,#3690c0,10
-Site 1,2018-01-27,Randomized,2,#3690c0,10
-Site 1,2018-01-28,Randomized,2,#3690c0,10
-Site 1,2018-01-29,Randomized,2,#3690c0,10
-Site 1,2018-01-30,Randomized,2,#3690c0,10
-Site 1,2018-01-31,Randomized,2,#3690c0,10
-Site 1,2018-02-01,Randomized,2,#3690c0,10
-Site 1,2018-02-02,Randomized,2,#3690c0,10
-Site 1,2018-02-03,Randomized,2,#3690c0,10
-Site 1,2018-02-04,Randomized,2,#3690c0,10
-Site 1,2018-02-05,Randomized,2,#3690c0,10
-Site 1,2018-02-06,Randomized,2,#3690c0,13
-Site 1,2018-02-07,Randomized,2,#3690c0,13
-Site 1,2018-02-08,Randomized,2,#3690c0,13
-Site 1,2018-02-09,Randomized,2,#3690c0,13
-Site 1,2018-02-10,Randomized,2,#3690c0,13
-Site 1,2018-02-11,Randomized,2,#3690c0,13
-Site 1,2018-02-12,Randomized,2,#3690c0,13
-Site 1,2018-02-13,Randomized,2,#3690c0,13
-Site 2,2017-07-28,Randomized,2,#3690c0,0
-Site 2,2017-07-29,Randomized,2,#3690c0,0
-Site 2,2017-07-30,Randomized,2,#3690c0,0
-Site 2,2017-07-31,Randomized,2,#3690c0,0
-Site 2,2017-08-01,Randomized,2,#3690c0,0
-Site 2,2017-08-02,Randomized,2,#3690c0,0
-Site 2,2017-08-03,Randomized,2,#3690c0,0
-Site 2,2017-08-04,Randomized,2,#3690c0,0
-Site 2,2017-08-05,Randomized,2,#3690c0,0
-Site 2,2017-08-06,Randomized,2,#3690c0,0
-Site 2,2017-08-07,Randomized,2,#3690c0,0
-Site 2,2017-08-08,Randomized,2,#3690c0,0
-Site 2,2017-08-09,Randomized,2,#3690c0,0
-Site 2,2017-08-10,Randomized,2,#3690c0,0
-Site 2,2017-08-11,Randomized,2,#3690c0,0
-Site 2,2017-08-12,Randomized,2,#3690c0,0
-Site 2,2017-08-13,Randomized,2,#3690c0,0
-Site 2,2017-08-14,Randomized,2,#3690c0,0
-Site 2,2017-08-15,Randomized,2,#3690c0,0
-Site 2,2017-08-16,Randomized,2,#3690c0,0
-Site 2,2017-08-17,Randomized,2,#3690c0,0
-Site 2,2017-08-18,Randomized,2,#3690c0,0
-Site 2,2017-08-19,Randomized,2,#3690c0,0
-Site 2,2017-08-20,Randomized,2,#3690c0,0
-Site 2,2017-08-21,Randomized,2,#3690c0,0
-Site 2,2017-08-22,Randomized,2,#3690c0,0
-Site 2,2017-08-23,Randomized,2,#3690c0,0
-Site 2,2017-08-24,Randomized,2,#3690c0,0
-Site 2,2017-08-25,Randomized,2,#3690c0,0
-Site 2,2017-08-26,Randomized,2,#3690c0,0
-Site 2,2017-08-27,Randomized,2,#3690c0,0
-Site 2,2017-08-28,Randomized,2,#3690c0,0
-Site 2,2017-08-29,Randomized,2,#3690c0,0
-Site 2,2017-08-30,Randomized,2,#3690c0,0
-Site 2,2017-08-31,Randomized,2,#3690c0,0
-Site 2,2017-09-01,Randomized,2,#3690c0,0
-Site 2,2017-09-02,Randomized,2,#3690c0,0
-Site 2,2017-09-03,Randomized,2,#3690c0,0
-Site 2,2017-09-04,Randomized,2,#3690c0,0
-Site 2,2017-09-05,Randomized,2,#3690c0,0
-Site 2,2017-09-06,Randomized,2,#3690c0,0
-Site 2,2017-09-07,Randomized,2,#3690c0,0
-Site 2,2017-09-08,Randomized,2,#3690c0,0
-Site 2,2017-09-09,Randomized,2,#3690c0,0
-Site 2,2017-09-10,Randomized,2,#3690c0,0
-Site 2,2017-09-11,Randomized,2,#3690c0,0
-Site 2,2017-09-12,Randomized,2,#3690c0,0
-Site 2,2017-09-13,Randomized,2,#3690c0,0
-Site 2,2017-09-14,Randomized,2,#3690c0,0
-Site 2,2017-09-15,Randomized,2,#3690c0,0
-Site 2,2017-09-16,Randomized,2,#3690c0,0
-Site 2,2017-09-17,Randomized,2,#3690c0,0
-Site 2,2017-09-18,Randomized,2,#3690c0,0
-Site 2,2017-09-19,Randomized,2,#3690c0,0
-Site 2,2017-09-20,Randomized,2,#3690c0,0
-Site 2,2017-09-21,Randomized,2,#3690c0,0
-Site 2,2017-09-22,Randomized,2,#3690c0,0
-Site 2,2017-09-23,Randomized,2,#3690c0,0
-Site 2,2017-09-24,Randomized,2,#3690c0,0
-Site 2,2017-09-25,Randomized,2,#3690c0,0
-Site 2,2017-09-26,Randomized,2,#3690c0,0
-Site 2,2017-09-27,Randomized,2,#3690c0,0
-Site 2,2017-09-28,Randomized,2,#3690c0,0
-Site 2,2017-09-29,Randomized,2,#3690c0,0
-Site 2,2017-09-30,Randomized,2,#3690c0,0
-Site 2,2017-10-01,Randomized,2,#3690c0,0
-Site 2,2017-10-02,Randomized,2,#3690c0,0
-Site 2,2017-10-03,Randomized,2,#3690c0,0
-Site 2,2017-10-04,Randomized,2,#3690c0,4
-Site 2,2017-10-05,Randomized,2,#3690c0,7
-Site 2,2017-10-06,Randomized,2,#3690c0,7
-Site 2,2017-10-07,Randomized,2,#3690c0,7
-Site 2,2017-10-08,Randomized,2,#3690c0,7
-Site 2,2017-10-09,Randomized,2,#3690c0,7
-Site 2,2017-10-10,Randomized,2,#3690c0,10
-Site 2,2017-10-11,Randomized,2,#3690c0,10
-Site 2,2017-10-12,Randomized,2,#3690c0,10
-Site 2,2017-10-13,Randomized,2,#3690c0,10
-Site 2,2017-10-14,Randomized,2,#3690c0,10
-Site 2,2017-10-15,Randomized,2,#3690c0,10
-Site 2,2017-10-16,Randomized,2,#3690c0,10
-Site 2,2017-10-17,Randomized,2,#3690c0,10
-Site 2,2017-10-18,Randomized,2,#3690c0,10
-Site 2,2017-10-19,Randomized,2,#3690c0,10
-Site 2,2017-10-20,Randomized,2,#3690c0,10
-Site 2,2017-10-21,Randomized,2,#3690c0,10
-Site 2,2017-10-22,Randomized,2,#3690c0,10
-Site 2,2017-10-23,Randomized,2,#3690c0,10
-Site 2,2017-10-24,Randomized,2,#3690c0,10
-Site 2,2017-10-25,Randomized,2,#3690c0,10
-Site 2,2017-10-26,Randomized,2,#3690c0,10
-Site 2,2017-10-27,Randomized,2,#3690c0,10
-Site 2,2017-10-28,Randomized,2,#3690c0,10
-Site 2,2017-10-29,Randomized,2,#3690c0,10
-Site 2,2017-10-30,Randomized,2,#3690c0,10
-Site 2,2017-10-31,Randomized,2,#3690c0,10
-Site 2,2017-11-01,Randomized,2,#3690c0,10
-Site 2,2017-11-02,Randomized,2,#3690c0,10
-Site 2,2017-11-03,Randomized,2,#3690c0,10
-Site 2,2017-11-04,Randomized,2,#3690c0,10
-Site 2,2017-11-05,Randomized,2,#3690c0,10
-Site 2,2017-11-06,Randomized,2,#3690c0,13
-Site 2,2017-11-07,Randomized,2,#3690c0,13
-Site 2,2017-11-08,Randomized,2,#3690c0,13
-Site 2,2017-11-09,Randomized,2,#3690c0,13
-Site 2,2017-11-10,Randomized,2,#3690c0,13
-Site 2,2017-11-11,Randomized,2,#3690c0,13
-Site 2,2017-11-12,Randomized,2,#3690c0,13
-Site 2,2017-11-13,Randomized,2,#3690c0,13
-Site 2,2017-11-14,Randomized,2,#3690c0,13
-Site 2,2017-11-15,Randomized,2,#3690c0,13
-Site 2,2017-11-16,Randomized,2,#3690c0,13
-Site 2,2017-11-17,Randomized,2,#3690c0,13
-Site 2,2017-11-18,Randomized,2,#3690c0,13
-Site 2,2017-11-19,Randomized,2,#3690c0,13
-Site 2,2017-11-20,Randomized,2,#3690c0,13
-Site 2,2017-11-21,Randomized,2,#3690c0,13
-Site 2,2017-11-22,Randomized,2,#3690c0,13
-Site 2,2017-11-23,Randomized,2,#3690c0,13
-Site 2,2017-11-24,Randomized,2,#3690c0,13
-Site 2,2017-11-25,Randomized,2,#3690c0,13
-Site 2,2017-11-26,Randomized,2,#3690c0,13
-Site 2,2017-11-27,Randomized,2,#3690c0,13
-Site 2,2017-11-28,Randomized,2,#3690c0,13
-Site 2,2017-11-29,Randomized,2,#3690c0,13
-Site 2,2017-11-30,Randomized,2,#3690c0,13
-Site 2,2017-12-01,Randomized,2,#3690c0,13
-Site 2,2017-12-02,Randomized,2,#3690c0,13
-Site 2,2017-12-03,Randomized,2,#3690c0,13
-Site 2,2017-12-04,Randomized,2,#3690c0,13
-Site 2,2017-12-05,Randomized,2,#3690c0,13
-Site 2,2017-12-06,Randomized,2,#3690c0,13
-Site 2,2017-12-07,Randomized,2,#3690c0,13
-Site 2,2017-12-08,Randomized,2,#3690c0,13
-Site 2,2017-12-09,Randomized,2,#3690c0,13
-Site 2,2017-12-10,Randomized,2,#3690c0,13
-Site 2,2017-12-11,Randomized,2,#3690c0,13
-Site 2,2017-12-12,Randomized,2,#3690c0,13
-Site 2,2017-12-13,Randomized,2,#3690c0,13
-Site 2,2017-12-14,Randomized,2,#3690c0,13
-Site 2,2017-12-15,Randomized,2,#3690c0,13
-Site 2,2017-12-16,Randomized,2,#3690c0,13
-Site 2,2017-12-17,Randomized,2,#3690c0,13
-Site 2,2017-12-18,Randomized,2,#3690c0,13
-Site 2,2017-12-19,Randomized,2,#3690c0,13
-Site 2,2017-12-20,Randomized,2,#3690c0,13
-Site 2,2017-12-21,Randomized,2,#3690c0,13
-Site 2,2017-12-22,Randomized,2,#3690c0,13
-Site 2,2017-12-23,Randomized,2,#3690c0,13
-Site 2,2017-12-24,Randomized,2,#3690c0,13
-Site 2,2017-12-25,Randomized,2,#3690c0,13
-Site 2,2017-12-26,Randomized,2,#3690c0,13
-Site 2,2017-12-27,Randomized,2,#3690c0,13
-Site 2,2017-12-28,Randomized,2,#3690c0,13
-Site 2,2017-12-29,Randomized,2,#3690c0,13
-Site 2,2017-12-30,Randomized,2,#3690c0,13
-Site 2,2017-12-31,Randomized,2,#3690c0,13
-Site 2,2018-01-01,Randomized,2,#3690c0,13
-Site 2,2018-01-02,Randomized,2,#3690c0,13
-Site 2,2018-01-03,Randomized,2,#3690c0,13
-Site 2,2018-01-04,Randomized,2,#3690c0,13
-Site 2,2018-01-05,Randomized,2,#3690c0,13
-Site 2,2018-01-06,Randomized,2,#3690c0,13
-Site 2,2018-01-07,Randomized,2,#3690c0,13
-Site 2,2018-01-08,Randomized,2,#3690c0,13
-Site 2,2018-01-09,Randomized,2,#3690c0,13
-Site 2,2018-01-10,Randomized,2,#3690c0,13
-Site 2,2018-01-11,Randomized,2,#3690c0,13
-Site 2,2018-01-12,Randomized,2,#3690c0,13
-Site 2,2018-01-13,Randomized,2,#3690c0,13
-Site 2,2018-01-14,Randomized,2,#3690c0,13
-Site 2,2018-01-15,Randomized,2,#3690c0,13
-Site 2,2018-01-16,Randomized,2,#3690c0,13
-Site 2,2018-01-17,Randomized,2,#3690c0,13
-Site 2,2018-01-18,Randomized,2,#3690c0,13
-Site 2,2018-01-19,Randomized,2,#3690c0,13
-Site 2,2018-01-20,Randomized,2,#3690c0,13
-Site 2,2018-01-21,Randomized,2,#3690c0,13
-Site 2,2018-01-22,Randomized,2,#3690c0,13
-Site 2,2018-01-23,Randomized,2,#3690c0,13
-Site 2,2018-01-24,Randomized,2,#3690c0,13
-Site 2,2018-01-25,Randomized,2,#3690c0,13
-Site 2,2018-01-26,Randomized,2,#3690c0,13
-Site 2,2018-01-27,Randomized,2,#3690c0,13
-Site 2,2018-01-28,Randomized,2,#3690c0,13
-Site 2,2018-01-29,Randomized,2,#3690c0,13
-Site 2,2018-01-30,Randomized,2,#3690c0,15
-Site 2,2018-01-31,Randomized,2,#3690c0,15
-Site 2,2018-02-01,Randomized,2,#3690c0,15
-Site 2,2018-02-02,Randomized,2,#3690c0,15
-Site 2,2018-02-03,Randomized,2,#3690c0,15
-Site 2,2018-02-04,Randomized,2,#3690c0,15
-Site 2,2018-02-05,Randomized,2,#3690c0,19
-Site 2,2018-02-06,Randomized,2,#3690c0,19
-Site 2,2018-02-07,Randomized,2,#3690c0,19
-Site 2,2018-02-08,Randomized,2,#3690c0,19
-Site 2,2018-02-09,Randomized,2,#3690c0,19
-Site 2,2018-02-10,Randomized,2,#3690c0,19
-Site 2,2018-02-11,Randomized,2,#3690c0,19
-Site 2,2018-02-12,Randomized,2,#3690c0,19
-Site 2,2018-02-13,Randomized,2,#3690c0,19
+site,date,population,population_order,population_color,participant_count,filter:Cohort
+Site 1,7/28/2017,Screened,1,#a6bddb,0,2
+Site 1,7/29/2017,Screened,1,#a6bddb,0,2
+Site 1,7/30/2017,Screened,1,#a6bddb,0,2
+Site 1,7/31/2017,Screened,1,#a6bddb,0,2
+Site 1,8/1/2017,Screened,1,#a6bddb,0,2
+Site 1,8/2/2017,Screened,1,#a6bddb,0,2
+Site 1,8/3/2017,Screened,1,#a6bddb,0,2
+Site 1,8/4/2017,Screened,1,#a6bddb,0,2
+Site 1,8/5/2017,Screened,1,#a6bddb,0,2
+Site 1,8/6/2017,Screened,1,#a6bddb,0,2
+Site 1,8/7/2017,Screened,1,#a6bddb,0,2
+Site 1,8/8/2017,Screened,1,#a6bddb,0,2
+Site 1,8/9/2017,Screened,1,#a6bddb,0,2
+Site 1,8/10/2017,Screened,1,#a6bddb,0,2
+Site 1,8/11/2017,Screened,1,#a6bddb,0,2
+Site 1,8/12/2017,Screened,1,#a6bddb,0,2
+Site 1,8/13/2017,Screened,1,#a6bddb,0,2
+Site 1,8/14/2017,Screened,1,#a6bddb,0,2
+Site 1,8/15/2017,Screened,1,#a6bddb,0,2
+Site 1,8/16/2017,Screened,1,#a6bddb,0,2
+Site 1,8/17/2017,Screened,1,#a6bddb,0,2
+Site 1,8/18/2017,Screened,1,#a6bddb,0,2
+Site 1,8/19/2017,Screened,1,#a6bddb,0,2
+Site 1,8/20/2017,Screened,1,#a6bddb,0,2
+Site 1,8/21/2017,Screened,1,#a6bddb,0,2
+Site 1,8/22/2017,Screened,1,#a6bddb,0,2
+Site 1,8/23/2017,Screened,1,#a6bddb,0,2
+Site 1,8/24/2017,Screened,1,#a6bddb,0,2
+Site 1,8/25/2017,Screened,1,#a6bddb,0,2
+Site 1,8/26/2017,Screened,1,#a6bddb,0,2
+Site 1,8/27/2017,Screened,1,#a6bddb,0,2
+Site 1,8/28/2017,Screened,1,#a6bddb,0,2
+Site 1,8/29/2017,Screened,1,#a6bddb,0,2
+Site 1,8/30/2017,Screened,1,#a6bddb,0,2
+Site 1,8/31/2017,Screened,1,#a6bddb,0,2
+Site 1,9/1/2017,Screened,1,#a6bddb,0,2
+Site 1,9/2/2017,Screened,1,#a6bddb,0,2
+Site 1,9/3/2017,Screened,1,#a6bddb,0,2
+Site 1,9/4/2017,Screened,1,#a6bddb,0,2
+Site 1,9/5/2017,Screened,1,#a6bddb,0,2
+Site 1,9/6/2017,Screened,1,#a6bddb,0,2
+Site 1,9/7/2017,Screened,1,#a6bddb,0,2
+Site 1,9/8/2017,Screened,1,#a6bddb,0,2
+Site 1,9/9/2017,Screened,1,#a6bddb,0,2
+Site 1,9/10/2017,Screened,1,#a6bddb,0,2
+Site 1,9/11/2017,Screened,1,#a6bddb,0,2
+Site 1,9/12/2017,Screened,1,#a6bddb,0,2
+Site 1,9/13/2017,Screened,1,#a6bddb,0,2
+Site 1,9/14/2017,Screened,1,#a6bddb,0,2
+Site 1,9/15/2017,Screened,1,#a6bddb,0,2
+Site 1,9/16/2017,Screened,1,#a6bddb,0,2
+Site 1,9/17/2017,Screened,1,#a6bddb,0,2
+Site 1,9/18/2017,Screened,1,#a6bddb,0,2
+Site 1,9/19/2017,Screened,1,#a6bddb,0,2
+Site 1,9/20/2017,Screened,1,#a6bddb,0,2
+Site 1,9/21/2017,Screened,1,#a6bddb,0,2
+Site 1,9/22/2017,Screened,1,#a6bddb,0,2
+Site 1,9/23/2017,Screened,1,#a6bddb,0,2
+Site 1,9/24/2017,Screened,1,#a6bddb,0,2
+Site 1,9/25/2017,Screened,1,#a6bddb,0,2
+Site 1,9/26/2017,Screened,1,#a6bddb,0,2
+Site 1,9/27/2017,Screened,1,#a6bddb,0,2
+Site 1,9/28/2017,Screened,1,#a6bddb,4,2
+Site 1,9/29/2017,Screened,1,#a6bddb,4,2
+Site 1,9/30/2017,Screened,1,#a6bddb,4,2
+Site 1,10/1/2017,Screened,1,#a6bddb,4,2
+Site 1,10/2/2017,Screened,1,#a6bddb,4,2
+Site 1,10/3/2017,Screened,1,#a6bddb,4,2
+Site 1,10/4/2017,Screened,1,#a6bddb,4,2
+Site 1,10/5/2017,Screened,1,#a6bddb,4,2
+Site 1,10/6/2017,Screened,1,#a6bddb,4,2
+Site 1,10/7/2017,Screened,1,#a6bddb,4,2
+Site 1,10/8/2017,Screened,1,#a6bddb,4,2
+Site 1,10/9/2017,Screened,1,#a6bddb,4,2
+Site 1,10/10/2017,Screened,1,#a6bddb,4,2
+Site 1,10/11/2017,Screened,1,#a6bddb,4,2
+Site 1,10/12/2017,Screened,1,#a6bddb,4,2
+Site 1,10/13/2017,Screened,1,#a6bddb,4,2
+Site 1,10/14/2017,Screened,1,#a6bddb,4,2
+Site 1,10/15/2017,Screened,1,#a6bddb,4,2
+Site 1,10/16/2017,Screened,1,#a6bddb,4,2
+Site 1,10/17/2017,Screened,1,#a6bddb,4,2
+Site 1,10/18/2017,Screened,1,#a6bddb,4,2
+Site 1,10/19/2017,Screened,1,#a6bddb,4,2
+Site 1,10/20/2017,Screened,1,#a6bddb,4,2
+Site 1,10/21/2017,Screened,1,#a6bddb,4,2
+Site 1,10/22/2017,Screened,1,#a6bddb,4,2
+Site 1,10/23/2017,Screened,1,#a6bddb,8,2
+Site 1,10/24/2017,Screened,1,#a6bddb,8,2
+Site 1,10/25/2017,Screened,1,#a6bddb,8,2
+Site 1,10/26/2017,Screened,1,#a6bddb,8,2
+Site 1,10/27/2017,Screened,1,#a6bddb,8,2
+Site 1,10/28/2017,Screened,1,#a6bddb,8,2
+Site 1,10/29/2017,Screened,1,#a6bddb,8,2
+Site 1,10/30/2017,Screened,1,#a6bddb,8,2
+Site 1,10/31/2017,Screened,1,#a6bddb,8,2
+Site 1,11/1/2017,Screened,1,#a6bddb,8,2
+Site 1,11/2/2017,Screened,1,#a6bddb,8,2
+Site 1,11/3/2017,Screened,1,#a6bddb,8,2
+Site 1,11/4/2017,Screened,1,#a6bddb,8,2
+Site 1,11/5/2017,Screened,1,#a6bddb,8,2
+Site 1,11/6/2017,Screened,1,#a6bddb,8,2
+Site 1,11/7/2017,Screened,1,#a6bddb,8,2
+Site 1,11/8/2017,Screened,1,#a6bddb,8,2
+Site 1,11/9/2017,Screened,1,#a6bddb,8,2
+Site 1,11/10/2017,Screened,1,#a6bddb,8,2
+Site 1,11/11/2017,Screened,1,#a6bddb,8,2
+Site 1,11/12/2017,Screened,1,#a6bddb,8,2
+Site 1,11/13/2017,Screened,1,#a6bddb,8,2
+Site 1,11/14/2017,Screened,1,#a6bddb,8,2
+Site 1,11/15/2017,Screened,1,#a6bddb,8,2
+Site 1,11/16/2017,Screened,1,#a6bddb,8,2
+Site 1,11/17/2017,Screened,1,#a6bddb,8,2
+Site 1,11/18/2017,Screened,1,#a6bddb,8,2
+Site 1,11/19/2017,Screened,1,#a6bddb,8,2
+Site 1,11/20/2017,Screened,1,#a6bddb,8,2
+Site 1,11/21/2017,Screened,1,#a6bddb,8,2
+Site 1,11/22/2017,Screened,1,#a6bddb,8,2
+Site 1,11/23/2017,Screened,1,#a6bddb,8,2
+Site 1,11/24/2017,Screened,1,#a6bddb,8,2
+Site 1,11/25/2017,Screened,1,#a6bddb,8,2
+Site 1,11/26/2017,Screened,1,#a6bddb,8,2
+Site 1,11/27/2017,Screened,1,#a6bddb,8,2
+Site 1,11/28/2017,Screened,1,#a6bddb,8,2
+Site 1,11/29/2017,Screened,1,#a6bddb,8,2
+Site 1,11/30/2017,Screened,1,#a6bddb,8,2
+Site 1,12/1/2017,Screened,1,#a6bddb,8,2
+Site 1,12/2/2017,Screened,1,#a6bddb,8,2
+Site 1,12/3/2017,Screened,1,#a6bddb,8,2
+Site 1,12/4/2017,Screened,1,#a6bddb,8,2
+Site 1,12/5/2017,Screened,1,#a6bddb,8,2
+Site 1,12/6/2017,Screened,1,#a6bddb,8,2
+Site 1,12/7/2017,Screened,1,#a6bddb,8,2
+Site 1,12/8/2017,Screened,1,#a6bddb,8,2
+Site 1,12/9/2017,Screened,1,#a6bddb,8,2
+Site 1,12/10/2017,Screened,1,#a6bddb,8,2
+Site 1,12/11/2017,Screened,1,#a6bddb,8,2
+Site 1,12/12/2017,Screened,1,#a6bddb,8,2
+Site 1,12/13/2017,Screened,1,#a6bddb,8,2
+Site 1,12/14/2017,Screened,1,#a6bddb,8,2
+Site 1,12/15/2017,Screened,1,#a6bddb,8,2
+Site 1,12/16/2017,Screened,1,#a6bddb,8,2
+Site 1,12/17/2017,Screened,1,#a6bddb,8,2
+Site 1,12/18/2017,Screened,1,#a6bddb,8,2
+Site 1,12/19/2017,Screened,1,#a6bddb,8,2
+Site 1,12/20/2017,Screened,1,#a6bddb,8,2
+Site 1,12/21/2017,Screened,1,#a6bddb,8,2
+Site 1,12/22/2017,Screened,1,#a6bddb,8,2
+Site 1,12/23/2017,Screened,1,#a6bddb,8,2
+Site 1,12/24/2017,Screened,1,#a6bddb,8,2
+Site 1,12/25/2017,Screened,1,#a6bddb,8,2
+Site 1,12/26/2017,Screened,1,#a6bddb,8,2
+Site 1,12/27/2017,Screened,1,#a6bddb,8,2
+Site 1,12/28/2017,Screened,1,#a6bddb,8,2
+Site 1,12/29/2017,Screened,1,#a6bddb,8,2
+Site 1,12/30/2017,Screened,1,#a6bddb,8,2
+Site 1,12/31/2017,Screened,1,#a6bddb,8,2
+Site 1,1/1/2018,Screened,1,#a6bddb,8,2
+Site 1,1/2/2018,Screened,1,#a6bddb,8,2
+Site 1,1/3/2018,Screened,1,#a6bddb,8,2
+Site 1,1/4/2018,Screened,1,#a6bddb,8,2
+Site 1,1/5/2018,Screened,1,#a6bddb,8,2
+Site 1,1/6/2018,Screened,1,#a6bddb,8,2
+Site 1,1/7/2018,Screened,1,#a6bddb,8,2
+Site 1,1/8/2018,Screened,1,#a6bddb,8,2
+Site 1,1/9/2018,Screened,1,#a6bddb,8,2
+Site 1,1/10/2018,Screened,1,#a6bddb,8,2
+Site 1,1/11/2018,Screened,1,#a6bddb,11,2
+Site 1,1/12/2018,Screened,1,#a6bddb,11,2
+Site 1,1/13/2018,Screened,1,#a6bddb,11,2
+Site 1,1/14/2018,Screened,1,#a6bddb,11,2
+Site 1,1/15/2018,Screened,1,#a6bddb,11,2
+Site 1,1/16/2018,Screened,1,#a6bddb,11,2
+Site 1,1/17/2018,Screened,1,#a6bddb,11,2
+Site 1,1/18/2018,Screened,1,#a6bddb,11,2
+Site 1,1/19/2018,Screened,1,#a6bddb,11,2
+Site 1,1/20/2018,Screened,1,#a6bddb,11,2
+Site 1,1/21/2018,Screened,1,#a6bddb,11,2
+Site 1,1/22/2018,Screened,1,#a6bddb,11,2
+Site 1,1/23/2018,Screened,1,#a6bddb,11,2
+Site 1,1/24/2018,Screened,1,#a6bddb,11,2
+Site 1,1/25/2018,Screened,1,#a6bddb,11,2
+Site 1,1/26/2018,Screened,1,#a6bddb,11,2
+Site 1,1/27/2018,Screened,1,#a6bddb,11,2
+Site 1,1/28/2018,Screened,1,#a6bddb,11,2
+Site 1,1/29/2018,Screened,1,#a6bddb,11,2
+Site 1,1/30/2018,Screened,1,#a6bddb,11,2
+Site 1,1/31/2018,Screened,1,#a6bddb,11,2
+Site 1,2/1/2018,Screened,1,#a6bddb,11,2
+Site 1,2/2/2018,Screened,1,#a6bddb,11,2
+Site 1,2/3/2018,Screened,1,#a6bddb,11,2
+Site 1,2/4/2018,Screened,1,#a6bddb,11,2
+Site 1,2/5/2018,Screened,1,#a6bddb,11,2
+Site 1,2/6/2018,Screened,1,#a6bddb,15,2
+Site 1,2/7/2018,Screened,1,#a6bddb,15,2
+Site 1,2/8/2018,Screened,1,#a6bddb,15,2
+Site 1,2/9/2018,Screened,1,#a6bddb,15,2
+Site 1,2/10/2018,Screened,1,#a6bddb,15,2
+Site 1,2/11/2018,Screened,1,#a6bddb,15,2
+Site 1,2/12/2018,Screened,1,#a6bddb,15,2
+Site 1,2/13/2018,Screened,1,#a6bddb,15,2
+Site 1,7/28/2017,Site Target,3,#034e7b,0.044383562,
+Site 1,7/29/2017,Site Target,3,#034e7b,0.088767124,
+Site 1,7/30/2017,Site Target,3,#034e7b,0.133150685,
+Site 1,7/31/2017,Site Target,3,#034e7b,0.177534247,
+Site 1,8/1/2017,Site Target,3,#034e7b,0.221917808,
+Site 1,8/2/2017,Site Target,3,#034e7b,0.26630137,
+Site 1,8/3/2017,Site Target,3,#034e7b,0.310684931,
+Site 1,8/4/2017,Site Target,3,#034e7b,0.355068493,
+Site 1,8/5/2017,Site Target,3,#034e7b,0.399452055,
+Site 1,8/6/2017,Site Target,3,#034e7b,0.443835616,
+Site 1,8/7/2017,Site Target,3,#034e7b,0.488219178,
+Site 1,8/8/2017,Site Target,3,#034e7b,0.53260274,
+Site 1,8/9/2017,Site Target,3,#034e7b,0.576986302,
+Site 1,8/10/2017,Site Target,3,#034e7b,0.621369863,
+Site 1,8/11/2017,Site Target,3,#034e7b,0.665753425,
+Site 1,8/12/2017,Site Target,3,#034e7b,0.710136986,
+Site 1,8/13/2017,Site Target,3,#034e7b,0.754520548,
+Site 1,8/14/2017,Site Target,3,#034e7b,0.798904109,
+Site 1,8/15/2017,Site Target,3,#034e7b,0.843287671,
+Site 1,8/16/2017,Site Target,3,#034e7b,0.887671233,
+Site 1,8/17/2017,Site Target,3,#034e7b,0.932054795,
+Site 1,8/18/2017,Site Target,3,#034e7b,0.976438356,
+Site 1,8/19/2017,Site Target,3,#034e7b,1.020821918,
+Site 1,8/20/2017,Site Target,3,#034e7b,1.06520548,
+Site 1,8/21/2017,Site Target,3,#034e7b,1.109589041,
+Site 1,8/22/2017,Site Target,3,#034e7b,1.153972603,
+Site 1,8/23/2017,Site Target,3,#034e7b,1.198356164,
+Site 1,8/24/2017,Site Target,3,#034e7b,1.242739726,
+Site 1,8/25/2017,Site Target,3,#034e7b,1.287123288,
+Site 1,8/26/2017,Site Target,3,#034e7b,1.331506849,
+Site 1,8/27/2017,Site Target,3,#034e7b,1.375890411,
+Site 1,8/28/2017,Site Target,3,#034e7b,1.420273973,
+Site 1,8/29/2017,Site Target,3,#034e7b,1.464657534,
+Site 1,8/30/2017,Site Target,3,#034e7b,1.509041096,
+Site 1,8/31/2017,Site Target,3,#034e7b,1.553424658,
+Site 1,9/1/2017,Site Target,3,#034e7b,1.597808219,
+Site 1,9/2/2017,Site Target,3,#034e7b,1.642191781,
+Site 1,9/3/2017,Site Target,3,#034e7b,1.686575342,
+Site 1,9/4/2017,Site Target,3,#034e7b,1.730958904,
+Site 1,9/5/2017,Site Target,3,#034e7b,1.775342466,
+Site 1,9/6/2017,Site Target,3,#034e7b,1.819726027,
+Site 1,9/7/2017,Site Target,3,#034e7b,1.864109589,
+Site 1,9/8/2017,Site Target,3,#034e7b,1.908493151,
+Site 1,9/9/2017,Site Target,3,#034e7b,1.952876713,
+Site 1,9/10/2017,Site Target,3,#034e7b,1.997260274,
+Site 1,9/11/2017,Site Target,3,#034e7b,2.041643836,
+Site 1,9/12/2017,Site Target,3,#034e7b,2.086027397,
+Site 1,9/13/2017,Site Target,3,#034e7b,2.130410959,
+Site 1,9/14/2017,Site Target,3,#034e7b,2.17479452,
+Site 1,9/15/2017,Site Target,3,#034e7b,2.219178082,
+Site 1,9/16/2017,Site Target,3,#034e7b,2.263561644,
+Site 1,9/17/2017,Site Target,3,#034e7b,2.307945206,
+Site 1,9/18/2017,Site Target,3,#034e7b,2.352328767,
+Site 1,9/19/2017,Site Target,3,#034e7b,2.396712329,
+Site 1,9/20/2017,Site Target,3,#034e7b,2.441095891,
+Site 1,9/21/2017,Site Target,3,#034e7b,2.485479452,
+Site 1,9/22/2017,Site Target,3,#034e7b,2.529863014,
+Site 1,9/23/2017,Site Target,3,#034e7b,2.574246575,
+Site 1,9/24/2017,Site Target,3,#034e7b,2.618630137,
+Site 1,9/25/2017,Site Target,3,#034e7b,2.663013698,
+Site 1,9/26/2017,Site Target,3,#034e7b,2.70739726,
+Site 1,9/27/2017,Site Target,3,#034e7b,2.751780822,
+Site 1,9/28/2017,Site Target,3,#034e7b,2.796164384,
+Site 1,9/29/2017,Site Target,3,#034e7b,2.840547945,
+Site 1,9/30/2017,Site Target,3,#034e7b,2.884931507,
+Site 1,10/1/2017,Site Target,3,#034e7b,2.929315069,
+Site 1,10/2/2017,Site Target,3,#034e7b,2.97369863,
+Site 1,10/3/2017,Site Target,3,#034e7b,3.018082192,
+Site 1,10/4/2017,Site Target,3,#034e7b,3.062465753,
+Site 1,10/5/2017,Site Target,3,#034e7b,3.106849315,
+Site 1,10/6/2017,Site Target,3,#034e7b,3.151232877,
+Site 1,10/7/2017,Site Target,3,#034e7b,3.195616438,
+Site 1,10/8/2017,Site Target,3,#034e7b,3.24,
+Site 1,10/9/2017,Site Target,3,#034e7b,3.284383562,
+Site 1,10/10/2017,Site Target,3,#034e7b,3.328767124,
+Site 1,10/11/2017,Site Target,3,#034e7b,3.373150685,
+Site 1,10/12/2017,Site Target,3,#034e7b,3.417534247,
+Site 1,10/13/2017,Site Target,3,#034e7b,3.461917808,
+Site 1,10/14/2017,Site Target,3,#034e7b,3.50630137,
+Site 1,10/15/2017,Site Target,3,#034e7b,3.550684931,
+Site 1,10/16/2017,Site Target,3,#034e7b,3.595068493,
+Site 1,10/17/2017,Site Target,3,#034e7b,3.639452055,
+Site 1,10/18/2017,Site Target,3,#034e7b,3.683835616,
+Site 1,10/19/2017,Site Target,3,#034e7b,3.728219178,
+Site 1,10/20/2017,Site Target,3,#034e7b,3.77260274,
+Site 1,10/21/2017,Site Target,3,#034e7b,3.816986302,
+Site 1,10/22/2017,Site Target,3,#034e7b,3.861369863,
+Site 1,10/23/2017,Site Target,3,#034e7b,3.905753425,
+Site 1,10/24/2017,Site Target,3,#034e7b,3.950136986,
+Site 1,10/25/2017,Site Target,3,#034e7b,3.994520548,
+Site 1,10/26/2017,Site Target,3,#034e7b,4.038904109,
+Site 1,10/27/2017,Site Target,3,#034e7b,4.083287671,
+Site 1,10/28/2017,Site Target,3,#034e7b,4.209522671,
+Site 1,10/29/2017,Site Target,3,#034e7b,4.335757671,
+Site 1,10/30/2017,Site Target,3,#034e7b,4.461992671,
+Site 1,10/31/2017,Site Target,3,#034e7b,4.588227671,
+Site 1,11/1/2017,Site Target,3,#034e7b,4.714462671,
+Site 1,11/2/2017,Site Target,3,#034e7b,4.840697671,
+Site 1,11/3/2017,Site Target,3,#034e7b,4.966932671,
+Site 1,11/4/2017,Site Target,3,#034e7b,5.093167671,
+Site 1,11/5/2017,Site Target,3,#034e7b,5.219402671,
+Site 1,11/6/2017,Site Target,3,#034e7b,5.345637671,
+Site 1,11/7/2017,Site Target,3,#034e7b,5.471872671,
+Site 1,11/8/2017,Site Target,3,#034e7b,5.598107671,
+Site 1,11/9/2017,Site Target,3,#034e7b,5.724342671,
+Site 1,11/10/2017,Site Target,3,#034e7b,5.850577671,
+Site 1,11/11/2017,Site Target,3,#034e7b,5.976812671,
+Site 1,11/12/2017,Site Target,3,#034e7b,6.103047671,
+Site 1,11/13/2017,Site Target,3,#034e7b,6.229282671,
+Site 1,11/14/2017,Site Target,3,#034e7b,6.355517671,
+Site 1,11/15/2017,Site Target,3,#034e7b,6.481752671,
+Site 1,11/16/2017,Site Target,3,#034e7b,6.607987671,
+Site 1,11/17/2017,Site Target,3,#034e7b,6.734222671,
+Site 1,11/18/2017,Site Target,3,#034e7b,6.860457671,
+Site 1,11/19/2017,Site Target,3,#034e7b,6.986692671,
+Site 1,11/20/2017,Site Target,3,#034e7b,7.112927671,
+Site 1,11/21/2017,Site Target,3,#034e7b,7.239162671,
+Site 1,11/22/2017,Site Target,3,#034e7b,7.365397671,
+Site 1,11/23/2017,Site Target,3,#034e7b,7.491632671,
+Site 1,11/24/2017,Site Target,3,#034e7b,7.617867671,
+Site 1,11/25/2017,Site Target,3,#034e7b,7.744102671,
+Site 1,11/26/2017,Site Target,3,#034e7b,7.870337671,
+Site 1,11/27/2017,Site Target,3,#034e7b,7.996572671,
+Site 1,11/28/2017,Site Target,3,#034e7b,8.122807671,
+Site 1,11/29/2017,Site Target,3,#034e7b,8.249042671,
+Site 1,11/30/2017,Site Target,3,#034e7b,8.375277671,
+Site 1,12/1/2017,Site Target,3,#034e7b,8.501512671,
+Site 1,12/2/2017,Site Target,3,#034e7b,8.627747671,
+Site 1,12/3/2017,Site Target,3,#034e7b,8.753982671,
+Site 1,12/4/2017,Site Target,3,#034e7b,8.880217671,
+Site 1,12/5/2017,Site Target,3,#034e7b,9.006452671,
+Site 1,12/6/2017,Site Target,3,#034e7b,9.132687671,
+Site 1,12/7/2017,Site Target,3,#034e7b,9.258922671,
+Site 1,12/8/2017,Site Target,3,#034e7b,9.385157671,
+Site 1,12/9/2017,Site Target,3,#034e7b,9.511392671,
+Site 1,12/10/2017,Site Target,3,#034e7b,9.637627671,
+Site 1,12/11/2017,Site Target,3,#034e7b,9.763862671,
+Site 1,12/12/2017,Site Target,3,#034e7b,9.890097671,
+Site 1,12/13/2017,Site Target,3,#034e7b,10.01633267,
+Site 1,12/14/2017,Site Target,3,#034e7b,10.14256767,
+Site 1,12/15/2017,Site Target,3,#034e7b,10.26880267,
+Site 1,12/16/2017,Site Target,3,#034e7b,10.39503767,
+Site 1,12/17/2017,Site Target,3,#034e7b,10.52127267,
+Site 1,12/18/2017,Site Target,3,#034e7b,10.64750767,
+Site 1,12/19/2017,Site Target,3,#034e7b,10.77374267,
+Site 1,12/20/2017,Site Target,3,#034e7b,10.89997767,
+Site 1,12/21/2017,Site Target,3,#034e7b,11.02621267,
+Site 1,12/22/2017,Site Target,3,#034e7b,11.15244767,
+Site 1,12/23/2017,Site Target,3,#034e7b,11.27868267,
+Site 1,12/24/2017,Site Target,3,#034e7b,11.40491767,
+Site 1,12/25/2017,Site Target,3,#034e7b,11.53115267,
+Site 1,12/26/2017,Site Target,3,#034e7b,11.65738767,
+Site 1,12/27/2017,Site Target,3,#034e7b,11.78362267,
+Site 1,12/28/2017,Site Target,3,#034e7b,11.90985767,
+Site 1,12/29/2017,Site Target,3,#034e7b,12.03609267,
+Site 1,12/30/2017,Site Target,3,#034e7b,12.16232767,
+Site 1,12/31/2017,Site Target,3,#034e7b,12.28856267,
+Site 1,1/1/2018,Site Target,3,#034e7b,12.41479767,
+Site 1,1/2/2018,Site Target,3,#034e7b,12.54103267,
+Site 1,1/3/2018,Site Target,3,#034e7b,12.66726767,
+Site 1,1/4/2018,Site Target,3,#034e7b,12.79350267,
+Site 1,1/5/2018,Site Target,3,#034e7b,12.91973767,
+Site 1,1/6/2018,Site Target,3,#034e7b,13.04597267,
+Site 1,1/7/2018,Site Target,3,#034e7b,13.17220767,
+Site 1,1/8/2018,Site Target,3,#034e7b,13.29844267,
+Site 1,1/9/2018,Site Target,3,#034e7b,13.42467767,
+Site 1,1/10/2018,Site Target,3,#034e7b,13.55091267,
+Site 1,1/11/2018,Site Target,3,#034e7b,13.67714767,
+Site 1,1/12/2018,Site Target,3,#034e7b,13.80338267,
+Site 1,1/13/2018,Site Target,3,#034e7b,13.92961767,
+Site 1,1/14/2018,Site Target,3,#034e7b,14.05585267,
+Site 1,1/15/2018,Site Target,3,#034e7b,14.18208767,
+Site 1,1/16/2018,Site Target,3,#034e7b,14.30832267,
+Site 1,1/17/2018,Site Target,3,#034e7b,14.43455767,
+Site 1,1/18/2018,Site Target,3,#034e7b,14.56079267,
+Site 1,1/19/2018,Site Target,3,#034e7b,14.68702767,
+Site 1,1/20/2018,Site Target,3,#034e7b,14.81326267,
+Site 1,1/21/2018,Site Target,3,#034e7b,14.93949767,
+Site 1,1/22/2018,Site Target,3,#034e7b,15.06573267,
+Site 1,1/23/2018,Site Target,3,#034e7b,15.19196767,
+Site 1,1/24/2018,Site Target,3,#034e7b,15.31820267,
+Site 1,1/25/2018,Site Target,3,#034e7b,15.44443767,
+Site 1,1/26/2018,Site Target,3,#034e7b,15.57067267,
+Site 1,1/27/2018,Site Target,3,#034e7b,15.69690767,
+Site 1,1/28/2018,Site Target,3,#034e7b,15.82314267,
+Site 1,1/29/2018,Site Target,3,#034e7b,15.94937767,
+Site 1,1/30/2018,Site Target,3,#034e7b,16.07561267,
+Site 1,1/31/2018,Site Target,3,#034e7b,16.20184767,
+Site 1,2/1/2018,Site Target,3,#034e7b,16.32808267,
+Site 1,2/2/2018,Site Target,3,#034e7b,16.45431767,
+Site 1,2/3/2018,Site Target,3,#034e7b,16.58055267,
+Site 1,2/4/2018,Site Target,3,#034e7b,16.70678767,
+Site 1,2/5/2018,Site Target,3,#034e7b,16.83302267,
+Site 1,2/6/2018,Site Target,3,#034e7b,16.95925767,
+Site 1,2/7/2018,Site Target,3,#034e7b,17.08549267,
+Site 1,2/8/2018,Site Target,3,#034e7b,17.21172767,
+Site 1,2/9/2018,Site Target,3,#034e7b,17.33796267,
+Site 1,2/10/2018,Site Target,3,#034e7b,17.46419767,
+Site 1,2/11/2018,Site Target,3,#034e7b,17.59043267,
+Site 1,2/12/2018,Site Target,3,#034e7b,17.71666767,
+Site 1,2/13/2018,Site Target,3,#034e7b,17.84219,
+Site 2,7/28/2017,Screened,1,#a6bddb,0,1
+Site 2,7/29/2017,Screened,1,#a6bddb,0,1
+Site 2,7/30/2017,Screened,1,#a6bddb,0,1
+Site 2,7/31/2017,Screened,1,#a6bddb,0,1
+Site 2,8/1/2017,Screened,1,#a6bddb,0,1
+Site 2,8/2/2017,Screened,1,#a6bddb,0,1
+Site 2,8/3/2017,Screened,1,#a6bddb,0,1
+Site 2,8/4/2017,Screened,1,#a6bddb,0,1
+Site 2,8/5/2017,Screened,1,#a6bddb,0,1
+Site 2,8/6/2017,Screened,1,#a6bddb,0,1
+Site 2,8/7/2017,Screened,1,#a6bddb,0,1
+Site 2,8/8/2017,Screened,1,#a6bddb,0,1
+Site 2,8/9/2017,Screened,1,#a6bddb,0,1
+Site 2,8/10/2017,Screened,1,#a6bddb,0,1
+Site 2,8/11/2017,Screened,1,#a6bddb,0,1
+Site 2,8/12/2017,Screened,1,#a6bddb,0,1
+Site 2,8/13/2017,Screened,1,#a6bddb,0,1
+Site 2,8/14/2017,Screened,1,#a6bddb,0,1
+Site 2,8/15/2017,Screened,1,#a6bddb,0,1
+Site 2,8/16/2017,Screened,1,#a6bddb,0,1
+Site 2,8/17/2017,Screened,1,#a6bddb,0,1
+Site 2,8/18/2017,Screened,1,#a6bddb,0,1
+Site 2,8/19/2017,Screened,1,#a6bddb,0,1
+Site 2,8/20/2017,Screened,1,#a6bddb,0,1
+Site 2,8/21/2017,Screened,1,#a6bddb,0,1
+Site 2,8/22/2017,Screened,1,#a6bddb,0,1
+Site 2,8/23/2017,Screened,1,#a6bddb,0,1
+Site 2,8/24/2017,Screened,1,#a6bddb,0,1
+Site 2,8/25/2017,Screened,1,#a6bddb,0,1
+Site 2,8/26/2017,Screened,1,#a6bddb,0,1
+Site 2,8/27/2017,Screened,1,#a6bddb,0,1
+Site 2,8/28/2017,Screened,1,#a6bddb,0,1
+Site 2,8/29/2017,Screened,1,#a6bddb,0,1
+Site 2,8/30/2017,Screened,1,#a6bddb,0,1
+Site 2,8/31/2017,Screened,1,#a6bddb,0,1
+Site 2,9/1/2017,Screened,1,#a6bddb,0,1
+Site 2,9/2/2017,Screened,1,#a6bddb,0,1
+Site 2,9/3/2017,Screened,1,#a6bddb,0,1
+Site 2,9/4/2017,Screened,1,#a6bddb,0,1
+Site 2,9/5/2017,Screened,1,#a6bddb,0,1
+Site 2,9/6/2017,Screened,1,#a6bddb,0,1
+Site 2,9/7/2017,Screened,1,#a6bddb,0,1
+Site 2,9/8/2017,Screened,1,#a6bddb,0,1
+Site 2,9/9/2017,Screened,1,#a6bddb,0,1
+Site 2,9/10/2017,Screened,1,#a6bddb,0,1
+Site 2,9/11/2017,Screened,1,#a6bddb,0,1
+Site 2,9/12/2017,Screened,1,#a6bddb,0,1
+Site 2,9/13/2017,Screened,1,#a6bddb,0,1
+Site 2,9/14/2017,Screened,1,#a6bddb,0,1
+Site 2,9/15/2017,Screened,1,#a6bddb,0,1
+Site 2,9/16/2017,Screened,1,#a6bddb,0,1
+Site 2,9/17/2017,Screened,1,#a6bddb,0,1
+Site 2,9/18/2017,Screened,1,#a6bddb,0,1
+Site 2,9/19/2017,Screened,1,#a6bddb,0,1
+Site 2,9/20/2017,Screened,1,#a6bddb,0,1
+Site 2,9/21/2017,Screened,1,#a6bddb,0,1
+Site 2,9/22/2017,Screened,1,#a6bddb,0,1
+Site 2,9/23/2017,Screened,1,#a6bddb,0,1
+Site 2,9/24/2017,Screened,1,#a6bddb,0,1
+Site 2,9/25/2017,Screened,1,#a6bddb,0,1
+Site 2,9/26/2017,Screened,1,#a6bddb,0,1
+Site 2,9/27/2017,Screened,1,#a6bddb,0,1
+Site 2,9/28/2017,Screened,1,#a6bddb,0,1
+Site 2,9/29/2017,Screened,1,#a6bddb,0,1
+Site 2,9/30/2017,Screened,1,#a6bddb,0,1
+Site 2,10/1/2017,Screened,1,#a6bddb,0,1
+Site 2,10/2/2017,Screened,1,#a6bddb,0,1
+Site 2,10/3/2017,Screened,1,#a6bddb,0,1
+Site 2,10/4/2017,Screened,1,#a6bddb,4,1
+Site 2,10/5/2017,Screened,1,#a6bddb,8,1
+Site 2,10/6/2017,Screened,1,#a6bddb,8,1
+Site 2,10/7/2017,Screened,1,#a6bddb,8,1
+Site 2,10/8/2017,Screened,1,#a6bddb,8,1
+Site 2,10/9/2017,Screened,1,#a6bddb,8,1
+Site 2,10/10/2017,Screened,1,#a6bddb,11,1
+Site 2,10/11/2017,Screened,1,#a6bddb,11,1
+Site 2,10/12/2017,Screened,1,#a6bddb,11,1
+Site 2,10/13/2017,Screened,1,#a6bddb,11,1
+Site 2,10/14/2017,Screened,1,#a6bddb,11,1
+Site 2,10/15/2017,Screened,1,#a6bddb,11,1
+Site 2,10/16/2017,Screened,1,#a6bddb,11,1
+Site 2,10/17/2017,Screened,1,#a6bddb,11,1
+Site 2,10/18/2017,Screened,1,#a6bddb,11,1
+Site 2,10/19/2017,Screened,1,#a6bddb,11,1
+Site 2,10/20/2017,Screened,1,#a6bddb,11,1
+Site 2,10/21/2017,Screened,1,#a6bddb,11,1
+Site 2,10/22/2017,Screened,1,#a6bddb,11,1
+Site 2,10/23/2017,Screened,1,#a6bddb,11,1
+Site 2,10/24/2017,Screened,1,#a6bddb,11,1
+Site 2,10/25/2017,Screened,1,#a6bddb,11,1
+Site 2,10/26/2017,Screened,1,#a6bddb,11,1
+Site 2,10/27/2017,Screened,1,#a6bddb,11,1
+Site 2,10/28/2017,Screened,1,#a6bddb,11,1
+Site 2,10/29/2017,Screened,1,#a6bddb,11,1
+Site 2,10/30/2017,Screened,1,#a6bddb,11,1
+Site 2,10/31/2017,Screened,1,#a6bddb,11,1
+Site 2,11/1/2017,Screened,1,#a6bddb,11,1
+Site 2,11/2/2017,Screened,1,#a6bddb,11,1
+Site 2,11/3/2017,Screened,1,#a6bddb,11,1
+Site 2,11/4/2017,Screened,1,#a6bddb,11,1
+Site 2,11/5/2017,Screened,1,#a6bddb,11,1
+Site 2,11/6/2017,Screened,1,#a6bddb,15,1
+Site 2,11/7/2017,Screened,1,#a6bddb,15,1
+Site 2,11/8/2017,Screened,1,#a6bddb,15,1
+Site 2,11/9/2017,Screened,1,#a6bddb,15,1
+Site 2,11/10/2017,Screened,1,#a6bddb,15,1
+Site 2,11/11/2017,Screened,1,#a6bddb,15,1
+Site 2,11/12/2017,Screened,1,#a6bddb,15,1
+Site 2,11/13/2017,Screened,1,#a6bddb,15,1
+Site 2,11/14/2017,Screened,1,#a6bddb,15,1
+Site 2,11/15/2017,Screened,1,#a6bddb,15,1
+Site 2,11/16/2017,Screened,1,#a6bddb,15,1
+Site 2,11/17/2017,Screened,1,#a6bddb,15,1
+Site 2,11/18/2017,Screened,1,#a6bddb,15,1
+Site 2,11/19/2017,Screened,1,#a6bddb,15,1
+Site 2,11/20/2017,Screened,1,#a6bddb,15,1
+Site 2,11/21/2017,Screened,1,#a6bddb,15,1
+Site 2,11/22/2017,Screened,1,#a6bddb,15,1
+Site 2,11/23/2017,Screened,1,#a6bddb,15,1
+Site 2,11/24/2017,Screened,1,#a6bddb,15,1
+Site 2,11/25/2017,Screened,1,#a6bddb,15,1
+Site 2,11/26/2017,Screened,1,#a6bddb,15,1
+Site 2,11/27/2017,Screened,1,#a6bddb,15,1
+Site 2,11/28/2017,Screened,1,#a6bddb,15,1
+Site 2,11/29/2017,Screened,1,#a6bddb,15,1
+Site 2,11/30/2017,Screened,1,#a6bddb,15,1
+Site 2,12/1/2017,Screened,1,#a6bddb,15,1
+Site 2,12/2/2017,Screened,1,#a6bddb,15,1
+Site 2,12/3/2017,Screened,1,#a6bddb,15,1
+Site 2,12/4/2017,Screened,1,#a6bddb,15,1
+Site 2,12/5/2017,Screened,1,#a6bddb,15,1
+Site 2,12/6/2017,Screened,1,#a6bddb,15,1
+Site 2,12/7/2017,Screened,1,#a6bddb,15,1
+Site 2,12/8/2017,Screened,1,#a6bddb,15,1
+Site 2,12/9/2017,Screened,1,#a6bddb,15,1
+Site 2,12/10/2017,Screened,1,#a6bddb,15,1
+Site 2,12/11/2017,Screened,1,#a6bddb,15,1
+Site 2,12/12/2017,Screened,1,#a6bddb,15,1
+Site 2,12/13/2017,Screened,1,#a6bddb,15,1
+Site 2,12/14/2017,Screened,1,#a6bddb,15,1
+Site 2,12/15/2017,Screened,1,#a6bddb,15,1
+Site 2,12/16/2017,Screened,1,#a6bddb,15,1
+Site 2,12/17/2017,Screened,1,#a6bddb,15,1
+Site 2,12/18/2017,Screened,1,#a6bddb,15,1
+Site 2,12/19/2017,Screened,1,#a6bddb,15,1
+Site 2,12/20/2017,Screened,1,#a6bddb,15,1
+Site 2,12/21/2017,Screened,1,#a6bddb,15,1
+Site 2,12/22/2017,Screened,1,#a6bddb,15,1
+Site 2,12/23/2017,Screened,1,#a6bddb,15,1
+Site 2,12/24/2017,Screened,1,#a6bddb,15,1
+Site 2,12/25/2017,Screened,1,#a6bddb,15,1
+Site 2,12/26/2017,Screened,1,#a6bddb,15,1
+Site 2,12/27/2017,Screened,1,#a6bddb,15,1
+Site 2,12/28/2017,Screened,1,#a6bddb,15,1
+Site 2,12/29/2017,Screened,1,#a6bddb,15,1
+Site 2,12/30/2017,Screened,1,#a6bddb,15,1
+Site 2,12/31/2017,Screened,1,#a6bddb,15,1
+Site 2,1/1/2018,Screened,1,#a6bddb,15,1
+Site 2,1/2/2018,Screened,1,#a6bddb,15,1
+Site 2,1/3/2018,Screened,1,#a6bddb,15,1
+Site 2,1/4/2018,Screened,1,#a6bddb,15,1
+Site 2,1/5/2018,Screened,1,#a6bddb,15,1
+Site 2,1/6/2018,Screened,1,#a6bddb,15,1
+Site 2,1/7/2018,Screened,1,#a6bddb,15,1
+Site 2,1/8/2018,Screened,1,#a6bddb,15,1
+Site 2,1/9/2018,Screened,1,#a6bddb,15,1
+Site 2,1/10/2018,Screened,1,#a6bddb,15,1
+Site 2,1/11/2018,Screened,1,#a6bddb,15,1
+Site 2,1/12/2018,Screened,1,#a6bddb,15,1
+Site 2,1/13/2018,Screened,1,#a6bddb,15,1
+Site 2,1/14/2018,Screened,1,#a6bddb,15,1
+Site 2,1/15/2018,Screened,1,#a6bddb,15,1
+Site 2,1/16/2018,Screened,1,#a6bddb,15,1
+Site 2,1/17/2018,Screened,1,#a6bddb,15,1
+Site 2,1/18/2018,Screened,1,#a6bddb,15,1
+Site 2,1/19/2018,Screened,1,#a6bddb,15,1
+Site 2,1/20/2018,Screened,1,#a6bddb,15,1
+Site 2,1/21/2018,Screened,1,#a6bddb,15,1
+Site 2,1/22/2018,Screened,1,#a6bddb,15,1
+Site 2,1/23/2018,Screened,1,#a6bddb,15,1
+Site 2,1/24/2018,Screened,1,#a6bddb,15,1
+Site 2,1/25/2018,Screened,1,#a6bddb,15,1
+Site 2,1/26/2018,Screened,1,#a6bddb,15,1
+Site 2,1/27/2018,Screened,1,#a6bddb,15,1
+Site 2,1/28/2018,Screened,1,#a6bddb,15,1
+Site 2,1/29/2018,Screened,1,#a6bddb,15,1
+Site 2,1/30/2018,Screened,1,#a6bddb,18,1
+Site 2,1/31/2018,Screened,1,#a6bddb,18,1
+Site 2,2/1/2018,Screened,1,#a6bddb,18,1
+Site 2,2/2/2018,Screened,1,#a6bddb,18,1
+Site 2,2/3/2018,Screened,1,#a6bddb,18,1
+Site 2,2/4/2018,Screened,1,#a6bddb,18,1
+Site 2,2/5/2018,Screened,1,#a6bddb,22,1
+Site 2,2/6/2018,Screened,1,#a6bddb,22,1
+Site 2,2/7/2018,Screened,1,#a6bddb,22,1
+Site 2,2/8/2018,Screened,1,#a6bddb,22,1
+Site 2,2/9/2018,Screened,1,#a6bddb,22,1
+Site 2,2/10/2018,Screened,1,#a6bddb,22,1
+Site 2,2/11/2018,Screened,1,#a6bddb,22,1
+Site 2,2/12/2018,Screened,1,#a6bddb,22,1
+Site 2,2/13/2018,Screened,1,#a6bddb,22,1
+Site 2,7/28/2017,Site Target,3,#034e7b,0.088767124,
+Site 2,7/29/2017,Site Target,3,#034e7b,0.177534247,
+Site 2,7/30/2017,Site Target,3,#034e7b,0.26630137,
+Site 2,7/31/2017,Site Target,3,#034e7b,0.355068493,
+Site 2,8/1/2017,Site Target,3,#034e7b,0.443835617,
+Site 2,8/2/2017,Site Target,3,#034e7b,0.532602739,
+Site 2,8/3/2017,Site Target,3,#034e7b,0.621369863,
+Site 2,8/4/2017,Site Target,3,#034e7b,0.710136986,
+Site 2,8/5/2017,Site Target,3,#034e7b,0.79890411,
+Site 2,8/6/2017,Site Target,3,#034e7b,0.887671232,
+Site 2,8/7/2017,Site Target,3,#034e7b,0.976438356,
+Site 2,8/8/2017,Site Target,3,#034e7b,1.06520548,
+Site 2,8/9/2017,Site Target,3,#034e7b,1.153972603,
+Site 2,8/10/2017,Site Target,3,#034e7b,1.242739726,
+Site 2,8/11/2017,Site Target,3,#034e7b,1.331506849,
+Site 2,8/12/2017,Site Target,3,#034e7b,1.420273973,
+Site 2,8/13/2017,Site Target,3,#034e7b,1.509041096,
+Site 2,8/14/2017,Site Target,3,#034e7b,1.597808219,
+Site 2,8/15/2017,Site Target,3,#034e7b,1.686575342,
+Site 2,8/16/2017,Site Target,3,#034e7b,1.775342466,
+Site 2,8/17/2017,Site Target,3,#034e7b,1.86410959,
+Site 2,8/18/2017,Site Target,3,#034e7b,1.952876712,
+Site 2,8/19/2017,Site Target,3,#034e7b,2.041643836,
+Site 2,8/20/2017,Site Target,3,#034e7b,2.130410959,
+Site 2,8/21/2017,Site Target,3,#034e7b,2.219178083,
+Site 2,8/22/2017,Site Target,3,#034e7b,2.307945205,
+Site 2,8/23/2017,Site Target,3,#034e7b,2.396712329,
+Site 2,8/24/2017,Site Target,3,#034e7b,2.485479452,
+Site 2,8/25/2017,Site Target,3,#034e7b,2.574246576,
+Site 2,8/26/2017,Site Target,3,#034e7b,2.663013698,
+Site 2,8/27/2017,Site Target,3,#034e7b,2.751780822,
+Site 2,8/28/2017,Site Target,3,#034e7b,2.840547946,
+Site 2,8/29/2017,Site Target,3,#034e7b,2.929315068,
+Site 2,8/30/2017,Site Target,3,#034e7b,3.018082192,
+Site 2,8/31/2017,Site Target,3,#034e7b,3.106849315,
+Site 2,9/1/2017,Site Target,3,#034e7b,3.195616439,
+Site 2,9/2/2017,Site Target,3,#034e7b,3.284383561,
+Site 2,9/3/2017,Site Target,3,#034e7b,3.373150685,
+Site 2,9/4/2017,Site Target,3,#034e7b,3.461917808,
+Site 2,9/5/2017,Site Target,3,#034e7b,3.550684932,
+Site 2,9/6/2017,Site Target,3,#034e7b,3.639452054,
+Site 2,9/7/2017,Site Target,3,#034e7b,3.728219178,
+Site 2,9/8/2017,Site Target,3,#034e7b,3.816986302,
+Site 2,9/9/2017,Site Target,3,#034e7b,3.905753425,
+Site 2,9/10/2017,Site Target,3,#034e7b,3.994520548,
+Site 2,9/11/2017,Site Target,3,#034e7b,4.083287671,
+Site 2,9/12/2017,Site Target,3,#034e7b,4.172054795,
+Site 2,9/13/2017,Site Target,3,#034e7b,4.260821918,
+Site 2,9/14/2017,Site Target,3,#034e7b,4.349589041,
+Site 2,9/15/2017,Site Target,3,#034e7b,4.438356164,
+Site 2,9/16/2017,Site Target,3,#034e7b,4.527123288,
+Site 2,9/17/2017,Site Target,3,#034e7b,4.615890412,
+Site 2,9/18/2017,Site Target,3,#034e7b,4.704657534,
+Site 2,9/19/2017,Site Target,3,#034e7b,4.793424658,
+Site 2,9/20/2017,Site Target,3,#034e7b,4.882191781,
+Site 2,9/21/2017,Site Target,3,#034e7b,4.970958904,
+Site 2,9/22/2017,Site Target,3,#034e7b,5.059726027,
+Site 2,9/23/2017,Site Target,3,#034e7b,5.148493151,
+Site 2,9/24/2017,Site Target,3,#034e7b,5.237260274,
+Site 2,9/25/2017,Site Target,3,#034e7b,5.326027397,
+Site 2,9/26/2017,Site Target,3,#034e7b,5.41479452,
+Site 2,9/27/2017,Site Target,3,#034e7b,5.503561644,
+Site 2,9/28/2017,Site Target,3,#034e7b,5.592328768,
+Site 2,9/29/2017,Site Target,3,#034e7b,5.68109589,
+Site 2,9/30/2017,Site Target,3,#034e7b,5.769863014,
+Site 2,10/1/2017,Site Target,3,#034e7b,5.858630137,
+Site 2,10/2/2017,Site Target,3,#034e7b,5.947397261,
+Site 2,10/3/2017,Site Target,3,#034e7b,6.036164383,
+Site 2,10/4/2017,Site Target,3,#034e7b,6.124931507,
+Site 2,10/5/2017,Site Target,3,#034e7b,6.21369863,
+Site 2,10/6/2017,Site Target,3,#034e7b,6.302465754,
+Site 2,10/7/2017,Site Target,3,#034e7b,6.391232876,
+Site 2,10/8/2017,Site Target,3,#034e7b,6.48,
+Site 2,10/9/2017,Site Target,3,#034e7b,6.568767124,
+Site 2,10/10/2017,Site Target,3,#034e7b,6.657534247,
+Site 2,10/11/2017,Site Target,3,#034e7b,6.74630137,
+Site 2,10/12/2017,Site Target,3,#034e7b,6.835068493,
+Site 2,10/13/2017,Site Target,3,#034e7b,6.923835617,
+Site 2,10/14/2017,Site Target,3,#034e7b,7.012602739,
+Site 2,10/15/2017,Site Target,3,#034e7b,7.101369863,
+Site 2,10/16/2017,Site Target,3,#034e7b,7.190136986,
+Site 2,10/17/2017,Site Target,3,#034e7b,7.27890411,
+Site 2,10/18/2017,Site Target,3,#034e7b,7.367671232,
+Site 2,10/19/2017,Site Target,3,#034e7b,7.456438356,
+Site 2,10/20/2017,Site Target,3,#034e7b,7.54520548,
+Site 2,10/21/2017,Site Target,3,#034e7b,7.633972603,
+Site 2,10/22/2017,Site Target,3,#034e7b,7.722739726,
+Site 2,10/23/2017,Site Target,3,#034e7b,7.811506849,
+Site 2,10/24/2017,Site Target,3,#034e7b,7.900273973,
+Site 2,10/25/2017,Site Target,3,#034e7b,7.989041096,
+Site 2,10/26/2017,Site Target,3,#034e7b,8.077808219,
+Site 2,10/27/2017,Site Target,3,#034e7b,8.166575342,
+Site 2,10/28/2017,Site Target,3,#034e7b,8.255342466,
+Site 2,10/29/2017,Site Target,3,#034e7b,8.34410959,
+Site 2,10/30/2017,Site Target,3,#034e7b,8.432876712,
+Site 2,10/31/2017,Site Target,3,#034e7b,8.521643836,
+Site 2,11/1/2017,Site Target,3,#034e7b,8.610410959,
+Site 2,11/2/2017,Site Target,3,#034e7b,8.699178083,
+Site 2,11/3/2017,Site Target,3,#034e7b,8.787945205,
+Site 2,11/4/2017,Site Target,3,#034e7b,8.876712329,
+Site 2,11/5/2017,Site Target,3,#034e7b,8.965479452,
+Site 2,11/6/2017,Site Target,3,#034e7b,9.054246576,
+Site 2,11/7/2017,Site Target,3,#034e7b,9.143013698,
+Site 2,11/8/2017,Site Target,3,#034e7b,9.231780822,
+Site 2,11/9/2017,Site Target,3,#034e7b,9.320547946,
+Site 2,11/10/2017,Site Target,3,#034e7b,9.409315068,
+Site 2,11/11/2017,Site Target,3,#034e7b,9.498082192,
+Site 2,11/12/2017,Site Target,3,#034e7b,9.586849315,
+Site 2,11/13/2017,Site Target,3,#034e7b,9.675616439,
+Site 2,11/14/2017,Site Target,3,#034e7b,9.764383561,
+Site 2,11/15/2017,Site Target,3,#034e7b,9.853150685,
+Site 2,11/16/2017,Site Target,3,#034e7b,9.941917808,
+Site 2,11/17/2017,Site Target,3,#034e7b,10.03068493,
+Site 2,11/18/2017,Site Target,3,#034e7b,10.11945205,
+Site 2,11/19/2017,Site Target,3,#034e7b,10.20821918,
+Site 2,11/20/2017,Site Target,3,#034e7b,10.2969863,
+Site 2,11/21/2017,Site Target,3,#034e7b,10.38575343,
+Site 2,11/22/2017,Site Target,3,#034e7b,10.47452055,
+Site 2,11/23/2017,Site Target,3,#034e7b,10.56328767,
+Site 2,11/24/2017,Site Target,3,#034e7b,10.65205479,
+Site 2,11/25/2017,Site Target,3,#034e7b,10.74082192,
+Site 2,11/26/2017,Site Target,3,#034e7b,10.82958904,
+Site 2,11/27/2017,Site Target,3,#034e7b,10.91835616,
+Site 2,11/28/2017,Site Target,3,#034e7b,11.00712329,
+Site 2,11/29/2017,Site Target,3,#034e7b,11.09589041,
+Site 2,11/30/2017,Site Target,3,#034e7b,11.18465753,
+Site 2,12/1/2017,Site Target,3,#034e7b,11.27342466,
+Site 2,12/2/2017,Site Target,3,#034e7b,11.36219178,
+Site 2,12/3/2017,Site Target,3,#034e7b,11.4509589,
+Site 2,12/4/2017,Site Target,3,#034e7b,11.53972603,
+Site 2,12/5/2017,Site Target,3,#034e7b,11.62849315,
+Site 2,12/6/2017,Site Target,3,#034e7b,11.71726027,
+Site 2,12/7/2017,Site Target,3,#034e7b,11.8060274,
+Site 2,12/8/2017,Site Target,3,#034e7b,11.89479452,
+Site 2,12/9/2017,Site Target,3,#034e7b,11.98356164,
+Site 2,12/10/2017,Site Target,3,#034e7b,12.07232876,
+Site 2,12/11/2017,Site Target,3,#034e7b,12.1610959,
+Site 2,12/12/2017,Site Target,3,#034e7b,12.24986302,
+Site 2,12/13/2017,Site Target,3,#034e7b,12.33863014,
+Site 2,12/14/2017,Site Target,3,#034e7b,12.42739726,
+Site 2,12/15/2017,Site Target,3,#034e7b,12.51616439,
+Site 2,12/16/2017,Site Target,3,#034e7b,12.60493151,
+Site 2,12/17/2017,Site Target,3,#034e7b,12.69369863,
+Site 2,12/18/2017,Site Target,3,#034e7b,12.78246576,
+Site 2,12/19/2017,Site Target,3,#034e7b,12.87123288,
+Site 2,12/20/2017,Site Target,3,#034e7b,12.96,
+Site 2,12/21/2017,Site Target,3,#034e7b,13.04876712,
+Site 2,12/22/2017,Site Target,3,#034e7b,13.13753425,
+Site 2,12/23/2017,Site Target,3,#034e7b,13.22630137,
+Site 2,12/24/2017,Site Target,3,#034e7b,13.31506849,
+Site 2,12/25/2017,Site Target,3,#034e7b,13.40383561,
+Site 2,12/26/2017,Site Target,3,#034e7b,13.49260274,
+Site 2,12/27/2017,Site Target,3,#034e7b,13.58136986,
+Site 2,12/28/2017,Site Target,3,#034e7b,13.67013698,
+Site 2,12/29/2017,Site Target,3,#034e7b,13.75890412,
+Site 2,12/30/2017,Site Target,3,#034e7b,13.84767124,
+Site 2,12/31/2017,Site Target,3,#034e7b,13.93643836,
+Site 2,1/1/2018,Site Target,3,#034e7b,14.02520548,
+Site 2,1/2/2018,Site Target,3,#034e7b,14.11397261,
+Site 2,1/3/2018,Site Target,3,#034e7b,14.20273973,
+Site 2,1/4/2018,Site Target,3,#034e7b,14.29150685,
+Site 2,1/5/2018,Site Target,3,#034e7b,14.38027397,
+Site 2,1/6/2018,Site Target,3,#034e7b,14.4690411,
+Site 2,1/7/2018,Site Target,3,#034e7b,14.55780822,
+Site 2,1/8/2018,Site Target,3,#034e7b,14.64657534,
+Site 2,1/9/2018,Site Target,3,#034e7b,14.73534247,
+Site 2,1/10/2018,Site Target,3,#034e7b,14.82410959,
+Site 2,1/11/2018,Site Target,3,#034e7b,14.91287671,
+Site 2,1/12/2018,Site Target,3,#034e7b,15.00164383,
+Site 2,1/13/2018,Site Target,3,#034e7b,15.09041096,
+Site 2,1/14/2018,Site Target,3,#034e7b,15.17917808,
+Site 2,1/15/2018,Site Target,3,#034e7b,15.2679452,
+Site 2,1/16/2018,Site Target,3,#034e7b,15.35671232,
+Site 2,1/17/2018,Site Target,3,#034e7b,15.44547946,
+Site 2,1/18/2018,Site Target,3,#034e7b,15.53424658,
+Site 2,1/19/2018,Site Target,3,#034e7b,15.6230137,
+Site 2,1/20/2018,Site Target,3,#034e7b,15.71178083,
+Site 2,1/21/2018,Site Target,3,#034e7b,15.80054795,
+Site 2,1/22/2018,Site Target,3,#034e7b,15.88931507,
+Site 2,1/23/2018,Site Target,3,#034e7b,15.97808219,
+Site 2,1/24/2018,Site Target,3,#034e7b,16.06684932,
+Site 2,1/25/2018,Site Target,3,#034e7b,16.15561644,
+Site 2,1/26/2018,Site Target,3,#034e7b,16.24438356,
+Site 2,1/27/2018,Site Target,3,#034e7b,16.33315068,
+Site 2,1/28/2018,Site Target,3,#034e7b,16.42191781,
+Site 2,1/29/2018,Site Target,3,#034e7b,16.51068493,
+Site 2,1/30/2018,Site Target,3,#034e7b,16.59945205,
+Site 2,1/31/2018,Site Target,3,#034e7b,16.68821918,
+Site 2,2/1/2018,Site Target,3,#034e7b,16.7769863,
+Site 2,2/2/2018,Site Target,3,#034e7b,16.86575342,
+Site 2,2/3/2018,Site Target,3,#034e7b,16.95452054,
+Site 2,2/4/2018,Site Target,3,#034e7b,17.04328768,
+Site 2,2/5/2018,Site Target,3,#034e7b,17.1320548,
+Site 2,2/6/2018,Site Target,3,#034e7b,17.22082192,
+Site 2,2/7/2018,Site Target,3,#034e7b,17.30958904,
+Site 2,2/8/2018,Site Target,3,#034e7b,17.39835617,
+Site 2,2/9/2018,Site Target,3,#034e7b,17.48712329,
+Site 2,2/10/2018,Site Target,3,#034e7b,17.57589041,
+Site 2,2/11/2018,Site Target,3,#034e7b,17.66465754,
+Site 2,2/12/2018,Site Target,3,#034e7b,17.75342466,
+Site 2,2/13/2018,Site Target,3,#034e7b,17.84219178,
+Site 1,7/28/2017,Randomized,2,#3690c0,0,3
+Site 1,7/29/2017,Randomized,2,#3690c0,0,3
+Site 1,7/30/2017,Randomized,2,#3690c0,0,3
+Site 1,7/31/2017,Randomized,2,#3690c0,0,3
+Site 1,8/1/2017,Randomized,2,#3690c0,0,3
+Site 1,8/2/2017,Randomized,2,#3690c0,0,3
+Site 1,8/3/2017,Randomized,2,#3690c0,0,3
+Site 1,8/4/2017,Randomized,2,#3690c0,0,3
+Site 1,8/5/2017,Randomized,2,#3690c0,0,3
+Site 1,8/6/2017,Randomized,2,#3690c0,0,3
+Site 1,8/7/2017,Randomized,2,#3690c0,0,3
+Site 1,8/8/2017,Randomized,2,#3690c0,0,3
+Site 1,8/9/2017,Randomized,2,#3690c0,0,3
+Site 1,8/10/2017,Randomized,2,#3690c0,0,3
+Site 1,8/11/2017,Randomized,2,#3690c0,0,3
+Site 1,8/12/2017,Randomized,2,#3690c0,0,3
+Site 1,8/13/2017,Randomized,2,#3690c0,0,3
+Site 1,8/14/2017,Randomized,2,#3690c0,0,3
+Site 1,8/15/2017,Randomized,2,#3690c0,0,3
+Site 1,8/16/2017,Randomized,2,#3690c0,0,3
+Site 1,8/17/2017,Randomized,2,#3690c0,0,3
+Site 1,8/18/2017,Randomized,2,#3690c0,0,3
+Site 1,8/19/2017,Randomized,2,#3690c0,0,3
+Site 1,8/20/2017,Randomized,2,#3690c0,0,3
+Site 1,8/21/2017,Randomized,2,#3690c0,0,3
+Site 1,8/22/2017,Randomized,2,#3690c0,0,3
+Site 1,8/23/2017,Randomized,2,#3690c0,0,3
+Site 1,8/24/2017,Randomized,2,#3690c0,0,3
+Site 1,8/25/2017,Randomized,2,#3690c0,0,3
+Site 1,8/26/2017,Randomized,2,#3690c0,0,3
+Site 1,8/27/2017,Randomized,2,#3690c0,0,3
+Site 1,8/28/2017,Randomized,2,#3690c0,0,3
+Site 1,8/29/2017,Randomized,2,#3690c0,0,3
+Site 1,8/30/2017,Randomized,2,#3690c0,0,3
+Site 1,8/31/2017,Randomized,2,#3690c0,0,3
+Site 1,9/1/2017,Randomized,2,#3690c0,0,3
+Site 1,9/2/2017,Randomized,2,#3690c0,0,3
+Site 1,9/3/2017,Randomized,2,#3690c0,0,3
+Site 1,9/4/2017,Randomized,2,#3690c0,0,3
+Site 1,9/5/2017,Randomized,2,#3690c0,0,3
+Site 1,9/6/2017,Randomized,2,#3690c0,0,3
+Site 1,9/7/2017,Randomized,2,#3690c0,0,3
+Site 1,9/8/2017,Randomized,2,#3690c0,0,3
+Site 1,9/9/2017,Randomized,2,#3690c0,0,3
+Site 1,9/10/2017,Randomized,2,#3690c0,0,3
+Site 1,9/11/2017,Randomized,2,#3690c0,0,3
+Site 1,9/12/2017,Randomized,2,#3690c0,0,3
+Site 1,9/13/2017,Randomized,2,#3690c0,0,3
+Site 1,9/14/2017,Randomized,2,#3690c0,0,3
+Site 1,9/15/2017,Randomized,2,#3690c0,0,3
+Site 1,9/16/2017,Randomized,2,#3690c0,0,3
+Site 1,9/17/2017,Randomized,2,#3690c0,0,3
+Site 1,9/18/2017,Randomized,2,#3690c0,0,3
+Site 1,9/19/2017,Randomized,2,#3690c0,0,3
+Site 1,9/20/2017,Randomized,2,#3690c0,0,3
+Site 1,9/21/2017,Randomized,2,#3690c0,0,3
+Site 1,9/22/2017,Randomized,2,#3690c0,0,3
+Site 1,9/23/2017,Randomized,2,#3690c0,0,3
+Site 1,9/24/2017,Randomized,2,#3690c0,0,3
+Site 1,9/25/2017,Randomized,2,#3690c0,0,3
+Site 1,9/26/2017,Randomized,2,#3690c0,0,3
+Site 1,9/27/2017,Randomized,2,#3690c0,0,3
+Site 1,9/28/2017,Randomized,2,#3690c0,4,3
+Site 1,9/29/2017,Randomized,2,#3690c0,4,3
+Site 1,9/30/2017,Randomized,2,#3690c0,4,3
+Site 1,10/1/2017,Randomized,2,#3690c0,4,3
+Site 1,10/2/2017,Randomized,2,#3690c0,4,3
+Site 1,10/3/2017,Randomized,2,#3690c0,4,3
+Site 1,10/4/2017,Randomized,2,#3690c0,4,3
+Site 1,10/5/2017,Randomized,2,#3690c0,4,3
+Site 1,10/6/2017,Randomized,2,#3690c0,4,3
+Site 1,10/7/2017,Randomized,2,#3690c0,4,3
+Site 1,10/8/2017,Randomized,2,#3690c0,4,3
+Site 1,10/9/2017,Randomized,2,#3690c0,4,3
+Site 1,10/10/2017,Randomized,2,#3690c0,4,3
+Site 1,10/11/2017,Randomized,2,#3690c0,4,3
+Site 1,10/12/2017,Randomized,2,#3690c0,4,3
+Site 1,10/13/2017,Randomized,2,#3690c0,4,3
+Site 1,10/14/2017,Randomized,2,#3690c0,4,3
+Site 1,10/15/2017,Randomized,2,#3690c0,4,3
+Site 1,10/16/2017,Randomized,2,#3690c0,4,3
+Site 1,10/17/2017,Randomized,2,#3690c0,4,3
+Site 1,10/18/2017,Randomized,2,#3690c0,4,3
+Site 1,10/19/2017,Randomized,2,#3690c0,4,3
+Site 1,10/20/2017,Randomized,2,#3690c0,4,3
+Site 1,10/21/2017,Randomized,2,#3690c0,4,3
+Site 1,10/22/2017,Randomized,2,#3690c0,4,3
+Site 1,10/23/2017,Randomized,2,#3690c0,7,3
+Site 1,10/24/2017,Randomized,2,#3690c0,7,3
+Site 1,10/25/2017,Randomized,2,#3690c0,7,3
+Site 1,10/26/2017,Randomized,2,#3690c0,7,3
+Site 1,10/27/2017,Randomized,2,#3690c0,7,3
+Site 1,10/28/2017,Randomized,2,#3690c0,7,3
+Site 1,10/29/2017,Randomized,2,#3690c0,7,3
+Site 1,10/30/2017,Randomized,2,#3690c0,7,3
+Site 1,10/31/2017,Randomized,2,#3690c0,7,3
+Site 1,11/1/2017,Randomized,2,#3690c0,7,3
+Site 1,11/2/2017,Randomized,2,#3690c0,7,3
+Site 1,11/3/2017,Randomized,2,#3690c0,7,3
+Site 1,11/4/2017,Randomized,2,#3690c0,7,3
+Site 1,11/5/2017,Randomized,2,#3690c0,7,3
+Site 1,11/6/2017,Randomized,2,#3690c0,7,3
+Site 1,11/7/2017,Randomized,2,#3690c0,7,3
+Site 1,11/8/2017,Randomized,2,#3690c0,7,3
+Site 1,11/9/2017,Randomized,2,#3690c0,7,3
+Site 1,11/10/2017,Randomized,2,#3690c0,7,3
+Site 1,11/11/2017,Randomized,2,#3690c0,7,3
+Site 1,11/12/2017,Randomized,2,#3690c0,7,3
+Site 1,11/13/2017,Randomized,2,#3690c0,7,3
+Site 1,11/14/2017,Randomized,2,#3690c0,7,3
+Site 1,11/15/2017,Randomized,2,#3690c0,7,3
+Site 1,11/16/2017,Randomized,2,#3690c0,7,3
+Site 1,11/17/2017,Randomized,2,#3690c0,7,3
+Site 1,11/18/2017,Randomized,2,#3690c0,7,3
+Site 1,11/19/2017,Randomized,2,#3690c0,7,3
+Site 1,11/20/2017,Randomized,2,#3690c0,7,3
+Site 1,11/21/2017,Randomized,2,#3690c0,7,3
+Site 1,11/22/2017,Randomized,2,#3690c0,7,3
+Site 1,11/23/2017,Randomized,2,#3690c0,7,3
+Site 1,11/24/2017,Randomized,2,#3690c0,7,3
+Site 1,11/25/2017,Randomized,2,#3690c0,7,3
+Site 1,11/26/2017,Randomized,2,#3690c0,7,3
+Site 1,11/27/2017,Randomized,2,#3690c0,7,3
+Site 1,11/28/2017,Randomized,2,#3690c0,7,3
+Site 1,11/29/2017,Randomized,2,#3690c0,7,3
+Site 1,11/30/2017,Randomized,2,#3690c0,7,3
+Site 1,12/1/2017,Randomized,2,#3690c0,7,3
+Site 1,12/2/2017,Randomized,2,#3690c0,7,3
+Site 1,12/3/2017,Randomized,2,#3690c0,7,3
+Site 1,12/4/2017,Randomized,2,#3690c0,7,3
+Site 1,12/5/2017,Randomized,2,#3690c0,7,3
+Site 1,12/6/2017,Randomized,2,#3690c0,7,3
+Site 1,12/7/2017,Randomized,2,#3690c0,7,3
+Site 1,12/8/2017,Randomized,2,#3690c0,7,3
+Site 1,12/9/2017,Randomized,2,#3690c0,7,3
+Site 1,12/10/2017,Randomized,2,#3690c0,7,3
+Site 1,12/11/2017,Randomized,2,#3690c0,7,3
+Site 1,12/12/2017,Randomized,2,#3690c0,7,3
+Site 1,12/13/2017,Randomized,2,#3690c0,7,3
+Site 1,12/14/2017,Randomized,2,#3690c0,7,3
+Site 1,12/15/2017,Randomized,2,#3690c0,7,3
+Site 1,12/16/2017,Randomized,2,#3690c0,7,3
+Site 1,12/17/2017,Randomized,2,#3690c0,7,3
+Site 1,12/18/2017,Randomized,2,#3690c0,7,3
+Site 1,12/19/2017,Randomized,2,#3690c0,7,3
+Site 1,12/20/2017,Randomized,2,#3690c0,7,3
+Site 1,12/21/2017,Randomized,2,#3690c0,7,3
+Site 1,12/22/2017,Randomized,2,#3690c0,7,3
+Site 1,12/23/2017,Randomized,2,#3690c0,7,3
+Site 1,12/24/2017,Randomized,2,#3690c0,7,3
+Site 1,12/25/2017,Randomized,2,#3690c0,7,3
+Site 1,12/26/2017,Randomized,2,#3690c0,7,3
+Site 1,12/27/2017,Randomized,2,#3690c0,7,3
+Site 1,12/28/2017,Randomized,2,#3690c0,7,3
+Site 1,12/29/2017,Randomized,2,#3690c0,7,3
+Site 1,12/30/2017,Randomized,2,#3690c0,7,3
+Site 1,12/31/2017,Randomized,2,#3690c0,7,3
+Site 1,1/1/2018,Randomized,2,#3690c0,7,3
+Site 1,1/2/2018,Randomized,2,#3690c0,7,3
+Site 1,1/3/2018,Randomized,2,#3690c0,7,3
+Site 1,1/4/2018,Randomized,2,#3690c0,7,3
+Site 1,1/5/2018,Randomized,2,#3690c0,7,3
+Site 1,1/6/2018,Randomized,2,#3690c0,7,3
+Site 1,1/7/2018,Randomized,2,#3690c0,7,3
+Site 1,1/8/2018,Randomized,2,#3690c0,7,3
+Site 1,1/9/2018,Randomized,2,#3690c0,7,3
+Site 1,1/10/2018,Randomized,2,#3690c0,7,3
+Site 1,1/11/2018,Randomized,2,#3690c0,10,3
+Site 1,1/12/2018,Randomized,2,#3690c0,10,3
+Site 1,1/13/2018,Randomized,2,#3690c0,10,3
+Site 1,1/14/2018,Randomized,2,#3690c0,10,3
+Site 1,1/15/2018,Randomized,2,#3690c0,10,3
+Site 1,1/16/2018,Randomized,2,#3690c0,10,3
+Site 1,1/17/2018,Randomized,2,#3690c0,10,3
+Site 1,1/18/2018,Randomized,2,#3690c0,10,3
+Site 1,1/19/2018,Randomized,2,#3690c0,10,3
+Site 1,1/20/2018,Randomized,2,#3690c0,10,3
+Site 1,1/21/2018,Randomized,2,#3690c0,10,3
+Site 1,1/22/2018,Randomized,2,#3690c0,10,3
+Site 1,1/23/2018,Randomized,2,#3690c0,10,3
+Site 1,1/24/2018,Randomized,2,#3690c0,10,3
+Site 1,1/25/2018,Randomized,2,#3690c0,10,3
+Site 1,1/26/2018,Randomized,2,#3690c0,10,3
+Site 1,1/27/2018,Randomized,2,#3690c0,10,3
+Site 1,1/28/2018,Randomized,2,#3690c0,10,3
+Site 1,1/29/2018,Randomized,2,#3690c0,10,3
+Site 1,1/30/2018,Randomized,2,#3690c0,10,3
+Site 1,1/31/2018,Randomized,2,#3690c0,10,3
+Site 1,2/1/2018,Randomized,2,#3690c0,10,3
+Site 1,2/2/2018,Randomized,2,#3690c0,10,3
+Site 1,2/3/2018,Randomized,2,#3690c0,10,3
+Site 1,2/4/2018,Randomized,2,#3690c0,10,3
+Site 1,2/5/2018,Randomized,2,#3690c0,10,3
+Site 1,2/6/2018,Randomized,2,#3690c0,13,3
+Site 1,2/7/2018,Randomized,2,#3690c0,13,3
+Site 1,2/8/2018,Randomized,2,#3690c0,13,3
+Site 1,2/9/2018,Randomized,2,#3690c0,13,3
+Site 1,2/10/2018,Randomized,2,#3690c0,13,3
+Site 1,2/11/2018,Randomized,2,#3690c0,13,3
+Site 1,2/12/2018,Randomized,2,#3690c0,13,3
+Site 1,2/13/2018,Randomized,2,#3690c0,13,3
+Site 2,7/28/2017,Randomized,2,#3690c0,0,3
+Site 2,7/29/2017,Randomized,2,#3690c0,0,3
+Site 2,7/30/2017,Randomized,2,#3690c0,0,3
+Site 2,7/31/2017,Randomized,2,#3690c0,0,3
+Site 2,8/1/2017,Randomized,2,#3690c0,0,3
+Site 2,8/2/2017,Randomized,2,#3690c0,0,3
+Site 2,8/3/2017,Randomized,2,#3690c0,0,3
+Site 2,8/4/2017,Randomized,2,#3690c0,0,3
+Site 2,8/5/2017,Randomized,2,#3690c0,0,3
+Site 2,8/6/2017,Randomized,2,#3690c0,0,3
+Site 2,8/7/2017,Randomized,2,#3690c0,0,3
+Site 2,8/8/2017,Randomized,2,#3690c0,0,3
+Site 2,8/9/2017,Randomized,2,#3690c0,0,3
+Site 2,8/10/2017,Randomized,2,#3690c0,0,3
+Site 2,8/11/2017,Randomized,2,#3690c0,0,3
+Site 2,8/12/2017,Randomized,2,#3690c0,0,3
+Site 2,8/13/2017,Randomized,2,#3690c0,0,3
+Site 2,8/14/2017,Randomized,2,#3690c0,0,3
+Site 2,8/15/2017,Randomized,2,#3690c0,0,3
+Site 2,8/16/2017,Randomized,2,#3690c0,0,3
+Site 2,8/17/2017,Randomized,2,#3690c0,0,3
+Site 2,8/18/2017,Randomized,2,#3690c0,0,3
+Site 2,8/19/2017,Randomized,2,#3690c0,0,3
+Site 2,8/20/2017,Randomized,2,#3690c0,0,3
+Site 2,8/21/2017,Randomized,2,#3690c0,0,3
+Site 2,8/22/2017,Randomized,2,#3690c0,0,3
+Site 2,8/23/2017,Randomized,2,#3690c0,0,3
+Site 2,8/24/2017,Randomized,2,#3690c0,0,3
+Site 2,8/25/2017,Randomized,2,#3690c0,0,3
+Site 2,8/26/2017,Randomized,2,#3690c0,0,3
+Site 2,8/27/2017,Randomized,2,#3690c0,0,3
+Site 2,8/28/2017,Randomized,2,#3690c0,0,3
+Site 2,8/29/2017,Randomized,2,#3690c0,0,3
+Site 2,8/30/2017,Randomized,2,#3690c0,0,3
+Site 2,8/31/2017,Randomized,2,#3690c0,0,3
+Site 2,9/1/2017,Randomized,2,#3690c0,0,3
+Site 2,9/2/2017,Randomized,2,#3690c0,0,3
+Site 2,9/3/2017,Randomized,2,#3690c0,0,3
+Site 2,9/4/2017,Randomized,2,#3690c0,0,3
+Site 2,9/5/2017,Randomized,2,#3690c0,0,3
+Site 2,9/6/2017,Randomized,2,#3690c0,0,3
+Site 2,9/7/2017,Randomized,2,#3690c0,0,3
+Site 2,9/8/2017,Randomized,2,#3690c0,0,3
+Site 2,9/9/2017,Randomized,2,#3690c0,0,3
+Site 2,9/10/2017,Randomized,2,#3690c0,0,3
+Site 2,9/11/2017,Randomized,2,#3690c0,0,3
+Site 2,9/12/2017,Randomized,2,#3690c0,0,3
+Site 2,9/13/2017,Randomized,2,#3690c0,0,3
+Site 2,9/14/2017,Randomized,2,#3690c0,0,3
+Site 2,9/15/2017,Randomized,2,#3690c0,0,3
+Site 2,9/16/2017,Randomized,2,#3690c0,0,3
+Site 2,9/17/2017,Randomized,2,#3690c0,0,3
+Site 2,9/18/2017,Randomized,2,#3690c0,0,3
+Site 2,9/19/2017,Randomized,2,#3690c0,0,3
+Site 2,9/20/2017,Randomized,2,#3690c0,0,3
+Site 2,9/21/2017,Randomized,2,#3690c0,0,3
+Site 2,9/22/2017,Randomized,2,#3690c0,0,3
+Site 2,9/23/2017,Randomized,2,#3690c0,0,3
+Site 2,9/24/2017,Randomized,2,#3690c0,0,3
+Site 2,9/25/2017,Randomized,2,#3690c0,0,3
+Site 2,9/26/2017,Randomized,2,#3690c0,0,3
+Site 2,9/27/2017,Randomized,2,#3690c0,0,3
+Site 2,9/28/2017,Randomized,2,#3690c0,0,3
+Site 2,9/29/2017,Randomized,2,#3690c0,0,3
+Site 2,9/30/2017,Randomized,2,#3690c0,0,3
+Site 2,10/1/2017,Randomized,2,#3690c0,0,3
+Site 2,10/2/2017,Randomized,2,#3690c0,0,3
+Site 2,10/3/2017,Randomized,2,#3690c0,0,3
+Site 2,10/4/2017,Randomized,2,#3690c0,4,3
+Site 2,10/5/2017,Randomized,2,#3690c0,7,3
+Site 2,10/6/2017,Randomized,2,#3690c0,7,3
+Site 2,10/7/2017,Randomized,2,#3690c0,7,3
+Site 2,10/8/2017,Randomized,2,#3690c0,7,3
+Site 2,10/9/2017,Randomized,2,#3690c0,7,3
+Site 2,10/10/2017,Randomized,2,#3690c0,10,3
+Site 2,10/11/2017,Randomized,2,#3690c0,10,3
+Site 2,10/12/2017,Randomized,2,#3690c0,10,3
+Site 2,10/13/2017,Randomized,2,#3690c0,10,3
+Site 2,10/14/2017,Randomized,2,#3690c0,10,3
+Site 2,10/15/2017,Randomized,2,#3690c0,10,3
+Site 2,10/16/2017,Randomized,2,#3690c0,10,3
+Site 2,10/17/2017,Randomized,2,#3690c0,10,3
+Site 2,10/18/2017,Randomized,2,#3690c0,10,3
+Site 2,10/19/2017,Randomized,2,#3690c0,10,3
+Site 2,10/20/2017,Randomized,2,#3690c0,10,3
+Site 2,10/21/2017,Randomized,2,#3690c0,10,3
+Site 2,10/22/2017,Randomized,2,#3690c0,10,3
+Site 2,10/23/2017,Randomized,2,#3690c0,10,3
+Site 2,10/24/2017,Randomized,2,#3690c0,10,3
+Site 2,10/25/2017,Randomized,2,#3690c0,10,3
+Site 2,10/26/2017,Randomized,2,#3690c0,10,3
+Site 2,10/27/2017,Randomized,2,#3690c0,10,3
+Site 2,10/28/2017,Randomized,2,#3690c0,10,3
+Site 2,10/29/2017,Randomized,2,#3690c0,10,3
+Site 2,10/30/2017,Randomized,2,#3690c0,10,3
+Site 2,10/31/2017,Randomized,2,#3690c0,10,3
+Site 2,11/1/2017,Randomized,2,#3690c0,10,3
+Site 2,11/2/2017,Randomized,2,#3690c0,10,3
+Site 2,11/3/2017,Randomized,2,#3690c0,10,3
+Site 2,11/4/2017,Randomized,2,#3690c0,10,3
+Site 2,11/5/2017,Randomized,2,#3690c0,10,3
+Site 2,11/6/2017,Randomized,2,#3690c0,13,3
+Site 2,11/7/2017,Randomized,2,#3690c0,13,3
+Site 2,11/8/2017,Randomized,2,#3690c0,13,3
+Site 2,11/9/2017,Randomized,2,#3690c0,13,3
+Site 2,11/10/2017,Randomized,2,#3690c0,13,3
+Site 2,11/11/2017,Randomized,2,#3690c0,13,3
+Site 2,11/12/2017,Randomized,2,#3690c0,13,3
+Site 2,11/13/2017,Randomized,2,#3690c0,13,3
+Site 2,11/14/2017,Randomized,2,#3690c0,13,3
+Site 2,11/15/2017,Randomized,2,#3690c0,13,3
+Site 2,11/16/2017,Randomized,2,#3690c0,13,3
+Site 2,11/17/2017,Randomized,2,#3690c0,13,3
+Site 2,11/18/2017,Randomized,2,#3690c0,13,3
+Site 2,11/19/2017,Randomized,2,#3690c0,13,3
+Site 2,11/20/2017,Randomized,2,#3690c0,13,3
+Site 2,11/21/2017,Randomized,2,#3690c0,13,3
+Site 2,11/22/2017,Randomized,2,#3690c0,13,3
+Site 2,11/23/2017,Randomized,2,#3690c0,13,3
+Site 2,11/24/2017,Randomized,2,#3690c0,13,3
+Site 2,11/25/2017,Randomized,2,#3690c0,13,3
+Site 2,11/26/2017,Randomized,2,#3690c0,13,3
+Site 2,11/27/2017,Randomized,2,#3690c0,13,3
+Site 2,11/28/2017,Randomized,2,#3690c0,13,3
+Site 2,11/29/2017,Randomized,2,#3690c0,13,3
+Site 2,11/30/2017,Randomized,2,#3690c0,13,3
+Site 2,12/1/2017,Randomized,2,#3690c0,13,3
+Site 2,12/2/2017,Randomized,2,#3690c0,13,3
+Site 2,12/3/2017,Randomized,2,#3690c0,13,3
+Site 2,12/4/2017,Randomized,2,#3690c0,13,3
+Site 2,12/5/2017,Randomized,2,#3690c0,13,3
+Site 2,12/6/2017,Randomized,2,#3690c0,13,3
+Site 2,12/7/2017,Randomized,2,#3690c0,13,3
+Site 2,12/8/2017,Randomized,2,#3690c0,13,3
+Site 2,12/9/2017,Randomized,2,#3690c0,13,3
+Site 2,12/10/2017,Randomized,2,#3690c0,13,3
+Site 2,12/11/2017,Randomized,2,#3690c0,13,3
+Site 2,12/12/2017,Randomized,2,#3690c0,13,3
+Site 2,12/13/2017,Randomized,2,#3690c0,13,3
+Site 2,12/14/2017,Randomized,2,#3690c0,13,3
+Site 2,12/15/2017,Randomized,2,#3690c0,13,3
+Site 2,12/16/2017,Randomized,2,#3690c0,13,3
+Site 2,12/17/2017,Randomized,2,#3690c0,13,3
+Site 2,12/18/2017,Randomized,2,#3690c0,13,3
+Site 2,12/19/2017,Randomized,2,#3690c0,13,3
+Site 2,12/20/2017,Randomized,2,#3690c0,13,3
+Site 2,12/21/2017,Randomized,2,#3690c0,13,3
+Site 2,12/22/2017,Randomized,2,#3690c0,13,3
+Site 2,12/23/2017,Randomized,2,#3690c0,13,3
+Site 2,12/24/2017,Randomized,2,#3690c0,13,3
+Site 2,12/25/2017,Randomized,2,#3690c0,13,3
+Site 2,12/26/2017,Randomized,2,#3690c0,13,3
+Site 2,12/27/2017,Randomized,2,#3690c0,13,3
+Site 2,12/28/2017,Randomized,2,#3690c0,13,3
+Site 2,12/29/2017,Randomized,2,#3690c0,13,3
+Site 2,12/30/2017,Randomized,2,#3690c0,13,3
+Site 2,12/31/2017,Randomized,2,#3690c0,13,3
+Site 2,1/1/2018,Randomized,2,#3690c0,13,3
+Site 2,1/2/2018,Randomized,2,#3690c0,13,3
+Site 2,1/3/2018,Randomized,2,#3690c0,13,3
+Site 2,1/4/2018,Randomized,2,#3690c0,13,3
+Site 2,1/5/2018,Randomized,2,#3690c0,13,3
+Site 2,1/6/2018,Randomized,2,#3690c0,13,3
+Site 2,1/7/2018,Randomized,2,#3690c0,13,3
+Site 2,1/8/2018,Randomized,2,#3690c0,13,3
+Site 2,1/9/2018,Randomized,2,#3690c0,13,3
+Site 2,1/10/2018,Randomized,2,#3690c0,13,3
+Site 2,1/11/2018,Randomized,2,#3690c0,13,3
+Site 2,1/12/2018,Randomized,2,#3690c0,13,3
+Site 2,1/13/2018,Randomized,2,#3690c0,13,3
+Site 2,1/14/2018,Randomized,2,#3690c0,13,3
+Site 2,1/15/2018,Randomized,2,#3690c0,13,3
+Site 2,1/16/2018,Randomized,2,#3690c0,13,3
+Site 2,1/17/2018,Randomized,2,#3690c0,13,3
+Site 2,1/18/2018,Randomized,2,#3690c0,13,3
+Site 2,1/19/2018,Randomized,2,#3690c0,13,3
+Site 2,1/20/2018,Randomized,2,#3690c0,13,3
+Site 2,1/21/2018,Randomized,2,#3690c0,13,3
+Site 2,1/22/2018,Randomized,2,#3690c0,13,3
+Site 2,1/23/2018,Randomized,2,#3690c0,13,3
+Site 2,1/24/2018,Randomized,2,#3690c0,13,3
+Site 2,1/25/2018,Randomized,2,#3690c0,13,3
+Site 2,1/26/2018,Randomized,2,#3690c0,13,3
+Site 2,1/27/2018,Randomized,2,#3690c0,13,3
+Site 2,1/28/2018,Randomized,2,#3690c0,13,3
+Site 2,1/29/2018,Randomized,2,#3690c0,13,3
+Site 2,1/30/2018,Randomized,2,#3690c0,15,3
+Site 2,1/31/2018,Randomized,2,#3690c0,15,3
+Site 2,2/1/2018,Randomized,2,#3690c0,15,3
+Site 2,2/2/2018,Randomized,2,#3690c0,15,3
+Site 2,2/3/2018,Randomized,2,#3690c0,15,3
+Site 2,2/4/2018,Randomized,2,#3690c0,15,3
+Site 2,2/5/2018,Randomized,2,#3690c0,19,3
+Site 2,2/6/2018,Randomized,2,#3690c0,19,3
+Site 2,2/7/2018,Randomized,2,#3690c0,19,3
+Site 2,2/8/2018,Randomized,2,#3690c0,19,3
+Site 2,2/9/2018,Randomized,2,#3690c0,19,3
+Site 2,2/10/2018,Randomized,2,#3690c0,19,3
+Site 2,2/11/2018,Randomized,2,#3690c0,19,3
+Site 2,2/12/2018,Randomized,2,#3690c0,19,3
+Site 2,2/13/2018,Randomized,2,#3690c0,19,3
+,7/28/2017,Overall Target,3,#034e7b,0.177534247,
+,7/29/2017,Overall Target,3,#034e7b,0.355068494,
+,7/30/2017,Overall Target,3,#034e7b,0.532602739,
+,7/31/2017,Overall Target,3,#034e7b,0.710136986,
+,8/1/2017,Overall Target,3,#034e7b,0.887671234,
+,8/2/2017,Overall Target,3,#034e7b,1.065205478,
+,8/3/2017,Overall Target,3,#034e7b,1.242739726,
+,8/4/2017,Overall Target,3,#034e7b,1.420273973,
+,8/5/2017,Overall Target,3,#034e7b,1.59780822,
+,8/6/2017,Overall Target,3,#034e7b,1.775342465,
+,8/7/2017,Overall Target,3,#034e7b,1.952876712,
+,8/8/2017,Overall Target,3,#034e7b,2.130410959,
+,8/9/2017,Overall Target,3,#034e7b,2.307945206,
+,8/10/2017,Overall Target,3,#034e7b,2.485479451,
+,8/11/2017,Overall Target,3,#034e7b,2.663013698,
+,8/12/2017,Overall Target,3,#034e7b,2.840547946,
+,8/13/2017,Overall Target,3,#034e7b,3.018082193,
+,8/14/2017,Overall Target,3,#034e7b,3.195616438,
+,8/15/2017,Overall Target,3,#034e7b,3.373150685,
+,8/16/2017,Overall Target,3,#034e7b,3.550684932,
+,8/17/2017,Overall Target,3,#034e7b,3.728219179,
+,8/18/2017,Overall Target,3,#034e7b,3.905753424,
+,8/19/2017,Overall Target,3,#034e7b,4.083287671,
+,8/20/2017,Overall Target,3,#034e7b,4.260821918,
+,8/21/2017,Overall Target,3,#034e7b,4.438356166,
+,8/22/2017,Overall Target,3,#034e7b,4.61589041,
+,8/23/2017,Overall Target,3,#034e7b,4.793424658,
+,8/24/2017,Overall Target,3,#034e7b,4.970958905,
+,8/25/2017,Overall Target,3,#034e7b,5.148493152,
+,8/26/2017,Overall Target,3,#034e7b,5.326027397,
+,8/27/2017,Overall Target,3,#034e7b,5.503561644,
+,8/28/2017,Overall Target,3,#034e7b,5.681095891,
+,8/29/2017,Overall Target,3,#034e7b,5.858630136,
+,8/30/2017,Overall Target,3,#034e7b,6.036164383,
+,8/31/2017,Overall Target,3,#034e7b,6.21369863,
+,9/1/2017,Overall Target,3,#034e7b,6.391232878,
+,9/2/2017,Overall Target,3,#034e7b,6.568767122,
+,9/3/2017,Overall Target,3,#034e7b,6.74630137,
+,9/4/2017,Overall Target,3,#034e7b,6.923835617,
+,9/5/2017,Overall Target,3,#034e7b,7.101369864,
+,9/6/2017,Overall Target,3,#034e7b,7.278904109,
+,9/7/2017,Overall Target,3,#034e7b,7.456438356,
+,9/8/2017,Overall Target,3,#034e7b,7.633972603,
+,9/9/2017,Overall Target,3,#034e7b,7.81150685,
+,9/10/2017,Overall Target,3,#034e7b,7.989041095,
+,9/11/2017,Overall Target,3,#034e7b,8.166575342,
+,9/12/2017,Overall Target,3,#034e7b,8.34410959,
+,9/13/2017,Overall Target,3,#034e7b,8.521643837,
+,9/14/2017,Overall Target,3,#034e7b,8.699178082,
+,9/15/2017,Overall Target,3,#034e7b,8.876712329,
+,9/16/2017,Overall Target,3,#034e7b,9.054246576,
+,9/17/2017,Overall Target,3,#034e7b,9.231780823,
+,9/18/2017,Overall Target,3,#034e7b,9.409315068,
+,9/19/2017,Overall Target,3,#034e7b,9.586849315,
+,9/20/2017,Overall Target,3,#034e7b,9.764383562,
+,9/21/2017,Overall Target,3,#034e7b,9.941917807,
+,9/22/2017,Overall Target,3,#034e7b,10.11945205,
+,9/23/2017,Overall Target,3,#034e7b,10.2969863,
+,9/24/2017,Overall Target,3,#034e7b,10.47452055,
+,9/25/2017,Overall Target,3,#034e7b,10.65205479,
+,9/26/2017,Overall Target,3,#034e7b,10.82958904,
+,9/27/2017,Overall Target,3,#034e7b,11.00712329,
+,9/28/2017,Overall Target,3,#034e7b,11.18465754,
+,9/29/2017,Overall Target,3,#034e7b,11.36219178,
+,9/30/2017,Overall Target,3,#034e7b,11.53972603,
+,10/1/2017,Overall Target,3,#034e7b,11.71726027,
+,10/2/2017,Overall Target,3,#034e7b,11.89479452,
+,10/3/2017,Overall Target,3,#034e7b,12.07232877,
+,10/4/2017,Overall Target,3,#034e7b,12.24986301,
+,10/5/2017,Overall Target,3,#034e7b,12.42739726,
+,10/6/2017,Overall Target,3,#034e7b,12.60493151,
+,10/7/2017,Overall Target,3,#034e7b,12.78246575,
+,10/8/2017,Overall Target,3,#034e7b,12.96,
+,10/9/2017,Overall Target,3,#034e7b,13.13753425,
+,10/10/2017,Overall Target,3,#034e7b,13.31506849,
+,10/11/2017,Overall Target,3,#034e7b,13.49260274,
+,10/12/2017,Overall Target,3,#034e7b,13.67013699,
+,10/13/2017,Overall Target,3,#034e7b,13.84767123,
+,10/14/2017,Overall Target,3,#034e7b,14.02520548,
+,10/15/2017,Overall Target,3,#034e7b,14.20273973,
+,10/16/2017,Overall Target,3,#034e7b,14.38027397,
+,10/17/2017,Overall Target,3,#034e7b,14.55780822,
+,10/18/2017,Overall Target,3,#034e7b,14.73534246,
+,10/19/2017,Overall Target,3,#034e7b,14.91287671,
+,10/20/2017,Overall Target,3,#034e7b,15.09041096,
+,10/21/2017,Overall Target,3,#034e7b,15.26794521,
+,10/22/2017,Overall Target,3,#034e7b,15.44547945,
+,10/23/2017,Overall Target,3,#034e7b,15.6230137,
+,10/24/2017,Overall Target,3,#034e7b,15.80054795,
+,10/25/2017,Overall Target,3,#034e7b,15.97808219,
+,10/26/2017,Overall Target,3,#034e7b,16.15561644,
+,10/27/2017,Overall Target,3,#034e7b,16.33315068,
+,10/28/2017,Overall Target,3,#034e7b,16.51068493,
+,10/29/2017,Overall Target,3,#034e7b,16.68821918,
+,10/30/2017,Overall Target,3,#034e7b,16.86575342,
+,10/31/2017,Overall Target,3,#034e7b,17.04328767,
+,11/1/2017,Overall Target,3,#034e7b,17.22082192,
+,11/2/2017,Overall Target,3,#034e7b,17.39835617,
+,11/3/2017,Overall Target,3,#034e7b,17.57589041,
+,11/4/2017,Overall Target,3,#034e7b,17.75342466,
+,11/5/2017,Overall Target,3,#034e7b,17.9309589,
+,11/6/2017,Overall Target,3,#034e7b,18.10849315,
+,11/7/2017,Overall Target,3,#034e7b,18.2860274,
+,11/8/2017,Overall Target,3,#034e7b,18.46356164,
+,11/9/2017,Overall Target,3,#034e7b,18.64109589,
+,11/10/2017,Overall Target,3,#034e7b,18.81863014,
+,11/11/2017,Overall Target,3,#034e7b,18.99616438,
+,11/12/2017,Overall Target,3,#034e7b,19.17369863,
+,11/13/2017,Overall Target,3,#034e7b,19.35123288,
+,11/14/2017,Overall Target,3,#034e7b,19.52876712,
+,11/15/2017,Overall Target,3,#034e7b,19.70630137,
+,11/16/2017,Overall Target,3,#034e7b,19.88383562,
+,11/17/2017,Overall Target,3,#034e7b,20.06136986,
+,11/18/2017,Overall Target,3,#034e7b,20.23890411,
+,11/19/2017,Overall Target,3,#034e7b,20.41643836,
+,11/20/2017,Overall Target,3,#034e7b,20.5939726,
+,11/21/2017,Overall Target,3,#034e7b,20.77150685,
+,11/22/2017,Overall Target,3,#034e7b,20.9490411,
+,11/23/2017,Overall Target,3,#034e7b,21.12657534,
+,11/24/2017,Overall Target,3,#034e7b,21.30410959,
+,11/25/2017,Overall Target,3,#034e7b,21.48164384,
+,11/26/2017,Overall Target,3,#034e7b,21.65917808,
+,11/27/2017,Overall Target,3,#034e7b,21.83671233,
+,11/28/2017,Overall Target,3,#034e7b,22.01424658,
+,11/29/2017,Overall Target,3,#034e7b,22.19178082,
+,11/30/2017,Overall Target,3,#034e7b,22.36931507,
+,12/1/2017,Overall Target,3,#034e7b,22.54684932,
+,12/2/2017,Overall Target,3,#034e7b,22.72438356,
+,12/3/2017,Overall Target,3,#034e7b,22.90191781,
+,12/4/2017,Overall Target,3,#034e7b,23.07945205,
+,12/5/2017,Overall Target,3,#034e7b,23.2569863,
+,12/6/2017,Overall Target,3,#034e7b,23.43452055,
+,12/7/2017,Overall Target,3,#034e7b,23.61205479,
+,12/8/2017,Overall Target,3,#034e7b,23.78958904,
+,12/9/2017,Overall Target,3,#034e7b,23.96712329,
+,12/10/2017,Overall Target,3,#034e7b,24.14465753,
+,12/11/2017,Overall Target,3,#034e7b,24.32219179,
+,12/12/2017,Overall Target,3,#034e7b,24.49972603,
+,12/13/2017,Overall Target,3,#034e7b,24.67726027,
+,12/14/2017,Overall Target,3,#034e7b,24.85479451,
+,12/15/2017,Overall Target,3,#034e7b,25.03232878,
+,12/16/2017,Overall Target,3,#034e7b,25.20986302,
+,12/17/2017,Overall Target,3,#034e7b,25.38739726,
+,12/18/2017,Overall Target,3,#034e7b,25.56493152,
+,12/19/2017,Overall Target,3,#034e7b,25.74246576,
+,12/20/2017,Overall Target,3,#034e7b,25.92,
+,12/21/2017,Overall Target,3,#034e7b,26.09753424,
+,12/22/2017,Overall Target,3,#034e7b,26.2750685,
+,12/23/2017,Overall Target,3,#034e7b,26.45260274,
+,12/24/2017,Overall Target,3,#034e7b,26.63013698,
+,12/25/2017,Overall Target,3,#034e7b,26.80767122,
+,12/26/2017,Overall Target,3,#034e7b,26.98520549,
+,12/27/2017,Overall Target,3,#034e7b,27.16273973,
+,12/28/2017,Overall Target,3,#034e7b,27.34027397,
+,12/29/2017,Overall Target,3,#034e7b,27.51780823,
+,12/30/2017,Overall Target,3,#034e7b,27.69534247,
+,12/31/2017,Overall Target,3,#034e7b,27.87287671,
+,1/1/2018,Overall Target,3,#034e7b,28.05041095,
+,1/2/2018,Overall Target,3,#034e7b,28.22794522,
+,1/3/2018,Overall Target,3,#034e7b,28.40547946,
+,1/4/2018,Overall Target,3,#034e7b,28.5830137,
+,1/5/2018,Overall Target,3,#034e7b,28.76054794,
+,1/6/2018,Overall Target,3,#034e7b,28.9380822,
+,1/7/2018,Overall Target,3,#034e7b,29.11561644,
+,1/8/2018,Overall Target,3,#034e7b,29.29315068,
+,1/9/2018,Overall Target,3,#034e7b,29.47068494,
+,1/10/2018,Overall Target,3,#034e7b,29.64821918,
+,1/11/2018,Overall Target,3,#034e7b,29.82575342,
+,1/12/2018,Overall Target,3,#034e7b,30.00328766,
+,1/13/2018,Overall Target,3,#034e7b,30.18082193,
+,1/14/2018,Overall Target,3,#034e7b,30.35835617,
+,1/15/2018,Overall Target,3,#034e7b,30.53589041,
+,1/16/2018,Overall Target,3,#034e7b,30.71342465,
+,1/17/2018,Overall Target,3,#034e7b,30.89095891,
+,1/18/2018,Overall Target,3,#034e7b,31.06849315,
+,1/19/2018,Overall Target,3,#034e7b,31.24602739,
+,1/20/2018,Overall Target,3,#034e7b,31.42356166,
+,1/21/2018,Overall Target,3,#034e7b,31.6010959,
+,1/22/2018,Overall Target,3,#034e7b,31.77863014,
+,1/23/2018,Overall Target,3,#034e7b,31.95616438,
+,1/24/2018,Overall Target,3,#034e7b,32.13369864,
+,1/25/2018,Overall Target,3,#034e7b,32.31123288,
+,1/26/2018,Overall Target,3,#034e7b,32.48876712,
+,1/27/2018,Overall Target,3,#034e7b,32.66630136,
+,1/28/2018,Overall Target,3,#034e7b,32.84383562,
+,1/29/2018,Overall Target,3,#034e7b,33.02136986,
+,1/30/2018,Overall Target,3,#034e7b,33.1989041,
+,1/31/2018,Overall Target,3,#034e7b,33.37643837,
+,2/1/2018,Overall Target,3,#034e7b,33.55397261,
+,2/2/2018,Overall Target,3,#034e7b,33.73150685,
+,2/3/2018,Overall Target,3,#034e7b,33.90904109,
+,2/4/2018,Overall Target,3,#034e7b,34.08657535,
+,2/5/2018,Overall Target,3,#034e7b,34.26410959,
+,2/6/2018,Overall Target,3,#034e7b,34.44164383,
+,2/7/2018,Overall Target,3,#034e7b,34.61917807,
+,2/8/2018,Overall Target,3,#034e7b,34.79671234,
+,2/9/2018,Overall Target,3,#034e7b,34.97424658,
+,2/10/2018,Overall Target,3,#034e7b,35.15178082,
+,2/11/2018,Overall Target,3,#034e7b,35.32931508,
+,2/12/2018,Overall Target,3,#034e7b,35.50684932,
+,2/13/2018,Overall Target,3,#034e7b,35.68438356,

@@ -1,13 +1,30 @@
-
 library(tidyverse)
 
 sites <- c("Clinical Site 1","Clinical Site 2","Clinical Site 3","Clinical Site 4","Clinical Site 5")
+site_activation_dates <- as.Date('2015/01/01') %>%
+  seq(as.Date('2016/01/01'), by = 'day') %>%
+  sample(length(sites))
 
-site_values <- sample(sites, 80, replace=TRUE, prob=c(0.12, 0.12, 0.16, .3, .3)) 
+set.seed(2357)
+site_values <- sample(sites, 80, replace=TRUE, prob=c(0.12, 0.12, 0.16, .3, .3))
+site_abbreviation_values <- substr(site_values,10,15)
+set.seed(2357)
+site_activation_date_values <- sample(site_activation_dates, 80, replace=TRUE, prob=c(0.12, 0.12, 0.16, .3, .3))
 
-site_short_values <- substr(site_values,10,15)
-
-data <- data.frame(site=site_values, site_short = site_short_values)
+data <- data.frame(
+  site = site_values,
+  site_abbreviation = site_abbreviation_values,
+  site_activation_date = site_activation_date_values
+) %>%
+  mutate(
+    site_tooltip = paste(
+      site,
+      'activation date:',
+      site_activation_date,
+      sep = ' '
+    )
+  ) %>%
+  select(-site_activation_date)
 
 # Add subjid
 for (i in 1:nlevels(data$site)) {
@@ -16,7 +33,7 @@ for (i in 1:nlevels(data$site)) {
   subj_count = 0
   for(j in 1:nrow(data[data$site == site_level,])){
 
-    
+
     if (j %% 2 == 0)  {
       trt <- sample(c("TRTA","TRTB"), 1, replace=TRUE, prob=c(.5, .5)) 
       
@@ -50,6 +67,7 @@ data[duplicated(data$subjid),"population_superset"] <- "Screened"
 
 data <- data %>%
   mutate(population_order = ifelse(population == "Screened", 1, 2) ) %>%
-  mutate(population_color = ifelse(population == "Screened", "#a6bddb", "#3690c0") )
+  mutate(population_color = ifelse(population == "Screened", "#a6bddb", "#3690c0") ) %>%
+  arrange(subjid, population_order)
 
 write.csv(data, '../dashboard-enrollment.csv', row.names = FALSE)

@@ -84,7 +84,7 @@ set.seed(2357)
         select(usubjid, site, siteid, age, sex, race, arm, armcd, sbjtstat, rfstdtc, rfendtc, rfendy, saffl, saffn) %>%
         arrange(usubjid)
     names(dm1) <- toupper(names(dm1))
-
+dm1 %>% select(SITE, SITEID, RFSTDTC, RFENDTC) %>% group_by(SITE, SITEID) %>% summarize(stdt = min(RFSTDTC), endt = max(RFENDTC))
 ### Output data
     write.csv(
         dm1,

@@ -20,42 +20,72 @@ sites <- '../../data-dictionaries/sites.csv' %>%
         na.strings = '',
         colClasses = 'character'
     )
-screened <- dm %>%
-    select(
-        USUBJID, RFSTDTC
-    ) %>%
-    rename(
-        subjid = USUBJID,
-        date = RFSTDTC
-    ) %>%
-    mutate(
-        population = 'Screened',
-        population_order = 1,
-        population_color = '#a6bddb',
-        population_superset = ''
-    )
-randomized <- sv %>%
-    filter(
-        VISIT == 'Visit 1' & SVSTATUS == 'Completed'
-    ) %>%
-    select(USUBJID, SVDT) %>%
-    rename(
-        subjid = USUBJID,
-        date = SVDT
-    ) %>%
-    mutate(
-        population = 'Randomized',
-        population_order = 2,
-        population_color = '#3690c0',
-        population_superset = ''
-    )
-accrual <- screened %>%
-    rbind(randomized) %>%
-    left_join(
-        dm,
-        by = c('subjid' = 'USUBJID')
-    ) %>%
-    left_join(
-        sites,
-        by = c('SITEID' = 'site_id')
+
+# data manipulation
+
+    # screened population
+    screened <- dm %>%
+        select(
+            USUBJID, RFSTDTC
+        ) %>%
+        rename(
+            subjid = USUBJID,
+            date = RFSTDTC
+        ) %>%
+        mutate(
+            population = 'Screened',
+            population_order = 1,
+            population_color = '#a6bddb',
+            population_superset = ''
+        )
+
+    # randomized popluation
+    randomized <- sv %>%
+        filter(
+            VISIT == 'Visit 1' & SVSTATUS == 'Completed'
+        ) %>%
+        select(USUBJID, SVDT) %>%
+        rename(
+            subjid = USUBJID,
+            date = SVDT
+        ) %>%
+        mutate(
+            population = 'Randomized',
+            population_order = 2,
+            population_color = '#3690c0',
+            population_superset = 'Screened'
+        )
+
+    # stacked, merged with DM, merged with sites
+    accrual <- screened %>%
+        rbind(randomized) %>%
+        left_join(
+            dm,
+            by = c('subjid' = 'USUBJID')
+        ) %>%
+        left_join(
+            sites,
+            by = c('SITEID' = 'site_id')
+        ) %>%
+        select(
+            -SITE, -SITEID, -ARM, -ARMCD, -SBJTSTAT, -RFSTDTC, -RFENDTC, -RFENDY, -SAFFL, -SAFFN
+        ) %>%
+        rename(
+            age = AGE,
+            sex = SEX,
+            race = RACE
+        ) %>%
+        mutate(
+            `filter:Site` = site
+        ) %>%
+        arrange(
+            subjid, population_order
+        )
+
+# output data
+accrual %>%
+    fwrite(
+        '../../data-cleaning/dashboard-accrual-over-time.csv',
+        na = '',
+        row.names = FALSE
     )

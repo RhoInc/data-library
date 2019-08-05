@@ -68,9 +68,10 @@ sites <- '../../data-dictionaries/sites.csv' %>%
             by = c('SITEID' = 'site_id')
         ) %>%
         select(
-            -SITE, -SITEID, -ARM, -ARMCD, -SBJTSTAT, -RFSTDTC, -RFENDTC, -RFENDY, -SAFFL, -SAFFN
+            -SITE, -ARM, -ARMCD, -SBJTSTAT, -RFSTDTC, -RFENDTC, -RFENDY, -SAFFL, -SAFFN
         ) %>%
         rename(
+            site_id = SITEID,
             age = AGE,
             sex = SEX,
             race = RACE

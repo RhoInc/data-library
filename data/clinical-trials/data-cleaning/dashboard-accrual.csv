@@ -1,0 +1,1842 @@
+subjid,date,population,population_order,population_color,population_superset,age,sex,race,site,site_abbreviation,site_info,site_activation_date,site_completion_date,site_accrual_duration,site_accrual,site_accrual_rate,site_target,site_target_rate,site_percent_accrued,activation_date,completion_date,accrual_duration,accrual,accrual_rate,target,target_rate,percent_accrued,filter:Site
+01-001,2015-05-21,Screened,1,#a6bddb,"",30,F,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-002,2015-05-30,Screened,1,#a6bddb,"",24,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-002,2015-07-29,Randomized,2,#3690c0,Screened,24,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-003,2015-08-13,Screened,1,#a6bddb,"",43,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-003,2015-10-04,Randomized,2,#3690c0,Screened,43,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-004,2015-01-12,Screened,1,#a6bddb,"",42,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-004,2015-03-02,Randomized,2,#3690c0,Screened,42,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-005,2015-11-11,Screened,1,#a6bddb,"",51,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-005,2016-01-01,Randomized,2,#3690c0,Screened,51,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-006,2015-05-12,Screened,1,#a6bddb,"",23,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-007,2015-09-10,Screened,1,#a6bddb,"",20,M,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-008,2015-11-21,Screened,1,#a6bddb,"",53,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-009,2015-11-25,Screened,1,#a6bddb,"",44,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-009,2016-01-24,Randomized,2,#3690c0,Screened,44,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-010,2015-01-06,Screened,1,#a6bddb,"",35,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-010,2015-02-23,Randomized,2,#3690c0,Screened,35,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-011,2015-10-04,Screened,1,#a6bddb,"",33,F,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-011,2015-11-30,Randomized,2,#3690c0,Screened,33,F,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-012,2015-04-18,Screened,1,#a6bddb,"",36,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-012,2015-06-06,Randomized,2,#3690c0,Screened,36,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-013,2015-07-15,Screened,1,#a6bddb,"",40,F,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-013,2015-09-11,Randomized,2,#3690c0,Screened,40,F,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-014,2015-07-24,Screened,1,#a6bddb,"",37,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-014,2015-09-17,Randomized,2,#3690c0,Screened,37,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-015,2015-04-28,Screened,1,#a6bddb,"",26,M,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-015,2015-06-15,Randomized,2,#3690c0,Screened,26,M,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-016,2015-12-21,Screened,1,#a6bddb,"",18,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-016,2016-02-09,Randomized,2,#3690c0,Screened,18,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-017,2015-02-12,Screened,1,#a6bddb,"",40,M,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-017,2015-04-04,Randomized,2,#3690c0,Screened,40,M,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-018,2015-02-13,Screened,1,#a6bddb,"",29,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-018,2015-04-04,Randomized,2,#3690c0,Screened,29,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-019,2015-04-24,Screened,1,#a6bddb,"",47,M,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-019,2015-06-15,Randomized,2,#3690c0,Screened,47,M,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-020,2015-06-17,Screened,1,#a6bddb,"",27,M,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-021,2015-10-04,Screened,1,#a6bddb,"",23,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-022,2015-10-01,Screened,1,#a6bddb,"",27,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-022,2015-11-28,Randomized,2,#3690c0,Screened,27,F,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-023,2015-03-29,Screened,1,#a6bddb,"",48,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-023,2015-05-22,Randomized,2,#3690c0,Screened,48,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-024,2015-04-23,Screened,1,#a6bddb,"",24,F,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-024,2015-06-10,Randomized,2,#3690c0,Screened,24,F,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-025,2015-06-22,Screened,1,#a6bddb,"",21,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-025,2015-08-15,Randomized,2,#3690c0,Screened,21,M,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-026,2015-02-19,Screened,1,#a6bddb,"",25,F,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-026,2015-04-09,Randomized,2,#3690c0,Screened,25,F,White,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-027,2015-06-01,Screened,1,#a6bddb,"",40,F,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-027,2015-07-26,Randomized,2,#3690c0,Screened,40,F,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-028,2015-11-12,Screened,1,#a6bddb,"",21,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-028,2016-01-02,Randomized,2,#3690c0,Screened,21,F,Hispanic,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-029,2015-06-10,Screened,1,#a6bddb,"",50,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-029,2015-08-06,Randomized,2,#3690c0,Screened,50,M,Black,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+01-030,2015-01-18,Screened,1,#a6bddb,"",25,M,Other/Mixed,Clinical Site 01,Site 01,"Clinical Site 01
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.5 participants/month
+Accrued of target: 87%",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 01
+02-001,2015-12-11,Screened,1,#a6bddb,"",20,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-002,2015-03-16,Screened,1,#a6bddb,"",42,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-002,2015-05-16,Randomized,2,#3690c0,Screened,42,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-003,2015-04-27,Screened,1,#a6bddb,"",27,F,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-003,2015-06-26,Randomized,2,#3690c0,Screened,27,F,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-004,2015-09-30,Screened,1,#a6bddb,"",21,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-005,2015-12-13,Screened,1,#a6bddb,"",18,M,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-005,2016-02-10,Randomized,2,#3690c0,Screened,18,M,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-006,2015-06-03,Screened,1,#a6bddb,"",36,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-006,2015-08-01,Randomized,2,#3690c0,Screened,36,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-007,2015-09-01,Screened,1,#a6bddb,"",31,M,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-008,2015-08-17,Screened,1,#a6bddb,"",21,F,Other/Mixed,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-008,2015-10-12,Randomized,2,#3690c0,Screened,21,F,Other/Mixed,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-009,2015-12-13,Screened,1,#a6bddb,"",27,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-009,2016-02-04,Randomized,2,#3690c0,Screened,27,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-010,2015-07-26,Screened,1,#a6bddb,"",36,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-010,2015-09-13,Randomized,2,#3690c0,Screened,36,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-011,2015-10-08,Screened,1,#a6bddb,"",40,F,Other/Mixed,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-012,2015-09-30,Screened,1,#a6bddb,"",37,F,Other/Mixed,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-012,2015-11-26,Randomized,2,#3690c0,Screened,37,F,Other/Mixed,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-013,2015-12-29,Screened,1,#a6bddb,"",32,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-013,2016-02-24,Randomized,2,#3690c0,Screened,32,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-014,2015-04-13,Screened,1,#a6bddb,"",19,F,Other/Mixed,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-014,2015-06-05,Randomized,2,#3690c0,Screened,19,F,Other/Mixed,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-015,2015-02-24,Screened,1,#a6bddb,"",29,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-016,2015-10-24,Screened,1,#a6bddb,"",25,M,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-017,2015-04-06,Screened,1,#a6bddb,"",33,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-017,2015-06-03,Randomized,2,#3690c0,Screened,33,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-018,2015-11-23,Screened,1,#a6bddb,"",19,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-018,2016-01-16,Randomized,2,#3690c0,Screened,19,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-019,2015-02-16,Screened,1,#a6bddb,"",49,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-019,2015-04-06,Randomized,2,#3690c0,Screened,49,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-020,2015-07-14,Screened,1,#a6bddb,"",23,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-020,2015-09-03,Randomized,2,#3690c0,Screened,23,F,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-021,2015-10-01,Screened,1,#a6bddb,"",53,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-022,2015-12-27,Screened,1,#a6bddb,"",30,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-023,2015-12-06,Screened,1,#a6bddb,"",45,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-023,2016-02-03,Randomized,2,#3690c0,Screened,45,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-024,2015-02-28,Screened,1,#a6bddb,"",45,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-024,2015-04-27,Randomized,2,#3690c0,Screened,45,M,White,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-025,2015-08-04,Screened,1,#a6bddb,"",36,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-026,2015-04-03,Screened,1,#a6bddb,"",27,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-026,2015-05-21,Randomized,2,#3690c0,Screened,27,F,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-027,2015-03-08,Screened,1,#a6bddb,"",36,F,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-027,2015-04-25,Randomized,2,#3690c0,Screened,36,F,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-028,2015-04-25,Screened,1,#a6bddb,"",29,M,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-028,2015-06-18,Randomized,2,#3690c0,Screened,29,M,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-029,2015-04-26,Screened,1,#a6bddb,"",47,M,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-029,2015-06-17,Randomized,2,#3690c0,Screened,47,M,Black,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+02-030,2015-12-11,Screened,1,#a6bddb,"",41,M,Hispanic,Clinical Site 02,Site 02,"Clinical Site 02
+Activation date: 2015-01-01
+Accrual: 25 participants
+Target: 30 participants
+Accrual rate: 2.3 participants/month
+Target rate: 2.8 participants/month
+Accrued of target: 83%",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 02
+03-001,2015-04-24,Screened,1,#a6bddb,"",43,F,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-002,2015-09-02,Screened,1,#a6bddb,"",27,F,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-002,2015-10-31,Randomized,2,#3690c0,Screened,27,F,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-003,2015-05-26,Screened,1,#a6bddb,"",42,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-003,2015-07-17,Randomized,2,#3690c0,Screened,42,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-004,2015-12-03,Screened,1,#a6bddb,"",19,F,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-004,2016-02-01,Randomized,2,#3690c0,Screened,19,F,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-005,2015-04-15,Screened,1,#a6bddb,"",48,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-005,2015-06-14,Randomized,2,#3690c0,Screened,48,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-006,2015-05-24,Screened,1,#a6bddb,"",52,M,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-006,2015-07-13,Randomized,2,#3690c0,Screened,52,M,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-007,2015-08-18,Screened,1,#a6bddb,"",49,F,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-007,2015-10-11,Randomized,2,#3690c0,Screened,49,F,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-008,2015-03-08,Screened,1,#a6bddb,"",46,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-008,2015-04-25,Randomized,2,#3690c0,Screened,46,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-009,2015-11-15,Screened,1,#a6bddb,"",28,F,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-009,2016-01-04,Randomized,2,#3690c0,Screened,28,F,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-010,2015-02-07,Screened,1,#a6bddb,"",40,M,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-010,2015-04-06,Randomized,2,#3690c0,Screened,40,M,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-011,2015-11-16,Screened,1,#a6bddb,"",43,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-011,2016-01-04,Randomized,2,#3690c0,Screened,43,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-012,2015-08-19,Screened,1,#a6bddb,"",32,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-012,2015-10-13,Randomized,2,#3690c0,Screened,32,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-013,2015-10-28,Screened,1,#a6bddb,"",33,M,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-013,2015-12-21,Randomized,2,#3690c0,Screened,33,M,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-014,2015-02-06,Screened,1,#a6bddb,"",53,F,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-015,2015-07-21,Screened,1,#a6bddb,"",24,F,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-015,2015-09-17,Randomized,2,#3690c0,Screened,24,F,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-016,2015-05-04,Screened,1,#a6bddb,"",20,F,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-017,2015-06-26,Screened,1,#a6bddb,"",43,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-017,2015-08-14,Randomized,2,#3690c0,Screened,43,M,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-018,2015-05-30,Screened,1,#a6bddb,"",19,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-018,2015-07-20,Randomized,2,#3690c0,Screened,19,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-019,2015-11-06,Screened,1,#a6bddb,"",18,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-019,2016-01-05,Randomized,2,#3690c0,Screened,18,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-020,2015-08-09,Screened,1,#a6bddb,"",50,M,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-020,2015-09-27,Randomized,2,#3690c0,Screened,50,M,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-021,2015-09-21,Screened,1,#a6bddb,"",18,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-021,2015-11-12,Randomized,2,#3690c0,Screened,18,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-022,2015-05-14,Screened,1,#a6bddb,"",49,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-022,2015-07-02,Randomized,2,#3690c0,Screened,49,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-023,2015-03-25,Screened,1,#a6bddb,"",52,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-024,2015-03-16,Screened,1,#a6bddb,"",27,F,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-025,2015-04-29,Screened,1,#a6bddb,"",53,F,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-025,2015-06-24,Randomized,2,#3690c0,Screened,53,F,Black,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-026,2015-10-08,Screened,1,#a6bddb,"",18,M,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-027,2015-05-10,Screened,1,#a6bddb,"",37,F,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-028,2015-03-08,Screened,1,#a6bddb,"",37,F,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-028,2015-05-02,Randomized,2,#3690c0,Screened,37,F,Other/Mixed,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-029,2015-06-03,Screened,1,#a6bddb,"",26,M,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-029,2015-07-31,Randomized,2,#3690c0,Screened,26,M,White,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-030,2015-03-30,Screened,1,#a6bddb,"",18,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+03-030,2015-05-29,Randomized,2,#3690c0,Screened,18,M,Hispanic,Clinical Site 03,Site 03,"Clinical Site 03
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.8 participants/month
+Target rate: 2.9 participants/month
+Accrued of target: 97%",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 03
+04-001,2015-02-11,Screened,1,#a6bddb,"",21,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-002,2015-06-19,Screened,1,#a6bddb,"",54,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-002,2015-08-15,Randomized,2,#3690c0,Screened,54,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-003,2015-11-17,Screened,1,#a6bddb,"",25,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-004,2015-08-03,Screened,1,#a6bddb,"",39,M,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-004,2015-09-28,Randomized,2,#3690c0,Screened,39,M,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-005,2015-08-17,Screened,1,#a6bddb,"",42,M,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-005,2015-10-15,Randomized,2,#3690c0,Screened,42,M,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-006,2015-10-31,Screened,1,#a6bddb,"",29,M,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-007,2015-04-15,Screened,1,#a6bddb,"",24,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-007,2015-06-07,Randomized,2,#3690c0,Screened,24,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-008,2015-04-10,Screened,1,#a6bddb,"",31,F,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-008,2015-06-02,Randomized,2,#3690c0,Screened,31,F,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-009,2015-01-22,Screened,1,#a6bddb,"",39,F,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-009,2015-03-21,Randomized,2,#3690c0,Screened,39,F,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-010,2015-12-14,Screened,1,#a6bddb,"",18,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-010,2016-02-11,Randomized,2,#3690c0,Screened,18,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-011,2015-10-16,Screened,1,#a6bddb,"",48,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-011,2015-12-09,Randomized,2,#3690c0,Screened,48,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-012,2015-06-26,Screened,1,#a6bddb,"",33,M,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-012,2015-08-23,Randomized,2,#3690c0,Screened,33,M,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-013,2015-04-22,Screened,1,#a6bddb,"",19,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-013,2015-06-18,Randomized,2,#3690c0,Screened,19,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-014,2015-05-14,Screened,1,#a6bddb,"",36,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-014,2015-07-06,Randomized,2,#3690c0,Screened,36,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-015,2015-11-26,Screened,1,#a6bddb,"",40,F,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-015,2016-01-25,Randomized,2,#3690c0,Screened,40,F,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-016,2015-04-27,Screened,1,#a6bddb,"",40,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-016,2015-06-17,Randomized,2,#3690c0,Screened,40,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-017,2015-01-26,Screened,1,#a6bddb,"",42,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-018,2015-06-13,Screened,1,#a6bddb,"",26,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-019,2015-01-20,Screened,1,#a6bddb,"",55,F,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-019,2015-03-12,Randomized,2,#3690c0,Screened,55,F,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-020,2015-09-14,Screened,1,#a6bddb,"",24,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-021,2015-06-20,Screened,1,#a6bddb,"",21,M,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-022,2015-12-26,Screened,1,#a6bddb,"",54,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-022,2016-02-20,Randomized,2,#3690c0,Screened,54,F,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-023,2015-10-04,Screened,1,#a6bddb,"",21,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-023,2015-11-25,Randomized,2,#3690c0,Screened,21,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-024,2015-05-05,Screened,1,#a6bddb,"",26,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-024,2015-06-29,Randomized,2,#3690c0,Screened,26,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-025,2015-08-08,Screened,1,#a6bddb,"",26,M,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-026,2015-07-02,Screened,1,#a6bddb,"",27,M,Other/Mixed,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-027,2015-01-13,Screened,1,#a6bddb,"",28,M,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-027,2015-03-06,Randomized,2,#3690c0,Screened,28,M,White,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-028,2015-01-23,Screened,1,#a6bddb,"",51,M,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-028,2015-03-20,Randomized,2,#3690c0,Screened,51,M,Black,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-029,2015-05-12,Screened,1,#a6bddb,"",49,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-029,2015-07-11,Randomized,2,#3690c0,Screened,49,M,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-030,2015-04-25,Screened,1,#a6bddb,"",31,F,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+04-030,2015-06-25,Randomized,2,#3690c0,Screened,31,F,Hispanic,Clinical Site 04,Site 04,"Clinical Site 04
+Activation date: 2015-01-01
+Accrual: 26 participants
+Target: 30 participants
+Accrual rate: 2.2 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 87%",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 04
+05-001,2015-04-11,Screened,1,#a6bddb,"",48,F,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-001,2015-06-12,Randomized,2,#3690c0,Screened,48,F,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-002,2015-10-26,Screened,1,#a6bddb,"",24,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-002,2015-12-13,Randomized,2,#3690c0,Screened,24,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-003,2015-09-26,Screened,1,#a6bddb,"",42,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-003,2015-11-18,Randomized,2,#3690c0,Screened,42,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-004,2015-10-29,Screened,1,#a6bddb,"",47,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-005,2015-06-06,Screened,1,#a6bddb,"",20,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-005,2015-07-30,Randomized,2,#3690c0,Screened,20,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-006,2015-10-15,Screened,1,#a6bddb,"",21,M,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-007,2015-07-07,Screened,1,#a6bddb,"",43,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-008,2015-10-12,Screened,1,#a6bddb,"",26,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-008,2015-11-29,Randomized,2,#3690c0,Screened,26,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-009,2015-12-16,Screened,1,#a6bddb,"",42,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-009,2016-02-06,Randomized,2,#3690c0,Screened,42,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-010,2015-02-06,Screened,1,#a6bddb,"",43,F,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-010,2015-04-01,Randomized,2,#3690c0,Screened,43,F,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-011,2015-02-04,Screened,1,#a6bddb,"",49,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-011,2015-04-01,Randomized,2,#3690c0,Screened,49,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-012,2015-04-18,Screened,1,#a6bddb,"",45,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-012,2015-06-11,Randomized,2,#3690c0,Screened,45,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-013,2015-10-22,Screened,1,#a6bddb,"",39,M,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-013,2015-12-21,Randomized,2,#3690c0,Screened,39,M,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-014,2015-07-01,Screened,1,#a6bddb,"",32,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-014,2015-08-30,Randomized,2,#3690c0,Screened,32,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-015,2015-01-11,Screened,1,#a6bddb,"",38,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-015,2015-03-11,Randomized,2,#3690c0,Screened,38,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-016,2015-06-15,Screened,1,#a6bddb,"",42,F,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-017,2015-07-03,Screened,1,#a6bddb,"",40,M,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-017,2015-08-27,Randomized,2,#3690c0,Screened,40,M,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-018,2015-12-14,Screened,1,#a6bddb,"",36,F,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-018,2016-02-09,Randomized,2,#3690c0,Screened,36,F,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-019,2015-05-13,Screened,1,#a6bddb,"",42,F,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-019,2015-07-14,Randomized,2,#3690c0,Screened,42,F,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-020,2015-04-21,Screened,1,#a6bddb,"",32,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-020,2015-06-13,Randomized,2,#3690c0,Screened,32,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-021,2015-01-20,Screened,1,#a6bddb,"",46,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-021,2015-03-18,Randomized,2,#3690c0,Screened,46,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-022,2015-01-10,Screened,1,#a6bddb,"",29,F,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-022,2015-03-05,Randomized,2,#3690c0,Screened,29,F,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-023,2015-08-15,Screened,1,#a6bddb,"",49,M,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-023,2015-10-10,Randomized,2,#3690c0,Screened,49,M,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-024,2015-11-17,Screened,1,#a6bddb,"",54,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-024,2016-01-07,Randomized,2,#3690c0,Screened,54,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-025,2015-02-28,Screened,1,#a6bddb,"",54,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-025,2015-04-23,Randomized,2,#3690c0,Screened,54,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-026,2015-01-26,Screened,1,#a6bddb,"",32,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-026,2015-03-22,Randomized,2,#3690c0,Screened,32,M,Black,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-027,2015-05-28,Screened,1,#a6bddb,"",28,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-027,2015-07-18,Randomized,2,#3690c0,Screened,28,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-028,2015-12-01,Screened,1,#a6bddb,"",42,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-028,2016-01-31,Randomized,2,#3690c0,Screened,42,M,Other/Mixed,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-029,2015-10-02,Screened,1,#a6bddb,"",35,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-029,2015-11-24,Randomized,2,#3690c0,Screened,35,M,White,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-030,2015-11-13,Screened,1,#a6bddb,"",23,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05
+05-030,2016-01-02,Randomized,2,#3690c0,Screened,23,F,Hispanic,Clinical Site 05,Site 05,"Clinical Site 05
+Activation date: 2015-01-01
+Accrual: 29 participants
+Target: 30 participants
+Accrual rate: 2.5 participants/month
+Target rate: 2.6 participants/month
+Accrued of target: 97%",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-01-03,367,135,11.1963555858311,150,12.4403950953678,90,Clinical Site 05

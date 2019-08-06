@@ -78,6 +78,35 @@
         "nCols": 5
     },
     {
+        "relPath": "./data/clinical-trials/data-dictionaries/sites.csv",
+        "path": "sites.csv",
+        "name": "sites",
+        "nRows": 5,
+        "cols": [
+            "site",
+            "site_id",
+            "site_abbreviation",
+            "site_info",
+            "site_accrual_start_date",
+            "site_accrual_end_date",
+            "site_accrual_duration",
+            "site_accrual",
+            "site_accrual_rate",
+            "site_target",
+            "site_target_rate",
+            "site_percent_accrued",
+            "accrual_start_date",
+            "accrual_end_date",
+            "accrual_duration",
+            "accrual",
+            "accrual_rate",
+            "target",
+            "target_rate",
+            "percent_accrued"
+        ],
+        "nCols": 20
+    },
+    {
         "relPath": "./data/clinical-trials/data-dictionaries/variable-metadata.csv",
         "path": "variable-metadata.csv",
         "name": "variable-metadata",

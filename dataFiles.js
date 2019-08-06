@@ -48,68 +48,68 @@ var dataFiles = [
         "cols": 5
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/adverse-events.csv",
-        "filename": "adverse-events.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-accrual-over-time.csv",
+        "filename": "dashboard-accrual-over-time.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/adverse-events.csv",
-        "rows": 765,
-        "cols": 5
-    },
-    {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/fields.csv",
-        "filename": "fields.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/fields.csv",
-        "rows": 55,
-        "cols": 3
-    },
-    {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/forms.csv",
-        "filename": "forms.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/forms.csv",
-        "rows": 11,
-        "cols": 2
-    },
-    {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/labs.csv",
-        "filename": "labs.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/labs.csv",
-        "rows": 16,
+        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-accrual-over-time.csv",
+        "rows": 6051,
         "cols": 6
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/medications.csv",
-        "filename": "medications.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-accrual.csv",
+        "filename": "dashboard-accrual.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/medications.csv",
-        "rows": 654,
-        "cols": 3
+        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-accrual.csv",
+        "rows": 263,
+        "cols": 13
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/schedule-of-events.csv",
-        "filename": "schedule-of-events.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-forms.csv",
+        "filename": "dashboard-forms.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv",
-        "rows": 8,
-        "cols": 5
+        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-forms.csv",
+        "rows": 3367,
+        "cols": 4
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/variable-metadata.csv",
-        "filename": "variable-metadata.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-queries.csv",
+        "filename": "dashboard-queries.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/variable-metadata.csv",
-        "rows": 103,
-        "cols": 10
+        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-queries.csv",
+        "rows": 809,
+        "cols": 4
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/vital-signs.csv",
-        "filename": "vital-signs.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-visit-completion.csv",
+        "filename": "dashboard-visit-completion.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-dictionaries/vital-signs.csv",
-        "rows": 27,
-        "cols": 7
+        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-visit-completion.csv",
+        "rows": 501,
+        "cols": 6
+    },
+    {
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/forms.csv",
+        "filename": "forms.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/forms.csv",
+        "rows": 23125,
+        "cols": 22
+    },
+    {
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/queries.csv",
+        "filename": "queries.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/queries.csv",
+        "rows": 5000,
+        "cols": 18
+    },
+    {
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/visits.csv",
+        "filename": "visits.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-cleaning/visits.csv",
+        "rows": 1202,
+        "cols": 17
     },
     {
         "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/adam/adae.csv",
@@ -224,68 +224,76 @@ var dataFiles = [
         "cols": 40
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv",
-        "filename": "dashboard-enrollment-over-time.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/adverse-events.csv",
+        "filename": "adverse-events.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv",
-        "rows": 1206,
-        "cols": 6
-    },
-    {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
-        "filename": "dashboard-enrollment.csv",
-        "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
-        "rows": 69,
+        "rel_path": "./data/clinical-trials/data-dictionaries/adverse-events.csv",
+        "rows": 765,
         "cols": 5
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-forms.csv",
-        "filename": "dashboard-forms.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/fields.csv",
+        "filename": "fields.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-forms.csv",
-        "rows": 3367,
-        "cols": 4
+        "rel_path": "./data/clinical-trials/data-dictionaries/fields.csv",
+        "rows": 55,
+        "cols": 3
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-queries.csv",
-        "filename": "dashboard-queries.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/forms.csv",
+        "filename": "forms.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-queries.csv",
-        "rows": 809,
-        "cols": 4
+        "rel_path": "./data/clinical-trials/data-dictionaries/forms.csv",
+        "rows": 11,
+        "cols": 2
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/dashboard-visit-completion.csv",
-        "filename": "dashboard-visit-completion.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/labs.csv",
+        "filename": "labs.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/dashboard-visit-completion.csv",
-        "rows": 501,
+        "rel_path": "./data/clinical-trials/data-dictionaries/labs.csv",
+        "rows": 16,
         "cols": 6
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/forms.csv",
-        "filename": "forms.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/medications.csv",
+        "filename": "medications.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/forms.csv",
-        "rows": 23125,
-        "cols": 22
+        "rel_path": "./data/clinical-trials/data-dictionaries/medications.csv",
+        "rows": 654,
+        "cols": 3
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/queries.csv",
-        "filename": "queries.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/schedule-of-events.csv",
+        "filename": "schedule-of-events.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/queries.csv",
-        "rows": 5000,
-        "cols": 18
+        "rel_path": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv",
+        "rows": 8,
+        "cols": 5
     },
     {
-        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-cleaning/visits.csv",
-        "filename": "visits.csv",
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/sites.csv",
+        "filename": "sites.csv",
         "ext": "csv",
-        "rel_path": "./data/clinical-trials/data-cleaning/visits.csv",
-        "rows": 1202,
-        "cols": 18
+        "rel_path": "./data/clinical-trials/data-dictionaries/sites.csv",
+        "rows": 5,
+        "cols": 20
+    },
+    {
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/vital-signs.csv",
+        "filename": "vital-signs.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/vital-signs.csv",
+        "rows": 27,
+        "cols": 7
+    },
+    {
+        "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/data-dictionaries/variable-metadata.csv",
+        "filename": "variable-metadata.csv",
+        "ext": "csv",
+        "rel_path": "./data/clinical-trials/data-dictionaries/variable-metadata.csv",
+        "rows": 103,
+        "cols": 10
     },
     {
         "local_path": "C:/Users/schildre/GitHub/data-library/data/clinical-trials/sdtm/ae.csv",

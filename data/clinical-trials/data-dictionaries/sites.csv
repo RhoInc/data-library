@@ -1,0 +1,36 @@
+site,site_id,site_abbreviation,site_info,site_accrual_start_date,site_accrual_end_date,site_accrual_duration,site_accrual,site_accrual_rate,site_target,site_target_rate,site_percent_accrued,accrual_start_date,accrual_end_date,accrual_duration,accrual,accrual_rate,target,target_rate,percent_accrued
+Clinical Site 01,01,Site 01,"Clinical Site 01
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",2015-01-01,2015-12-26,359,26,2.20438718662953,30,2.54352367688022,86.6666666666667,2015-01-01,2016-02-24,419,135,9.80683174224344,150,10.8964797136038,90
+Clinical Site 02,02,Site 02,"Clinical Site 02
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",2015-02-11,2016-01-03,326,25,2.33416411042945,30,2.80099693251534,83.3333333333333,2015-01-01,2016-02-24,419,135,9.80683174224344,150,10.8964797136038,90
+Clinical Site 03,03,Site 03,"Clinical Site 03
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",2015-02-01,2015-12-08,310,29,2.84737903225807,30,2.94556451612903,96.6666666666667,2015-01-01,2016-02-24,419,135,9.80683174224344,150,10.8964797136038,90
+Clinical Site 04,04,Site 04,"Clinical Site 04
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",2015-01-08,2015-12-31,357,26,2.21673669467787,30,2.5577731092437,86.6666666666667,2015-01-01,2016-02-24,419,135,9.80683174224344,150,10.8964797136038,90
+Clinical Site 05,05,Site 05,"Clinical Site 05
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",2015-01-05,2015-12-21,350,29,2.52196428571429,30,2.60892857142857,96.6666666666667,2015-01-01,2016-02-24,419,135,9.80683174224344,150,10.8964797136038,90

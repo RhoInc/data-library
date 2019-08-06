@@ -5,6 +5,7 @@ set.seed(2357)
 ### Input data
     dm <- read.csv('../../sdtm/dm.csv', colClasses = 'character')
     sv <- read.csv('../../sdtm/sv.csv', colClasses = 'character')
+    scheduleOfEvents <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character')
 
 ### Encodings
     visit_metadata <- list(
@@ -51,12 +52,17 @@ set.seed(2357)
         left_join(
             select(dm, USUBJID, SITE, SBJTSTAT, SAFFL),
             by = 'USUBJID'
+        )  %>%
+        left_join(
+            select(scheduleOfEvents, VISIT, VISITOID),
+            by = 'VISIT'
         ) %>%
         rename(
             subjectnameoridentifier = USUBJID,
             site_name = SITE,
             subject_status = SBJTSTAT,
             visit_name = VISIT,
+            visit_abbreviation = VISITOID,
             visit_number = VISITNUM,
             visit_date = SVDT,
             visit_day = SVDY,
@@ -85,6 +91,12 @@ set.seed(2357)
     overdue2 <- unique(pull(filter(overdueVisits, nOverdue > 1), subjectnameoridentifier))
     visits1 <- visits %>%
         mutate(
+            visit_abbreviation = case_when(
+                visit_abbreviation != '' ~ visit_abbreviation,
+                grepl('^Unscheduled', visit_name) ~ paste0('UNS', word(visit_name, 2)),
+                visit_name == 'Early Termination' ~ 'ET',
+                TRUE ~ '???'
+            ),
             visit_text = case_when(
                 visit_status %in% c('Expected', 'Overdue') ~ visit_date,
                 TRUE ~ visit_status
@@ -100,6 +112,7 @@ set.seed(2357)
             subjectnameoridentifier,
             subject_status,
             visit_name,
+            visit_abbreviation,
             visit_number,
             visit_date,
             visit_day,

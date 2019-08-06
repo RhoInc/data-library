@@ -1,9 +1,15 @@
 rm(list = ls())
+library(data.table)
 library(tidyverse)
 set.seed(2357)
 
-### Input data
-    scheduleOfEvents <- read.csv('../../data-dictionaries/schedule-of-events.csv', colClasses = 'character')
+# input data
+scheduleOfEvents <- '../../data-dictionaries/schedule-of-events.csv' %>%
+    fread(
+        sep = ',',
+        na.strings = '',
+        colClasses = 'character'
+    )
     endOfStudy <- scheduleOfEvents[scheduleOfEvents$VISIT == 'End of Study',]
     EOSBounds <- c(
         as.numeric(endOfStudy[1,'STDY']),
@@ -33,7 +39,7 @@ set.seed(2357)
             ) %>%
             mutate(
                 usubjid = paste0(siteid, '-', subjid),
-                site = paste('Site', siteid, sep = ' ')
+                site = paste('Clinical Site', siteid, sep = ' ')
             ) %>% 
             sample_n(size = n)
         ) %>%
@@ -84,10 +90,11 @@ set.seed(2357)
         select(usubjid, site, siteid, age, sex, race, arm, armcd, sbjtstat, rfstdtc, rfendtc, rfendy, saffl, saffn) %>%
         arrange(usubjid)
     names(dm1) <- toupper(names(dm1))
-dm1 %>% select(SITE, SITEID, RFSTDTC, RFENDTC) %>% group_by(SITE, SITEID) %>% summarize(stdt = min(RFSTDTC), endt = max(RFENDTC))
-### Output data
-    write.csv(
-        dm1,
-        '../dm.csv',
-        row.names = F
+
+# output data
+dm1 %>%
+    fwrite(
+        '../../sdtm/dm.csv',
+        na = '',
+        row.names = FALSE
     )

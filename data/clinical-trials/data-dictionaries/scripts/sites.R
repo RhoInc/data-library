@@ -1,5 +1,6 @@
 library(data.table)
 library(tidyverse)
+library(lubridate)
 
 # input data
 dm <- '../../sdtm/dm.csv' %>%
@@ -8,15 +9,31 @@ dm <- '../../sdtm/dm.csv' %>%
         na.strings = '',
         colClasses = 'character'
     )
+sv <- '../../sdtm/sv.csv' %>%
+    fread(
+        sep = ',',
+        na.strings = '',
+        colClasses = 'character'
+    )
 
 # data manipulation
+randomized <- sv %>%
+    filter(
+        VISIT == 'Visit 1' & SVSTATUS == 'Completed'
+    )
+snapshot_date <- max(ymd(randomized$SVDT))
+
 sites <- dm %>%
-    select(SITE, SITEID, RFSTDTC, RFENDTC, SAFFL) %>%
-    group_by(SITE, SITEID) %>%
+    select(
+        SITE, SITEID, RFSTDTC, RFENDTC, SAFFL
+    ) %>%
+    group_by(
+        SITE, SITEID
+    ) %>%
     summarize(
-        site_activation_date = min(as.Date(RFSTDTC, '%Y-%m-%d')) - 5,
-        site_completion_date = max(as.Date(RFSTDTC, '%Y-%m-%d')) + 5,
-        site_accrual_duration = as.numeric(site_completion_date - site_activation_date),
+        site_accrual_start_date = min(as.Date(RFSTDTC, '%Y-%m-%d')) - 5,
+        site_accrual_end_date = max(as.Date(RFSTDTC, '%Y-%m-%d')) + 5,
+        site_accrual_duration = as.numeric(site_accrual_end_date - site_accrual_start_date),
 
         # actual accrual
         site_accrual = sum(SAFFL == 'Y'),
@@ -32,11 +49,11 @@ sites <- dm %>%
 
         site_percent_accrued = site_accrual/site_target*100
     ) %>%
-    ungroup() %>%
+    ungroup %>%
     mutate(
-        activation_date = min(site_activation_date),
-        completion_date = max(site_completion_date),
-        accrual_duration = as.numeric(completion_date - activation_date),
+        accrual_start_date = min(site_accrual_start_date),
+        accrual_end_date = snapshot_date,
+        accrual_duration = as.numeric(accrual_end_date - accrual_start_date),
 
         # actual accrual
         accrual = sum(site_accrual),
@@ -52,10 +69,11 @@ sites <- dm %>%
 
         percent_accrued = accrual/target*100,
 
-        site = paste0('Clinical ', SITE),
+        site = SITE,
+        site_abbreviation = sub('Clinical ', '', SITE),
         site_info = paste(
             site,
-            paste0('Activation date: ', as.character(activation_date)),
+            paste0('Activation date: ', as.character(site_accrual_start_date)),
             paste0('Accrual: ', as.character(site_accrual), ' participants'),
             paste0('Target: ', as.character(site_target), ' participants'),
             paste0('Accrual rate: ', as.character(round(site_accrual_rate_months, 1)), ' participants/month'),
@@ -65,7 +83,6 @@ sites <- dm %>%
         )
     ) %>%
     rename(
-        site_abbreviation = SITE,
         site_id = SITEID,
         site_accrual_rate = site_accrual_rate_months,
         site_target_rate = site_target_rate_months,
@@ -74,8 +91,8 @@ sites <- dm %>%
     ) %>%
     select(
         site, site_id, site_abbreviation, site_info,
-        site_activation_date, site_completion_date, site_accrual_duration, site_accrual, site_accrual_rate, site_target, site_target_rate, site_percent_accrued,
-             activation_date,      completion_date,      accrual_duration,      accrual,      accrual_rate,      target,      target_rate,      percent_accrued
+        site_accrual_start_date, site_accrual_end_date, site_accrual_duration, site_accrual, site_accrual_rate, site_target, site_target_rate, site_percent_accrued,
+             accrual_start_date,      accrual_end_date,      accrual_duration,      accrual,      accrual_rate,      target,      target_rate,      percent_accrued
     )
 
 # output data

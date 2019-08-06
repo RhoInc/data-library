@@ -60,24 +60,21 @@ sites <- '../../data-dictionaries/sites.csv' %>%
     accrual <- screened %>%
         rbind(randomized) %>%
         left_join(
-            dm,
+            dm %>% select(USUBJID, SITEID, AGE, SEX, RACE, ARM),
             by = c('subjid' = 'USUBJID')
         ) %>%
         left_join(
-            sites,
+            sites %>% select(site, site_id, site_abbreviation, site_info),
             by = c('SITEID' = 'site_id')
         ) %>%
         select(
-            -SITE, -ARM, -ARMCD, -SBJTSTAT, -RFSTDTC, -RFENDTC, -RFENDY, -SAFFL, -SAFFN
+            subjid, population, population_order, population_color, population_superset, date, site, site_abbreviation, site_info, ARM, AGE, SEX, RACE
         ) %>%
         rename(
-            site_id = SITEID,
-            age = AGE,
-            sex = SEX,
-            race = RACE
-        ) %>%
-        mutate(
-            `filter:Site` = site
+            `filter:Arm` = ARM,
+            `listing:Age` = AGE,
+            `listing:Sex` = SEX,
+            `listing:Race` = RACE
         ) %>%
         arrange(
             subjid, population_order

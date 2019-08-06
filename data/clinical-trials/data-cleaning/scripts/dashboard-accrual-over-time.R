@@ -28,10 +28,10 @@ sites <- '../../data-dictionaries/sites.csv' %>%
             target_rate = as.numeric(site_target)/as.numeric(site_accrual_duration)
         ) %>%
         group_by(
-            population, population_order, population_color, population_superset, site, site_id, site_abbreviation, site_activation_date, site_completion_date, target_rate
+            population, population_order, population_color, population_superset, site, site_abbreviation, site_accrual_start_date, accrual_end_date, target_rate
         ) %>%
         do(data.frame(
-            date = seq(ymd(.$site_activation_date), ymd(.$site_completion_date), by = '1 day'),
+            date = seq(ymd(.$site_accrual_start_date), ymd(.$accrual_end_date), by = '1 day'),
             stringsAsFactors = FALSE
         )) %>%
         mutate(
@@ -39,7 +39,7 @@ sites <- '../../data-dictionaries/sites.csv' %>%
         ) %>%
         ungroup() %>%
         select(
-            -site_activation_date, -site_completion_date, -target_rate
+            -site_accrual_start_date, -accrual_end_date, -target_rate
         ) %>%
         mutate(
             date = as.character(date)
@@ -86,9 +86,9 @@ sites <- '../../data-dictionaries/sites.csv' %>%
             )
 
     # count participants by date, population, and site
-    participant_counts <- accrual %>%
+    participantCounts <- accrual %>%
         group_by(
-            date, population, population_order, population_color, population_superset, site, site_id, site_abbreviation
+            population, population_order, population_color, population_superset, date, site, site_abbreviation
         ) %>%
         summarize(
             participant_count = n()
@@ -99,7 +99,7 @@ sites <- '../../data-dictionaries/sites.csv' %>%
     accrualOverTime <- screened1 %>%
         rbind(randomized1) %>%
         left_join(
-            participant_counts
+            participantCounts
         ) %>%
         mutate(
             participant_count = ifelse(
@@ -109,14 +109,22 @@ sites <- '../../data-dictionaries/sites.csv' %>%
             )
         ) %>%
         group_by(
-            population, population_order, population_color, population_superset, site, site_id, site_abbreviation
+            population, population_order, population_color, population_superset, site, site_abbreviation
         ) %>%
         mutate(
             participant_count = cumsum(participant_count) # cumulatively sum participant counts by population and site
         ) %>%
-        ungroup() %>%
+        ungroup %>%
         rbind(target) %>%
-        arrange(site_id, date, population_order)
+        arrange(
+            site, date, population_order
+        ) %>%
+        select(
+            date, population, population_order, population_color, population_superset, participant_count, site, site_abbreviation
+        ) %>%
+        rename(
+            `filter:Site` = site_abbreviation
+        )
 
 # output data
 accrualOverTime %>%

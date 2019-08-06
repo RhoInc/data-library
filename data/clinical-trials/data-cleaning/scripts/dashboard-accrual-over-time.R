@@ -117,13 +117,10 @@ sites <- '../../data-dictionaries/sites.csv' %>%
         ungroup %>%
         rbind(target) %>%
         arrange(
-            site, date, population_order
+            site, population_order, date
         ) %>%
         select(
-            date, population, population_order, population_color, population_superset, participant_count, site, site_abbreviation
-        ) %>%
-        rename(
-            `filter:Site` = site_abbreviation
+            site, population, population_order, population_color, date, participant_count
         )
 
 # output data

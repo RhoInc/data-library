@@ -1,1842 +1,1842 @@
 subjid,population,population_order,population_color,population_superset,date,site,site_abbreviation,site_info,filter:Arm,listing:Age,listing:Sex,listing:Race
 01-001,Screened,1,#a6bddb,"",2015-05-21,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,30,F,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,30,F,Other/Mixed
 01-002,Screened,1,#a6bddb,"",2015-05-30,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,24,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,24,F,Black
 01-002,Randomized,2,#3690c0,Screened,2015-07-29,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,24,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,24,F,Black
 01-003,Screened,1,#a6bddb,"",2015-08-13,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,43,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,43,F,Hispanic
 01-003,Randomized,2,#3690c0,Screened,2015-10-04,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,43,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,43,F,Hispanic
 01-004,Screened,1,#a6bddb,"",2015-01-12,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,42,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,42,F,Hispanic
 01-004,Randomized,2,#3690c0,Screened,2015-03-02,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,42,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,42,F,Hispanic
 01-005,Screened,1,#a6bddb,"",2015-11-11,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,51,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,51,M,White
 01-005,Randomized,2,#3690c0,Screened,2016-01-01,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,51,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,51,M,White
 01-006,Screened,1,#a6bddb,"",2015-05-12,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Screen Failure,23,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Screen Failure,23,M,White
 01-007,Screened,1,#a6bddb,"",2015-09-10,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Screen Failure,20,M,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Screen Failure,20,M,Other/Mixed
 01-008,Screened,1,#a6bddb,"",2015-11-21,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,53,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,53,F,Black
 01-009,Screened,1,#a6bddb,"",2015-11-25,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,44,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,44,M,White
 01-009,Randomized,2,#3690c0,Screened,2016-01-24,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,44,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,44,M,White
 01-010,Screened,1,#a6bddb,"",2015-01-06,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,35,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,35,F,Black
 01-010,Randomized,2,#3690c0,Screened,2015-02-23,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,35,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,35,F,Black
 01-011,Screened,1,#a6bddb,"",2015-10-04,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,33,F,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,33,F,Other/Mixed
 01-011,Randomized,2,#3690c0,Screened,2015-11-30,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,33,F,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,33,F,Other/Mixed
 01-012,Screened,1,#a6bddb,"",2015-04-18,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,36,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,36,M,White
 01-012,Randomized,2,#3690c0,Screened,2015-06-06,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,36,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,36,M,White
 01-013,Screened,1,#a6bddb,"",2015-07-15,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,40,F,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,40,F,White
 01-013,Randomized,2,#3690c0,Screened,2015-09-11,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,40,F,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,40,F,White
 01-014,Screened,1,#a6bddb,"",2015-07-24,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,37,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,37,M,Black
 01-014,Randomized,2,#3690c0,Screened,2015-09-17,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,37,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,37,M,Black
 01-015,Screened,1,#a6bddb,"",2015-04-28,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,26,M,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,26,M,Hispanic
 01-015,Randomized,2,#3690c0,Screened,2015-06-15,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,26,M,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,26,M,Hispanic
 01-016,Screened,1,#a6bddb,"",2015-12-21,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,18,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,18,M,Black
 01-016,Randomized,2,#3690c0,Screened,2016-02-09,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,18,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,18,M,Black
 01-017,Screened,1,#a6bddb,"",2015-02-12,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,40,M,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,40,M,Hispanic
 01-017,Randomized,2,#3690c0,Screened,2015-04-04,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,40,M,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,40,M,Hispanic
 01-018,Screened,1,#a6bddb,"",2015-02-13,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,29,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,29,F,Hispanic
 01-018,Randomized,2,#3690c0,Screened,2015-04-04,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,29,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,29,F,Hispanic
 01-019,Screened,1,#a6bddb,"",2015-04-24,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,47,M,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,47,M,Other/Mixed
 01-019,Randomized,2,#3690c0,Screened,2015-06-15,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,47,M,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,47,M,Other/Mixed
 01-020,Screened,1,#a6bddb,"",2015-06-17,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Screen Failure,27,M,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Screen Failure,27,M,Hispanic
 01-021,Screened,1,#a6bddb,"",2015-10-04,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,23,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,23,F,Black
 01-022,Screened,1,#a6bddb,"",2015-10-01,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,27,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,27,F,Black
 01-022,Randomized,2,#3690c0,Screened,2015-11-28,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,27,F,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,27,F,Black
 01-023,Screened,1,#a6bddb,"",2015-03-29,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,48,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,48,M,Black
 01-023,Randomized,2,#3690c0,Screened,2015-05-22,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,48,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,48,M,Black
 01-024,Screened,1,#a6bddb,"",2015-04-23,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,24,F,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,24,F,Other/Mixed
 01-024,Randomized,2,#3690c0,Screened,2015-06-10,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,24,F,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,24,F,Other/Mixed
 01-025,Screened,1,#a6bddb,"",2015-06-22,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,21,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,21,M,White
 01-025,Randomized,2,#3690c0,Screened,2015-08-15,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,21,M,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,21,M,White
 01-026,Screened,1,#a6bddb,"",2015-02-19,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,25,F,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,25,F,White
 01-026,Randomized,2,#3690c0,Screened,2015-04-09,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment A,25,F,White
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment A,25,F,White
 01-027,Screened,1,#a6bddb,"",2015-06-01,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,40,F,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,40,F,Other/Mixed
 01-027,Randomized,2,#3690c0,Screened,2015-07-26,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,40,F,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,40,F,Other/Mixed
 01-028,Screened,1,#a6bddb,"",2015-11-12,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,21,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,21,F,Hispanic
 01-028,Randomized,2,#3690c0,Screened,2016-01-02,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Treatment B,21,F,Hispanic
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Treatment B,21,F,Hispanic
 01-029,Screened,1,#a6bddb,"",2015-06-10,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,50,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,50,M,Black
 01-029,Randomized,2,#3690c0,Screened,2015-08-06,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Placebo,50,M,Black
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Placebo,50,M,Black
 01-030,Screened,1,#a6bddb,"",2015-01-18,Clinical Site 01,Site 01,"Clinical Site 01
-Activation date: 2015-01-01
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.5 participants/month
-Accrued of target: 87%",Screen Failure,25,M,Other/Mixed
+ - Activation date: 2015-01-01
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.5 participants/month",Screen Failure,25,M,Other/Mixed
 02-001,Screened,1,#a6bddb,"",2015-12-11,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Screen Failure,20,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Screen Failure,20,M,White
 02-002,Screened,1,#a6bddb,"",2015-03-16,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,42,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,42,F,White
 02-002,Randomized,2,#3690c0,Screened,2015-05-16,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,42,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,42,F,White
 02-003,Screened,1,#a6bddb,"",2015-04-27,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,27,F,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,27,F,Hispanic
 02-003,Randomized,2,#3690c0,Screened,2015-06-26,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,27,F,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,27,F,Hispanic
 02-004,Screened,1,#a6bddb,"",2015-09-30,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,21,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,21,F,White
 02-005,Screened,1,#a6bddb,"",2015-12-13,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,18,M,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,18,M,Hispanic
 02-005,Randomized,2,#3690c0,Screened,2016-02-10,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,18,M,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,18,M,Hispanic
 02-006,Screened,1,#a6bddb,"",2015-06-03,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,36,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,36,M,White
 02-006,Randomized,2,#3690c0,Screened,2015-08-01,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,36,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,36,M,White
 02-007,Screened,1,#a6bddb,"",2015-09-01,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Screen Failure,31,M,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Screen Failure,31,M,Hispanic
 02-008,Screened,1,#a6bddb,"",2015-08-17,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,21,F,Other/Mixed
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,21,F,Other/Mixed
 02-008,Randomized,2,#3690c0,Screened,2015-10-12,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,21,F,Other/Mixed
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,21,F,Other/Mixed
 02-009,Screened,1,#a6bddb,"",2015-12-13,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,27,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,27,F,Black
 02-009,Randomized,2,#3690c0,Screened,2016-02-04,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,27,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,27,F,Black
 02-010,Screened,1,#a6bddb,"",2015-07-26,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,36,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,36,F,White
 02-010,Randomized,2,#3690c0,Screened,2015-09-13,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,36,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,36,F,White
 02-011,Screened,1,#a6bddb,"",2015-10-08,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,40,F,Other/Mixed
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,40,F,Other/Mixed
 02-012,Screened,1,#a6bddb,"",2015-09-30,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,37,F,Other/Mixed
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,37,F,Other/Mixed
 02-012,Randomized,2,#3690c0,Screened,2015-11-26,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,37,F,Other/Mixed
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,37,F,Other/Mixed
 02-013,Screened,1,#a6bddb,"",2015-12-29,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,32,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,32,M,White
 02-013,Randomized,2,#3690c0,Screened,2016-02-24,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,32,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,32,M,White
 02-014,Screened,1,#a6bddb,"",2015-04-13,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,19,F,Other/Mixed
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,19,F,Other/Mixed
 02-014,Randomized,2,#3690c0,Screened,2015-06-05,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,19,F,Other/Mixed
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,19,F,Other/Mixed
 02-015,Screened,1,#a6bddb,"",2015-02-24,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,29,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,29,M,White
 02-016,Screened,1,#a6bddb,"",2015-10-24,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Screen Failure,25,M,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Screen Failure,25,M,Hispanic
 02-017,Screened,1,#a6bddb,"",2015-04-06,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,33,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,33,M,White
 02-017,Randomized,2,#3690c0,Screened,2015-06-03,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,33,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,33,M,White
 02-018,Screened,1,#a6bddb,"",2015-11-23,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,19,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,19,F,White
 02-018,Randomized,2,#3690c0,Screened,2016-01-16,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,19,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,19,F,White
 02-019,Screened,1,#a6bddb,"",2015-02-16,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,49,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,49,F,Black
 02-019,Randomized,2,#3690c0,Screened,2015-04-06,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,49,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,49,F,Black
 02-020,Screened,1,#a6bddb,"",2015-07-14,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,23,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,23,F,White
 02-020,Randomized,2,#3690c0,Screened,2015-09-03,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,23,F,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,23,F,White
 02-021,Screened,1,#a6bddb,"",2015-10-01,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,53,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,53,F,Black
 02-022,Screened,1,#a6bddb,"",2015-12-27,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,30,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,30,M,White
 02-023,Screened,1,#a6bddb,"",2015-12-06,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,45,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,45,F,Black
 02-023,Randomized,2,#3690c0,Screened,2016-02-03,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,45,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,45,F,Black
 02-024,Screened,1,#a6bddb,"",2015-02-28,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,45,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,45,M,White
 02-024,Randomized,2,#3690c0,Screened,2015-04-27,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment A,45,M,White
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment A,45,M,White
 02-025,Screened,1,#a6bddb,"",2015-08-04,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Screen Failure,36,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Screen Failure,36,F,Black
 02-026,Screened,1,#a6bddb,"",2015-04-03,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,27,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,27,F,Black
 02-026,Randomized,2,#3690c0,Screened,2015-05-21,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,27,F,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,27,F,Black
 02-027,Screened,1,#a6bddb,"",2015-03-08,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,36,F,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,36,F,Hispanic
 02-027,Randomized,2,#3690c0,Screened,2015-04-25,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Treatment B,36,F,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Treatment B,36,F,Hispanic
 02-028,Screened,1,#a6bddb,"",2015-04-25,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,29,M,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,29,M,Hispanic
 02-028,Randomized,2,#3690c0,Screened,2015-06-18,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,29,M,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,29,M,Hispanic
 02-029,Screened,1,#a6bddb,"",2015-04-26,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,47,M,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,47,M,Black
 02-029,Randomized,2,#3690c0,Screened,2015-06-17,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Placebo,47,M,Black
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Placebo,47,M,Black
 02-030,Screened,1,#a6bddb,"",2015-12-11,Clinical Site 02,Site 02,"Clinical Site 02
-Activation date: 2015-02-11
-Accrual: 25 participants
-Target: 30 participants
-Accrual rate: 2.3 participants/month
-Target rate: 2.8 participants/month
-Accrued of target: 83%",Screen Failure,41,M,Hispanic
+ - Activation date: 2015-02-11
+ - Accrual: 25 participants
+ - Target: 30 participants
+ - Accrued of target: 83%
+ - Accrual rate: 2.3 participants/month
+ - Target rate: 2.8 participants/month",Screen Failure,41,M,Hispanic
 03-001,Screened,1,#a6bddb,"",2015-04-24,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,43,F,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,43,F,Hispanic
 03-002,Screened,1,#a6bddb,"",2015-09-02,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,27,F,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,27,F,White
 03-002,Randomized,2,#3690c0,Screened,2015-10-31,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,27,F,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,27,F,White
 03-003,Screened,1,#a6bddb,"",2015-05-26,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,42,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,42,M,Black
 03-003,Randomized,2,#3690c0,Screened,2015-07-17,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,42,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,42,M,Black
 03-004,Screened,1,#a6bddb,"",2015-12-03,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,19,F,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,19,F,Hispanic
 03-004,Randomized,2,#3690c0,Screened,2016-02-01,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,19,F,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,19,F,Hispanic
 03-005,Screened,1,#a6bddb,"",2015-04-15,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,48,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,48,M,Hispanic
 03-005,Randomized,2,#3690c0,Screened,2015-06-14,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,48,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,48,M,Hispanic
 03-006,Screened,1,#a6bddb,"",2015-05-24,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,52,M,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,52,M,Other/Mixed
 03-006,Randomized,2,#3690c0,Screened,2015-07-13,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,52,M,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,52,M,Other/Mixed
 03-007,Screened,1,#a6bddb,"",2015-08-18,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,49,F,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,49,F,Other/Mixed
 03-007,Randomized,2,#3690c0,Screened,2015-10-11,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,49,F,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,49,F,Other/Mixed
 03-008,Screened,1,#a6bddb,"",2015-03-08,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,46,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,46,M,Black
 03-008,Randomized,2,#3690c0,Screened,2015-04-25,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,46,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,46,M,Black
 03-009,Screened,1,#a6bddb,"",2015-11-15,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,28,F,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,28,F,White
 03-009,Randomized,2,#3690c0,Screened,2016-01-04,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,28,F,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,28,F,White
 03-010,Screened,1,#a6bddb,"",2015-02-07,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,40,M,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,40,M,White
 03-010,Randomized,2,#3690c0,Screened,2015-04-06,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,40,M,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,40,M,White
 03-011,Screened,1,#a6bddb,"",2015-11-16,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,43,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,43,M,Black
 03-011,Randomized,2,#3690c0,Screened,2016-01-04,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,43,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,43,M,Black
 03-012,Screened,1,#a6bddb,"",2015-08-19,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,32,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,32,M,Black
 03-012,Randomized,2,#3690c0,Screened,2015-10-13,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,32,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,32,M,Black
 03-013,Screened,1,#a6bddb,"",2015-10-28,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,33,M,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,33,M,Other/Mixed
 03-013,Randomized,2,#3690c0,Screened,2015-12-21,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,33,M,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,33,M,Other/Mixed
 03-014,Screened,1,#a6bddb,"",2015-02-06,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,53,F,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,53,F,Black
 03-015,Screened,1,#a6bddb,"",2015-07-21,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,24,F,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,24,F,Black
 03-015,Randomized,2,#3690c0,Screened,2015-09-17,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,24,F,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,24,F,Black
 03-016,Screened,1,#a6bddb,"",2015-05-04,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,20,F,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,20,F,White
 03-017,Screened,1,#a6bddb,"",2015-06-26,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,43,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,43,M,Black
 03-017,Randomized,2,#3690c0,Screened,2015-08-14,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,43,M,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,43,M,Black
 03-018,Screened,1,#a6bddb,"",2015-05-30,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,19,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,19,M,Hispanic
 03-018,Randomized,2,#3690c0,Screened,2015-07-20,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,19,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,19,M,Hispanic
 03-019,Screened,1,#a6bddb,"",2015-11-06,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,18,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,18,M,Hispanic
 03-019,Randomized,2,#3690c0,Screened,2016-01-05,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,18,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,18,M,Hispanic
 03-020,Screened,1,#a6bddb,"",2015-08-09,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,50,M,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,50,M,White
 03-020,Randomized,2,#3690c0,Screened,2015-09-27,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,50,M,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,50,M,White
 03-021,Screened,1,#a6bddb,"",2015-09-21,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,18,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,18,M,Hispanic
 03-021,Randomized,2,#3690c0,Screened,2015-11-12,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment A,18,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment A,18,M,Hispanic
 03-022,Screened,1,#a6bddb,"",2015-05-14,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,49,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,49,M,Hispanic
 03-022,Randomized,2,#3690c0,Screened,2015-07-02,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,49,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,49,M,Hispanic
 03-023,Screened,1,#a6bddb,"",2015-03-25,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,52,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,52,M,Hispanic
 03-024,Screened,1,#a6bddb,"",2015-03-16,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Screen Failure,27,F,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Screen Failure,27,F,White
 03-025,Screened,1,#a6bddb,"",2015-04-29,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,53,F,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,53,F,Black
 03-025,Randomized,2,#3690c0,Screened,2015-06-24,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,53,F,Black
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,53,F,Black
 03-026,Screened,1,#a6bddb,"",2015-10-08,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,18,M,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,18,M,White
 03-027,Screened,1,#a6bddb,"",2015-05-10,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,37,F,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,37,F,Other/Mixed
 03-028,Screened,1,#a6bddb,"",2015-03-08,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,37,F,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,37,F,Other/Mixed
 03-028,Randomized,2,#3690c0,Screened,2015-05-02,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,37,F,Other/Mixed
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,37,F,Other/Mixed
 03-029,Screened,1,#a6bddb,"",2015-06-03,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,26,M,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,26,M,White
 03-029,Randomized,2,#3690c0,Screened,2015-07-31,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Placebo,26,M,White
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Placebo,26,M,White
 03-030,Screened,1,#a6bddb,"",2015-03-30,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,18,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,18,M,Hispanic
 03-030,Randomized,2,#3690c0,Screened,2015-05-29,Clinical Site 03,Site 03,"Clinical Site 03
-Activation date: 2015-02-01
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.8 participants/month
-Target rate: 2.9 participants/month
-Accrued of target: 97%",Treatment B,18,M,Hispanic
+ - Activation date: 2015-02-01
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.8 participants/month
+ - Target rate: 2.9 participants/month",Treatment B,18,M,Hispanic
 04-001,Screened,1,#a6bddb,"",2015-02-11,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Screen Failure,21,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Screen Failure,21,M,Hispanic
 04-002,Screened,1,#a6bddb,"",2015-06-19,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,54,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,54,F,White
 04-002,Randomized,2,#3690c0,Screened,2015-08-15,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,54,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,54,F,White
 04-003,Screened,1,#a6bddb,"",2015-11-17,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,25,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,25,M,Other/Mixed
 04-004,Screened,1,#a6bddb,"",2015-08-03,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,39,M,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,39,M,Black
 04-004,Randomized,2,#3690c0,Screened,2015-09-28,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,39,M,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,39,M,Black
 04-005,Screened,1,#a6bddb,"",2015-08-17,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,42,M,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,42,M,White
 04-005,Randomized,2,#3690c0,Screened,2015-10-15,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,42,M,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,42,M,White
 04-006,Screened,1,#a6bddb,"",2015-10-31,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Screen Failure,29,M,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Screen Failure,29,M,White
 04-007,Screened,1,#a6bddb,"",2015-04-15,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,24,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,24,M,Hispanic
 04-007,Randomized,2,#3690c0,Screened,2015-06-07,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,24,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,24,M,Hispanic
 04-008,Screened,1,#a6bddb,"",2015-04-10,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,31,F,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,31,F,Black
 04-008,Randomized,2,#3690c0,Screened,2015-06-02,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,31,F,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,31,F,Black
 04-009,Screened,1,#a6bddb,"",2015-01-22,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,39,F,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,39,F,Hispanic
 04-009,Randomized,2,#3690c0,Screened,2015-03-21,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,39,F,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,39,F,Hispanic
 04-010,Screened,1,#a6bddb,"",2015-12-14,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,18,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,18,F,White
 04-010,Randomized,2,#3690c0,Screened,2016-02-11,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,18,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,18,F,White
 04-011,Screened,1,#a6bddb,"",2015-10-16,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,48,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,48,M,Other/Mixed
 04-011,Randomized,2,#3690c0,Screened,2015-12-09,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,48,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,48,M,Other/Mixed
 04-012,Screened,1,#a6bddb,"",2015-06-26,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,33,M,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,33,M,Black
 04-012,Randomized,2,#3690c0,Screened,2015-08-23,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,33,M,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,33,M,Black
 04-013,Screened,1,#a6bddb,"",2015-04-22,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,19,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,19,M,Hispanic
 04-013,Randomized,2,#3690c0,Screened,2015-06-18,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,19,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,19,M,Hispanic
 04-014,Screened,1,#a6bddb,"",2015-05-14,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,36,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,36,M,Other/Mixed
 04-014,Randomized,2,#3690c0,Screened,2015-07-06,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,36,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,36,M,Other/Mixed
 04-015,Screened,1,#a6bddb,"",2015-11-26,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,40,F,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,40,F,Hispanic
 04-015,Randomized,2,#3690c0,Screened,2016-01-25,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,40,F,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,40,F,Hispanic
 04-016,Screened,1,#a6bddb,"",2015-04-27,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,40,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,40,M,Hispanic
 04-016,Randomized,2,#3690c0,Screened,2015-06-17,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,40,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,40,M,Hispanic
 04-017,Screened,1,#a6bddb,"",2015-01-26,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Screen Failure,42,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Screen Failure,42,M,Other/Mixed
 04-018,Screened,1,#a6bddb,"",2015-06-13,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Screen Failure,26,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Screen Failure,26,F,White
 04-019,Screened,1,#a6bddb,"",2015-01-20,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,55,F,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,55,F,Other/Mixed
 04-019,Randomized,2,#3690c0,Screened,2015-03-12,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,55,F,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,55,F,Other/Mixed
 04-020,Screened,1,#a6bddb,"",2015-09-14,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,24,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,24,F,White
 04-021,Screened,1,#a6bddb,"",2015-06-20,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,21,M,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,21,M,White
 04-022,Screened,1,#a6bddb,"",2015-12-26,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,54,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,54,F,White
 04-022,Randomized,2,#3690c0,Screened,2016-02-20,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,54,F,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,54,F,White
 04-023,Screened,1,#a6bddb,"",2015-10-04,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,21,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,21,M,Hispanic
 04-023,Randomized,2,#3690c0,Screened,2015-11-25,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,21,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,21,M,Hispanic
 04-024,Screened,1,#a6bddb,"",2015-05-05,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,26,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,26,M,Other/Mixed
 04-024,Randomized,2,#3690c0,Screened,2015-06-29,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,26,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,26,M,Other/Mixed
 04-025,Screened,1,#a6bddb,"",2015-08-08,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,26,M,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,26,M,Black
 04-026,Screened,1,#a6bddb,"",2015-07-02,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,27,M,Other/Mixed
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,27,M,Other/Mixed
 04-027,Screened,1,#a6bddb,"",2015-01-13,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,28,M,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,28,M,White
 04-027,Randomized,2,#3690c0,Screened,2015-03-06,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,28,M,White
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,28,M,White
 04-028,Screened,1,#a6bddb,"",2015-01-23,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,51,M,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,51,M,Black
 04-028,Randomized,2,#3690c0,Screened,2015-03-20,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Placebo,51,M,Black
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Placebo,51,M,Black
 04-029,Screened,1,#a6bddb,"",2015-05-12,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,49,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,49,M,Hispanic
 04-029,Randomized,2,#3690c0,Screened,2015-07-11,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment A,49,M,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,49,M,Hispanic
 04-030,Screened,1,#a6bddb,"",2015-04-25,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,31,F,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,31,F,Hispanic
 04-030,Randomized,2,#3690c0,Screened,2015-06-25,Clinical Site 04,Site 04,"Clinical Site 04
-Activation date: 2015-01-08
-Accrual: 26 participants
-Target: 30 participants
-Accrual rate: 2.2 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 87%",Treatment B,31,F,Hispanic
+ - Activation date: 2015-01-08
+ - Accrual: 26 participants
+ - Target: 30 participants
+ - Accrued of target: 87%
+ - Accrual rate: 2.2 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,31,F,Hispanic
 05-001,Screened,1,#a6bddb,"",2015-04-11,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,48,F,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,48,F,Black
 05-001,Randomized,2,#3690c0,Screened,2015-06-12,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,48,F,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,48,F,Black
 05-002,Screened,1,#a6bddb,"",2015-10-26,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,24,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,24,M,Black
 05-002,Randomized,2,#3690c0,Screened,2015-12-13,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,24,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,24,M,Black
 05-003,Screened,1,#a6bddb,"",2015-09-26,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,42,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,42,M,Black
 05-003,Randomized,2,#3690c0,Screened,2015-11-18,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,42,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,42,M,Black
 05-004,Screened,1,#a6bddb,"",2015-10-29,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,47,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,47,M,White
 05-005,Screened,1,#a6bddb,"",2015-06-06,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,20,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,20,M,Other/Mixed
 05-005,Randomized,2,#3690c0,Screened,2015-07-30,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,20,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,20,M,Other/Mixed
 05-006,Screened,1,#a6bddb,"",2015-10-15,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Screen Failure,21,M,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Screen Failure,21,M,Hispanic
 05-007,Screened,1,#a6bddb,"",2015-07-07,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,43,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,43,M,White
 05-008,Screened,1,#a6bddb,"",2015-10-12,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,26,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,26,F,Hispanic
 05-008,Randomized,2,#3690c0,Screened,2015-11-29,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,26,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,26,F,Hispanic
 05-009,Screened,1,#a6bddb,"",2015-12-16,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,42,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,42,F,Hispanic
 05-009,Randomized,2,#3690c0,Screened,2016-02-06,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,42,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,42,F,Hispanic
 05-010,Screened,1,#a6bddb,"",2015-02-06,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,43,F,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,43,F,White
 05-010,Randomized,2,#3690c0,Screened,2015-04-01,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,43,F,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,43,F,White
 05-011,Screened,1,#a6bddb,"",2015-02-04,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,49,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,49,M,Other/Mixed
 05-011,Randomized,2,#3690c0,Screened,2015-04-01,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,49,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,49,M,Other/Mixed
 05-012,Screened,1,#a6bddb,"",2015-04-18,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,45,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,45,M,Black
 05-012,Randomized,2,#3690c0,Screened,2015-06-11,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,45,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,45,M,Black
 05-013,Screened,1,#a6bddb,"",2015-10-22,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,39,M,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,39,M,Hispanic
 05-013,Randomized,2,#3690c0,Screened,2015-12-21,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,39,M,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,39,M,Hispanic
 05-014,Screened,1,#a6bddb,"",2015-07-01,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,32,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,32,M,Other/Mixed
 05-014,Randomized,2,#3690c0,Screened,2015-08-30,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,32,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,32,M,Other/Mixed
 05-015,Screened,1,#a6bddb,"",2015-01-11,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,38,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,38,F,Hispanic
 05-015,Randomized,2,#3690c0,Screened,2015-03-11,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment B,38,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment B,38,F,Hispanic
 05-016,Screened,1,#a6bddb,"",2015-06-15,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,42,F,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,42,F,Other/Mixed
 05-017,Screened,1,#a6bddb,"",2015-07-03,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,40,M,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,40,M,Hispanic
 05-017,Randomized,2,#3690c0,Screened,2015-08-27,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,40,M,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,40,M,Hispanic
 05-018,Screened,1,#a6bddb,"",2015-12-14,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,36,F,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,36,F,White
 05-018,Randomized,2,#3690c0,Screened,2016-02-09,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,36,F,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,36,F,White
 05-019,Screened,1,#a6bddb,"",2015-05-13,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,42,F,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,42,F,Black
 05-019,Randomized,2,#3690c0,Screened,2015-07-14,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,42,F,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,42,F,Black
 05-020,Screened,1,#a6bddb,"",2015-04-21,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,32,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,32,M,Other/Mixed
 05-020,Randomized,2,#3690c0,Screened,2015-06-13,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,32,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,32,M,Other/Mixed
 05-021,Screened,1,#a6bddb,"",2015-01-20,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,46,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,46,M,Other/Mixed
 05-021,Randomized,2,#3690c0,Screened,2015-03-18,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,46,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,46,M,Other/Mixed
 05-022,Screened,1,#a6bddb,"",2015-01-10,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,29,F,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,29,F,Black
 05-022,Randomized,2,#3690c0,Screened,2015-03-05,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,29,F,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,29,F,Black
 05-023,Screened,1,#a6bddb,"",2015-08-15,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,49,M,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,49,M,Hispanic
 05-023,Randomized,2,#3690c0,Screened,2015-10-10,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,49,M,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,49,M,Hispanic
 05-024,Screened,1,#a6bddb,"",2015-11-17,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,54,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,54,M,White
 05-024,Randomized,2,#3690c0,Screened,2016-01-07,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,54,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,54,M,White
 05-025,Screened,1,#a6bddb,"",2015-02-28,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,54,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,54,M,White
 05-025,Randomized,2,#3690c0,Screened,2015-04-23,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,54,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,54,M,White
 05-026,Screened,1,#a6bddb,"",2015-01-26,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,32,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,32,M,Black
 05-026,Randomized,2,#3690c0,Screened,2015-03-22,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,32,M,Black
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,32,M,Black
 05-027,Screened,1,#a6bddb,"",2015-05-28,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,28,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,28,F,Hispanic
 05-027,Randomized,2,#3690c0,Screened,2015-07-18,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,28,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,28,F,Hispanic
 05-028,Screened,1,#a6bddb,"",2015-12-01,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,42,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,42,M,Other/Mixed
 05-028,Randomized,2,#3690c0,Screened,2016-01-31,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,42,M,Other/Mixed
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,42,M,Other/Mixed
 05-029,Screened,1,#a6bddb,"",2015-10-02,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,35,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,35,M,White
 05-029,Randomized,2,#3690c0,Screened,2015-11-24,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Placebo,35,M,White
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Placebo,35,M,White
 05-030,Screened,1,#a6bddb,"",2015-11-13,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,23,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,23,F,Hispanic
 05-030,Randomized,2,#3690c0,Screened,2016-01-02,Clinical Site 05,Site 05,"Clinical Site 05
-Activation date: 2015-01-05
-Accrual: 29 participants
-Target: 30 participants
-Accrual rate: 2.5 participants/month
-Target rate: 2.6 participants/month
-Accrued of target: 97%",Treatment A,23,F,Hispanic
+ - Activation date: 2015-01-05
+ - Accrual: 29 participants
+ - Target: 30 participants
+ - Accrued of target: 97%
+ - Accrual rate: 2.5 participants/month
+ - Target rate: 2.6 participants/month",Treatment A,23,F,Hispanic

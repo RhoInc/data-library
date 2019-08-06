@@ -231,14 +231,14 @@
         "nDataFiles": 8,
         "dataFiles": [
             {
-                "fileName": "dashboard-enrollment-over-time.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv",
-                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv"
+                "fileName": "dashboard-accrual-over-time.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-accrual-over-time.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-accrual-over-time.csv"
             },
             {
-                "fileName": "dashboard-enrollment.csv",
-                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
-                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-enrollment.csv"
+                "fileName": "dashboard-accrual.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-accrual.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-accrual.csv"
             },
             {
                 "fileName": "dashboard-forms.csv",
@@ -347,7 +347,7 @@
     },
     {
         "relPath": "./data/clinical-trials/data-dictionaries",
-        "nDataFiles": 8,
+        "nDataFiles": 9,
         "dataFiles": [
             {
                 "fileName": "adverse-events.csv",
@@ -378,6 +378,11 @@
                 "fileName": "schedule-of-events.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/schedule-of-events.csv",
                 "rel_url": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv"
+            },
+            {
+                "fileName": "sites.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/sites.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/sites.csv"
             },
             {
                 "fileName": "variable-metadata.csv",

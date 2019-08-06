@@ -1,32 +1,40 @@
 [
     {
-        "relPath": "./data/clinical-trials/data-cleaning/dashboard-enrollment-over-time.csv",
-        "path": "dashboard-enrollment-over-time.csv",
-        "name": "dashboard-enrollment-over-time",
-        "nRows": 1206,
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-accrual-over-time.csv",
+        "path": "dashboard-accrual-over-time.csv",
+        "name": "dashboard-accrual-over-time",
+        "nRows": 6051,
         "cols": [
             "site",
-            "date",
             "population",
             "population_order",
             "population_color",
+            "date",
             "participant_count"
         ],
         "nCols": 6
     },
     {
-        "relPath": "./data/clinical-trials/data-cleaning/dashboard-enrollment.csv",
-        "path": "dashboard-enrollment.csv",
-        "name": "dashboard-enrollment",
-        "nRows": 69,
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-accrual.csv",
+        "path": "dashboard-accrual.csv",
+        "name": "dashboard-accrual",
+        "nRows": 263,
         "cols": [
-            "site",
+            "subjid",
             "population",
             "population_order",
             "population_color",
-            "population_superset"
+            "population_superset",
+            "date",
+            "site",
+            "site_abbreviation",
+            "site_info",
+            "filter:Arm",
+            "listing:Age",
+            "listing:Sex",
+            "listing:Race"
         ],
-        "nCols": 5
+        "nCols": 13
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning/dashboard-forms.csv",

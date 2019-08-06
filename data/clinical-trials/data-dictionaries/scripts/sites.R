@@ -73,12 +73,12 @@ sites <- dm %>%
         site_abbreviation = sub('Clinical ', '', SITE),
         site_info = paste(
             site,
-            paste0('Activation date: ', as.character(site_accrual_start_date)),
-            paste0('Accrual: ', as.character(site_accrual), ' participants'),
-            paste0('Target: ', as.character(site_target), ' participants'),
-            paste0('Accrual rate: ', as.character(round(site_accrual_rate_months, 1)), ' participants/month'),
-            paste0('Target rate: ', as.character(round(site_target_rate_months, 1)), ' participants/month'),
-            paste0('Accrued of target: ', round(site_percent_accrued, 0), '%'),
+            paste0(' - Activation date: ', as.character(site_accrual_start_date)),
+            paste0(' - Accrual: ', as.character(site_accrual), ' participants'),
+            paste0(' - Target: ', as.character(site_target), ' participants'),
+            paste0(' - Accrued of target: ', round(site_percent_accrued, 0), '%'),
+            paste0(' - Accrual rate: ', as.character(round(site_accrual_rate_months, 1)), ' participants/month'),
+            paste0(' - Target rate: ', as.character(round(site_target_rate_months, 1)), ' participants/month'),
             sep = '\n'
         )
     ) %>%

@@ -122,11 +122,30 @@ sites <- '../../data-dictionaries/sites.csv' %>%
         select(
             site, population, population_order, population_color, date, participant_count
         )
-
-# output data
+    
+    
+# output data with site level targets
 accrualOverTime %>%
     fwrite(
         '../../data-cleaning/dashboard-accrual-over-time.csv',
+        na = '',
+        row.names = FALSE
+    )
+
+overall_targets <- accrualOverTime %>%
+    filter(population == "Target") %>%
+    group_by(population, population_order, population_color, date) %>%
+    summarize(participant_count = sum(participant_count)) %>%
+    mutate(site = "")
+
+accrualOverTime_overallTarget <- accrualOverTime %>%
+    filter(population != "Target") %>%
+    bind_rows(overall_targets)
+
+# output data with overall target
+accrualOverTime_overallTarget %>%
+    fwrite(
+        '../../data-cleaning/dashboard-accrual-over-time-overall-target.csv',
         na = '',
         row.names = FALSE
     )

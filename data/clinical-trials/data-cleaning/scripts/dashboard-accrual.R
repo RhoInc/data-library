@@ -67,14 +67,24 @@ sites <- '../../data-dictionaries/sites.csv' %>%
             sites %>% select(site, site_id, site_abbreviation, site_info),
             by = c('SITEID' = 'site_id')
         ) %>%
-        select(
-            subjid, population, population_order, population_color, population_superset, date, site, site_abbreviation, site_info, ARM, AGE, SEX, RACE
-        ) %>%
         rename(
+            category = site,
+            category_abbreviation = site_abbreviation,
+            category_info = site_info,
             `filter:Arm` = ARM,
             `listing:Age` = AGE,
             `listing:Sex` = SEX,
             `listing:Race` = RACE
+        ) %>%
+        mutate(
+            `filter:Site` = category
+        ) %>%
+        select(
+            subjid, # unit of measurement
+            population, population_order, population_color, population_superset, date, # population data
+            category, category_abbreviation, category_info, # categorical y-axis variable
+            `filter:Site`, `filter:Arm`, # filters
+            `listing:Age`, `listing:Sex`, `listing:Race` # listing columns
         ) %>%
         arrange(
             subjid, population_order

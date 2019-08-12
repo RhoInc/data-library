@@ -228,8 +228,13 @@
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning",
-        "nDataFiles": 8,
+        "nDataFiles": 9,
         "dataFiles": [
+            {
+                "fileName": "dashboard-accrual-over-time-overall-target.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-accrual-over-time-overall-target.csv",
+                "rel_url": "./data/clinical-trials/data-cleaning/dashboard-accrual-over-time-overall-target.csv"
+            },
             {
                 "fileName": "dashboard-accrual-over-time.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-cleaning/dashboard-accrual-over-time.csv",

@@ -3,7 +3,7 @@ library(tidyverse)
 library(lubridate)
 
 # input data
-accrual <- '../dashboard-accrual.csv' %>%
+accrual <- '../../data-cleaning/dashboard-accrual.csv' %>%
     fread(
         sep = ',',
         na.strings = '',
@@ -20,6 +20,10 @@ sites <- '../../data-dictionaries/sites.csv' %>%
 
     # target
     target <- sites %>%
+        rename(
+            category = site,
+            category_abbreviation = site_abbreviation
+        ) %>%
         mutate(
             population = 'Target',
             population_order = 3,
@@ -28,7 +32,7 @@ sites <- '../../data-dictionaries/sites.csv' %>%
             target_rate = as.numeric(site_target)/as.numeric(site_accrual_duration)
         ) %>%
         group_by(
-            population, population_order, population_color, population_superset, site, site_abbreviation, site_accrual_start_date, accrual_end_date, target_rate
+            population, population_order, population_color, population_superset, category, category_abbreviation, site_accrual_start_date, accrual_end_date, target_rate
         ) %>%
         do(data.frame(
             date = seq(ymd(.$site_accrual_start_date), ymd(.$accrual_end_date), by = '1 day'),
@@ -85,10 +89,10 @@ sites <- '../../data-dictionaries/sites.csv' %>%
                 population_superset = rep(randomized$population_superset, nrow(shell))
             )
 
-    # count participants by date, population, and site
+    # count participants by date, population, and category
     participantCounts <- accrual %>%
         group_by(
-            population, population_order, population_color, population_superset, date, site, site_abbreviation
+            population, population_order, population_color, population_superset, date, category, category_abbreviation
         ) %>%
         summarize(
             participant_count = n()
@@ -109,43 +113,27 @@ sites <- '../../data-dictionaries/sites.csv' %>%
             )
         ) %>%
         group_by(
-            population, population_order, population_color, population_superset, site, site_abbreviation
+            population, population_order, population_color, population_superset, category, category_abbreviation
         ) %>%
         mutate(
-            participant_count = cumsum(participant_count) # cumulatively sum participant counts by population and site
+            participant_count = cumsum(participant_count) # cumulatively sum participant counts by population and category
         ) %>%
         ungroup %>%
         rbind(target) %>%
         arrange(
-            site, population_order, date
+            category, population_order, date
         ) %>%
         select(
-            site, population, population_order, population_color, date, participant_count
+            category, population, population_order, population_color, date, participant_count
+        ) %>%
+        rename(
+            `filter:Site` = category
         )
-    
-    
+
 # output data with site level targets
 accrualOverTime %>%
     fwrite(
         '../../data-cleaning/dashboard-accrual-over-time.csv',
-        na = '',
-        row.names = FALSE
-    )
-
-overall_targets <- accrualOverTime %>%
-    filter(population == "Target") %>%
-    group_by(population, population_order, population_color, date) %>%
-    summarize(participant_count = sum(participant_count)) %>%
-    mutate(site = "")
-
-accrualOverTime_overallTarget <- accrualOverTime %>%
-    filter(population != "Target") %>%
-    bind_rows(overall_targets)
-
-# output data with overall target
-accrualOverTime_overallTarget %>%
-    fwrite(
-        '../../data-cleaning/dashboard-accrual-over-time-overall-target.csv',
         na = '',
         row.names = FALSE
     )

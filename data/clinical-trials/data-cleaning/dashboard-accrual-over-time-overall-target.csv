@@ -1,4 +1,4 @@
-site,population,population_order,population_color,date,participant_count
+filter:Site,population,population_order,population_color,date,participant_count
 Clinical Site 01,Screened,1,#a6bddb,2015-01-01,0
 Clinical Site 01,Screened,1,#a6bddb,2015-01-02,0
 Clinical Site 01,Screened,1,#a6bddb,2015-01-03,0
@@ -419,6 +419,8 @@ Clinical Site 01,Screened,1,#a6bddb,2016-02-21,30
 Clinical Site 01,Screened,1,#a6bddb,2016-02-22,30
 Clinical Site 01,Screened,1,#a6bddb,2016-02-23,30
 Clinical Site 01,Screened,1,#a6bddb,2016-02-24,30
+Clinical Site 01,Screened,1,#a6bddb,2016-02-25,30
+Clinical Site 01,Screened,1,#a6bddb,2016-02-26,30
 Clinical Site 01,Randomized,2,#3690c0,2015-01-01,0
 Clinical Site 01,Randomized,2,#3690c0,2015-01-02,0
 Clinical Site 01,Randomized,2,#3690c0,2015-01-03,0
@@ -472,373 +474,375 @@ Clinical Site 01,Randomized,2,#3690c0,2015-02-19,0
 Clinical Site 01,Randomized,2,#3690c0,2015-02-20,0
 Clinical Site 01,Randomized,2,#3690c0,2015-02-21,0
 Clinical Site 01,Randomized,2,#3690c0,2015-02-22,0
-Clinical Site 01,Randomized,2,#3690c0,2015-02-23,1
-Clinical Site 01,Randomized,2,#3690c0,2015-02-24,1
-Clinical Site 01,Randomized,2,#3690c0,2015-02-25,1
+Clinical Site 01,Randomized,2,#3690c0,2015-02-23,0
+Clinical Site 01,Randomized,2,#3690c0,2015-02-24,0
+Clinical Site 01,Randomized,2,#3690c0,2015-02-25,0
 Clinical Site 01,Randomized,2,#3690c0,2015-02-26,1
 Clinical Site 01,Randomized,2,#3690c0,2015-02-27,1
 Clinical Site 01,Randomized,2,#3690c0,2015-02-28,1
 Clinical Site 01,Randomized,2,#3690c0,2015-03-01,1
-Clinical Site 01,Randomized,2,#3690c0,2015-03-02,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-03,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-04,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-05,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-06,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-07,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-08,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-09,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-10,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-11,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-12,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-13,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-14,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-15,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-16,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-17,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-18,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-19,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-20,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-21,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-22,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-23,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-24,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-25,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-26,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-27,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-28,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-29,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-30,2
-Clinical Site 01,Randomized,2,#3690c0,2015-03-31,2
-Clinical Site 01,Randomized,2,#3690c0,2015-04-01,2
-Clinical Site 01,Randomized,2,#3690c0,2015-04-02,2
+Clinical Site 01,Randomized,2,#3690c0,2015-03-02,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-03,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-04,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-05,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-06,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-07,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-08,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-09,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-10,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-11,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-12,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-13,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-14,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-15,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-16,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-17,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-18,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-19,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-20,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-21,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-22,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-23,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-24,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-25,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-26,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-27,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-28,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-29,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-30,1
+Clinical Site 01,Randomized,2,#3690c0,2015-03-31,1
+Clinical Site 01,Randomized,2,#3690c0,2015-04-01,1
+Clinical Site 01,Randomized,2,#3690c0,2015-04-02,1
 Clinical Site 01,Randomized,2,#3690c0,2015-04-03,2
-Clinical Site 01,Randomized,2,#3690c0,2015-04-04,4
-Clinical Site 01,Randomized,2,#3690c0,2015-04-05,4
-Clinical Site 01,Randomized,2,#3690c0,2015-04-06,4
-Clinical Site 01,Randomized,2,#3690c0,2015-04-07,4
-Clinical Site 01,Randomized,2,#3690c0,2015-04-08,4
-Clinical Site 01,Randomized,2,#3690c0,2015-04-09,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-10,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-11,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-12,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-13,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-14,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-15,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-16,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-17,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-18,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-19,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-20,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-21,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-22,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-23,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-24,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-25,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-26,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-27,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-28,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-29,5
-Clinical Site 01,Randomized,2,#3690c0,2015-04-30,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-01,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-02,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-03,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-04,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-05,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-06,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-07,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-08,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-09,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-10,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-11,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-12,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-13,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-14,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-15,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-16,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-17,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-18,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-19,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-20,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-21,5
-Clinical Site 01,Randomized,2,#3690c0,2015-05-22,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-23,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-24,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-25,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-26,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-27,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-28,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-29,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-30,6
-Clinical Site 01,Randomized,2,#3690c0,2015-05-31,6
-Clinical Site 01,Randomized,2,#3690c0,2015-06-01,6
-Clinical Site 01,Randomized,2,#3690c0,2015-06-02,6
-Clinical Site 01,Randomized,2,#3690c0,2015-06-03,6
-Clinical Site 01,Randomized,2,#3690c0,2015-06-04,6
-Clinical Site 01,Randomized,2,#3690c0,2015-06-05,6
-Clinical Site 01,Randomized,2,#3690c0,2015-06-06,7
-Clinical Site 01,Randomized,2,#3690c0,2015-06-07,7
-Clinical Site 01,Randomized,2,#3690c0,2015-06-08,7
-Clinical Site 01,Randomized,2,#3690c0,2015-06-09,7
-Clinical Site 01,Randomized,2,#3690c0,2015-06-10,8
-Clinical Site 01,Randomized,2,#3690c0,2015-06-11,8
-Clinical Site 01,Randomized,2,#3690c0,2015-06-12,8
-Clinical Site 01,Randomized,2,#3690c0,2015-06-13,8
-Clinical Site 01,Randomized,2,#3690c0,2015-06-14,8
-Clinical Site 01,Randomized,2,#3690c0,2015-06-15,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-16,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-17,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-18,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-19,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-20,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-21,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-22,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-23,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-24,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-25,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-26,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-27,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-28,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-29,10
-Clinical Site 01,Randomized,2,#3690c0,2015-06-30,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-01,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-02,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-03,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-04,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-05,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-06,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-07,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-08,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-09,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-10,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-11,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-12,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-13,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-14,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-15,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-16,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-17,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-18,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-19,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-20,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-21,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-22,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-23,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-24,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-25,10
-Clinical Site 01,Randomized,2,#3690c0,2015-07-26,11
-Clinical Site 01,Randomized,2,#3690c0,2015-07-27,11
-Clinical Site 01,Randomized,2,#3690c0,2015-07-28,11
-Clinical Site 01,Randomized,2,#3690c0,2015-07-29,12
-Clinical Site 01,Randomized,2,#3690c0,2015-07-30,12
-Clinical Site 01,Randomized,2,#3690c0,2015-07-31,12
-Clinical Site 01,Randomized,2,#3690c0,2015-08-01,12
-Clinical Site 01,Randomized,2,#3690c0,2015-08-02,12
-Clinical Site 01,Randomized,2,#3690c0,2015-08-03,12
-Clinical Site 01,Randomized,2,#3690c0,2015-08-04,12
-Clinical Site 01,Randomized,2,#3690c0,2015-08-05,12
-Clinical Site 01,Randomized,2,#3690c0,2015-08-06,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-07,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-08,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-09,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-10,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-11,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-12,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-13,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-14,13
-Clinical Site 01,Randomized,2,#3690c0,2015-08-15,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-16,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-17,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-18,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-19,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-20,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-21,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-22,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-23,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-24,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-25,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-26,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-27,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-28,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-29,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-30,14
-Clinical Site 01,Randomized,2,#3690c0,2015-08-31,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-01,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-02,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-03,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-04,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-05,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-06,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-07,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-08,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-09,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-10,14
-Clinical Site 01,Randomized,2,#3690c0,2015-09-11,15
-Clinical Site 01,Randomized,2,#3690c0,2015-09-12,15
-Clinical Site 01,Randomized,2,#3690c0,2015-09-13,15
-Clinical Site 01,Randomized,2,#3690c0,2015-09-14,15
-Clinical Site 01,Randomized,2,#3690c0,2015-09-15,15
-Clinical Site 01,Randomized,2,#3690c0,2015-09-16,15
-Clinical Site 01,Randomized,2,#3690c0,2015-09-17,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-18,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-19,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-20,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-21,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-22,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-23,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-24,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-25,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-26,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-27,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-28,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-29,16
-Clinical Site 01,Randomized,2,#3690c0,2015-09-30,16
-Clinical Site 01,Randomized,2,#3690c0,2015-10-01,16
-Clinical Site 01,Randomized,2,#3690c0,2015-10-02,16
-Clinical Site 01,Randomized,2,#3690c0,2015-10-03,16
-Clinical Site 01,Randomized,2,#3690c0,2015-10-04,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-05,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-06,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-07,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-08,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-09,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-10,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-11,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-12,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-13,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-14,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-15,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-16,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-17,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-18,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-19,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-20,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-21,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-22,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-23,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-24,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-25,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-26,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-27,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-28,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-29,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-30,17
-Clinical Site 01,Randomized,2,#3690c0,2015-10-31,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-01,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-02,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-03,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-04,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-05,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-06,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-07,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-08,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-09,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-10,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-11,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-12,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-13,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-14,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-15,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-16,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-17,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-18,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-19,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-20,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-21,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-22,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-23,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-24,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-25,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-26,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-27,17
-Clinical Site 01,Randomized,2,#3690c0,2015-11-28,18
-Clinical Site 01,Randomized,2,#3690c0,2015-11-29,18
-Clinical Site 01,Randomized,2,#3690c0,2015-11-30,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-01,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-02,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-03,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-04,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-05,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-06,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-07,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-08,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-09,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-10,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-11,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-12,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-13,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-14,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-15,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-16,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-17,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-18,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-19,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-20,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-21,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-22,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-23,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-24,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-25,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-26,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-27,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-28,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-29,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-30,19
-Clinical Site 01,Randomized,2,#3690c0,2015-12-31,19
-Clinical Site 01,Randomized,2,#3690c0,2016-01-01,20
-Clinical Site 01,Randomized,2,#3690c0,2016-01-02,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-03,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-04,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-05,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-06,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-07,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-08,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-09,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-10,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-11,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-12,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-13,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-14,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-15,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-16,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-17,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-18,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-19,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-20,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-21,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-22,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-23,21
-Clinical Site 01,Randomized,2,#3690c0,2016-01-24,22
-Clinical Site 01,Randomized,2,#3690c0,2016-01-25,22
-Clinical Site 01,Randomized,2,#3690c0,2016-01-26,22
-Clinical Site 01,Randomized,2,#3690c0,2016-01-27,22
-Clinical Site 01,Randomized,2,#3690c0,2016-01-28,22
-Clinical Site 01,Randomized,2,#3690c0,2016-01-29,22
-Clinical Site 01,Randomized,2,#3690c0,2016-01-30,22
-Clinical Site 01,Randomized,2,#3690c0,2016-01-31,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-01,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-02,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-03,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-04,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-05,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-06,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-07,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-08,22
-Clinical Site 01,Randomized,2,#3690c0,2016-02-09,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-10,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-11,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-12,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-13,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-14,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-15,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-16,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-17,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-18,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-19,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-20,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-21,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-22,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-23,23
-Clinical Site 01,Randomized,2,#3690c0,2016-02-24,23
+Clinical Site 01,Randomized,2,#3690c0,2015-04-04,2
+Clinical Site 01,Randomized,2,#3690c0,2015-04-05,2
+Clinical Site 01,Randomized,2,#3690c0,2015-04-06,2
+Clinical Site 01,Randomized,2,#3690c0,2015-04-07,2
+Clinical Site 01,Randomized,2,#3690c0,2015-04-08,2
+Clinical Site 01,Randomized,2,#3690c0,2015-04-09,2
+Clinical Site 01,Randomized,2,#3690c0,2015-04-10,2
+Clinical Site 01,Randomized,2,#3690c0,2015-04-11,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-12,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-13,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-14,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-15,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-16,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-17,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-18,3
+Clinical Site 01,Randomized,2,#3690c0,2015-04-19,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-20,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-21,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-22,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-23,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-24,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-25,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-26,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-27,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-28,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-29,4
+Clinical Site 01,Randomized,2,#3690c0,2015-04-30,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-01,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-02,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-03,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-04,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-05,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-06,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-07,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-08,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-09,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-10,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-11,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-12,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-13,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-14,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-15,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-16,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-17,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-18,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-19,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-20,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-21,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-22,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-23,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-24,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-25,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-26,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-27,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-28,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-29,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-30,4
+Clinical Site 01,Randomized,2,#3690c0,2015-05-31,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-01,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-02,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-03,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-04,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-05,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-06,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-07,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-08,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-09,4
+Clinical Site 01,Randomized,2,#3690c0,2015-06-10,5
+Clinical Site 01,Randomized,2,#3690c0,2015-06-11,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-12,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-13,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-14,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-15,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-16,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-17,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-18,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-19,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-20,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-21,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-22,6
+Clinical Site 01,Randomized,2,#3690c0,2015-06-23,7
+Clinical Site 01,Randomized,2,#3690c0,2015-06-24,7
+Clinical Site 01,Randomized,2,#3690c0,2015-06-25,7
+Clinical Site 01,Randomized,2,#3690c0,2015-06-26,7
+Clinical Site 01,Randomized,2,#3690c0,2015-06-27,7
+Clinical Site 01,Randomized,2,#3690c0,2015-06-28,7
+Clinical Site 01,Randomized,2,#3690c0,2015-06-29,8
+Clinical Site 01,Randomized,2,#3690c0,2015-06-30,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-01,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-02,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-03,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-04,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-05,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-06,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-07,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-08,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-09,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-10,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-11,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-12,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-13,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-14,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-15,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-16,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-17,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-18,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-19,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-20,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-21,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-22,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-23,8
+Clinical Site 01,Randomized,2,#3690c0,2015-07-24,9
+Clinical Site 01,Randomized,2,#3690c0,2015-07-25,9
+Clinical Site 01,Randomized,2,#3690c0,2015-07-26,9
+Clinical Site 01,Randomized,2,#3690c0,2015-07-27,9
+Clinical Site 01,Randomized,2,#3690c0,2015-07-28,10
+Clinical Site 01,Randomized,2,#3690c0,2015-07-29,10
+Clinical Site 01,Randomized,2,#3690c0,2015-07-30,10
+Clinical Site 01,Randomized,2,#3690c0,2015-07-31,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-01,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-02,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-03,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-04,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-05,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-06,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-07,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-08,10
+Clinical Site 01,Randomized,2,#3690c0,2015-08-09,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-10,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-11,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-12,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-13,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-14,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-15,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-16,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-17,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-18,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-19,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-20,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-21,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-22,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-23,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-24,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-25,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-26,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-27,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-28,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-29,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-30,11
+Clinical Site 01,Randomized,2,#3690c0,2015-08-31,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-01,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-02,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-03,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-04,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-05,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-06,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-07,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-08,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-09,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-10,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-11,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-12,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-13,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-14,11
+Clinical Site 01,Randomized,2,#3690c0,2015-09-15,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-16,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-17,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-18,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-19,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-20,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-21,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-22,12
+Clinical Site 01,Randomized,2,#3690c0,2015-09-23,13
+Clinical Site 01,Randomized,2,#3690c0,2015-09-24,13
+Clinical Site 01,Randomized,2,#3690c0,2015-09-25,13
+Clinical Site 01,Randomized,2,#3690c0,2015-09-26,13
+Clinical Site 01,Randomized,2,#3690c0,2015-09-27,13
+Clinical Site 01,Randomized,2,#3690c0,2015-09-28,13
+Clinical Site 01,Randomized,2,#3690c0,2015-09-29,13
+Clinical Site 01,Randomized,2,#3690c0,2015-09-30,13
+Clinical Site 01,Randomized,2,#3690c0,2015-10-01,13
+Clinical Site 01,Randomized,2,#3690c0,2015-10-02,13
+Clinical Site 01,Randomized,2,#3690c0,2015-10-03,13
+Clinical Site 01,Randomized,2,#3690c0,2015-10-04,13
+Clinical Site 01,Randomized,2,#3690c0,2015-10-05,13
+Clinical Site 01,Randomized,2,#3690c0,2015-10-06,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-07,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-08,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-09,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-10,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-11,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-12,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-13,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-14,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-15,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-16,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-17,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-18,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-19,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-20,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-21,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-22,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-23,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-24,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-25,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-26,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-27,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-28,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-29,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-30,14
+Clinical Site 01,Randomized,2,#3690c0,2015-10-31,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-01,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-02,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-03,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-04,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-05,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-06,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-07,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-08,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-09,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-10,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-11,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-12,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-13,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-14,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-15,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-16,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-17,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-18,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-19,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-20,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-21,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-22,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-23,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-24,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-25,14
+Clinical Site 01,Randomized,2,#3690c0,2015-11-26,15
+Clinical Site 01,Randomized,2,#3690c0,2015-11-27,15
+Clinical Site 01,Randomized,2,#3690c0,2015-11-28,15
+Clinical Site 01,Randomized,2,#3690c0,2015-11-29,15
+Clinical Site 01,Randomized,2,#3690c0,2015-11-30,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-01,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-02,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-03,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-04,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-05,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-06,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-07,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-08,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-09,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-10,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-11,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-12,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-13,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-14,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-15,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-16,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-17,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-18,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-19,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-20,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-21,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-22,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-23,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-24,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-25,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-26,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-27,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-28,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-29,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-30,15
+Clinical Site 01,Randomized,2,#3690c0,2015-12-31,15
+Clinical Site 01,Randomized,2,#3690c0,2016-01-01,15
+Clinical Site 01,Randomized,2,#3690c0,2016-01-02,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-03,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-04,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-05,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-06,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-07,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-08,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-09,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-10,16
+Clinical Site 01,Randomized,2,#3690c0,2016-01-11,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-12,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-13,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-14,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-15,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-16,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-17,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-18,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-19,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-20,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-21,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-22,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-23,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-24,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-25,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-26,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-27,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-28,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-29,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-30,17
+Clinical Site 01,Randomized,2,#3690c0,2016-01-31,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-01,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-02,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-03,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-04,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-05,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-06,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-07,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-08,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-09,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-10,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-11,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-12,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-13,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-14,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-15,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-16,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-17,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-18,17
+Clinical Site 01,Randomized,2,#3690c0,2016-02-19,18
+Clinical Site 01,Randomized,2,#3690c0,2016-02-20,18
+Clinical Site 01,Randomized,2,#3690c0,2016-02-21,18
+Clinical Site 01,Randomized,2,#3690c0,2016-02-22,18
+Clinical Site 01,Randomized,2,#3690c0,2016-02-23,18
+Clinical Site 01,Randomized,2,#3690c0,2016-02-24,18
+Clinical Site 01,Randomized,2,#3690c0,2016-02-25,18
+Clinical Site 01,Randomized,2,#3690c0,2016-02-26,18
 Clinical Site 02,Screened,1,#a6bddb,2015-02-11,0
 Clinical Site 02,Screened,1,#a6bddb,2015-02-12,0
 Clinical Site 02,Screened,1,#a6bddb,2015-02-13,0
@@ -1218,6 +1222,8 @@ Clinical Site 02,Screened,1,#a6bddb,2016-02-21,30
 Clinical Site 02,Screened,1,#a6bddb,2016-02-22,30
 Clinical Site 02,Screened,1,#a6bddb,2016-02-23,30
 Clinical Site 02,Screened,1,#a6bddb,2016-02-24,30
+Clinical Site 02,Screened,1,#a6bddb,2016-02-25,30
+Clinical Site 02,Screened,1,#a6bddb,2016-02-26,30
 Clinical Site 02,Randomized,2,#3690c0,2015-02-11,0
 Clinical Site 02,Randomized,2,#3690c0,2015-02-12,0
 Clinical Site 02,Randomized,2,#3690c0,2015-02-13,0
@@ -1272,331 +1278,333 @@ Clinical Site 02,Randomized,2,#3690c0,2015-04-02,0
 Clinical Site 02,Randomized,2,#3690c0,2015-04-03,0
 Clinical Site 02,Randomized,2,#3690c0,2015-04-04,0
 Clinical Site 02,Randomized,2,#3690c0,2015-04-05,0
-Clinical Site 02,Randomized,2,#3690c0,2015-04-06,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-07,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-08,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-09,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-10,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-11,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-12,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-13,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-14,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-15,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-16,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-17,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-18,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-19,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-20,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-21,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-22,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-23,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-24,1
-Clinical Site 02,Randomized,2,#3690c0,2015-04-25,2
-Clinical Site 02,Randomized,2,#3690c0,2015-04-26,2
-Clinical Site 02,Randomized,2,#3690c0,2015-04-27,3
-Clinical Site 02,Randomized,2,#3690c0,2015-04-28,3
-Clinical Site 02,Randomized,2,#3690c0,2015-04-29,3
-Clinical Site 02,Randomized,2,#3690c0,2015-04-30,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-01,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-02,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-03,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-04,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-05,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-06,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-07,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-08,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-09,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-10,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-11,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-12,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-13,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-14,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-15,3
-Clinical Site 02,Randomized,2,#3690c0,2015-05-16,4
-Clinical Site 02,Randomized,2,#3690c0,2015-05-17,4
-Clinical Site 02,Randomized,2,#3690c0,2015-05-18,4
-Clinical Site 02,Randomized,2,#3690c0,2015-05-19,4
-Clinical Site 02,Randomized,2,#3690c0,2015-05-20,4
-Clinical Site 02,Randomized,2,#3690c0,2015-05-21,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-22,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-23,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-24,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-25,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-26,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-27,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-28,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-29,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-30,5
-Clinical Site 02,Randomized,2,#3690c0,2015-05-31,5
-Clinical Site 02,Randomized,2,#3690c0,2015-06-01,5
-Clinical Site 02,Randomized,2,#3690c0,2015-06-02,5
-Clinical Site 02,Randomized,2,#3690c0,2015-06-03,6
-Clinical Site 02,Randomized,2,#3690c0,2015-06-04,6
-Clinical Site 02,Randomized,2,#3690c0,2015-06-05,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-06,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-07,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-08,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-09,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-10,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-11,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-12,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-13,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-14,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-15,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-16,7
-Clinical Site 02,Randomized,2,#3690c0,2015-06-17,8
-Clinical Site 02,Randomized,2,#3690c0,2015-06-18,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-19,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-20,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-21,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-22,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-23,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-24,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-25,9
-Clinical Site 02,Randomized,2,#3690c0,2015-06-26,10
-Clinical Site 02,Randomized,2,#3690c0,2015-06-27,10
-Clinical Site 02,Randomized,2,#3690c0,2015-06-28,10
-Clinical Site 02,Randomized,2,#3690c0,2015-06-29,10
-Clinical Site 02,Randomized,2,#3690c0,2015-06-30,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-01,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-02,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-03,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-04,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-05,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-06,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-07,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-08,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-09,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-10,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-11,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-12,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-13,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-14,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-15,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-16,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-17,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-18,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-19,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-20,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-21,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-22,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-23,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-24,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-25,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-26,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-27,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-28,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-29,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-30,10
-Clinical Site 02,Randomized,2,#3690c0,2015-07-31,10
-Clinical Site 02,Randomized,2,#3690c0,2015-08-01,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-02,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-03,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-04,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-05,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-06,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-07,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-08,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-09,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-10,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-11,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-12,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-13,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-14,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-15,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-16,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-17,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-18,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-19,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-20,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-21,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-22,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-23,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-24,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-25,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-26,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-27,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-28,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-29,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-30,11
-Clinical Site 02,Randomized,2,#3690c0,2015-08-31,11
-Clinical Site 02,Randomized,2,#3690c0,2015-09-01,11
-Clinical Site 02,Randomized,2,#3690c0,2015-09-02,11
-Clinical Site 02,Randomized,2,#3690c0,2015-09-03,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-04,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-05,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-06,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-07,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-08,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-09,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-10,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-11,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-12,12
-Clinical Site 02,Randomized,2,#3690c0,2015-09-13,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-14,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-15,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-16,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-17,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-18,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-19,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-20,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-21,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-22,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-23,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-24,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-25,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-26,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-27,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-28,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-29,13
-Clinical Site 02,Randomized,2,#3690c0,2015-09-30,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-01,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-02,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-03,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-04,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-05,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-06,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-07,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-08,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-09,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-10,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-11,13
-Clinical Site 02,Randomized,2,#3690c0,2015-10-12,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-13,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-14,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-15,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-16,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-17,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-18,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-19,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-20,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-21,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-22,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-23,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-24,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-25,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-26,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-27,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-28,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-29,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-30,14
-Clinical Site 02,Randomized,2,#3690c0,2015-10-31,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-01,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-02,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-03,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-04,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-05,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-06,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-07,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-08,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-09,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-10,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-11,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-12,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-13,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-14,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-15,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-16,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-17,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-18,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-19,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-20,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-21,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-22,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-23,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-24,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-25,14
-Clinical Site 02,Randomized,2,#3690c0,2015-11-26,15
-Clinical Site 02,Randomized,2,#3690c0,2015-11-27,15
-Clinical Site 02,Randomized,2,#3690c0,2015-11-28,15
-Clinical Site 02,Randomized,2,#3690c0,2015-11-29,15
-Clinical Site 02,Randomized,2,#3690c0,2015-11-30,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-01,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-02,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-03,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-04,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-05,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-06,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-07,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-08,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-09,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-10,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-11,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-12,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-13,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-14,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-15,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-16,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-17,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-18,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-19,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-20,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-21,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-22,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-23,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-24,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-25,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-26,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-27,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-28,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-29,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-30,15
-Clinical Site 02,Randomized,2,#3690c0,2015-12-31,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-01,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-02,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-03,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-04,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-05,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-06,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-07,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-08,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-09,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-10,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-11,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-12,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-13,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-14,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-15,15
-Clinical Site 02,Randomized,2,#3690c0,2016-01-16,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-17,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-18,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-19,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-20,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-21,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-22,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-23,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-24,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-25,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-26,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-27,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-28,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-29,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-30,16
-Clinical Site 02,Randomized,2,#3690c0,2016-01-31,16
-Clinical Site 02,Randomized,2,#3690c0,2016-02-01,16
-Clinical Site 02,Randomized,2,#3690c0,2016-02-02,16
-Clinical Site 02,Randomized,2,#3690c0,2016-02-03,17
-Clinical Site 02,Randomized,2,#3690c0,2016-02-04,18
-Clinical Site 02,Randomized,2,#3690c0,2016-02-05,18
-Clinical Site 02,Randomized,2,#3690c0,2016-02-06,18
-Clinical Site 02,Randomized,2,#3690c0,2016-02-07,18
-Clinical Site 02,Randomized,2,#3690c0,2016-02-08,18
-Clinical Site 02,Randomized,2,#3690c0,2016-02-09,18
-Clinical Site 02,Randomized,2,#3690c0,2016-02-10,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-11,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-12,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-13,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-14,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-15,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-16,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-17,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-18,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-19,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-20,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-21,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-22,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-23,19
-Clinical Site 02,Randomized,2,#3690c0,2016-02-24,20
+Clinical Site 02,Randomized,2,#3690c0,2015-04-06,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-07,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-08,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-09,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-10,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-11,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-12,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-13,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-14,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-15,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-16,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-17,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-18,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-19,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-20,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-21,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-22,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-23,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-24,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-25,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-26,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-27,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-28,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-29,0
+Clinical Site 02,Randomized,2,#3690c0,2015-04-30,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-01,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-02,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-03,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-04,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-05,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-06,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-07,0
+Clinical Site 02,Randomized,2,#3690c0,2015-05-08,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-09,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-10,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-11,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-12,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-13,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-14,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-15,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-16,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-17,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-18,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-19,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-20,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-21,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-22,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-23,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-24,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-25,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-26,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-27,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-28,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-29,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-30,1
+Clinical Site 02,Randomized,2,#3690c0,2015-05-31,1
+Clinical Site 02,Randomized,2,#3690c0,2015-06-01,1
+Clinical Site 02,Randomized,2,#3690c0,2015-06-02,1
+Clinical Site 02,Randomized,2,#3690c0,2015-06-03,1
+Clinical Site 02,Randomized,2,#3690c0,2015-06-04,1
+Clinical Site 02,Randomized,2,#3690c0,2015-06-05,1
+Clinical Site 02,Randomized,2,#3690c0,2015-06-06,2
+Clinical Site 02,Randomized,2,#3690c0,2015-06-07,2
+Clinical Site 02,Randomized,2,#3690c0,2015-06-08,2
+Clinical Site 02,Randomized,2,#3690c0,2015-06-09,2
+Clinical Site 02,Randomized,2,#3690c0,2015-06-10,3
+Clinical Site 02,Randomized,2,#3690c0,2015-06-11,3
+Clinical Site 02,Randomized,2,#3690c0,2015-06-12,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-13,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-14,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-15,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-16,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-17,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-18,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-19,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-20,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-21,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-22,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-23,4
+Clinical Site 02,Randomized,2,#3690c0,2015-06-24,5
+Clinical Site 02,Randomized,2,#3690c0,2015-06-25,5
+Clinical Site 02,Randomized,2,#3690c0,2015-06-26,5
+Clinical Site 02,Randomized,2,#3690c0,2015-06-27,5
+Clinical Site 02,Randomized,2,#3690c0,2015-06-28,5
+Clinical Site 02,Randomized,2,#3690c0,2015-06-29,5
+Clinical Site 02,Randomized,2,#3690c0,2015-06-30,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-01,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-02,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-03,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-04,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-05,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-06,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-07,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-08,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-09,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-10,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-11,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-12,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-13,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-14,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-15,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-16,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-17,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-18,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-19,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-20,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-21,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-22,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-23,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-24,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-25,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-26,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-27,5
+Clinical Site 02,Randomized,2,#3690c0,2015-07-28,6
+Clinical Site 02,Randomized,2,#3690c0,2015-07-29,6
+Clinical Site 02,Randomized,2,#3690c0,2015-07-30,6
+Clinical Site 02,Randomized,2,#3690c0,2015-07-31,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-01,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-02,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-03,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-04,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-05,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-06,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-07,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-08,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-09,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-10,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-11,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-12,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-13,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-14,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-15,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-16,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-17,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-18,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-19,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-20,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-21,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-22,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-23,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-24,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-25,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-26,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-27,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-28,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-29,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-30,6
+Clinical Site 02,Randomized,2,#3690c0,2015-08-31,6
+Clinical Site 02,Randomized,2,#3690c0,2015-09-01,6
+Clinical Site 02,Randomized,2,#3690c0,2015-09-02,6
+Clinical Site 02,Randomized,2,#3690c0,2015-09-03,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-04,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-05,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-06,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-07,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-08,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-09,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-10,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-11,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-12,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-13,7
+Clinical Site 02,Randomized,2,#3690c0,2015-09-14,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-15,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-16,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-17,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-18,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-19,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-20,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-21,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-22,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-23,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-24,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-25,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-26,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-27,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-28,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-29,8
+Clinical Site 02,Randomized,2,#3690c0,2015-09-30,8
+Clinical Site 02,Randomized,2,#3690c0,2015-10-01,8
+Clinical Site 02,Randomized,2,#3690c0,2015-10-02,8
+Clinical Site 02,Randomized,2,#3690c0,2015-10-03,8
+Clinical Site 02,Randomized,2,#3690c0,2015-10-04,8
+Clinical Site 02,Randomized,2,#3690c0,2015-10-05,8
+Clinical Site 02,Randomized,2,#3690c0,2015-10-06,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-07,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-08,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-09,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-10,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-11,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-12,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-13,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-14,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-15,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-16,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-17,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-18,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-19,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-20,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-21,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-22,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-23,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-24,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-25,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-26,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-27,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-28,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-29,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-30,9
+Clinical Site 02,Randomized,2,#3690c0,2015-10-31,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-01,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-02,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-03,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-04,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-05,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-06,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-07,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-08,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-09,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-10,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-11,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-12,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-13,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-14,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-15,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-16,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-17,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-18,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-19,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-20,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-21,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-22,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-23,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-24,9
+Clinical Site 02,Randomized,2,#3690c0,2015-11-25,10
+Clinical Site 02,Randomized,2,#3690c0,2015-11-26,10
+Clinical Site 02,Randomized,2,#3690c0,2015-11-27,10
+Clinical Site 02,Randomized,2,#3690c0,2015-11-28,10
+Clinical Site 02,Randomized,2,#3690c0,2015-11-29,11
+Clinical Site 02,Randomized,2,#3690c0,2015-11-30,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-01,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-02,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-03,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-04,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-05,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-06,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-07,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-08,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-09,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-10,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-11,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-12,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-13,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-14,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-15,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-16,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-17,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-18,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-19,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-20,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-21,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-22,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-23,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-24,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-25,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-26,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-27,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-28,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-29,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-30,11
+Clinical Site 02,Randomized,2,#3690c0,2015-12-31,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-01,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-02,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-03,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-04,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-05,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-06,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-07,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-08,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-09,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-10,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-11,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-12,11
+Clinical Site 02,Randomized,2,#3690c0,2016-01-13,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-14,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-15,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-16,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-17,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-18,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-19,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-20,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-21,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-22,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-23,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-24,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-25,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-26,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-27,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-28,12
+Clinical Site 02,Randomized,2,#3690c0,2016-01-29,13
+Clinical Site 02,Randomized,2,#3690c0,2016-01-30,13
+Clinical Site 02,Randomized,2,#3690c0,2016-01-31,13
+Clinical Site 02,Randomized,2,#3690c0,2016-02-01,13
+Clinical Site 02,Randomized,2,#3690c0,2016-02-02,13
+Clinical Site 02,Randomized,2,#3690c0,2016-02-03,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-04,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-05,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-06,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-07,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-08,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-09,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-10,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-11,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-12,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-13,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-14,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-15,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-16,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-17,14
+Clinical Site 02,Randomized,2,#3690c0,2016-02-18,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-19,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-20,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-21,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-22,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-23,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-24,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-25,15
+Clinical Site 02,Randomized,2,#3690c0,2016-02-26,15
 Clinical Site 03,Screened,1,#a6bddb,2015-02-01,0
 Clinical Site 03,Screened,1,#a6bddb,2015-02-02,0
 Clinical Site 03,Screened,1,#a6bddb,2015-02-03,0
@@ -1986,6 +1994,8 @@ Clinical Site 03,Screened,1,#a6bddb,2016-02-21,30
 Clinical Site 03,Screened,1,#a6bddb,2016-02-22,30
 Clinical Site 03,Screened,1,#a6bddb,2016-02-23,30
 Clinical Site 03,Screened,1,#a6bddb,2016-02-24,30
+Clinical Site 03,Screened,1,#a6bddb,2016-02-25,30
+Clinical Site 03,Screened,1,#a6bddb,2016-02-26,30
 Clinical Site 03,Randomized,2,#3690c0,2015-02-01,0
 Clinical Site 03,Randomized,2,#3690c0,2015-02-02,0
 Clinical Site 03,Randomized,2,#3690c0,2015-02-03,0
@@ -2047,9 +2057,9 @@ Clinical Site 03,Randomized,2,#3690c0,2015-03-30,0
 Clinical Site 03,Randomized,2,#3690c0,2015-03-31,0
 Clinical Site 03,Randomized,2,#3690c0,2015-04-01,0
 Clinical Site 03,Randomized,2,#3690c0,2015-04-02,0
-Clinical Site 03,Randomized,2,#3690c0,2015-04-03,0
-Clinical Site 03,Randomized,2,#3690c0,2015-04-04,0
-Clinical Site 03,Randomized,2,#3690c0,2015-04-05,0
+Clinical Site 03,Randomized,2,#3690c0,2015-04-03,1
+Clinical Site 03,Randomized,2,#3690c0,2015-04-04,1
+Clinical Site 03,Randomized,2,#3690c0,2015-04-05,1
 Clinical Site 03,Randomized,2,#3690c0,2015-04-06,1
 Clinical Site 03,Randomized,2,#3690c0,2015-04-07,1
 Clinical Site 03,Randomized,2,#3690c0,2015-04-08,1
@@ -2069,45 +2079,45 @@ Clinical Site 03,Randomized,2,#3690c0,2015-04-21,1
 Clinical Site 03,Randomized,2,#3690c0,2015-04-22,1
 Clinical Site 03,Randomized,2,#3690c0,2015-04-23,1
 Clinical Site 03,Randomized,2,#3690c0,2015-04-24,1
-Clinical Site 03,Randomized,2,#3690c0,2015-04-25,2
-Clinical Site 03,Randomized,2,#3690c0,2015-04-26,2
-Clinical Site 03,Randomized,2,#3690c0,2015-04-27,2
-Clinical Site 03,Randomized,2,#3690c0,2015-04-28,2
-Clinical Site 03,Randomized,2,#3690c0,2015-04-29,2
-Clinical Site 03,Randomized,2,#3690c0,2015-04-30,2
-Clinical Site 03,Randomized,2,#3690c0,2015-05-01,2
-Clinical Site 03,Randomized,2,#3690c0,2015-05-02,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-03,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-04,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-05,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-06,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-07,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-08,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-09,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-10,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-11,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-12,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-13,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-14,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-15,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-16,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-17,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-18,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-19,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-20,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-21,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-22,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-23,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-24,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-25,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-26,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-27,3
+Clinical Site 03,Randomized,2,#3690c0,2015-04-25,1
+Clinical Site 03,Randomized,2,#3690c0,2015-04-26,1
+Clinical Site 03,Randomized,2,#3690c0,2015-04-27,1
+Clinical Site 03,Randomized,2,#3690c0,2015-04-28,1
+Clinical Site 03,Randomized,2,#3690c0,2015-04-29,1
+Clinical Site 03,Randomized,2,#3690c0,2015-04-30,1
+Clinical Site 03,Randomized,2,#3690c0,2015-05-01,1
+Clinical Site 03,Randomized,2,#3690c0,2015-05-02,1
+Clinical Site 03,Randomized,2,#3690c0,2015-05-03,1
+Clinical Site 03,Randomized,2,#3690c0,2015-05-04,1
+Clinical Site 03,Randomized,2,#3690c0,2015-05-05,1
+Clinical Site 03,Randomized,2,#3690c0,2015-05-06,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-07,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-08,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-09,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-10,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-11,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-12,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-13,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-14,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-15,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-16,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-17,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-18,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-19,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-20,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-21,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-22,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-23,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-24,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-25,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-26,2
+Clinical Site 03,Randomized,2,#3690c0,2015-05-27,2
 Clinical Site 03,Randomized,2,#3690c0,2015-05-28,3
-Clinical Site 03,Randomized,2,#3690c0,2015-05-29,4
-Clinical Site 03,Randomized,2,#3690c0,2015-05-30,4
-Clinical Site 03,Randomized,2,#3690c0,2015-05-31,4
-Clinical Site 03,Randomized,2,#3690c0,2015-06-01,4
-Clinical Site 03,Randomized,2,#3690c0,2015-06-02,4
+Clinical Site 03,Randomized,2,#3690c0,2015-05-29,3
+Clinical Site 03,Randomized,2,#3690c0,2015-05-30,3
+Clinical Site 03,Randomized,2,#3690c0,2015-05-31,3
+Clinical Site 03,Randomized,2,#3690c0,2015-06-01,3
+Clinical Site 03,Randomized,2,#3690c0,2015-06-02,3
 Clinical Site 03,Randomized,2,#3690c0,2015-06-03,4
 Clinical Site 03,Randomized,2,#3690c0,2015-06-04,4
 Clinical Site 03,Randomized,2,#3690c0,2015-06-05,4
@@ -2119,136 +2129,136 @@ Clinical Site 03,Randomized,2,#3690c0,2015-06-10,4
 Clinical Site 03,Randomized,2,#3690c0,2015-06-11,4
 Clinical Site 03,Randomized,2,#3690c0,2015-06-12,4
 Clinical Site 03,Randomized,2,#3690c0,2015-06-13,4
-Clinical Site 03,Randomized,2,#3690c0,2015-06-14,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-15,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-16,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-17,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-18,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-19,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-20,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-21,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-22,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-23,5
-Clinical Site 03,Randomized,2,#3690c0,2015-06-24,6
-Clinical Site 03,Randomized,2,#3690c0,2015-06-25,6
-Clinical Site 03,Randomized,2,#3690c0,2015-06-26,6
-Clinical Site 03,Randomized,2,#3690c0,2015-06-27,6
-Clinical Site 03,Randomized,2,#3690c0,2015-06-28,6
-Clinical Site 03,Randomized,2,#3690c0,2015-06-29,6
-Clinical Site 03,Randomized,2,#3690c0,2015-06-30,6
-Clinical Site 03,Randomized,2,#3690c0,2015-07-01,6
-Clinical Site 03,Randomized,2,#3690c0,2015-07-02,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-03,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-04,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-05,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-06,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-07,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-08,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-09,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-10,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-11,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-12,7
-Clinical Site 03,Randomized,2,#3690c0,2015-07-13,8
-Clinical Site 03,Randomized,2,#3690c0,2015-07-14,8
-Clinical Site 03,Randomized,2,#3690c0,2015-07-15,8
+Clinical Site 03,Randomized,2,#3690c0,2015-06-14,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-15,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-16,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-17,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-18,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-19,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-20,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-21,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-22,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-23,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-24,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-25,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-26,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-27,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-28,4
+Clinical Site 03,Randomized,2,#3690c0,2015-06-29,5
+Clinical Site 03,Randomized,2,#3690c0,2015-06-30,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-01,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-02,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-03,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-04,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-05,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-06,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-07,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-08,5
+Clinical Site 03,Randomized,2,#3690c0,2015-07-09,6
+Clinical Site 03,Randomized,2,#3690c0,2015-07-10,6
+Clinical Site 03,Randomized,2,#3690c0,2015-07-11,6
+Clinical Site 03,Randomized,2,#3690c0,2015-07-12,6
+Clinical Site 03,Randomized,2,#3690c0,2015-07-13,6
+Clinical Site 03,Randomized,2,#3690c0,2015-07-14,7
+Clinical Site 03,Randomized,2,#3690c0,2015-07-15,7
 Clinical Site 03,Randomized,2,#3690c0,2015-07-16,8
-Clinical Site 03,Randomized,2,#3690c0,2015-07-17,9
-Clinical Site 03,Randomized,2,#3690c0,2015-07-18,9
-Clinical Site 03,Randomized,2,#3690c0,2015-07-19,9
-Clinical Site 03,Randomized,2,#3690c0,2015-07-20,10
-Clinical Site 03,Randomized,2,#3690c0,2015-07-21,10
-Clinical Site 03,Randomized,2,#3690c0,2015-07-22,10
-Clinical Site 03,Randomized,2,#3690c0,2015-07-23,10
-Clinical Site 03,Randomized,2,#3690c0,2015-07-24,10
-Clinical Site 03,Randomized,2,#3690c0,2015-07-25,10
+Clinical Site 03,Randomized,2,#3690c0,2015-07-17,8
+Clinical Site 03,Randomized,2,#3690c0,2015-07-18,8
+Clinical Site 03,Randomized,2,#3690c0,2015-07-19,8
+Clinical Site 03,Randomized,2,#3690c0,2015-07-20,8
+Clinical Site 03,Randomized,2,#3690c0,2015-07-21,8
+Clinical Site 03,Randomized,2,#3690c0,2015-07-22,8
+Clinical Site 03,Randomized,2,#3690c0,2015-07-23,8
+Clinical Site 03,Randomized,2,#3690c0,2015-07-24,9
+Clinical Site 03,Randomized,2,#3690c0,2015-07-25,9
 Clinical Site 03,Randomized,2,#3690c0,2015-07-26,10
 Clinical Site 03,Randomized,2,#3690c0,2015-07-27,10
 Clinical Site 03,Randomized,2,#3690c0,2015-07-28,10
 Clinical Site 03,Randomized,2,#3690c0,2015-07-29,10
 Clinical Site 03,Randomized,2,#3690c0,2015-07-30,10
-Clinical Site 03,Randomized,2,#3690c0,2015-07-31,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-01,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-02,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-03,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-04,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-05,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-06,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-07,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-08,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-09,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-10,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-11,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-12,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-13,11
-Clinical Site 03,Randomized,2,#3690c0,2015-08-14,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-15,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-16,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-17,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-18,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-19,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-20,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-21,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-22,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-23,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-24,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-25,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-26,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-27,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-28,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-29,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-30,12
-Clinical Site 03,Randomized,2,#3690c0,2015-08-31,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-01,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-02,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-03,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-04,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-05,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-06,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-07,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-08,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-09,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-10,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-11,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-12,12
+Clinical Site 03,Randomized,2,#3690c0,2015-07-31,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-01,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-02,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-03,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-04,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-05,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-06,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-07,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-08,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-09,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-10,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-11,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-12,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-13,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-14,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-15,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-16,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-17,10
+Clinical Site 03,Randomized,2,#3690c0,2015-08-18,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-19,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-20,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-21,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-22,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-23,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-24,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-25,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-26,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-27,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-28,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-29,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-30,11
+Clinical Site 03,Randomized,2,#3690c0,2015-08-31,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-01,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-02,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-03,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-04,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-05,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-06,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-07,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-08,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-09,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-10,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-11,11
+Clinical Site 03,Randomized,2,#3690c0,2015-09-12,11
 Clinical Site 03,Randomized,2,#3690c0,2015-09-13,12
 Clinical Site 03,Randomized,2,#3690c0,2015-09-14,12
 Clinical Site 03,Randomized,2,#3690c0,2015-09-15,12
 Clinical Site 03,Randomized,2,#3690c0,2015-09-16,12
-Clinical Site 03,Randomized,2,#3690c0,2015-09-17,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-18,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-19,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-20,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-21,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-22,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-23,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-24,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-25,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-26,13
-Clinical Site 03,Randomized,2,#3690c0,2015-09-27,14
-Clinical Site 03,Randomized,2,#3690c0,2015-09-28,14
-Clinical Site 03,Randomized,2,#3690c0,2015-09-29,14
-Clinical Site 03,Randomized,2,#3690c0,2015-09-30,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-01,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-02,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-03,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-04,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-05,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-06,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-07,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-08,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-09,14
+Clinical Site 03,Randomized,2,#3690c0,2015-09-17,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-18,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-19,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-20,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-21,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-22,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-23,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-24,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-25,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-26,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-27,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-28,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-29,12
+Clinical Site 03,Randomized,2,#3690c0,2015-09-30,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-01,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-02,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-03,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-04,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-05,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-06,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-07,12
+Clinical Site 03,Randomized,2,#3690c0,2015-10-08,13
+Clinical Site 03,Randomized,2,#3690c0,2015-10-09,13
 Clinical Site 03,Randomized,2,#3690c0,2015-10-10,14
-Clinical Site 03,Randomized,2,#3690c0,2015-10-11,15
-Clinical Site 03,Randomized,2,#3690c0,2015-10-12,15
-Clinical Site 03,Randomized,2,#3690c0,2015-10-13,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-14,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-15,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-16,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-17,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-18,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-19,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-20,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-21,16
+Clinical Site 03,Randomized,2,#3690c0,2015-10-11,14
+Clinical Site 03,Randomized,2,#3690c0,2015-10-12,14
+Clinical Site 03,Randomized,2,#3690c0,2015-10-13,14
+Clinical Site 03,Randomized,2,#3690c0,2015-10-14,14
+Clinical Site 03,Randomized,2,#3690c0,2015-10-15,14
+Clinical Site 03,Randomized,2,#3690c0,2015-10-16,14
+Clinical Site 03,Randomized,2,#3690c0,2015-10-17,14
+Clinical Site 03,Randomized,2,#3690c0,2015-10-18,15
+Clinical Site 03,Randomized,2,#3690c0,2015-10-19,15
+Clinical Site 03,Randomized,2,#3690c0,2015-10-20,15
+Clinical Site 03,Randomized,2,#3690c0,2015-10-21,15
 Clinical Site 03,Randomized,2,#3690c0,2015-10-22,16
 Clinical Site 03,Randomized,2,#3690c0,2015-10-23,16
 Clinical Site 03,Randomized,2,#3690c0,2015-10-24,16
@@ -2258,123 +2268,125 @@ Clinical Site 03,Randomized,2,#3690c0,2015-10-27,16
 Clinical Site 03,Randomized,2,#3690c0,2015-10-28,16
 Clinical Site 03,Randomized,2,#3690c0,2015-10-29,16
 Clinical Site 03,Randomized,2,#3690c0,2015-10-30,16
-Clinical Site 03,Randomized,2,#3690c0,2015-10-31,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-01,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-02,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-03,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-04,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-05,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-06,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-07,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-08,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-09,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-10,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-11,17
-Clinical Site 03,Randomized,2,#3690c0,2015-11-12,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-13,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-14,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-15,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-16,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-17,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-18,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-19,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-20,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-21,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-22,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-23,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-24,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-25,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-26,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-27,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-28,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-29,18
-Clinical Site 03,Randomized,2,#3690c0,2015-11-30,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-01,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-02,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-03,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-04,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-05,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-06,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-07,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-08,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-09,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-10,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-11,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-12,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-13,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-14,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-15,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-16,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-17,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-18,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-19,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-20,18
-Clinical Site 03,Randomized,2,#3690c0,2015-12-21,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-22,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-23,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-24,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-25,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-26,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-27,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-28,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-29,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-30,19
-Clinical Site 03,Randomized,2,#3690c0,2015-12-31,19
-Clinical Site 03,Randomized,2,#3690c0,2016-01-01,19
-Clinical Site 03,Randomized,2,#3690c0,2016-01-02,19
-Clinical Site 03,Randomized,2,#3690c0,2016-01-03,19
-Clinical Site 03,Randomized,2,#3690c0,2016-01-04,21
-Clinical Site 03,Randomized,2,#3690c0,2016-01-05,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-06,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-07,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-08,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-09,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-10,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-11,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-12,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-13,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-14,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-15,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-16,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-17,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-18,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-19,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-20,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-21,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-22,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-23,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-24,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-25,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-26,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-27,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-28,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-29,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-30,22
-Clinical Site 03,Randomized,2,#3690c0,2016-01-31,22
-Clinical Site 03,Randomized,2,#3690c0,2016-02-01,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-02,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-03,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-04,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-05,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-06,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-07,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-08,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-09,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-10,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-11,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-12,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-13,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-14,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-15,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-16,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-17,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-18,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-19,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-20,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-21,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-22,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-23,23
-Clinical Site 03,Randomized,2,#3690c0,2016-02-24,23
+Clinical Site 03,Randomized,2,#3690c0,2015-10-31,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-01,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-02,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-03,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-04,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-05,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-06,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-07,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-08,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-09,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-10,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-11,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-12,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-13,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-14,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-15,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-16,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-17,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-18,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-19,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-20,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-21,16
+Clinical Site 03,Randomized,2,#3690c0,2015-11-22,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-23,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-24,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-25,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-26,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-27,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-28,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-29,17
+Clinical Site 03,Randomized,2,#3690c0,2015-11-30,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-01,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-02,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-03,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-04,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-05,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-06,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-07,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-08,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-09,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-10,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-11,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-12,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-13,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-14,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-15,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-16,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-17,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-18,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-19,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-20,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-21,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-22,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-23,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-24,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-25,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-26,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-27,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-28,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-29,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-30,17
+Clinical Site 03,Randomized,2,#3690c0,2015-12-31,17
+Clinical Site 03,Randomized,2,#3690c0,2016-01-01,17
+Clinical Site 03,Randomized,2,#3690c0,2016-01-02,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-03,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-04,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-05,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-06,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-07,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-08,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-09,18
+Clinical Site 03,Randomized,2,#3690c0,2016-01-10,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-11,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-12,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-13,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-14,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-15,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-16,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-17,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-18,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-19,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-20,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-21,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-22,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-23,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-24,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-25,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-26,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-27,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-28,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-29,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-30,19
+Clinical Site 03,Randomized,2,#3690c0,2016-01-31,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-01,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-02,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-03,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-04,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-05,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-06,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-07,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-08,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-09,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-10,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-11,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-12,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-13,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-14,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-15,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-16,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-17,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-18,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-19,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-20,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-21,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-22,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-23,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-24,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-25,20
+Clinical Site 03,Randomized,2,#3690c0,2016-02-26,20
 Clinical Site 04,Screened,1,#a6bddb,2015-01-08,0
 Clinical Site 04,Screened,1,#a6bddb,2015-01-09,0
 Clinical Site 04,Screened,1,#a6bddb,2015-01-10,0
@@ -2788,6 +2800,8 @@ Clinical Site 04,Screened,1,#a6bddb,2016-02-21,30
 Clinical Site 04,Screened,1,#a6bddb,2016-02-22,30
 Clinical Site 04,Screened,1,#a6bddb,2016-02-23,30
 Clinical Site 04,Screened,1,#a6bddb,2016-02-24,30
+Clinical Site 04,Screened,1,#a6bddb,2016-02-25,30
+Clinical Site 04,Screened,1,#a6bddb,2016-02-26,30
 Clinical Site 04,Randomized,2,#3690c0,2015-01-08,0
 Clinical Site 04,Randomized,2,#3690c0,2015-01-09,0
 Clinical Site 04,Randomized,2,#3690c0,2015-01-10,0
@@ -2851,17 +2865,17 @@ Clinical Site 04,Randomized,2,#3690c0,2015-03-08,1
 Clinical Site 04,Randomized,2,#3690c0,2015-03-09,1
 Clinical Site 04,Randomized,2,#3690c0,2015-03-10,1
 Clinical Site 04,Randomized,2,#3690c0,2015-03-11,1
-Clinical Site 04,Randomized,2,#3690c0,2015-03-12,2
-Clinical Site 04,Randomized,2,#3690c0,2015-03-13,2
-Clinical Site 04,Randomized,2,#3690c0,2015-03-14,2
-Clinical Site 04,Randomized,2,#3690c0,2015-03-15,2
-Clinical Site 04,Randomized,2,#3690c0,2015-03-16,2
-Clinical Site 04,Randomized,2,#3690c0,2015-03-17,2
+Clinical Site 04,Randomized,2,#3690c0,2015-03-12,1
+Clinical Site 04,Randomized,2,#3690c0,2015-03-13,1
+Clinical Site 04,Randomized,2,#3690c0,2015-03-14,1
+Clinical Site 04,Randomized,2,#3690c0,2015-03-15,1
+Clinical Site 04,Randomized,2,#3690c0,2015-03-16,1
+Clinical Site 04,Randomized,2,#3690c0,2015-03-17,1
 Clinical Site 04,Randomized,2,#3690c0,2015-03-18,2
 Clinical Site 04,Randomized,2,#3690c0,2015-03-19,2
 Clinical Site 04,Randomized,2,#3690c0,2015-03-20,3
-Clinical Site 04,Randomized,2,#3690c0,2015-03-21,4
-Clinical Site 04,Randomized,2,#3690c0,2015-03-22,4
+Clinical Site 04,Randomized,2,#3690c0,2015-03-21,3
+Clinical Site 04,Randomized,2,#3690c0,2015-03-22,3
 Clinical Site 04,Randomized,2,#3690c0,2015-03-23,4
 Clinical Site 04,Randomized,2,#3690c0,2015-03-24,4
 Clinical Site 04,Randomized,2,#3690c0,2015-03-25,4
@@ -2933,8 +2947,8 @@ Clinical Site 04,Randomized,2,#3690c0,2015-05-29,4
 Clinical Site 04,Randomized,2,#3690c0,2015-05-30,4
 Clinical Site 04,Randomized,2,#3690c0,2015-05-31,4
 Clinical Site 04,Randomized,2,#3690c0,2015-06-01,4
-Clinical Site 04,Randomized,2,#3690c0,2015-06-02,5
-Clinical Site 04,Randomized,2,#3690c0,2015-06-03,5
+Clinical Site 04,Randomized,2,#3690c0,2015-06-02,4
+Clinical Site 04,Randomized,2,#3690c0,2015-06-03,4
 Clinical Site 04,Randomized,2,#3690c0,2015-06-04,5
 Clinical Site 04,Randomized,2,#3690c0,2015-06-05,5
 Clinical Site 04,Randomized,2,#3690c0,2015-06-06,5
@@ -2945,17 +2959,17 @@ Clinical Site 04,Randomized,2,#3690c0,2015-06-10,6
 Clinical Site 04,Randomized,2,#3690c0,2015-06-11,6
 Clinical Site 04,Randomized,2,#3690c0,2015-06-12,6
 Clinical Site 04,Randomized,2,#3690c0,2015-06-13,6
-Clinical Site 04,Randomized,2,#3690c0,2015-06-14,6
-Clinical Site 04,Randomized,2,#3690c0,2015-06-15,6
-Clinical Site 04,Randomized,2,#3690c0,2015-06-16,6
+Clinical Site 04,Randomized,2,#3690c0,2015-06-14,7
+Clinical Site 04,Randomized,2,#3690c0,2015-06-15,7
+Clinical Site 04,Randomized,2,#3690c0,2015-06-16,7
 Clinical Site 04,Randomized,2,#3690c0,2015-06-17,7
-Clinical Site 04,Randomized,2,#3690c0,2015-06-18,8
-Clinical Site 04,Randomized,2,#3690c0,2015-06-19,8
+Clinical Site 04,Randomized,2,#3690c0,2015-06-18,7
+Clinical Site 04,Randomized,2,#3690c0,2015-06-19,7
 Clinical Site 04,Randomized,2,#3690c0,2015-06-20,8
-Clinical Site 04,Randomized,2,#3690c0,2015-06-21,8
-Clinical Site 04,Randomized,2,#3690c0,2015-06-22,8
-Clinical Site 04,Randomized,2,#3690c0,2015-06-23,8
-Clinical Site 04,Randomized,2,#3690c0,2015-06-24,8
+Clinical Site 04,Randomized,2,#3690c0,2015-06-21,9
+Clinical Site 04,Randomized,2,#3690c0,2015-06-22,9
+Clinical Site 04,Randomized,2,#3690c0,2015-06-23,9
+Clinical Site 04,Randomized,2,#3690c0,2015-06-24,9
 Clinical Site 04,Randomized,2,#3690c0,2015-06-25,9
 Clinical Site 04,Randomized,2,#3690c0,2015-06-26,9
 Clinical Site 04,Randomized,2,#3690c0,2015-06-27,9
@@ -2964,243 +2978,245 @@ Clinical Site 04,Randomized,2,#3690c0,2015-06-29,10
 Clinical Site 04,Randomized,2,#3690c0,2015-06-30,10
 Clinical Site 04,Randomized,2,#3690c0,2015-07-01,10
 Clinical Site 04,Randomized,2,#3690c0,2015-07-02,10
-Clinical Site 04,Randomized,2,#3690c0,2015-07-03,10
-Clinical Site 04,Randomized,2,#3690c0,2015-07-04,10
-Clinical Site 04,Randomized,2,#3690c0,2015-07-05,10
+Clinical Site 04,Randomized,2,#3690c0,2015-07-03,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-04,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-05,11
 Clinical Site 04,Randomized,2,#3690c0,2015-07-06,11
 Clinical Site 04,Randomized,2,#3690c0,2015-07-07,11
 Clinical Site 04,Randomized,2,#3690c0,2015-07-08,11
 Clinical Site 04,Randomized,2,#3690c0,2015-07-09,11
 Clinical Site 04,Randomized,2,#3690c0,2015-07-10,11
-Clinical Site 04,Randomized,2,#3690c0,2015-07-11,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-12,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-13,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-14,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-15,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-16,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-17,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-18,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-19,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-20,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-21,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-22,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-23,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-24,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-25,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-26,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-27,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-28,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-29,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-30,12
-Clinical Site 04,Randomized,2,#3690c0,2015-07-31,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-01,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-02,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-03,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-04,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-05,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-06,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-07,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-08,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-09,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-10,12
+Clinical Site 04,Randomized,2,#3690c0,2015-07-11,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-12,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-13,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-14,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-15,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-16,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-17,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-18,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-19,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-20,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-21,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-22,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-23,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-24,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-25,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-26,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-27,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-28,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-29,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-30,11
+Clinical Site 04,Randomized,2,#3690c0,2015-07-31,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-01,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-02,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-03,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-04,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-05,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-06,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-07,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-08,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-09,11
+Clinical Site 04,Randomized,2,#3690c0,2015-08-10,11
 Clinical Site 04,Randomized,2,#3690c0,2015-08-11,12
 Clinical Site 04,Randomized,2,#3690c0,2015-08-12,12
 Clinical Site 04,Randomized,2,#3690c0,2015-08-13,12
 Clinical Site 04,Randomized,2,#3690c0,2015-08-14,12
-Clinical Site 04,Randomized,2,#3690c0,2015-08-15,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-16,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-17,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-18,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-19,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-20,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-21,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-22,13
-Clinical Site 04,Randomized,2,#3690c0,2015-08-23,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-24,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-25,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-26,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-27,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-28,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-29,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-30,14
-Clinical Site 04,Randomized,2,#3690c0,2015-08-31,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-01,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-02,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-03,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-04,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-05,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-06,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-07,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-08,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-09,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-10,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-11,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-12,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-13,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-14,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-15,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-16,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-17,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-18,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-19,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-20,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-21,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-22,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-23,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-24,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-25,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-26,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-27,14
-Clinical Site 04,Randomized,2,#3690c0,2015-09-28,15
-Clinical Site 04,Randomized,2,#3690c0,2015-09-29,15
-Clinical Site 04,Randomized,2,#3690c0,2015-09-30,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-01,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-02,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-03,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-04,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-05,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-06,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-07,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-08,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-09,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-10,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-11,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-12,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-13,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-14,15
-Clinical Site 04,Randomized,2,#3690c0,2015-10-15,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-16,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-17,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-18,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-19,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-20,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-21,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-22,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-23,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-24,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-25,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-26,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-27,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-28,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-29,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-30,16
-Clinical Site 04,Randomized,2,#3690c0,2015-10-31,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-01,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-02,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-03,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-04,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-05,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-06,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-07,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-08,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-09,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-10,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-11,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-12,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-13,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-14,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-15,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-16,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-17,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-18,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-19,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-20,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-21,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-22,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-23,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-24,16
-Clinical Site 04,Randomized,2,#3690c0,2015-11-25,17
-Clinical Site 04,Randomized,2,#3690c0,2015-11-26,17
-Clinical Site 04,Randomized,2,#3690c0,2015-11-27,17
-Clinical Site 04,Randomized,2,#3690c0,2015-11-28,17
-Clinical Site 04,Randomized,2,#3690c0,2015-11-29,17
-Clinical Site 04,Randomized,2,#3690c0,2015-11-30,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-01,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-02,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-03,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-04,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-05,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-06,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-07,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-08,17
-Clinical Site 04,Randomized,2,#3690c0,2015-12-09,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-10,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-11,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-12,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-13,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-14,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-15,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-16,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-17,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-18,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-19,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-20,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-21,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-22,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-23,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-24,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-25,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-26,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-27,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-28,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-29,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-30,18
-Clinical Site 04,Randomized,2,#3690c0,2015-12-31,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-01,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-02,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-03,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-04,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-05,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-06,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-07,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-08,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-09,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-10,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-11,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-12,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-13,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-14,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-15,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-16,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-17,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-18,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-19,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-20,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-21,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-22,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-23,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-24,18
-Clinical Site 04,Randomized,2,#3690c0,2016-01-25,19
-Clinical Site 04,Randomized,2,#3690c0,2016-01-26,19
-Clinical Site 04,Randomized,2,#3690c0,2016-01-27,19
-Clinical Site 04,Randomized,2,#3690c0,2016-01-28,19
-Clinical Site 04,Randomized,2,#3690c0,2016-01-29,19
-Clinical Site 04,Randomized,2,#3690c0,2016-01-30,19
-Clinical Site 04,Randomized,2,#3690c0,2016-01-31,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-01,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-02,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-03,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-04,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-05,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-06,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-07,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-08,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-09,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-10,19
-Clinical Site 04,Randomized,2,#3690c0,2016-02-11,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-12,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-13,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-14,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-15,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-16,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-17,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-18,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-19,20
-Clinical Site 04,Randomized,2,#3690c0,2016-02-20,21
-Clinical Site 04,Randomized,2,#3690c0,2016-02-21,21
-Clinical Site 04,Randomized,2,#3690c0,2016-02-22,21
-Clinical Site 04,Randomized,2,#3690c0,2016-02-23,21
-Clinical Site 04,Randomized,2,#3690c0,2016-02-24,21
+Clinical Site 04,Randomized,2,#3690c0,2015-08-15,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-16,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-17,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-18,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-19,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-20,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-21,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-22,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-23,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-24,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-25,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-26,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-27,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-28,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-29,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-30,12
+Clinical Site 04,Randomized,2,#3690c0,2015-08-31,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-01,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-02,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-03,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-04,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-05,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-06,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-07,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-08,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-09,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-10,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-11,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-12,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-13,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-14,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-15,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-16,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-17,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-18,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-19,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-20,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-21,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-22,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-23,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-24,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-25,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-26,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-27,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-28,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-29,12
+Clinical Site 04,Randomized,2,#3690c0,2015-09-30,12
+Clinical Site 04,Randomized,2,#3690c0,2015-10-01,12
+Clinical Site 04,Randomized,2,#3690c0,2015-10-02,12
+Clinical Site 04,Randomized,2,#3690c0,2015-10-03,13
+Clinical Site 04,Randomized,2,#3690c0,2015-10-04,13
+Clinical Site 04,Randomized,2,#3690c0,2015-10-05,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-06,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-07,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-08,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-09,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-10,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-11,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-12,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-13,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-14,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-15,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-16,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-17,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-18,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-19,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-20,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-21,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-22,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-23,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-24,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-25,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-26,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-27,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-28,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-29,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-30,14
+Clinical Site 04,Randomized,2,#3690c0,2015-10-31,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-01,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-02,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-03,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-04,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-05,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-06,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-07,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-08,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-09,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-10,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-11,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-12,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-13,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-14,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-15,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-16,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-17,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-18,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-19,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-20,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-21,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-22,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-23,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-24,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-25,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-26,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-27,14
+Clinical Site 04,Randomized,2,#3690c0,2015-11-28,15
+Clinical Site 04,Randomized,2,#3690c0,2015-11-29,15
+Clinical Site 04,Randomized,2,#3690c0,2015-11-30,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-01,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-02,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-03,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-04,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-05,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-06,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-07,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-08,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-09,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-10,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-11,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-12,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-13,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-14,15
+Clinical Site 04,Randomized,2,#3690c0,2015-12-15,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-16,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-17,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-18,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-19,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-20,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-21,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-22,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-23,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-24,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-25,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-26,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-27,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-28,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-29,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-30,16
+Clinical Site 04,Randomized,2,#3690c0,2015-12-31,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-01,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-02,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-03,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-04,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-05,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-06,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-07,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-08,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-09,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-10,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-11,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-12,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-13,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-14,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-15,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-16,16
+Clinical Site 04,Randomized,2,#3690c0,2016-01-17,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-18,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-19,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-20,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-21,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-22,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-23,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-24,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-25,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-26,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-27,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-28,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-29,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-30,17
+Clinical Site 04,Randomized,2,#3690c0,2016-01-31,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-01,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-02,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-03,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-04,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-05,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-06,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-07,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-08,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-09,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-10,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-11,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-12,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-13,17
+Clinical Site 04,Randomized,2,#3690c0,2016-02-14,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-15,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-16,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-17,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-18,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-19,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-20,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-21,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-22,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-23,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-24,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-25,18
+Clinical Site 04,Randomized,2,#3690c0,2016-02-26,19
 Clinical Site 05,Screened,1,#a6bddb,2015-01-05,0
 Clinical Site 05,Screened,1,#a6bddb,2015-01-06,0
 Clinical Site 05,Screened,1,#a6bddb,2015-01-07,0
@@ -3617,6 +3633,8 @@ Clinical Site 05,Screened,1,#a6bddb,2016-02-21,30
 Clinical Site 05,Screened,1,#a6bddb,2016-02-22,30
 Clinical Site 05,Screened,1,#a6bddb,2016-02-23,30
 Clinical Site 05,Screened,1,#a6bddb,2016-02-24,30
+Clinical Site 05,Screened,1,#a6bddb,2016-02-25,30
+Clinical Site 05,Screened,1,#a6bddb,2016-02-26,30
 Clinical Site 05,Randomized,2,#3690c0,2015-01-05,0
 Clinical Site 05,Randomized,2,#3690c0,2015-01-06,0
 Clinical Site 05,Randomized,2,#3690c0,2015-01-07,0
@@ -3676,24 +3694,24 @@ Clinical Site 05,Randomized,2,#3690c0,2015-03-01,0
 Clinical Site 05,Randomized,2,#3690c0,2015-03-02,0
 Clinical Site 05,Randomized,2,#3690c0,2015-03-03,0
 Clinical Site 05,Randomized,2,#3690c0,2015-03-04,0
-Clinical Site 05,Randomized,2,#3690c0,2015-03-05,1
-Clinical Site 05,Randomized,2,#3690c0,2015-03-06,1
+Clinical Site 05,Randomized,2,#3690c0,2015-03-05,0
+Clinical Site 05,Randomized,2,#3690c0,2015-03-06,0
 Clinical Site 05,Randomized,2,#3690c0,2015-03-07,1
 Clinical Site 05,Randomized,2,#3690c0,2015-03-08,1
 Clinical Site 05,Randomized,2,#3690c0,2015-03-09,1
 Clinical Site 05,Randomized,2,#3690c0,2015-03-10,1
-Clinical Site 05,Randomized,2,#3690c0,2015-03-11,2
-Clinical Site 05,Randomized,2,#3690c0,2015-03-12,2
+Clinical Site 05,Randomized,2,#3690c0,2015-03-11,1
+Clinical Site 05,Randomized,2,#3690c0,2015-03-12,1
 Clinical Site 05,Randomized,2,#3690c0,2015-03-13,2
-Clinical Site 05,Randomized,2,#3690c0,2015-03-14,2
-Clinical Site 05,Randomized,2,#3690c0,2015-03-15,2
-Clinical Site 05,Randomized,2,#3690c0,2015-03-16,2
-Clinical Site 05,Randomized,2,#3690c0,2015-03-17,2
+Clinical Site 05,Randomized,2,#3690c0,2015-03-14,3
+Clinical Site 05,Randomized,2,#3690c0,2015-03-15,3
+Clinical Site 05,Randomized,2,#3690c0,2015-03-16,3
+Clinical Site 05,Randomized,2,#3690c0,2015-03-17,3
 Clinical Site 05,Randomized,2,#3690c0,2015-03-18,3
 Clinical Site 05,Randomized,2,#3690c0,2015-03-19,3
 Clinical Site 05,Randomized,2,#3690c0,2015-03-20,3
 Clinical Site 05,Randomized,2,#3690c0,2015-03-21,3
-Clinical Site 05,Randomized,2,#3690c0,2015-03-22,4
+Clinical Site 05,Randomized,2,#3690c0,2015-03-22,3
 Clinical Site 05,Randomized,2,#3690c0,2015-03-23,4
 Clinical Site 05,Randomized,2,#3690c0,2015-03-24,4
 Clinical Site 05,Randomized,2,#3690c0,2015-03-25,4
@@ -3703,12 +3721,12 @@ Clinical Site 05,Randomized,2,#3690c0,2015-03-28,4
 Clinical Site 05,Randomized,2,#3690c0,2015-03-29,4
 Clinical Site 05,Randomized,2,#3690c0,2015-03-30,4
 Clinical Site 05,Randomized,2,#3690c0,2015-03-31,4
-Clinical Site 05,Randomized,2,#3690c0,2015-04-01,6
-Clinical Site 05,Randomized,2,#3690c0,2015-04-02,6
-Clinical Site 05,Randomized,2,#3690c0,2015-04-03,6
-Clinical Site 05,Randomized,2,#3690c0,2015-04-04,6
-Clinical Site 05,Randomized,2,#3690c0,2015-04-05,6
-Clinical Site 05,Randomized,2,#3690c0,2015-04-06,6
+Clinical Site 05,Randomized,2,#3690c0,2015-04-01,4
+Clinical Site 05,Randomized,2,#3690c0,2015-04-02,4
+Clinical Site 05,Randomized,2,#3690c0,2015-04-03,4
+Clinical Site 05,Randomized,2,#3690c0,2015-04-04,4
+Clinical Site 05,Randomized,2,#3690c0,2015-04-05,5
+Clinical Site 05,Randomized,2,#3690c0,2015-04-06,5
 Clinical Site 05,Randomized,2,#3690c0,2015-04-07,6
 Clinical Site 05,Randomized,2,#3690c0,2015-04-08,6
 Clinical Site 05,Randomized,2,#3690c0,2015-04-09,6
@@ -3725,12 +3743,12 @@ Clinical Site 05,Randomized,2,#3690c0,2015-04-19,6
 Clinical Site 05,Randomized,2,#3690c0,2015-04-20,6
 Clinical Site 05,Randomized,2,#3690c0,2015-04-21,6
 Clinical Site 05,Randomized,2,#3690c0,2015-04-22,6
-Clinical Site 05,Randomized,2,#3690c0,2015-04-23,7
-Clinical Site 05,Randomized,2,#3690c0,2015-04-24,7
-Clinical Site 05,Randomized,2,#3690c0,2015-04-25,7
-Clinical Site 05,Randomized,2,#3690c0,2015-04-26,7
-Clinical Site 05,Randomized,2,#3690c0,2015-04-27,7
-Clinical Site 05,Randomized,2,#3690c0,2015-04-28,7
+Clinical Site 05,Randomized,2,#3690c0,2015-04-23,6
+Clinical Site 05,Randomized,2,#3690c0,2015-04-24,6
+Clinical Site 05,Randomized,2,#3690c0,2015-04-25,6
+Clinical Site 05,Randomized,2,#3690c0,2015-04-26,6
+Clinical Site 05,Randomized,2,#3690c0,2015-04-27,6
+Clinical Site 05,Randomized,2,#3690c0,2015-04-28,6
 Clinical Site 05,Randomized,2,#3690c0,2015-04-29,7
 Clinical Site 05,Randomized,2,#3690c0,2015-04-30,7
 Clinical Site 05,Randomized,2,#3690c0,2015-05-01,7
@@ -3764,18 +3782,18 @@ Clinical Site 05,Randomized,2,#3690c0,2015-05-28,7
 Clinical Site 05,Randomized,2,#3690c0,2015-05-29,7
 Clinical Site 05,Randomized,2,#3690c0,2015-05-30,7
 Clinical Site 05,Randomized,2,#3690c0,2015-05-31,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-01,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-02,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-03,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-04,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-05,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-06,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-07,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-08,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-09,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-10,7
-Clinical Site 05,Randomized,2,#3690c0,2015-06-11,8
-Clinical Site 05,Randomized,2,#3690c0,2015-06-12,9
+Clinical Site 05,Randomized,2,#3690c0,2015-06-01,8
+Clinical Site 05,Randomized,2,#3690c0,2015-06-02,8
+Clinical Site 05,Randomized,2,#3690c0,2015-06-03,8
+Clinical Site 05,Randomized,2,#3690c0,2015-06-04,8
+Clinical Site 05,Randomized,2,#3690c0,2015-06-05,9
+Clinical Site 05,Randomized,2,#3690c0,2015-06-06,9
+Clinical Site 05,Randomized,2,#3690c0,2015-06-07,9
+Clinical Site 05,Randomized,2,#3690c0,2015-06-08,9
+Clinical Site 05,Randomized,2,#3690c0,2015-06-09,9
+Clinical Site 05,Randomized,2,#3690c0,2015-06-10,9
+Clinical Site 05,Randomized,2,#3690c0,2015-06-11,10
+Clinical Site 05,Randomized,2,#3690c0,2015-06-12,10
 Clinical Site 05,Randomized,2,#3690c0,2015-06-13,10
 Clinical Site 05,Randomized,2,#3690c0,2015-06-14,10
 Clinical Site 05,Randomized,2,#3690c0,2015-06-15,10
@@ -3799,18 +3817,18 @@ Clinical Site 05,Randomized,2,#3690c0,2015-07-02,10
 Clinical Site 05,Randomized,2,#3690c0,2015-07-03,10
 Clinical Site 05,Randomized,2,#3690c0,2015-07-04,10
 Clinical Site 05,Randomized,2,#3690c0,2015-07-05,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-06,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-07,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-08,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-09,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-10,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-11,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-12,10
-Clinical Site 05,Randomized,2,#3690c0,2015-07-13,10
+Clinical Site 05,Randomized,2,#3690c0,2015-07-06,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-07,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-08,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-09,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-10,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-11,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-12,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-13,11
 Clinical Site 05,Randomized,2,#3690c0,2015-07-14,11
 Clinical Site 05,Randomized,2,#3690c0,2015-07-15,11
-Clinical Site 05,Randomized,2,#3690c0,2015-07-16,11
-Clinical Site 05,Randomized,2,#3690c0,2015-07-17,11
+Clinical Site 05,Randomized,2,#3690c0,2015-07-16,12
+Clinical Site 05,Randomized,2,#3690c0,2015-07-17,12
 Clinical Site 05,Randomized,2,#3690c0,2015-07-18,12
 Clinical Site 05,Randomized,2,#3690c0,2015-07-19,12
 Clinical Site 05,Randomized,2,#3690c0,2015-07-20,12
@@ -3818,11 +3836,11 @@ Clinical Site 05,Randomized,2,#3690c0,2015-07-21,12
 Clinical Site 05,Randomized,2,#3690c0,2015-07-22,12
 Clinical Site 05,Randomized,2,#3690c0,2015-07-23,12
 Clinical Site 05,Randomized,2,#3690c0,2015-07-24,12
-Clinical Site 05,Randomized,2,#3690c0,2015-07-25,12
-Clinical Site 05,Randomized,2,#3690c0,2015-07-26,12
-Clinical Site 05,Randomized,2,#3690c0,2015-07-27,12
-Clinical Site 05,Randomized,2,#3690c0,2015-07-28,12
-Clinical Site 05,Randomized,2,#3690c0,2015-07-29,12
+Clinical Site 05,Randomized,2,#3690c0,2015-07-25,13
+Clinical Site 05,Randomized,2,#3690c0,2015-07-26,13
+Clinical Site 05,Randomized,2,#3690c0,2015-07-27,13
+Clinical Site 05,Randomized,2,#3690c0,2015-07-28,13
+Clinical Site 05,Randomized,2,#3690c0,2015-07-29,13
 Clinical Site 05,Randomized,2,#3690c0,2015-07-30,13
 Clinical Site 05,Randomized,2,#3690c0,2015-07-31,13
 Clinical Site 05,Randomized,2,#3690c0,2015-08-01,13
@@ -3851,194 +3869,196 @@ Clinical Site 05,Randomized,2,#3690c0,2015-08-23,13
 Clinical Site 05,Randomized,2,#3690c0,2015-08-24,13
 Clinical Site 05,Randomized,2,#3690c0,2015-08-25,13
 Clinical Site 05,Randomized,2,#3690c0,2015-08-26,13
-Clinical Site 05,Randomized,2,#3690c0,2015-08-27,14
+Clinical Site 05,Randomized,2,#3690c0,2015-08-27,13
 Clinical Site 05,Randomized,2,#3690c0,2015-08-28,14
 Clinical Site 05,Randomized,2,#3690c0,2015-08-29,14
-Clinical Site 05,Randomized,2,#3690c0,2015-08-30,15
-Clinical Site 05,Randomized,2,#3690c0,2015-08-31,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-01,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-02,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-03,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-04,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-05,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-06,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-07,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-08,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-09,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-10,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-11,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-12,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-13,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-14,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-15,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-16,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-17,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-18,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-19,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-20,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-21,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-22,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-23,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-24,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-25,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-26,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-27,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-28,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-29,15
-Clinical Site 05,Randomized,2,#3690c0,2015-09-30,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-01,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-02,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-03,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-04,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-05,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-06,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-07,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-08,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-09,15
-Clinical Site 05,Randomized,2,#3690c0,2015-10-10,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-11,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-12,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-13,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-14,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-15,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-16,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-17,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-18,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-19,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-20,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-21,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-22,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-23,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-24,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-25,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-26,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-27,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-28,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-29,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-30,16
-Clinical Site 05,Randomized,2,#3690c0,2015-10-31,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-01,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-02,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-03,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-04,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-05,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-06,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-07,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-08,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-09,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-10,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-11,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-12,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-13,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-14,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-15,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-16,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-17,16
-Clinical Site 05,Randomized,2,#3690c0,2015-11-18,17
-Clinical Site 05,Randomized,2,#3690c0,2015-11-19,17
-Clinical Site 05,Randomized,2,#3690c0,2015-11-20,17
-Clinical Site 05,Randomized,2,#3690c0,2015-11-21,17
-Clinical Site 05,Randomized,2,#3690c0,2015-11-22,17
-Clinical Site 05,Randomized,2,#3690c0,2015-11-23,17
-Clinical Site 05,Randomized,2,#3690c0,2015-11-24,18
-Clinical Site 05,Randomized,2,#3690c0,2015-11-25,18
-Clinical Site 05,Randomized,2,#3690c0,2015-11-26,18
-Clinical Site 05,Randomized,2,#3690c0,2015-11-27,18
-Clinical Site 05,Randomized,2,#3690c0,2015-11-28,18
-Clinical Site 05,Randomized,2,#3690c0,2015-11-29,19
-Clinical Site 05,Randomized,2,#3690c0,2015-11-30,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-01,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-02,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-03,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-04,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-05,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-06,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-07,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-08,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-09,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-10,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-11,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-12,19
-Clinical Site 05,Randomized,2,#3690c0,2015-12-13,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-14,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-15,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-16,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-17,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-18,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-19,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-20,20
-Clinical Site 05,Randomized,2,#3690c0,2015-12-21,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-22,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-23,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-24,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-25,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-26,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-27,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-28,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-29,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-30,21
-Clinical Site 05,Randomized,2,#3690c0,2015-12-31,21
-Clinical Site 05,Randomized,2,#3690c0,2016-01-01,21
-Clinical Site 05,Randomized,2,#3690c0,2016-01-02,22
-Clinical Site 05,Randomized,2,#3690c0,2016-01-03,22
-Clinical Site 05,Randomized,2,#3690c0,2016-01-04,22
-Clinical Site 05,Randomized,2,#3690c0,2016-01-05,22
-Clinical Site 05,Randomized,2,#3690c0,2016-01-06,22
-Clinical Site 05,Randomized,2,#3690c0,2016-01-07,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-08,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-09,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-10,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-11,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-12,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-13,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-14,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-15,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-16,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-17,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-18,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-19,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-20,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-21,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-22,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-23,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-24,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-25,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-26,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-27,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-28,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-29,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-30,23
-Clinical Site 05,Randomized,2,#3690c0,2016-01-31,24
-Clinical Site 05,Randomized,2,#3690c0,2016-02-01,24
-Clinical Site 05,Randomized,2,#3690c0,2016-02-02,24
-Clinical Site 05,Randomized,2,#3690c0,2016-02-03,24
-Clinical Site 05,Randomized,2,#3690c0,2016-02-04,24
-Clinical Site 05,Randomized,2,#3690c0,2016-02-05,24
-Clinical Site 05,Randomized,2,#3690c0,2016-02-06,25
-Clinical Site 05,Randomized,2,#3690c0,2016-02-07,25
-Clinical Site 05,Randomized,2,#3690c0,2016-02-08,25
-Clinical Site 05,Randomized,2,#3690c0,2016-02-09,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-10,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-11,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-12,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-13,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-14,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-15,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-16,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-17,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-18,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-19,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-20,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-21,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-22,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-23,26
-Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
+Clinical Site 05,Randomized,2,#3690c0,2015-08-30,14
+Clinical Site 05,Randomized,2,#3690c0,2015-08-31,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-01,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-02,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-03,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-04,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-05,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-06,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-07,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-08,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-09,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-10,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-11,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-12,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-13,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-14,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-15,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-16,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-17,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-18,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-19,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-20,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-21,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-22,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-23,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-24,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-25,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-26,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-27,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-28,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-29,14
+Clinical Site 05,Randomized,2,#3690c0,2015-09-30,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-01,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-02,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-03,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-04,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-05,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-06,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-07,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-08,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-09,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-10,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-11,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-12,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-13,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-14,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-15,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-16,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-17,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-18,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-19,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-20,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-21,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-22,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-23,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-24,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-25,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-26,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-27,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-28,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-29,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-30,14
+Clinical Site 05,Randomized,2,#3690c0,2015-10-31,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-01,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-02,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-03,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-04,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-05,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-06,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-07,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-08,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-09,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-10,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-11,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-12,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-13,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-14,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-15,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-16,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-17,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-18,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-19,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-20,14
+Clinical Site 05,Randomized,2,#3690c0,2015-11-21,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-22,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-23,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-24,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-25,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-26,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-27,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-28,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-29,15
+Clinical Site 05,Randomized,2,#3690c0,2015-11-30,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-01,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-02,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-03,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-04,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-05,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-06,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-07,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-08,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-09,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-10,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-11,15
+Clinical Site 05,Randomized,2,#3690c0,2015-12-12,16
+Clinical Site 05,Randomized,2,#3690c0,2015-12-13,16
+Clinical Site 05,Randomized,2,#3690c0,2015-12-14,16
+Clinical Site 05,Randomized,2,#3690c0,2015-12-15,17
+Clinical Site 05,Randomized,2,#3690c0,2015-12-16,17
+Clinical Site 05,Randomized,2,#3690c0,2015-12-17,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-18,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-19,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-20,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-21,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-22,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-23,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-24,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-25,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-26,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-27,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-28,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-29,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-30,18
+Clinical Site 05,Randomized,2,#3690c0,2015-12-31,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-01,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-02,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-03,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-04,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-05,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-06,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-07,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-08,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-09,18
+Clinical Site 05,Randomized,2,#3690c0,2016-01-10,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-11,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-12,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-13,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-14,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-15,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-16,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-17,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-18,19
+Clinical Site 05,Randomized,2,#3690c0,2016-01-19,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-20,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-21,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-22,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-23,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-24,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-25,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-26,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-27,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-28,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-29,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-30,20
+Clinical Site 05,Randomized,2,#3690c0,2016-01-31,20
+Clinical Site 05,Randomized,2,#3690c0,2016-02-01,20
+Clinical Site 05,Randomized,2,#3690c0,2016-02-02,20
+Clinical Site 05,Randomized,2,#3690c0,2016-02-03,21
+Clinical Site 05,Randomized,2,#3690c0,2016-02-04,21
+Clinical Site 05,Randomized,2,#3690c0,2016-02-05,21
+Clinical Site 05,Randomized,2,#3690c0,2016-02-06,21
+Clinical Site 05,Randomized,2,#3690c0,2016-02-07,21
+Clinical Site 05,Randomized,2,#3690c0,2016-02-08,21
+Clinical Site 05,Randomized,2,#3690c0,2016-02-09,21
+Clinical Site 05,Randomized,2,#3690c0,2016-02-10,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-11,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-12,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-13,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-14,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-15,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-16,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-17,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-18,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-19,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-20,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-21,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-22,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-23,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-24,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-25,22
+Clinical Site 05,Randomized,2,#3690c0,2016-02-26,22
 "",Target,3,#034e7b,2015-01-01,0.0835654596100279
 "",Target,3,#034e7b,2015-01-02,0.167130919220056
 "",Target,3,#034e7b,2015-01-03,0.250696378830084
 "",Target,3,#034e7b,2015-01-04,0.334261838440111
 "",Target,3,#034e7b,2015-01-05,0.503541583764425
-"",Target,3,#034e7b,2015-01-06,0.672821329088739
+"",Target,3,#034e7b,2015-01-06,0.672821329088738
 "",Target,3,#034e7b,2015-01-07,0.842101074413052
 "",Target,3,#034e7b,2015-01-08,1.09541443318274
 "",Target,3,#034e7b,2015-01-09,1.34872779195244
@@ -4049,29 +4069,29 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-01-14,2.61529458580089
 "",Target,3,#034e7b,2015-01-15,2.86860794457059
 "",Target,3,#034e7b,2015-01-16,3.12192130334028
-"",Target,3,#034e7b,2015-01-17,3.37523466210997
+"",Target,3,#034e7b,2015-01-17,3.37523466210996
 "",Target,3,#034e7b,2015-01-18,3.62854802087966
-"",Target,3,#034e7b,2015-01-19,3.88186137964935
-"",Target,3,#034e7b,2015-01-20,4.13517473841904
+"",Target,3,#034e7b,2015-01-19,3.88186137964936
+"",Target,3,#034e7b,2015-01-20,4.13517473841905
 "",Target,3,#034e7b,2015-01-21,4.38848809718874
-"",Target,3,#034e7b,2015-01-22,4.64180145595843
+"",Target,3,#034e7b,2015-01-22,4.64180145595842
 "",Target,3,#034e7b,2015-01-23,4.89511481472812
 "",Target,3,#034e7b,2015-01-24,5.14842817349781
-"",Target,3,#034e7b,2015-01-25,5.4017415322675
+"",Target,3,#034e7b,2015-01-25,5.40174153226751
 "",Target,3,#034e7b,2015-01-26,5.6550548910372
-"",Target,3,#034e7b,2015-01-27,5.90836824980689
+"",Target,3,#034e7b,2015-01-27,5.90836824980688
 "",Target,3,#034e7b,2015-01-28,6.16168160857658
 "",Target,3,#034e7b,2015-01-29,6.41499496734627
-"",Target,3,#034e7b,2015-01-30,6.66830832611596
+"",Target,3,#034e7b,2015-01-30,6.66830832611597
 "",Target,3,#034e7b,2015-01-31,6.92162168488565
 "",Target,3,#034e7b,2015-02-01,7.27170923720373
 "",Target,3,#034e7b,2015-02-02,7.62179678952181
 "",Target,3,#034e7b,2015-02-03,7.97188434183989
-"",Target,3,#034e7b,2015-02-04,8.32197189415797
+"",Target,3,#034e7b,2015-02-04,8.32197189415798
 "",Target,3,#034e7b,2015-02-05,8.67205944647605
 "",Target,3,#034e7b,2015-02-06,9.02214699879413
-"",Target,3,#034e7b,2015-02-07,9.37223455111221
-"",Target,3,#034e7b,2015-02-08,9.72232210343028
+"",Target,3,#034e7b,2015-02-07,9.3722345511122
+"",Target,3,#034e7b,2015-02-08,9.72232210343029
 "",Target,3,#034e7b,2015-02-09,10.0724096557484
 "",Target,3,#034e7b,2015-02-10,10.4224972080664
 "",Target,3,#034e7b,2015-02-11,10.8646093002618
@@ -4082,7 +4102,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-02-16,13.0751697612387
 "",Target,3,#034e7b,2015-02-17,13.5172818534341
 "",Target,3,#034e7b,2015-02-18,13.9593939456295
-"",Target,3,#034e7b,2015-02-19,14.4015060378249
+"",Target,3,#034e7b,2015-02-19,14.4015060378248
 "",Target,3,#034e7b,2015-02-20,14.8436181300202
 "",Target,3,#034e7b,2015-02-21,15.2857302222156
 "",Target,3,#034e7b,2015-02-22,15.727842314411
@@ -4102,7 +4122,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-03-08,21.9174116051463
 "",Target,3,#034e7b,2015-03-09,22.3595236973417
 "",Target,3,#034e7b,2015-03-10,22.8016357895371
-"",Target,3,#034e7b,2015-03-11,23.2437478817324
+"",Target,3,#034e7b,2015-03-11,23.2437478817325
 "",Target,3,#034e7b,2015-03-12,23.6858599739278
 "",Target,3,#034e7b,2015-03-13,24.1279720661232
 "",Target,3,#034e7b,2015-03-14,24.5700841583186
@@ -4126,17 +4146,17 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-04-01,32.5281018178354
 "",Target,3,#034e7b,2015-04-02,32.9702139100308
 "",Target,3,#034e7b,2015-04-03,33.4123260022262
-"",Target,3,#034e7b,2015-04-04,33.8544380944216
+"",Target,3,#034e7b,2015-04-04,33.8544380944215
 "",Target,3,#034e7b,2015-04-05,34.2965501866169
 "",Target,3,#034e7b,2015-04-06,34.7386622788123
 "",Target,3,#034e7b,2015-04-07,35.1807743710077
 "",Target,3,#034e7b,2015-04-08,35.6228864632031
-"",Target,3,#034e7b,2015-04-09,36.0649985553984
+"",Target,3,#034e7b,2015-04-09,36.0649985553985
 "",Target,3,#034e7b,2015-04-10,36.5071106475938
 "",Target,3,#034e7b,2015-04-11,36.9492227397892
 "",Target,3,#034e7b,2015-04-12,37.3913348319846
 "",Target,3,#034e7b,2015-04-13,37.83344692418
-"",Target,3,#034e7b,2015-04-14,38.2755590163753
+"",Target,3,#034e7b,2015-04-14,38.2755590163754
 "",Target,3,#034e7b,2015-04-15,38.7176711085707
 "",Target,3,#034e7b,2015-04-16,39.1597832007661
 "",Target,3,#034e7b,2015-04-17,39.6018952929615
@@ -4146,7 +4166,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-04-21,41.370343661743
 "",Target,3,#034e7b,2015-04-22,41.8124557539384
 "",Target,3,#034e7b,2015-04-23,42.2545678461338
-"",Target,3,#034e7b,2015-04-24,42.6966799383291
+"",Target,3,#034e7b,2015-04-24,42.6966799383292
 "",Target,3,#034e7b,2015-04-25,43.1387920305245
 "",Target,3,#034e7b,2015-04-26,43.5809041227199
 "",Target,3,#034e7b,2015-04-27,44.0230162149153
@@ -4155,95 +4175,95 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-04-30,45.3493524915014
 "",Target,3,#034e7b,2015-05-01,45.7914645836968
 "",Target,3,#034e7b,2015-05-02,46.2335766758922
-"",Target,3,#034e7b,2015-05-03,46.6756887680876
-"",Target,3,#034e7b,2015-05-04,47.1178008602829
-"",Target,3,#034e7b,2015-05-05,47.5599129524783
+"",Target,3,#034e7b,2015-05-03,46.6756887680875
+"",Target,3,#034e7b,2015-05-04,47.117800860283
+"",Target,3,#034e7b,2015-05-05,47.5599129524784
 "",Target,3,#034e7b,2015-05-06,48.0020250446737
-"",Target,3,#034e7b,2015-05-07,48.4441371368691
+"",Target,3,#034e7b,2015-05-07,48.444137136869
 "",Target,3,#034e7b,2015-05-08,48.8862492290645
 "",Target,3,#034e7b,2015-05-09,49.3283613212598
 "",Target,3,#034e7b,2015-05-10,49.7704734134552
 "",Target,3,#034e7b,2015-05-11,50.2125855056506
-"",Target,3,#034e7b,2015-05-12,50.654697597846
+"",Target,3,#034e7b,2015-05-12,50.6546975978461
 "",Target,3,#034e7b,2015-05-13,51.0968096900414
-"",Target,3,#034e7b,2015-05-14,51.5389217822367
-"",Target,3,#034e7b,2015-05-15,51.9810338744321
+"",Target,3,#034e7b,2015-05-14,51.5389217822366
+"",Target,3,#034e7b,2015-05-15,51.9810338744322
 "",Target,3,#034e7b,2015-05-16,52.4231459666275
 "",Target,3,#034e7b,2015-05-17,52.8652580588229
-"",Target,3,#034e7b,2015-05-18,53.3073701510183
-"",Target,3,#034e7b,2015-05-19,53.7494822432136
-"",Target,3,#034e7b,2015-05-20,54.191594335409
+"",Target,3,#034e7b,2015-05-18,53.3073701510182
+"",Target,3,#034e7b,2015-05-19,53.7494822432137
+"",Target,3,#034e7b,2015-05-20,54.1915943354091
 "",Target,3,#034e7b,2015-05-21,54.6337064276044
-"",Target,3,#034e7b,2015-05-22,55.0758185197998
+"",Target,3,#034e7b,2015-05-22,55.0758185197999
 "",Target,3,#034e7b,2015-05-23,55.5179306119952
 "",Target,3,#034e7b,2015-05-24,55.9600427041905
 "",Target,3,#034e7b,2015-05-25,56.4021547963859
-"",Target,3,#034e7b,2015-05-26,56.8442668885813
+"",Target,3,#034e7b,2015-05-26,56.8442668885814
 "",Target,3,#034e7b,2015-05-27,57.2863789807767
-"",Target,3,#034e7b,2015-05-28,57.7284910729721
-"",Target,3,#034e7b,2015-05-29,58.1706031651674
-"",Target,3,#034e7b,2015-05-30,58.6127152573628
-"",Target,3,#034e7b,2015-05-31,59.0548273495582
-"",Target,3,#034e7b,2015-06-01,59.4969394417536
+"",Target,3,#034e7b,2015-05-28,57.728491072972
+"",Target,3,#034e7b,2015-05-29,58.1706031651675
+"",Target,3,#034e7b,2015-05-30,58.6127152573629
+"",Target,3,#034e7b,2015-05-31,59.0548273495583
+"",Target,3,#034e7b,2015-06-01,59.4969394417535
 "",Target,3,#034e7b,2015-06-02,59.939051533949
-"",Target,3,#034e7b,2015-06-03,60.3811636261443
+"",Target,3,#034e7b,2015-06-03,60.3811636261444
 "",Target,3,#034e7b,2015-06-04,60.8232757183397
-"",Target,3,#034e7b,2015-06-05,61.2653878105351
+"",Target,3,#034e7b,2015-06-05,61.265387810535
 "",Target,3,#034e7b,2015-06-06,61.7074999027305
-"",Target,3,#034e7b,2015-06-07,62.1496119949258
-"",Target,3,#034e7b,2015-06-08,62.5917240871212
-"",Target,3,#034e7b,2015-06-09,63.0338361793166
+"",Target,3,#034e7b,2015-06-07,62.1496119949259
+"",Target,3,#034e7b,2015-06-08,62.5917240871213
+"",Target,3,#034e7b,2015-06-09,63.0338361793167
 "",Target,3,#034e7b,2015-06-10,63.475948271512
-"",Target,3,#034e7b,2015-06-11,63.9180603637074
+"",Target,3,#034e7b,2015-06-11,63.9180603637073
 "",Target,3,#034e7b,2015-06-12,64.3601724559027
-"",Target,3,#034e7b,2015-06-13,64.8022845480981
-"",Target,3,#034e7b,2015-06-14,65.2443966402935
+"",Target,3,#034e7b,2015-06-13,64.8022845480982
+"",Target,3,#034e7b,2015-06-14,65.2443966402936
 "",Target,3,#034e7b,2015-06-15,65.6865087324889
 "",Target,3,#034e7b,2015-06-16,66.1286208246843
-"",Target,3,#034e7b,2015-06-17,66.5707329168796
+"",Target,3,#034e7b,2015-06-17,66.5707329168797
 "",Target,3,#034e7b,2015-06-18,67.012845009075
-"",Target,3,#034e7b,2015-06-19,67.4549571012704
+"",Target,3,#034e7b,2015-06-19,67.4549571012703
 "",Target,3,#034e7b,2015-06-20,67.8970691934658
 "",Target,3,#034e7b,2015-06-21,68.3391812856612
-"",Target,3,#034e7b,2015-06-22,68.7812933778565
-"",Target,3,#034e7b,2015-06-23,69.2234054700519
+"",Target,3,#034e7b,2015-06-22,68.7812933778566
+"",Target,3,#034e7b,2015-06-23,69.223405470052
 "",Target,3,#034e7b,2015-06-24,69.6655175622473
-"",Target,3,#034e7b,2015-06-25,70.1076296544427
-"",Target,3,#034e7b,2015-06-26,70.5497417466381
-"",Target,3,#034e7b,2015-06-27,70.9918538388334
+"",Target,3,#034e7b,2015-06-25,70.1076296544426
+"",Target,3,#034e7b,2015-06-26,70.549741746638
+"",Target,3,#034e7b,2015-06-27,70.9918538388335
 "",Target,3,#034e7b,2015-06-28,71.4339659310288
 "",Target,3,#034e7b,2015-06-29,71.8760780232242
 "",Target,3,#034e7b,2015-06-30,72.3181901154196
-"",Target,3,#034e7b,2015-07-01,72.760302207615
+"",Target,3,#034e7b,2015-07-01,72.7603022076151
 "",Target,3,#034e7b,2015-07-02,73.2024142998103
-"",Target,3,#034e7b,2015-07-03,73.6445263920057
+"",Target,3,#034e7b,2015-07-03,73.6445263920056
 "",Target,3,#034e7b,2015-07-04,74.0866384842011
 "",Target,3,#034e7b,2015-07-05,74.5287505763965
-"",Target,3,#034e7b,2015-07-06,74.9708626685918
+"",Target,3,#034e7b,2015-07-06,74.9708626685919
 "",Target,3,#034e7b,2015-07-07,75.4129747607872
-"",Target,3,#034e7b,2015-07-08,75.8550868529826
-"",Target,3,#034e7b,2015-07-09,76.297198945178
-"",Target,3,#034e7b,2015-07-10,76.7393110373734
-"",Target,3,#034e7b,2015-07-11,77.1814231295688
+"",Target,3,#034e7b,2015-07-08,75.8550868529827
+"",Target,3,#034e7b,2015-07-09,76.2971989451779
+"",Target,3,#034e7b,2015-07-10,76.7393110373733
+"",Target,3,#034e7b,2015-07-11,77.1814231295687
 "",Target,3,#034e7b,2015-07-12,77.6235352217641
 "",Target,3,#034e7b,2015-07-13,78.0656473139595
 "",Target,3,#034e7b,2015-07-14,78.5077594061549
-"",Target,3,#034e7b,2015-07-15,78.9498714983503
-"",Target,3,#034e7b,2015-07-16,79.3919835905456
-"",Target,3,#034e7b,2015-07-17,79.834095682741
-"",Target,3,#034e7b,2015-07-18,80.2762077749364
+"",Target,3,#034e7b,2015-07-15,78.9498714983504
+"",Target,3,#034e7b,2015-07-16,79.3919835905457
+"",Target,3,#034e7b,2015-07-17,79.8340956827409
+"",Target,3,#034e7b,2015-07-18,80.2762077749363
 "",Target,3,#034e7b,2015-07-19,80.7183198671318
 "",Target,3,#034e7b,2015-07-20,81.1604319593272
 "",Target,3,#034e7b,2015-07-21,81.6025440515225
-"",Target,3,#034e7b,2015-07-22,82.0446561437179
+"",Target,3,#034e7b,2015-07-22,82.044656143718
 "",Target,3,#034e7b,2015-07-23,82.4867682359133
 "",Target,3,#034e7b,2015-07-24,82.9288803281087
-"",Target,3,#034e7b,2015-07-25,83.3709924203041
+"",Target,3,#034e7b,2015-07-25,83.370992420304
 "",Target,3,#034e7b,2015-07-26,83.8131045124994
 "",Target,3,#034e7b,2015-07-27,84.2552166046948
 "",Target,3,#034e7b,2015-07-28,84.6973286968902
-"",Target,3,#034e7b,2015-07-29,85.1394407890856
-"",Target,3,#034e7b,2015-07-30,85.581552881281
+"",Target,3,#034e7b,2015-07-29,85.1394407890857
+"",Target,3,#034e7b,2015-07-30,85.5815528812809
 "",Target,3,#034e7b,2015-07-31,86.0236649734763
 "",Target,3,#034e7b,2015-08-01,86.4657770656717
 "",Target,3,#034e7b,2015-08-02,86.9078891578671
@@ -4252,7 +4272,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-08-05,88.2342254344532
 "",Target,3,#034e7b,2015-08-06,88.6763375266486
 "",Target,3,#034e7b,2015-08-07,89.118449618844
-"",Target,3,#034e7b,2015-08-08,89.5605617110394
+"",Target,3,#034e7b,2015-08-08,89.5605617110393
 "",Target,3,#034e7b,2015-08-09,90.0026738032348
 "",Target,3,#034e7b,2015-08-10,90.4447858954301
 "",Target,3,#034e7b,2015-08-11,90.8868979876255
@@ -4260,23 +4280,23 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-08-13,91.7711221720162
 "",Target,3,#034e7b,2015-08-14,92.2132342642116
 "",Target,3,#034e7b,2015-08-15,92.655346356407
-"",Target,3,#034e7b,2015-08-16,93.0974584486024
+"",Target,3,#034e7b,2015-08-16,93.0974584486025
 "",Target,3,#034e7b,2015-08-17,93.5395705407978
-"",Target,3,#034e7b,2015-08-18,93.9816826329932
-"",Target,3,#034e7b,2015-08-19,94.4237947251886
+"",Target,3,#034e7b,2015-08-18,93.9816826329931
+"",Target,3,#034e7b,2015-08-19,94.4237947251885
 "",Target,3,#034e7b,2015-08-20,94.8659068173839
 "",Target,3,#034e7b,2015-08-21,95.3080189095793
-"",Target,3,#034e7b,2015-08-22,95.7501310017747
-"",Target,3,#034e7b,2015-08-23,96.1922430939701
+"",Target,3,#034e7b,2015-08-22,95.7501310017746
+"",Target,3,#034e7b,2015-08-23,96.19224309397
 "",Target,3,#034e7b,2015-08-24,96.6343551861655
 "",Target,3,#034e7b,2015-08-25,97.0764672783608
 "",Target,3,#034e7b,2015-08-26,97.5185793705562
-"",Target,3,#034e7b,2015-08-27,97.9606914627516
-"",Target,3,#034e7b,2015-08-28,98.402803554947
+"",Target,3,#034e7b,2015-08-27,97.9606914627515
+"",Target,3,#034e7b,2015-08-28,98.4028035549469
 "",Target,3,#034e7b,2015-08-29,98.8449156471423
 "",Target,3,#034e7b,2015-08-30,99.2870277393377
 "",Target,3,#034e7b,2015-08-31,99.7291398315331
-"",Target,3,#034e7b,2015-09-01,100.171251923728
+"",Target,3,#034e7b,2015-09-01,100.171251923729
 "",Target,3,#034e7b,2015-09-02,100.613364015924
 "",Target,3,#034e7b,2015-09-03,101.055476108119
 "",Target,3,#034e7b,2015-09-04,101.497588200315
@@ -4292,12 +4312,12 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-09-14,105.918709122268
 "",Target,3,#034e7b,2015-09-15,106.360821214464
 "",Target,3,#034e7b,2015-09-16,106.802933306659
-"",Target,3,#034e7b,2015-09-17,107.245045398855
+"",Target,3,#034e7b,2015-09-17,107.245045398854
 "",Target,3,#034e7b,2015-09-18,107.68715749105
 "",Target,3,#034e7b,2015-09-19,108.129269583245
 "",Target,3,#034e7b,2015-09-20,108.571381675441
 "",Target,3,#034e7b,2015-09-21,109.013493767636
-"",Target,3,#034e7b,2015-09-22,109.455605859831
+"",Target,3,#034e7b,2015-09-22,109.455605859832
 "",Target,3,#034e7b,2015-09-23,109.897717952027
 "",Target,3,#034e7b,2015-09-24,110.339830044222
 "",Target,3,#034e7b,2015-09-25,110.781942136418
@@ -4305,7 +4325,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-09-27,111.666166320808
 "",Target,3,#034e7b,2015-09-28,112.108278413004
 "",Target,3,#034e7b,2015-09-29,112.550390505199
-"",Target,3,#034e7b,2015-09-30,112.992502597394
+"",Target,3,#034e7b,2015-09-30,112.992502597395
 "",Target,3,#034e7b,2015-10-01,113.43461468959
 "",Target,3,#034e7b,2015-10-02,113.876726781785
 "",Target,3,#034e7b,2015-10-03,114.318838873981
@@ -4313,12 +4333,12 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-10-05,115.203063058371
 "",Target,3,#034e7b,2015-10-06,115.645175150567
 "",Target,3,#034e7b,2015-10-07,116.087287242762
-"",Target,3,#034e7b,2015-10-08,116.529399334958
+"",Target,3,#034e7b,2015-10-08,116.529399334957
 "",Target,3,#034e7b,2015-10-09,116.971511427153
 "",Target,3,#034e7b,2015-10-10,117.413623519348
 "",Target,3,#034e7b,2015-10-11,117.855735611544
 "",Target,3,#034e7b,2015-10-12,118.297847703739
-"",Target,3,#034e7b,2015-10-13,118.739959795934
+"",Target,3,#034e7b,2015-10-13,118.739959795935
 "",Target,3,#034e7b,2015-10-14,119.18207188813
 "",Target,3,#034e7b,2015-10-15,119.624183980325
 "",Target,3,#034e7b,2015-10-16,120.066296072521
@@ -4326,7 +4346,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-10-18,120.950520256911
 "",Target,3,#034e7b,2015-10-19,121.392632349107
 "",Target,3,#034e7b,2015-10-20,121.834744441302
-"",Target,3,#034e7b,2015-10-21,122.276856533497
+"",Target,3,#034e7b,2015-10-21,122.276856533498
 "",Target,3,#034e7b,2015-10-22,122.718968625693
 "",Target,3,#034e7b,2015-10-23,123.161080717888
 "",Target,3,#034e7b,2015-10-24,123.603192810084
@@ -4334,12 +4354,12 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-10-26,124.487416994474
 "",Target,3,#034e7b,2015-10-27,124.92952908667
 "",Target,3,#034e7b,2015-10-28,125.371641178865
-"",Target,3,#034e7b,2015-10-29,125.81375327106
+"",Target,3,#034e7b,2015-10-29,125.813753271061
 "",Target,3,#034e7b,2015-10-30,126.255865363256
 "",Target,3,#034e7b,2015-10-31,126.697977455451
 "",Target,3,#034e7b,2015-11-01,127.140089547647
 "",Target,3,#034e7b,2015-11-02,127.582201639842
-"",Target,3,#034e7b,2015-11-03,128.024313732037
+"",Target,3,#034e7b,2015-11-03,128.024313732038
 "",Target,3,#034e7b,2015-11-04,128.466425824233
 "",Target,3,#034e7b,2015-11-05,128.908537916428
 "",Target,3,#034e7b,2015-11-06,129.350650008624
@@ -4347,7 +4367,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-11-08,130.234874193014
 "",Target,3,#034e7b,2015-11-09,130.67698628521
 "",Target,3,#034e7b,2015-11-10,131.119098377405
-"",Target,3,#034e7b,2015-11-11,131.5612104696
+"",Target,3,#034e7b,2015-11-11,131.561210469601
 "",Target,3,#034e7b,2015-11-12,132.003322561796
 "",Target,3,#034e7b,2015-11-13,132.445434653991
 "",Target,3,#034e7b,2015-11-14,132.887546746187
@@ -4368,7 +4388,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-11-29,139.519228129117
 "",Target,3,#034e7b,2015-11-30,139.961340221313
 "",Target,3,#034e7b,2015-12-01,140.403452313508
-"",Target,3,#034e7b,2015-12-02,140.845564405703
+"",Target,3,#034e7b,2015-12-02,140.845564405704
 "",Target,3,#034e7b,2015-12-03,141.287676497899
 "",Target,3,#034e7b,2015-12-04,141.729788590094
 "",Target,3,#034e7b,2015-12-05,142.17190068229
@@ -4384,7 +4404,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-12-15,146.593021604243
 "",Target,3,#034e7b,2015-12-16,147.035133696439
 "",Target,3,#034e7b,2015-12-17,147.477245788634
-"",Target,3,#034e7b,2015-12-18,147.919357880829
+"",Target,3,#034e7b,2015-12-18,147.91935788083
 "",Target,3,#034e7b,2015-12-19,148.361469973025
 "",Target,3,#034e7b,2015-12-20,148.80358206522
 "",Target,3,#034e7b,2015-12-21,149.245694157416
@@ -4392,7 +4412,7 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2015-12-23,150.129918341806
 "",Target,3,#034e7b,2015-12-24,150.572030434002
 "",Target,3,#034e7b,2015-12-25,151.014142526197
-"",Target,3,#034e7b,2015-12-26,151.456254618392
+"",Target,3,#034e7b,2015-12-26,151.456254618393
 "",Target,3,#034e7b,2015-12-27,151.898366710588
 "",Target,3,#034e7b,2015-12-28,152.340478802783
 "",Target,3,#034e7b,2015-12-29,152.782590894979
@@ -4450,6 +4470,8 @@ Clinical Site 05,Randomized,2,#3690c0,2016-02-24,26
 "",Target,3,#034e7b,2016-02-19,175.772419689138
 "",Target,3,#034e7b,2016-02-20,176.214531781334
 "",Target,3,#034e7b,2016-02-21,176.656643873529
-"",Target,3,#034e7b,2016-02-22,177.098755965724
+"",Target,3,#034e7b,2016-02-22,177.098755965725
 "",Target,3,#034e7b,2016-02-23,177.54086805792
 "",Target,3,#034e7b,2016-02-24,177.982980150115
+"",Target,3,#034e7b,2016-02-25,178.425092242311
+"",Target,3,#034e7b,2016-02-26,178.867204334506

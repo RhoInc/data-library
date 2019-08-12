@@ -1,11 +1,26 @@
 [
     {
+        "relPath": "./data/clinical-trials/data-cleaning/dashboard-accrual-over-time-overall-target.csv",
+        "path": "dashboard-accrual-over-time-overall-target.csv",
+        "name": "dashboard-accrual-over-time-overall-target",
+        "nRows": 4476,
+        "cols": [
+            "filter:Site",
+            "population",
+            "population_order",
+            "population_color",
+            "date",
+            "participant_count"
+        ],
+        "nCols": 6
+    },
+    {
         "relPath": "./data/clinical-trials/data-cleaning/dashboard-accrual-over-time.csv",
         "path": "dashboard-accrual-over-time.csv",
         "name": "dashboard-accrual-over-time",
-        "nRows": 6051,
+        "nRows": 6081,
         "cols": [
-            "site",
+            "filter:Site",
             "population",
             "population_order",
             "population_color",
@@ -18,7 +33,7 @@
         "relPath": "./data/clinical-trials/data-cleaning/dashboard-accrual.csv",
         "path": "dashboard-accrual.csv",
         "name": "dashboard-accrual",
-        "nRows": 263,
+        "nRows": 244,
         "cols": [
             "subjid",
             "population",
@@ -26,15 +41,16 @@
             "population_color",
             "population_superset",
             "date",
-            "site",
-            "site_abbreviation",
-            "site_info",
+            "category",
+            "category_abbreviation",
+            "category_info",
+            "filter:Site",
             "filter:Arm",
             "listing:Age",
             "listing:Sex",
             "listing:Race"
         ],
-        "nCols": 13
+        "nCols": 14
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning/dashboard-forms.csv",
@@ -145,6 +161,7 @@
             "subjectnameoridentifier",
             "subject_status",
             "visit_name",
+            "visit_abbreviation",
             "visit_number",
             "visit_date",
             "visit_day",
@@ -159,6 +176,6 @@
             "overdue2",
             "plot_exclude"
         ],
-        "nCols": 17
+        "nCols": 18
     }
 ]

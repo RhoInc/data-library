@@ -290,7 +290,7 @@
     },
     {
         "relPath": "./data/clinical-trials/renderer-specific",
-        "nDataFiles": 9,
+        "nDataFiles": 10,
         "dataFiles": [
             {
                 "fileName": "adae-queries.csv",
@@ -316,6 +316,11 @@
                 "fileName": "adtimelines.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/adtimelines.csv",
                 "rel_url": "./data/clinical-trials/renderer-specific/adtimelines.csv"
+            },
+            {
+                "fileName": "allQuads.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/renderer-specific/allQuads.csv",
+                "rel_url": "./data/clinical-trials/renderer-specific/allQuads.csv"
             },
             {
                 "fileName": "hy.csv",

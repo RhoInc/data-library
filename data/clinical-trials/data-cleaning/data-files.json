@@ -104,7 +104,9 @@
             "subjfreezeflg",
             "sitename",
             "folderinstancename",
+            "foldername",
             "ecrfpagename",
+            "architectformname",
             "is_partial_entry",
             "answer_query_ct",
             "open_query_ct",
@@ -122,7 +124,7 @@
             "folder_ordinal",
             "form_ordinal"
         ],
-        "nCols": 22
+        "nCols": 24
     },
     {
         "relPath": "./data/clinical-trials/data-cleaning/queries.csv",

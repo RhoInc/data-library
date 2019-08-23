@@ -1,6 +1,6 @@
 {
   "name": "data-library",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "public-use datasets for clinical trial data visualizations",
   "module": "./src/index.js",
   "main": "index.js",
@@ -38,12 +38,12 @@
     "webcodebook": "^1.6.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.3",
-    "@babel/preset-env": "^7.4.3",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "csvtojson": "^2.0.8",
-    "prettier": "^1.16.4",
-    "rollup": "^1.10.0",
-    "rollup-plugin-babel": "^4.3.2",
-    "rollup-plugin-node-resolve": "^4.2.3"
+    "prettier": "^1.18.2",
+    "rollup": "^1.20.1",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-node-resolve": "^4.2.4"
   }
 }

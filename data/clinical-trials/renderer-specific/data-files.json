@@ -157,6 +157,29 @@
         "nCols": 23
     },
     {
+        "relPath": "./data/clinical-trials/renderer-specific/allQuads.csv",
+        "path": "allQuads.csv",
+        "name": "allQuads",
+        "nRows": 22357,
+        "cols": [
+            "field1",
+            "SUBJID",
+            "VISIT",
+            "TESTNAM",
+            "LBTESTCD",
+            "LBDT",
+            "AGE",
+            "SEX",
+            "LBORRES",
+            "LBORRESU",
+            "LBORRESLO",
+            "LBORRESHI",
+            "STUDYDAY",
+            "TRTA"
+        ],
+        "nCols": 14
+    },
+    {
         "relPath": "./data/clinical-trials/renderer-specific/hy.csv",
         "path": "hy.csv",
         "name": "hy",

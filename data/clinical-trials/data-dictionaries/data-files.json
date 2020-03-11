@@ -40,7 +40,7 @@
         "relPath": "./data/clinical-trials/data-dictionaries/labs.csv",
         "path": "labs.csv",
         "name": "labs",
-        "nRows": 16,
+        "nRows": 23,
         "cols": [
             "LBCAT",
             "LBTEST",

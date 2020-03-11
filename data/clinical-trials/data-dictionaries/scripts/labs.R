@@ -1,3 +1,5 @@
+# TODO: pull data from http://idgateway.wustl.edu/Normal%20lab%20values.pdf
+# TODO: prop-case labs and vitals - requires updates to hep-explorer
 library(tidyverse)
 library(XML)
 

@@ -76,7 +76,7 @@
         "relPath": "./data/clinical-trials/adam/adlb.csv",
         "path": "adlb.csv",
         "name": "adlb",
-        "nRows": 10144,
+        "nRows": 13708,
         "cols": [
             "USUBJID",
             "SITE",

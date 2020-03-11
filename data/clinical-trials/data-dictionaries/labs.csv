@@ -8,6 +8,9 @@ Serum,Total Bilirubin,,5.1,20.5,μmol/L
 Serum,Calcium,,2.2,2.6,mmol/L
 Serum,Chloride,,98,106,mmol/L
 Serum,Creatinine,,61.9,115,μmol/L
+Serum,eGFR,,61.9,115,μmol/L
+Serum,Cystatin C,,0.51,0.98,mg/L
+Serum,eGFRcys,,61.9,115,μmol/L
 Serum,IgE,,0.1,0.4,mg/L
 Serum,Magnesium,,0.62,0.99,mmol/L
 Blood,Platelet count,,150,350,x 109/L
@@ -15,3 +18,7 @@ Serum,Potassium,,3.5,5,mmol/L
 Blood,RBC count,,4.2,5.9,x 1012 cells/L
 Serum,Sodium,,136,145,mmol/L
 Blood,WBC count,,4.5,11,x 109 cells/L
+Serum,Blood Urea Nitrogen,,2.9,7.1,mmol/L
+Serum,Bicarbonate,,23,28,mmol/L
+Serum,Phosphorus,,0.97,1.45,mmol/L
+Urine,Albumin/Creatinine,,0,30,mg/g

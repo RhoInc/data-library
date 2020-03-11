@@ -71,7 +71,7 @@
         "relPath": "./data/clinical-trials/sdtm/lb.csv",
         "path": "lb.csv",
         "name": "lb",
-        "nRows": 10144,
+        "nRows": 13708,
         "cols": [
             "USUBJID",
             "VISIT",

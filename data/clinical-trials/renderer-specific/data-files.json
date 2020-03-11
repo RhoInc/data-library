@@ -68,7 +68,7 @@
         "relPath": "./data/clinical-trials/renderer-specific/adbds.csv",
         "path": "adbds.csv",
         "name": "adbds",
-        "nRows": 13336,
+        "nRows": 16893,
         "cols": [
             "USUBJID",
             "SITE",
